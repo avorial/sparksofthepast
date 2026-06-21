@@ -20,6 +20,26 @@
     "keyLinks": []
   },
   {
+    "id": "3:Judith-Dumont-Carla",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Judith-Dumont-Carla",
+    "title": "Judith Dumont (Carla)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "# Judith Dumont (Carla)\n\n*Solomani Racial • Bounty Hunter: Hunter*\n\n**Player:** Carla\n**Age:** 42\n**Species:** Solomani Racial\n**Gender:** Female\n**UPP:** STR 11, DEX 10, END 12, INT 11, EDU 10, SOC 8\n**Hits:** 33\n**Armour:** Cloth (TL10), Protection 8\n**Medical Debt:** Cr35,000\n\n## Profile\n\nJudith Dumont is a Solomani Confederation citizen with six terms across bounty hunting and the Solomani Star Marines. Her record includes contact networks, military service, amnesia, enemies from the field, and a return to hunting work.\n\n## Notable Skills\n\nGun Combat 4, Astrogation 2, Gun Combat (Energy) 2, Electronics 1, Electronics (Computers) 1, Engineer 1, Explosives 1, Gunner 1, Mechanic 1, Medic 1, Melee (Blade) 1, Melee (Unarmed) 1, Pilot 1, Pilot (Spacecraft) 1, Tactics (Naval) 1, Deception 1.\n\n## Connections\n\n- Contact: Corporate Executive Keith Morris\n- Unknown: Amnesia, something happened\n- Contact: Solomani Party/Confederation\n- Criminal: Salim Ramadan\n- Enemy: Enemy Forces\n- Contacts from mustering out x2\n- Unnamed Contact\n\n## Equipment\n\nM-84 Rifle, M-84 Carbine, Cloth (TL10).\n\n:::gm\n## Import Notes\n\nImported from Foundry actor export `fvtt-Actor-judith-dumont-(carla)-WzXsWSu1j5biLh7T.json`.\n:::\n",
+    "playerText": "# Judith Dumont (Carla)\n\n*Solomani Racial • Bounty Hunter: Hunter*\n\n**Player:** Carla\n**Age:** 42\n**Species:** Solomani Racial\n**Gender:** Female\n**UPP:** STR 11, DEX 10, END 12, INT 11, EDU 10, SOC 8\n**Hits:** 33\n**Armour:** Cloth (TL10), Protection 8\n**Medical Debt:** Cr35,000\n\n## Profile\n\nJudith Dumont is a Solomani Confederation citizen with six terms across bounty hunting and the Solomani Star Marines. Her record includes contact networks, military service, amnesia, enemies from the field, and a return to hunting work.\n\n## Notable Skills\n\nGun Combat 4, Astrogation 2, Gun Combat (Energy) 2, Electronics 1, Electronics (Computers) 1, Engineer 1, Explosives 1, Gunner 1, Mechanic 1, Medic 1, Melee (Blade) 1, Melee (Unarmed) 1, Pilot 1, Pilot (Spacecraft) 1, Tactics (Naval) 1, Deception 1.\n\n## Connections\n\n- Contact: Corporate Executive Keith Morris\n- Unknown: Amnesia, something happened\n- Contact: Solomani Party/Confederation\n- Criminal: Salim Ramadan\n- Enemy: Enemy Forces\n- Contacts from mustering out x2\n- Unnamed Contact\n\n## Equipment\n\nM-84 Rifle, M-84 Carbine, Cloth (TL10).\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:Varian-Svazz-Allen",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
