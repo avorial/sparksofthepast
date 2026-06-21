@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "3:Alain-Mercier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Alain-Mercier",
+    "title": "Alain Mercier",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Alain Mercier\n\n![portrait](/wiki/media/REPLACE.jpg)\n*Career • Allegiance*\n\n**UPP:**\n**Career / Rank:**\n**Affiliation:** [[Faction]]\n\n## Profile\n\nBackground, manner, and what they want.\n\n## Connections\n\n- [[NPC]] — relationship.\n\n:::gm\n## GM Truth\n\nHidden loyalties and leverage.\n:::\n",
+    "playerText": "# Alain Mercier\n\n![portrait](/wiki/media/REPLACE.jpg)\n*Career • Allegiance*\n\n**UPP:**\n**Career / Rank:**\n**Affiliation:** [[Faction]]\n\n## Profile\n\nBackground, manner, and what they want.\n\n## Connections\n\n- [[NPC]] — relationship.\n\n\n",
+    "links": [
+      "Faction",
+      "NPC"
+    ],
+    "backlinks": [],
+    "keyLinks": []
+  }
+]
