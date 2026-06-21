@@ -5,9 +5,9 @@ name: Zoy (Damon)
 summary: ""
 tags:
   - character
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via GM review
