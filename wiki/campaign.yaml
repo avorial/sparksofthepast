@@ -1,0 +1,12 @@
+name: "Sparks of the Past"
+gameType: "Traveller"
+categories:
+  - Characters
+  - NPCs
+  - Locations
+  - Events
+  - Games
+visibility:
+  default: gm
+approvals:
+  aiDefault: unapproved
