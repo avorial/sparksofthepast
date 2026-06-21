@@ -8,11 +8,11 @@ tags:
   - robot
 visibility: gm
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Saichi
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # 0-31 Saichi Maru (Annette)
