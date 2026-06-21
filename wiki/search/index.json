@@ -20,6 +20,66 @@
     "keyLinks": []
   },
   {
+    "id": "3:Cass-Pien-Kolb",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Cass-Pien-Kolb",
+    "title": "Cass Pien (Kolb)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "# Cass Pien (Kolb)\n\n*Solomani Racial • Confederation Navy: Flight*\n\n**Player:** Kolb\n**Age:** 30\n**Species:** Solomani Racial\n**Gender:** Male\n**UPP:** STR 8, DEX 9, END 10, INT 8, EDU 12, SOC 11\n**Hits:** 27\n**Armour:** Ceramic Carapace, Protection 10; Protection 16 vs lasers, flame throwers, and fire-based attacks\n**Cash:** Cr27,250\n**Ship Shares:** 3\n\n## Profile\n\nCass Pien is a Solomani Confederation citizen whose career spans Prisoner and Confederation Navy service. His background includes Belter preparation, a prison term as a trusted inmate, and naval flight service linked to covert support of Solomani guerrillas and notable space combat.\n\n## Notable Skills\n\nTactics (Naval) 3, Leadership 3, Stealth 2, Profession (Belter) 2, Gun Combat (Slug) 2, Deception 1, Electronics (Comms) 1, Gun Combat (Energy) 1, Heavy Weapons (Vehicle) 1, Jack-of-All-Trades 1, Medic 1, Recon 1, Streetwise 1, Vacc Suit 1.\n\n## Connections\n\n- Ally: Romantic\n- Unnamed Ally\n- Contact: Solomani Guerrillas\n- Crusading Journalist: Roman Juma\n\n## Equipment\n\nVac Suit (TL10), Ceramic Carapace, Laser Pistol (TL 9), Assault Pistol, Radio Transceiver Distant (TL8), Portable Computer/1 (TL8), Interface, Security/0, Agent/0.\n\n:::gm\n## Import Notes\n\nImported from Foundry actor export `fvtt-Actor-cass-pien-(kolb)-SQ0obiSbRlYADtVD.json`.\n:::\n",
+    "playerText": "# Cass Pien (Kolb)\n\n*Solomani Racial • Confederation Navy: Flight*\n\n**Player:** Kolb\n**Age:** 30\n**Species:** Solomani Racial\n**Gender:** Male\n**UPP:** STR 8, DEX 9, END 10, INT 8, EDU 12, SOC 11\n**Hits:** 27\n**Armour:** Ceramic Carapace, Protection 10; Protection 16 vs lasers, flame throwers, and fire-based attacks\n**Cash:** Cr27,250\n**Ship Shares:** 3\n\n## Profile\n\nCass Pien is a Solomani Confederation citizen whose career spans Prisoner and Confederation Navy service. His background includes Belter preparation, a prison term as a trusted inmate, and naval flight service linked to covert support of Solomani guerrillas and notable space combat.\n\n## Notable Skills\n\nTactics (Naval) 3, Leadership 3, Stealth 2, Profession (Belter) 2, Gun Combat (Slug) 2, Deception 1, Electronics (Comms) 1, Gun Combat (Energy) 1, Heavy Weapons (Vehicle) 1, Jack-of-All-Trades 1, Medic 1, Recon 1, Streetwise 1, Vacc Suit 1.\n\n## Connections\n\n- Ally: Romantic\n- Unnamed Ally\n- Contact: Solomani Guerrillas\n- Crusading Journalist: Roman Juma\n\n## Equipment\n\nVac Suit (TL10), Ceramic Carapace, Laser Pistol (TL 9), Assault Pistol, Radio Transceiver Distant (TL8), Portable Computer/1 (TL8), Interface, Security/0, Agent/0.\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "3:Ciernan-Seanislav-Peter",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Ciernan-Seanislav-Peter",
+    "title": "Ciernan Seanislav (Peter)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "# Ciernan Seanislav (Peter)\n\n*Solomani Racial • Merchant: Merchant Marine*\n\n**Player:** Peter\n**Age:** 30\n**Species:** Solomani Racial\n**Gender:** Unknown\n**UPP:** STR 11, DEX 8, END 12, INT 6, EDU 8, SOC 8\n**Hits:** 31\n**Armour:** Cloth Jacket, Protection 5\n**Cash:** Cr4,000\n\n## Profile\n\nCiernan Seanislav is a Solomani Confederation citizen whose career spans the Solomani Star Marines and Merchant service. Their record includes battledress marine training, commendations, specialist weapons work, and a merchant term that ended in pirate trouble.\n\n## Notable Skills\n\nGun Combat (Slug) 3, Heavy Weapons (Manportable) 2, Vacc Suit 2, Athletics (Endurance) 1, Deception 1, Drive 1, Electronics (Comms) 1, Gunner (Turret) 1, Leadership 1, Medic 1, Melee (Blade) 1, Persuade 1, Pilot (Spacecraft) 1, Science (Cybernetics) 1, Stealth 1, Steward 1.\n\n## Connections\n\n- Rival: Betrayer\n- Enemy: Pressik Voss, space pirate and reptilian rascal who seeks destruction for destruction's sake\n- Enemy: Pirates/Corsairs\n\n## Equipment\n\nNavy Combat Shotgun, Navy Combat Shotgun Stun Round, Ceramic Carapace, Cloth Jacket, Vacc Suit Basic, Machinegun.\n\n:::gm\n## Import Notes\n\nImported from Foundry actor export `fvtt-Actor-ciernan-seanislav-(peter)-bU6Hk2gIFL4x8X1E.json`.\n:::\n",
+    "playerText": "# Ciernan Seanislav (Peter)\n\n*Solomani Racial • Merchant: Merchant Marine*\n\n**Player:** Peter\n**Age:** 30\n**Species:** Solomani Racial\n**Gender:** Unknown\n**UPP:** STR 11, DEX 8, END 12, INT 6, EDU 8, SOC 8\n**Hits:** 31\n**Armour:** Cloth Jacket, Protection 5\n**Cash:** Cr4,000\n\n## Profile\n\nCiernan Seanislav is a Solomani Confederation citizen whose career spans the Solomani Star Marines and Merchant service. Their record includes battledress marine training, commendations, specialist weapons work, and a merchant term that ended in pirate trouble.\n\n## Notable Skills\n\nGun Combat (Slug) 3, Heavy Weapons (Manportable) 2, Vacc Suit 2, Athletics (Endurance) 1, Deception 1, Drive 1, Electronics (Comms) 1, Gunner (Turret) 1, Leadership 1, Medic 1, Melee (Blade) 1, Persuade 1, Pilot (Spacecraft) 1, Science (Cybernetics) 1, Stealth 1, Steward 1.\n\n## Connections\n\n- Rival: Betrayer\n- Enemy: Pressik Voss, space pirate and reptilian rascal who seeks destruction for destruction's sake\n- Enemy: Pirates/Corsairs\n\n## Equipment\n\nNavy Combat Shotgun, Navy Combat Shotgun Stun Round, Ceramic Carapace, Cloth Jacket, Vacc Suit Basic, Machinegun.\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "3:Dan-Araujo-Josh",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Dan-Araujo-Josh",
+    "title": "Dan Araujo (Josh)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "# Dan Araujo (Josh)\n\n*Solomani Racial • Confederation Navy: Technical*\n\n**Player:** Josh\n**Age:** 34\n**Species:** Solomani Racial\n**Gender:** Male\n**UPP:** STR 7, DEX 12, END 8, INT 14, EDU 12, SOC 12\n**Hits:** 25\n**Armour:** Cloth (TL10), Protection 8\n**Cash:** Cr250\n**Ship Shares:** 6\n\n## Profile\n\nDan Araujo is a sharp-minded, well-connected Solomani Confederation citizen who spent four terms in the Confederation Navy technical branch, leaving as a Petty Officer 1st Class. His career emphasizes engineering, investigation, and shipboard technical competence.\n\n## Notable Skills\n\nEngineer (J-drive) 3, Mechanic 2, Investigate 2, Vacc Suit 2, Astrogation 1, Diplomat 1, Electronics (Remote Ops) 1, Engineer (M-drive) 1, Gunner (Screen) 1, Language (Trokh) 1, Leadership 1, Medic 1, Pilot (Spacecraft) 1, Recon 1, Tactics (Naval) 1.\n\n## Connections\n\n- Rival: Racial Incident\n\n## Equipment & Benefits\n\nTerran Adventurers Society membership, Navy Combat Shotgun, Navy Combat Shotgun Stun Round, Assault Pistol, Cloth (TL10), Portable Computer/4 (TL13), 6 ship shares.\n\n:::gm\n## Import Notes\n\nImported from Foundry actor export `fvtt-Actor-dan-araujo-(josh)-jTiP2IyMiLd8Tpv4.json`.\n:::\n",
+    "playerText": "# Dan Araujo (Josh)\n\n*Solomani Racial • Confederation Navy: Technical*\n\n**Player:** Josh\n**Age:** 34\n**Species:** Solomani Racial\n**Gender:** Male\n**UPP:** STR 7, DEX 12, END 8, INT 14, EDU 12, SOC 12\n**Hits:** 25\n**Armour:** Cloth (TL10), Protection 8\n**Cash:** Cr250\n**Ship Shares:** 6\n\n## Profile\n\nDan Araujo is a sharp-minded, well-connected Solomani Confederation citizen who spent four terms in the Confederation Navy technical branch, leaving as a Petty Officer 1st Class. His career emphasizes engineering, investigation, and shipboard technical competence.\n\n## Notable Skills\n\nEngineer (J-drive) 3, Mechanic 2, Investigate 2, Vacc Suit 2, Astrogation 1, Diplomat 1, Electronics (Remote Ops) 1, Engineer (M-drive) 1, Gunner (Screen) 1, Language (Trokh) 1, Leadership 1, Medic 1, Pilot (Spacecraft) 1, Recon 1, Tactics (Naval) 1.\n\n## Connections\n\n- Rival: Racial Incident\n\n## Equipment & Benefits\n\nTerran Adventurers Society membership, Navy Combat Shotgun, Navy Combat Shotgun Stun Round, Assault Pistol, Cloth (TL10), Portable Computer/4 (TL13), 6 ship shares.\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:Emma-Colbert-Laura",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
