@@ -16,110 +16,66 @@ allegiance: ""
 
 # NPC
 
-<article class="wiki-article">
-  <header class="wiki-article-header">
-    <p class="wiki-kicker">NPC dossier</p>
-    <h1>NPC</h1>
-    <p class="wiki-subtitle">Role or Profession</p>
-    <p class="wiki-meta">
-      <span>Designation: Replace</span>
-      <span>Type: NPC</span>
-      <span>TL: Replace</span>
-      <span>Status: Active</span>
-      <span>Owner: GM</span>
-    </p>
-  </header>
+*Role or Profession*
 
-  <div class="wiki-layout">
-    <main class="wiki-main">
-      <section class="wiki-section">
-        <h2>Overview</h2>
-        <p>Background, manner, reputation, and what this person wants.</p>
-      </section>
+**Designation:** Replace | **Type:** NPC | **TL:** Replace | **Status:** Active | **Owner:** GM
 
-      <section class="wiki-section">
-        <h2>Specifications</h2>
-        <div class="wiki-table-grid">
-          <table class="wiki-stat-table">
-            <caption>Characteristics</caption>
-            <thead><tr><th>Attribute</th><th>Value</th></tr></thead>
-            <tbody>
-              <tr><td data-label="Attribute">STR</td><td data-label="Value">-</td></tr>
-              <tr><td data-label="Attribute">DEX</td><td data-label="Value">-</td></tr>
-              <tr><td data-label="Attribute">END</td><td data-label="Value">-</td></tr>
-              <tr><td data-label="Attribute">INT</td><td data-label="Value">-</td></tr>
-              <tr><td data-label="Attribute">EDU</td><td data-label="Value">-</td></tr>
-              <tr><td data-label="Attribute">SOC</td><td data-label="Value">-</td></tr>
-            </tbody>
-          </table>
+![NPC portrait](/wiki/media/REPLACE.jpg)
 
-          <table class="wiki-stat-table">
-            <caption>Profile</caption>
-            <thead><tr><th>Field</th><th>Value</th></tr></thead>
-            <tbody>
-              <tr><td data-label="Field">Species</td><td data-label="Value">Replace</td></tr>
-              <tr><td data-label="Field">Career / Rank</td><td data-label="Value">Replace</td></tr>
-              <tr><td data-label="Field">Affiliation</td><td data-label="Value">[[Faction]]</td></tr>
-              <tr><td data-label="Field">Status</td><td data-label="Value">Active</td></tr>
-            </tbody>
-          </table>
-        </div>
-      </section>
+| Field | Value |
+| ----- | ----- |
+| Designation | Replace |
+| Nickname | Replace |
+| Type | NPC |
+| Tech Level | Replace |
+| Brain Type | Organic |
+| Speed | Replace |
+| Hits | Replace |
+| Protection | Replace |
+| Cost | Not applicable |
 
-      <section class="wiki-section">
-        <h2>Equipment</h2>
-        <p>Weapons, armor, tools, documents, vehicles, and notable possessions.</p>
-      </section>
+## Overview
 
-      <section class="wiki-section">
-        <h2>Skills</h2>
-        <table class="wiki-stat-table">
-          <thead><tr><th>Skill</th><th>Specialty</th><th>Level</th></tr></thead>
-          <tbody>
-            <tr><td data-label="Skill">Replace</td><td data-label="Specialty">Replace</td><td data-label="Level">0</td></tr>
-          </tbody>
-        </table>
-      </section>
+Background, manner, reputation, and what this person wants.
 
-      <section class="wiki-section">
-        <h2>Operational History</h2>
-        <p>Campaign events involving this NPC.</p>
-      </section>
+## Specifications
 
-      <section class="wiki-section">
-        <h2>Connections</h2>
-        <ul>
-          <li>[[NPC]] - relationship.</li>
-        </ul>
-      </section>
-    </main>
+| Attribute | Value |
+| --------- | ----- |
+| STR | - |
+| DEX | - |
+| END | - |
+| INT | - |
+| EDU | - |
+| SOC | - |
 
-    <aside class="wiki-infobox">
-      <figure>
-        <img src="/wiki/media/REPLACE.jpg" alt="NPC portrait">
-        <figcaption>NPC</figcaption>
-      </figure>
-      <table>
-        <tbody>
-          <tr><th>Designation</th><td>Replace</td></tr>
-          <tr><th>Nickname</th><td>Replace</td></tr>
-          <tr><th>Type</th><td>NPC</td></tr>
-          <tr><th>Tech Level</th><td>Replace</td></tr>
-          <tr><th>Brain Type</th><td>Organic</td></tr>
-          <tr><th>Speed</th><td>Replace</td></tr>
-          <tr><th>Hits</th><td>Replace</td></tr>
-          <tr><th>Protection</th><td>Replace</td></tr>
-          <tr><th>Cost</th><td>Not applicable</td></tr>
-        </tbody>
-      </table>
-    </aside>
-  </div>
-</article>
+| Field | Value |
+| ----- | ----- |
+| Species | Replace |
+| Career / Rank | Replace |
+| Affiliation | [[Faction]] |
+| Status | Active |
+
+## Equipment
+
+Weapons, armor, tools, documents, vehicles, and notable possessions.
+
+## Skills
+
+| Skill | Specialty | Level |
+| ----- | --------- | ----- |
+| Replace | Replace | 0 |
+
+## Operational History
+
+Campaign events involving this NPC.
+
+## Connections
+
+- [[NPC]] - relationship.
 
 :::gm
-<details class="wiki-details">
-<summary>GM Notes</summary>
+## GM Notes
 
 Hidden loyalties, leverage, secrets, or future reveals.
-</details>
 :::
