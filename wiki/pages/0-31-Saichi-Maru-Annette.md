@@ -6,7 +6,7 @@ summary: Security walker robot configured for gunner and shipboard defense dutie
 tags:
   - character
   - robot
-visibility: gm
+visibility: players
 approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
