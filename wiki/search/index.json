@@ -18,5 +18,25 @@
     "links": [],
     "backlinks": [],
     "keyLinks": []
+  },
+  {
+    "id": "3:cxv",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "cxv",
+    "title": "cxv",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "# cxv\n\n*Vilani traveller*\n\n**Player:** Unassigned\n**Age:** 18\n**Species:** Vilani\n**UPP:** STR 7, DEX 7, END 7, INT 7, EDU 7, SOC 7\n**Hits:** 21\n**Armour:** None\n\n## Profile\n\nBlank Foundry actor export with default Traveller characteristics. This page was created as a placeholder from the imported actor file.\n\n## Skills\n\nNo trained skills were recorded in the export.\n\n## Equipment & Notes\n\nNo items were recorded in the export.\n\n:::gm\n## Import Notes\n\nImported from Foundry actor export `fvtt-Actor-cxv-AHtCFnad8vyUgVzS.json`.\n:::\n",
+    "playerText": "# cxv\n\n*Vilani traveller*\n\n**Player:** Unassigned\n**Age:** 18\n**Species:** Vilani\n**UPP:** STR 7, DEX 7, END 7, INT 7, EDU 7, SOC 7\n**Hits:** 21\n**Armour:** None\n\n## Profile\n\nBlank Foundry actor export with default Traveller characteristics. This page was created as a placeholder from the imported actor file.\n\n## Skills\n\nNo trained skills were recorded in the export.\n\n## Equipment & Notes\n\nNo items were recorded in the export.\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
   }
 ]
