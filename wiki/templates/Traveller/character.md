@@ -1,32 +1,31 @@
 ---
-category: npc
-type: npc
-name: NPC
+category: character
+type: character
+name: Character
 summary: ""
 tags:
-  - npc
+  - character
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: CampaignRepo
-allegiance: ""
 ---
 
-# NPC
+# Character
 
 <article class="wiki-article">
   <header class="wiki-article-header">
-    <p class="wiki-kicker">NPC dossier</p>
-    <h1>NPC</h1>
+    <p class="wiki-kicker">Character dossier</p>
+    <h1>Character</h1>
     <p class="wiki-subtitle">Role or Profession</p>
     <p class="wiki-meta">
       <span>Designation: Replace</span>
-      <span>Type: NPC</span>
+      <span>Type: Character</span>
       <span>TL: Replace</span>
       <span>Status: Active</span>
-      <span>Owner: GM</span>
+      <span>Owner: Player</span>
     </p>
   </header>
 
@@ -34,7 +33,7 @@ allegiance: ""
     <main class="wiki-main">
       <section class="wiki-section">
         <h2>Overview</h2>
-        <p>Background, manner, reputation, and what this person wants.</p>
+        <p>Narrative description, public identity, career background, and current role in the campaign.</p>
       </section>
 
       <section class="wiki-section">
@@ -54,13 +53,15 @@ allegiance: ""
           </table>
 
           <table class="wiki-stat-table">
-            <caption>Profile</caption>
-            <thead><tr><th>Field</th><th>Value</th></tr></thead>
+            <caption>Protection</caption>
+            <thead><tr><th>Stat</th><th>Value</th></tr></thead>
             <tbody>
-              <tr><td data-label="Field">Species</td><td data-label="Value">Replace</td></tr>
-              <tr><td data-label="Field">Career / Rank</td><td data-label="Value">Replace</td></tr>
-              <tr><td data-label="Field">Affiliation</td><td data-label="Value">[[Faction]]</td></tr>
-              <tr><td data-label="Field">Status</td><td data-label="Value">Active</td></tr>
+              <tr><td data-label="Stat">Hits</td><td data-label="Value">-</td></tr>
+              <tr><td data-label="Stat">Protection</td><td data-label="Value">-</td></tr>
+              <tr><td data-label="Stat">Laser Protection</td><td data-label="Value">-</td></tr>
+              <tr><td data-label="Stat">Speed</td><td data-label="Value">-</td></tr>
+              <tr><td data-label="Stat">Armour</td><td data-label="Value">-</td></tr>
+              <tr><td data-label="Stat">Traits</td><td data-label="Value">-</td></tr>
             </tbody>
           </table>
         </div>
@@ -68,7 +69,7 @@ allegiance: ""
 
       <section class="wiki-section">
         <h2>Equipment</h2>
-        <p>Weapons, armor, tools, documents, vehicles, and notable possessions.</p>
+        <p>Weapons, armor, tools, vehicles, cash, and notable possessions.</p>
       </section>
 
       <section class="wiki-section">
@@ -83,7 +84,7 @@ allegiance: ""
 
       <section class="wiki-section">
         <h2>Operational History</h2>
-        <p>Campaign events involving this NPC.</p>
+        <p>Campaign events involving this character.</p>
       </section>
 
       <section class="wiki-section">
@@ -96,14 +97,14 @@ allegiance: ""
 
     <aside class="wiki-infobox">
       <figure>
-        <img src="/wiki/media/REPLACE.jpg" alt="NPC portrait">
-        <figcaption>NPC</figcaption>
+        <img src="/wiki/media/REPLACE.jpg" alt="Character portrait">
+        <figcaption>Character</figcaption>
       </figure>
       <table>
         <tbody>
           <tr><th>Designation</th><td>Replace</td></tr>
           <tr><th>Nickname</th><td>Replace</td></tr>
-          <tr><th>Type</th><td>NPC</td></tr>
+          <tr><th>Type</th><td>Character</td></tr>
           <tr><th>Tech Level</th><td>Replace</td></tr>
           <tr><th>Brain Type</th><td>Organic</td></tr>
           <tr><th>Speed</th><td>Replace</td></tr>
@@ -120,6 +121,6 @@ allegiance: ""
 <details class="wiki-details">
 <summary>GM Notes</summary>
 
-Hidden loyalties, leverage, secrets, or future reveals.
+Private history, secrets, unresolved import notes, or campaign-only information.
 </details>
 :::
