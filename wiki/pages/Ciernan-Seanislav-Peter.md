@@ -6,11 +6,11 @@ summary: ""
 tags:
   - character
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via GM review
 ---
 
 # Ciernan Seanislav (Peter)
