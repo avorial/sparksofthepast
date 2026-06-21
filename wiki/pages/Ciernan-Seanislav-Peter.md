@@ -10,7 +10,7 @@ approvalStatus: unapproved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas
 ---
 
 # Ciernan Seanislav (Peter)
