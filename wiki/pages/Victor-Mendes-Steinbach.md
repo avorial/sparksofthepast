@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # Victor Mendes (Steinbach)
 
+![Victor Mendes portrait](/wiki/media/Victor-Mendes.png)
+
 *Solomani Mixed • Confederation Navy: Line Crew*
 
 **Player:** Steinbach

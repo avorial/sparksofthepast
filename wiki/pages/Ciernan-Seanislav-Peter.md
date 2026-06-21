@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # Ciernan Seanislav (Peter)
 
+![Ciernan Seanislav portrait](/wiki/media/Ciernan-Seanislav.png)
+
 *Solomani Racial • Merchant: Merchant Marine*
 
 **Player:** Peter
