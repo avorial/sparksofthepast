@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # Dan Araujo (Josh)
 
+![Dan Araujo portrait](/wiki/media/Dan-Araujo.png)
+
 *Solomani Racial • Confederation Navy: Technical*
 
 **Player:** Josh

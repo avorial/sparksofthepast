@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # 0-31 Saichi Maru (Annette)
 
+![0-31 Saichi Maru portrait](/wiki/media/Saichi-Maru-HEAD.png)
+
 *Robot • Gunner/Security*
 
 **Player:** Annette

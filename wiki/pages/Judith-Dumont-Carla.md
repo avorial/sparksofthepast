@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # Judith Dumont (Carla)
 
+![Judith Dumont portrait](/wiki/media/Judith-Dumont.png)
+
 *Solomani Racial • Bounty Hunter: Hunter*
 
 **Player:** Carla

@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # Cass Pien (Kolb)
 
+![Cass Pien portrait](/wiki/media/Cass-Pien.png)
+
 *Solomani Racial • Confederation Navy: Flight*
 
 **Player:** Kolb

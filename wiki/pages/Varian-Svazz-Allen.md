@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # Varian Svazz (Allen)
 
+![Varian Svazz portrait](/wiki/media/Varian-Svaz.png)
+
 *Solomani Racial • Confederation Navy: Flight*
 
 **Player:** Allen

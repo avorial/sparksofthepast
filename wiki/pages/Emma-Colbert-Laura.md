@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # Emma Colbert (Laura)
 
+![Emma Colbert portrait](/wiki/media/Emma-Colbert.png)
+
 *Solomani Racial • SolSec: Secret Agent*
 
 **Player:** Laura

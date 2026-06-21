@@ -15,6 +15,8 @@ lastEditedBy: patricthomas via GM review
 
 # Zoy (Damon)
 
+![Zoy portrait](/wiki/media/Zoy.png)
+
 *Uplifted Ape Chimp • Merchant: Free Trader*
 
 **Player:** Damon
