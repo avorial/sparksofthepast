@@ -20,6 +20,26 @@
     "keyLinks": []
   },
   {
+    "id": "3:Zoy-Damon",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Zoy-Damon",
+    "title": "Zoy (Damon)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "# Zoy (Damon)\n\n*Uplifted Ape Chimp • Merchant: Free Trader*\n\n**Player:** Damon\n**Age:** 34\n**Species:** Uplifted Ape Chimp\n**Gender:** Unknown\n**UPP:** STR 6, DEX 8, END 11, INT 11, EDU 10, SOC 4\n**Hits:** 25\n**Armour:** Cloth Trench Coat, Protection 7\n**Cash:** Cr11,100\n**Medical Debt:** Cr30,000\n\n## Profile\n\nZoy is a sharp-minded, physically formidable uplifted chimpanzee and Solomani Confederation citizen. Their career spans Rogue, Drifter, and Merchant work, ending as a Free Trader senior crewman. They chose the Belter background package before career entry and carry the marks of criminal rivalries, captivity, debt, and hard-won survival.\n\n## Notable Skills\n\nAstrogation 2, Recon 3, Stealth 3, Survival 2, Streetwise 2, Profession (Belter) 2, Electronics (Computers) 2, Medic 2, Vacc Suit 2, Broker 1, Deception 1, Gambler 1, Mechanic 1, Pilot (Spacecraft) 1, Gun Combat specialties 1, Melee (Blade) 1.\n\n## Connections\n\n- Contact: underworld connections\n- Contact: underworld connections\n- Contact: Imperial Starport Authority\n- Rival: Local Criminals/Police\n- Enemy: Crime Job\n- Enemies: Kidnapper/Enslaver x3\n\n## Equipment\n\nGauss Close-Combat Weapon, Laser Carbine (TL 11), Cloth Trench Coat, Subdermal Armour (+1), Wafer Jack (TL13, ruggedised), Vac Suit (TL10), First Aid Kit Basic (TL2).\n\n:::gm\n## Import Notes\n\nImported from Foundry actor export `fvtt-Actor-zoy-(damon)-l1siWDoC9cavABxU.json`.\n:::\n",
+    "playerText": "# Zoy (Damon)\n\n*Uplifted Ape Chimp • Merchant: Free Trader*\n\n**Player:** Damon\n**Age:** 34\n**Species:** Uplifted Ape Chimp\n**Gender:** Unknown\n**UPP:** STR 6, DEX 8, END 11, INT 11, EDU 10, SOC 4\n**Hits:** 25\n**Armour:** Cloth Trench Coat, Protection 7\n**Cash:** Cr11,100\n**Medical Debt:** Cr30,000\n\n## Profile\n\nZoy is a sharp-minded, physically formidable uplifted chimpanzee and Solomani Confederation citizen. Their career spans Rogue, Drifter, and Merchant work, ending as a Free Trader senior crewman. They chose the Belter background package before career entry and carry the marks of criminal rivalries, captivity, debt, and hard-won survival.\n\n## Notable Skills\n\nAstrogation 2, Recon 3, Stealth 3, Survival 2, Streetwise 2, Profession (Belter) 2, Electronics (Computers) 2, Medic 2, Vacc Suit 2, Broker 1, Deception 1, Gambler 1, Mechanic 1, Pilot (Spacecraft) 1, Gun Combat specialties 1, Melee (Blade) 1.\n\n## Connections\n\n- Contact: underworld connections\n- Contact: underworld connections\n- Contact: Imperial Starport Authority\n- Rival: Local Criminals/Police\n- Enemy: Crime Job\n- Enemies: Kidnapper/Enslaver x3\n\n## Equipment\n\nGauss Close-Combat Weapon, Laser Carbine (TL 11), Cloth Trench Coat, Subdermal Armour (+1), Wafer Jack (TL13, ruggedised), Vac Suit (TL10), First Aid Kit Basic (TL2).\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:cxv",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
