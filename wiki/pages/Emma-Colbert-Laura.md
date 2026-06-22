@@ -10,12 +10,12 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # Emma Colbert (Laura)
 
-![Emma Colbert portrait](/wiki/media/Emma-Colbert.png)
+![Emma Colbert portrait](/wiki/media/Emma-Colbert.jpg)
 
 *Solomani Racial • SolSec: Secret Agent*
 
