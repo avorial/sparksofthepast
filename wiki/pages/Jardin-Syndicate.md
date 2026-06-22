@@ -2,13 +2,17 @@
 category: organization
 type: organization
 name: Jardin Syndicate
-summary: ""
+summary: The **Jardin Syndicate** is one of the largest and most influential
+  criminal organizations operating within the Jardin Subsector. Originally
+  founded on Jardin itself, the Syndicate has expanded across dozens of worlds,
+  establishing networks that span both Confederation and Imperial territory.
 tags:
   - organization
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - "[[Marcel Delphine]]"
 aliases:
   - Syndicat Jardin
 lastEditedBy: patricthomas
@@ -37,7 +41,7 @@ lastEditedBy: patricthomas
 
 **Status:** Active
 
-**Known Leader:** Marcel Delphine ("The Shepherd")
+**Known Leader:** [[Marcel Delphine]] ("The Shepherd")
 
 **Headquarters:** Unknown
 
