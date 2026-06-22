@@ -562,5 +562,25 @@
     "links": [],
     "backlinks": [],
     "keyLinks": []
+  },
+  {
+    "id": "3:media:wiki/media/marcel-delphine.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/marcel-delphine.jpg",
+    "title": "marcel-delphine.jpg",
+    "category": "media",
+    "summary": "wiki/media/marcel-delphine.jpg",
+    "tags": [],
+    "aliases": [
+      "marcel-delphine.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "marcel-delphine.jpg\nwiki/media/marcel-delphine.jpg\nmarcel-delphine.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
   }
 ]
