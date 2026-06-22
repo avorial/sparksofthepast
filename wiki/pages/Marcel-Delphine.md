@@ -20,7 +20,7 @@ allegiance: ""
 
 **Designation:** Marcel Delphine | **Type:** NPC | **TL:** 14 | **Status:** Active | **Owner:** GM
 
-![NPC portrait](/wiki/media/marcel_delphine.jpg)
+![marcel-delphine.jpg](/wiki/media/marcel-delphine.jpg)
 
 | Field       | Value                      |
 | ----------- | -------------------------- |
