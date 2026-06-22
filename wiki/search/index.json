@@ -288,6 +288,28 @@
     "keyLinks": []
   },
   {
+    "id": "3:Transstar",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar",
+    "title": "Transstar",
+    "category": "organization",
+    "summary": "",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Transstar\n\n## Overview\n\n\n## Leadership\n\n- [[NPC]]\n\n## Members & Holdings\n\n\n## Allies & Rivals\n\n\n:::gm\nSecret agenda, debts, and leverage.\n:::\n",
+    "playerText": "# Transstar\n\n## Overview\n\n\n## Leadership\n\n- [[NPC]]\n\n## Members & Holdings\n\n\n## Allies & Rivals\n\n\n\n",
+    "links": [
+      "NPC"
+    ],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:Varian-Svazz-Allen",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
