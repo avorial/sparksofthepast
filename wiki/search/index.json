@@ -508,6 +508,26 @@
     "keyLinks": []
   },
   {
+    "id": "3:media:wiki/media/Ministry-of-Social-Solidarity.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Ministry-of-Social-Solidarity.png",
+    "title": "Ministry of Social Solidarity",
+    "category": "media",
+    "summary": "wiki/media/Ministry-of-Social-Solidarity.png",
+    "tags": [],
+    "aliases": [
+      "Ministry-of-Social-Solidarity.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Ministry-of-Social-Solidarity.png\nwiki/media/Ministry-of-Social-Solidarity.png\nMinistry of Social Solidarity",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:media:wiki/media/Nouvell-Saint-Jeanne-Capital-of-Jardin.png",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
