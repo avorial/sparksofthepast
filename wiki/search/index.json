@@ -143,6 +143,28 @@
     "keyLinks": []
   },
   {
+    "id": "3:Le-Palais-de-Continuit",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Le-Palais-de-Continuit",
+    "title": "Le Palais de Continuité",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Le Palais de Continuité\n\n## UWP\n\n\n## Trade Notes\n\n\n## Known To Players\n\n\n\n## Overview\n\n\n## Key Links\n\n- [[Session Zero]]\n\n:::gm\nGM-only truth goes here.\n:::\n",
+    "playerText": "# Le Palais de Continuité\n\n## UWP\n\n\n## Trade Notes\n\n\n## Known To Players\n\n\n\n## Overview\n\n\n## Key Links\n\n- [[Session Zero]]\n\n\n",
+    "links": [
+      "Session Zero"
+    ],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:Varian-Svazz-Allen",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
