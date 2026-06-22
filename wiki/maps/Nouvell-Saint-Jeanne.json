@@ -1,5 +1,12 @@
 {
   "name": "Nouvell Saint-Jeanne",
   "image": "Nouvell-Saint-Jeanne-Capital-of-Jardin.png",
-  "pins": []
+  "pins": [
+    {
+      "x": 0.5019811397639147,
+      "y": 0.03554519581446929,
+      "pageSlug": "Le-Palais-de-Continuit",
+      "label": "Le Palais de Continuité"
+    }
+  ]
 }
