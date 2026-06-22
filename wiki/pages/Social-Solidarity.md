@@ -21,7 +21,8 @@ lastEditedBy: patricthomas
 
 **Designation:** Ministry of Social Solidarity | **Type:** Government Ministry | **Founded:** 705 | **Status:** Active | **Authority:** Supreme Presidency of Jardin
 
-![Social Solidarity Emblem](/wiki/media/social_solidarity.jpg)
+Social Solidarity Emblem
+![Ministry of Social Solidarity](/wiki/media/Ministry-of-Social-Solidarity.png)
 
 | Field               | Value                         |
 | ------------------- | ----------------------------- |
