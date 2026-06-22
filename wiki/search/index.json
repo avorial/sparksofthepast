@@ -323,6 +323,28 @@
     "keyLinks": []
   },
   {
+    "id": "3:media:wiki/media/Nouvell-Saint-Jeanne-Capital-of-Jardin.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Nouvell-Saint-Jeanne-Capital-of-Jardin.png",
+    "title": "Nouvell Saint-Jeanne",
+    "category": "media",
+    "summary": "Capital of Jardin",
+    "tags": [
+      "map"
+    ],
+    "aliases": [
+      "Nouvell-Saint-Jeanne-Capital-of-Jardin.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Nouvell-Saint-Jeanne-Capital-of-Jardin.png\nwiki/media/Nouvell-Saint-Jeanne-Capital-of-Jardin.png\nNouvell Saint-Jeanne\nCapital of Jardin\nmap",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:media:wiki/media/Saichi-Maru-HEAD.png",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
