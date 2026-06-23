@@ -57,13 +57,13 @@ Population exceeds twelve billion.
 
 Home to:
 
-- Palace of Continuity
+- [[Le Palais de Continuité]]
 - Hall of Chosen Futures
 - Closed Gardens
 - Rousseau Arcology
 - Port Sainte-Jeanne
-- Fort Robespierre
-- Transstar Sector Exchange
+- [[Fort Robespierre Naval Annex]]
+- [[Transstar Sector Exchange]]
 
 Most offworlders never see any other part of the planet.
 
