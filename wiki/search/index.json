@@ -308,6 +308,28 @@
     "keyLinks": []
   },
   {
+    "id": "3:Port-Sainte-Jeanne-Downport",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Port-Sainte-Jeanne-Downport",
+    "title": "Port Sainte-Jeanne Downport",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Port Sainte-Jeanne Downport\n\n## UWP\n\n\n## Trade Notes\n\n\n## Known To Players\n\n\n\n## Overview\n\n\n## Key Links\n\n- [[Session Zero]]\n\n:::gm\nGM-only truth goes here.\n:::\n",
+    "playerText": "# Port Sainte-Jeanne Downport\n\n## UWP\n\n\n## Trade Notes\n\n\n## Known To Players\n\n\n\n## Overview\n\n\n## Key Links\n\n- [[Session Zero]]\n\n\n",
+    "links": [
+      "Session Zero"
+    ],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:Social-Solidarity",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
