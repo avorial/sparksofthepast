@@ -11,6 +11,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas
+parent: Jardin
 ---
 
 # Secteur d'Échange Transstar
