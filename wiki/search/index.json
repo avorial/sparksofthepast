@@ -256,6 +256,27 @@
     ]
   },
   {
+    "id": "3:Jardin",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Jardin",
+    "title": "Jardin",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location",
+      "world"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Jardin\n\n![map](/wiki/media/REPLACE.png)\n*UWP • Subsector*\n\n**UWP:**\n**Allegiance:**\n**Trade Codes:**\n**Subsector:**\n**Tech Level:**\n\n## Overview\n\nStarport, government, and what travellers find here.\n\n## Points of Interest\n\n- A site, with a hook.\n\n:::gm\n## GM Truth\n\nWhat the survey missed.\n:::\n",
+    "playerText": "# Jardin\n\n![map](/wiki/media/REPLACE.png)\n*UWP • Subsector*\n\n**UWP:**\n**Allegiance:**\n**Trade Codes:**\n**Subsector:**\n**Tech Level:**\n\n## Overview\n\nStarport, government, and what travellers find here.\n\n## Points of Interest\n\n- A site, with a hook.\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:Judith-Dumont-Carla",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
