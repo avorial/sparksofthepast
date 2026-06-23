@@ -125,6 +125,28 @@
     "keyLinks": []
   },
   {
+    "id": "3:Customs-Immigration-Checkpoint-Harmony",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Customs-Immigration-Checkpoint-Harmony",
+    "title": "Customs & Immigration Checkpoint Harmony",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Customs & Immigration Checkpoint Harmony\n\n## UWP\n\n\n## Trade Notes\n\n\n## Known To Players\n\n\n\n## Overview\n\n\n## Key Links\n\n- [[Session Zero]]\n\n:::gm\nGM-only truth goes here.\n:::\n",
+    "playerText": "# Customs & Immigration Checkpoint Harmony\n\n## UWP\n\n\n## Trade Notes\n\n\n## Known To Players\n\n\n\n## Overview\n\n\n## Key Links\n\n- [[Session Zero]]\n\n\n",
+    "links": [
+      "Session Zero"
+    ],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:Dan-Araujo-Josh",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
