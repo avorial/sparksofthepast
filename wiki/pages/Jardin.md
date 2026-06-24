@@ -24,8 +24,8 @@ techLevel: ""
 ---
 
 # Jardin
+![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png)
 
-![map](/wiki/media/jardin-world-map.png)
 *Capital World of the Jardin Subsector*
 
 **UWP:** A5679BC-D  
