@@ -35,22 +35,7 @@ lastEditedBy: patricthomas
 | Protection | 4 / 10 vs laser |
 | Cost | Cr290,900 |
 
-## Overview
 
-0-31 Saichi Maru is a size 5 walker robot configured for gunner and security duties. Known by the crew as Saichi, the unit combines a hardened security chassis, an Advanced TL12+ brain, integrated sensors, and mounted laser weapons into a compact patrol and shipboard defense platform.
-
-The robot is operated by Annette and is built around battlefield awareness, corridor control, and reliable response under pressure rather than social nuance or independent improvisation.
-
-## Specifications
-
-| Attribute | Value |
-| --------- | ----- |
-| STR | 9 |
-| DEX | 11 |
-| END | 20 |
-| INT | 8 |
-| EDU | 6 |
-| SOC | 0 |
 
 | Stat | Value |
 | ---- | ----- |
@@ -71,32 +56,171 @@ The robot is operated by Annette and is built around battlefield awareness, corr
 | Brain Type | Advanced TL12+ brain, INT 8 |
 | Construction Cost | Cr290,900 |
 
-## Equipment
+No campaign events have been recorded yet.
 
-- **Mobility:** Advanced TL12+ Walker with Gecko Grippers and Quick Charge.
-- **Weapons:** Laser Pistol (TL 9) hand weapon mount and Cartridge Laser Rifle (TL 10) back weapon mount.
+
+```traveller-sheet
+name: "0-31 Saichi Maru (Annette)"
+species: Robot
+age: 67
+homeworld: 
+career: n/a
+rank: n/a
+dossier: Travel
+status: Unwounded
+conditions: []
+speciesTraits: []
+characteristics:
+  STR: 9
+  DEX: 11
+  END: 20
+  INT: 8
+  EDU: 6
+  SOC: 0
+skills:
+  - { name: "Admin", }
+  - { name: "Advocate",}
+  - { name: "Animals" }
+  - { name: "Animals", speciality: "Handling" }
+  - { name: "Animals", speciality: "Riding" }
+  - { name: "Animals", speciality: "Veterinary" }
+  - { name: "Animals", speciality: "Training" }
+  - { name: "Art", level: 0 }
+  - { name: "Art", speciality: "Performer" }
+  - { name: "Art", speciality: "Holography" }
+  - { name: "Art", speciality: "Instrument" }
+  - { name: "Art", speciality: "Visual Media" }
+  - { name: "Art", speciality: "Write" }
+  - { name: "Astrogation", level: 0 }
+  - { name: "Athletics", level: 0 }
+  - { name: "Athletics", speciality: "Dexterity", }
+  - { name: "Athletics", speciality: "Endurance" }
+  - { name: "Athletics", speciality: "Strength" }
+  - { name: "Broker", }
+  - { name: "Carouse" }
+  - { name: "Deception", level: 0 }
+  - { name: "Diplomat", }
+  - { name: "Drive", level: 0 }
+  - { name: "Drive", speciality: "Hovercraft" }
+  - { name: "Drive", speciality: "Mole" }
+  - { name: "Drive", speciality: "Track" }
+  - { name: "Drive", speciality: "Walker" }
+  - { name: "Drive", speciality: "Wheel" }
+  - { name: "Electronics", level: 0 }
+  - { name: "Electronics", speciality: "Comms"}
+  - { name: "Electronics", speciality: "Computers", }
+  - { name: "Electronics", speciality: "Remote Ops", }
+  - { name: "Electronics", speciality: "Sensors" }
+  - { name: "Engineer" }
+  - { name: "Engineer", speciality: "M-drive" }
+  - { name: "Engineer", speciality: "J-drive" }
+  - { name: "Engineer", speciality: "Life Support" }
+  - { name: "Engineer", speciality: "Power" }
+  - { name: "Explosives" }
+  - { name: "Flyer",}
+  - { name: "Flyer", speciality: "Airship" }
+  - { name: "Flyer", speciality: "Grav" }
+  - { name: "Flyer", speciality: "Ornithopter" }
+  - { name: "Flyer", speciality: "Rotor" }
+  - { name: "Flyer", speciality: "Wing" }
+  - { name: "Gambler" }
+  - { name: "Gun Combat", level: 0 }
+  - { name: "Gun Combat", speciality: "Archaic" }
+  - { name: "Gun Combat", speciality: "Energy", level: 3}
+  - { name: "Gun Combat", speciality: "Slug" }
+  - { name: "Gunner" }
+  - { name: "Gunner", speciality: "Turret" , level: 3 } 
+  - { name: "Gunner", speciality: "Ortillery" }
+  - { name: "Gunner", speciality: "Screen" }
+  - { name: "Gunner", speciality: "Capital" }
+  - { name: "Heavy Weapons" }
+  - { name: "Heavy Weapons", speciality: "Artillery" }
+  - { name: "Heavy Weapons", speciality: "Man Portable" }
+  - { name: "Heavy Weapons", speciality: "Vehicle" }
+  - { name: "Investigate" }
+  - { name: "Jack-of-All-Trades" }
+  - { name: "Language" }
+  - { name: "Language", speciality: "Anglic" }
+  - { name: "Language", speciality: "Vilani" }
+  - { name: "Language", speciality: "Zdetl" }
+  - { name: "Language", speciality: "Oynprith" }
+  - { name: "Leadership", level: 0 }
+  - { name: "Mechanic", level: 0 }
+  - { name: "Medic", level: 1 }
+  - { name: "Melee", level: 0 }
+  - { name: "Melee", speciality: "Unarmed" }
+  - { name: "Melee", speciality: "Blade" }
+  - { name: "Melee", speciality: "Bludgeon" }
+  - { name: "Melee", speciality: "Natural" }
+  - { name: "Melee", speciality: "Infighting" }
+  - { name: "Navigation" }
+  - { name: "Persuade", level: 1 }
+  - { name: "Pilot", level: 0 }
+  - { name: "Pilot", speciality: "Small Craft" }
+  - { name: "Pilot", speciality: "Spacecraft" }
+  - { name: "Pilot", speciality: "Capital Ships" }
+  - { name: "Profession" }
+  - { name: "Profession", speciality: "Belter" }
+  - { name: "Profession", speciality: "Biologicals" }
+  - { name: "Profession", speciality: "Civil Engineering" }
+  - { name: "Profession", speciality: "Construction" }
+  - { name: "Profession", speciality: "Hydroponics" }
+  - { name: "Profession", speciality: "K'kree Ritual" }
+  - { name: "Profession", speciality: "Miner" }
+  - { name: "Profession", speciality: "Polymers" }
+  - { name: "Profession", speciality: "Religion" }
+  - { name: "Recon", level: 0 }
+  - { name: "Science",  }
+  - { name: "Science", speciality: "Archaeology" }
+  - { name: "Science", speciality: "Astronomy" }
+  - { name: "Science", speciality: "Belief" }
+  - { name: "Science", speciality: "Biology" }
+  - { name: "Science", speciality: "Chemistry" }
+  - { name: "Science", speciality: "Cosmology" }
+  - { name: "Science", speciality: "Cybernetics" }
+  - { name: "Science", speciality: "Economics" }
+  - { name: "Science", speciality: "Genetics" }
+  - { name: "Science", speciality: "History", level: 1 }
+  - { name: "Science", speciality: "Linguistics" }
+  - { name: "Science", speciality: "Philosophy" }
+  - { name: "Science", speciality: "Physics" }
+  - { name: "Science", speciality: "Planetology" }
+  - { name: "Science", speciality: "Psionicology" }
+  - { name: "Science", speciality: "Psychology" }
+  - { name: "Science", speciality: "Robotics", level: 1 }
+  - { name: "Science", speciality: "Sophontology" }
+  - { name: "Science", speciality: "Xenology" }
+  - { name: "Seafarer" }
+  - { name: "Seafarer", speciality: "Ocean Ships" }
+  - { name: "Seafarer", speciality: "Personal" }
+  - { name: "Seafarer", speciality: "Sail" }
+  - { name: "Seafarer", speciality: "Submarine" }
+  - { name: "Stealth", level: 0}
+  - { name: "Steward" }
+  - { name: "Streetwise"}
+  - { name: "Survival" }
+  - { name: "Tactics" , level: 0}
+  - { name: "Tactics", speciality: "Military" }
+  - { name: "Tactics", speciality: "Naval" , level: 1}
+  - { name: "Vacc Suit" }
+weapons: [Laser Pistol (TL 9) hand weapon mount and Cartridge Laser Rifle (TL 10) back weapon mount.]
+armour: []
+equipment: [Mobility Advanced TL12+ Walker with Gecko Grippers and Quick Charge]
+holdings: []
+contacts: []
+psionics: []
+notes: 
+```
 - **Sensors:** Auditory/Visual Sensor Audio Broad, Atmospheric Sensor, and Recon Sensor Enhanced.
 - **Communications:** Transceiver 5km with Wireless Data Link and Tight Beam.
 - **Systems:** Voder Speaker, Encryption Module, Fire Control Basic, Drone Interface, and Robot Armour.
 
-## Skills
+## Overview
 
-| Skill | Specialty | Level |
-| ----- | --------- | ----- |
-| Gunner | Turret | 3 |
-| Gun Combat | Energy | 2 |
-| Tactics | Naval | 1 |
-| Deception | Baseline | 0 |
-| Electronics | Baseline | 0 |
-| Recon | Baseline | 0 |
-| Stealth | Baseline | 0 |
-| Gunner | Baseline | 0 |
-| Gun Combat | Baseline | 0 |
-| Tactics | Baseline | 0 |
+0-31 Saichi Maru is a size 5 walker robot configured for gunner and security duties. Known by the crew as Saichi, the unit combines a hardened security chassis, an Advanced TL12+ brain, integrated sensors, and mounted laser weapons into a compact patrol and shipboard defense platform.
 
-## Operational History
+The robot is operated by Annette and is built around battlefield awareness, corridor control, and reliable response under pressure rather than social nuance or independent improvisation.
 
-No campaign events have been recorded yet.
 
 ## Connections
 
