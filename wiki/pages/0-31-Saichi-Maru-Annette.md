@@ -29,41 +29,33 @@ lastEditedBy: patricthomas
 | Nickname | Saichi |
 | Type | Security Walker Robot |
 | Tech Level | TL12+ |
-| Brain Type | Advanced TL12+ |
-| Speed | 21m |
-| Hits | 20 |
-| Protection | 4 / 10 vs laser |
-| Cost | Cr290,900 |
 
 
 
-| Stat | Value |
-| ---- | ----- |
-| Hits | 20 |
-| Protection | 4 |
-| Laser Protection | 10 |
-| Speed | 21m |
-| Armour | Robot Armour |
-| Traits | ATV, Armour (+4), Reflec, Heightened Senses |
+## Overview
 
-| Field | Detail |
-| ----- | ------ |
-| Species | Robot |
-| Gender | None |
-| Age | 0 |
-| Role | Gunner/Security |
-| Chassis | Advanced TL12+ Walker, size 5 |
-| Brain Type | Advanced TL12+ brain, INT 8 |
-| Construction Cost | Cr290,900 |
+0-31 Saichi Maru is a size 5 walker robot configured for gunner and security duties. Known by the crew as Saichi, the unit combines a hardened security chassis, an Advanced TL12+ brain, integrated sensors, and mounted laser weapons into a compact patrol and shipboard defense platform.
+
+The robot is operated by Annette and is built around battlefield awareness, corridor control, and reliable response under pressure rather than social nuance or independent improvisation.
+
+
+
+
+
+## Updates
+
+
+
 
 No campaign events have been recorded yet.
 
+## Character Sheet
 
 ```traveller-sheet
 name: "0-31 Saichi Maru (Annette)"
 species: Robot
 age: 67
-homeworld: 
+Cost: 290,900
 career: n/a
 rank: n/a
 dossier: Travel
@@ -215,11 +207,9 @@ notes:
 - **Communications:** Transceiver 5km with Wireless Data Link and Tight Beam.
 - **Systems:** Voder Speaker, Encryption Module, Fire Control Basic, Drone Interface, and Robot Armour.
 
-## Overview
 
-0-31 Saichi Maru is a size 5 walker robot configured for gunner and security duties. Known by the crew as Saichi, the unit combines a hardened security chassis, an Advanced TL12+ brain, integrated sensors, and mounted laser weapons into a compact patrol and shipboard defense platform.
 
-The robot is operated by Annette and is built around battlefield awareness, corridor control, and reliable response under pressure rather than social nuance or independent improvisation.
+
 
 
 ## Connections
