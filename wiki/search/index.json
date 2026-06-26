@@ -701,6 +701,26 @@
     "keyLinks": []
   },
   {
+    "id": "3:media:wiki/media/Le-Palais-de-Continuite.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Le-Palais-de-Continuite.png",
+    "title": "Le-Palais-de-Continuite.png",
+    "category": "media",
+    "summary": "wiki/media/Le-Palais-de-Continuite.png",
+    "tags": [],
+    "aliases": [
+      "Le-Palais-de-Continuite.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Le-Palais-de-Continuite.png\nwiki/media/Le-Palais-de-Continuite.png\nLe-Palais-de-Continuite.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "3:media:wiki/media/Ministry-of-Social-Solidarity.png",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
