@@ -25,5 +25,24 @@
     "alt": "Le-Palais-de-Continuite.png",
     "caption": "",
     "tags": []
+  },
+  "wiki/media/Alain-Mercier-Hall-of-Genetics-News.png": {
+    "alt": "Breaking news capture: Fraud at the Hall of Genetics?",
+    "caption": "Minister Mercier promises major findings at the upcoming Party Congress.",
+    "tags": [
+      "Alain Mercier",
+      "Hall of Genetics",
+      "news",
+      "handout"
+    ]
+  },
+  "wiki/media/Alain-Mercier-Party-Congress-Announcement.mp3": {
+    "alt": "Minister Mercier announcement audio",
+    "caption": "Minister Alain Mercier announces major findings ahead of the Party Congress.",
+    "tags": [
+      "Alain Mercier",
+      "audio",
+      "handout"
+    ]
   }
 }

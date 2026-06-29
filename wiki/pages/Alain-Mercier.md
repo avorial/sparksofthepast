@@ -103,6 +103,20 @@ Observers noted that Mercier's remarks were unusually direct and appeared to sug
 
 ---
 
+## Press Materials
+
+### Hall of Genetics News Capture
+
+![Fraud at the Hall of Genetics? Minister Mercier promises major findings at upcoming Party Congress.](/wiki/media/Alain-Mercier-Hall-of-Genetics-News.png)
+
+### Minister Mercier Announcement Audio
+
+<audio controls src="/wiki/media/Alain-Mercier-Party-Congress-Announcement.mp3">
+  Minister Mercier announcement audio.
+</audio>
+
+---
+
 ## Death
 
 On 143-1105, while attending official business at the Hall of Genetics in Nouvelle Sainte-Jeanne, Mercier was assassinated.
