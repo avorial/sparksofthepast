@@ -101,6 +101,20 @@ The announcement generated intense speculation throughout political, military, a
 
 Observers noted that Mercier's remarks were unusually direct and appeared to suggest conclusions with potentially far-reaching implications.
 
+## Session 1 - Assassination
+
+During [[Session 1 - Official Business]], the characters saw a news broadcast reporting that Mercier would reveal corruption in the genetic-affairs files at the coming Party Congress. The broadcast framed the announcement as potentially revolutionary for the government.
+
+Shortly afterward, Mercier rushed through the office area at the [[Hall des Futurs Choisis]] and was killed by multiple shots. The scene appeared designed to make the player characters look responsible: several characters detected signs that their own weapons had moved, fired, or been made to appear as if they fired.
+
+Items recovered from Mercier:
+
+- [[Mercier's Locked Pad]]
+- His phone.
+- Concealed armor, which failed to stop the barrage.
+
+[[Marcel Delphine]] later claimed Mercier's real discovery pointed to corruption "from above," not to the [[Jardin Syndicate]]'s genetic identity manipulation.
+
 ---
 
 ## Press Materials

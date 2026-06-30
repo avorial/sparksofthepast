@@ -38,6 +38,26 @@ allegiance: ""
 
 Marcel Delphine is believed to be the leader of the Jardin Syndicate, one of the largest criminal organizations operating within the Jardin Subsector. To SolSec he is a trafficker, smuggler, forger, and criminal mastermind. To thousands of refugees, migrants, and political undesirables, he is a savior who provided opportunities that governments denied.
 
+## Session 1 - First Contact
+
+After the [[Mercier Assassination]], Marcel arranged for a driverless grav speeder to extract the group from the area around the [[Hall des Futurs Choisis]]. The vehicle carried them through waste-disposal and service routes beneath [[Arcosphere Rousseau]] to a hidden, humid chamber behind a vault door.
+
+Marcel introduced himself as a member of the [[Jardin Syndicate]] and explained why the Syndicate wanted the group alive:
+
+- The Syndicate initially feared [[Alain Mercier]] had discovered their genetic-code manipulation.
+- They pulled back after learning Mercier's evidence pointed "from above, not below."
+- Marcel believes the assassination and frame-up may be used to blame the Syndicate anyway.
+- Keeping the group alive may expose the people who silenced Mercier.
+
+Marcel gave the group [[Identity Veils]] and a one-use communicator. He also claimed to possess unedited footage of the assassination and offered it in exchange for future cooperation.
+
+## Claims Made
+
+- The characters were selected because their military backgrounds and prior connections could be shaped into a believable assassin-cell story.
+- The public version of the assassination is edited or fabricated.
+- The real guilty party is connected to the secret Mercier meant to reveal.
+- If the group finds who silenced Mercier, they may also find evidence that clears their identities.
+
 An uplifted dolphin of advanced age, Delphine is rarely seen in public. When he does appear, he does so within a custom gravitic life-support frame that resembles a floating throne draped in deep blue robes embroidered with ancient Terran symbols.
 
 Delphine presents himself not as a crime lord but as a social philosopher. He openly argues that governments have become obsessed with managing populations rather than helping individuals.

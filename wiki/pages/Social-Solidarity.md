@@ -39,6 +39,17 @@ Social Solidarity Emblem
 
 The Ministry of Social Solidarity is the primary internal security, social administration, and compliance organization of Jardin.
 
+## Session 1 Role
+
+In [[Session 1 - Official Business]], [[Elena Verona]], a Social Solidarity commissar, arrived after the [[Mercier Assassination]] and attempted to contain the scene with Home Guard personnel. The public narrative later presented Verona as a harmed witness against the player characters.
+
+The transcript clarifies that on Jardin, Social Solidarity functions as the local secret police and internal security organization. [[SolSec]] is separate and handles terrorism and external threats.
+
+## Open Questions
+
+- Whether Verona knowingly participated in the frame-up or was herself responding to manipulated information is not confirmed.
+- The source of the "kill them all" warning/order received by Emma remains unresolved.
+
 To foreign observers it resembles a mixture of:
 
 * Internal Security Service

@@ -38,6 +38,15 @@ Gun Combat 4, Astrogation 2, Gun Combat (Energy) 2, Electronics 1, Electronics (
 
 ## Connections
 
+## Session 1 - Official Business
+
+- Arrived armed and carefully maintained her rifle while respecting the public space.
+- Tried to stabilize [[Alain Mercier]] after the assassination, but the wounds were too severe.
+- Pushed for escape and suggested using Mercier's biometrics or transport possibilities.
+- Spoke cautiously with [[Marcel Delphine]], making clear she would not commit the group to anything without time to think.
+- Contacted [[Keith Morris]] about reaching [[Miasma]] or otherwise getting off Jardin.
+- Learned that identities/passports are the immediate barrier to direct off-world travel.
+
 - Contact: Corporate Executive Keith Morris
 - Unknown: Amnesia, something happened
 - Contact: Solomani Party/Confederation

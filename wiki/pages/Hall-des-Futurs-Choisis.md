@@ -559,6 +559,21 @@ Months later, those events begin occurring.
 
 The Travellers become entangled in the political fallout surrounding Alain Mercier's long-awaited presentation.
 
+## Session 1 - Official Business
+
+The player characters were summoned here for administrative reasons tied to genetic status, military records, finances, or autonomous AI review. The process resembled a large bureaucratic office: numbers were assigned, people were called in strange orders, and military IDs were checked because many arrived armed.
+
+The grouping was suspicious. Too many armed veterans and connected figures were brought together in one area, and several already knew each other from prior service.
+
+Shortly after a news broadcast about [[Alain Mercier]] and genetic-file corruption, Mercier crossed the office area and was killed in the [[Mercier Assassination]].
+
+## Session 1 Security Notes
+
+- The Hall had cameras throughout the office area.
+- Government workers used bioscans to open secure side doors.
+- [[Home Guard]] and [[Social Solidarity]] personnel responded quickly.
+- A walker/mech later breached the window during the group's escape.
+
 ---
 :::gm
 # Referee Notes

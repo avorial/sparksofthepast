@@ -202,6 +202,15 @@ Tactics (Naval) 3, Leadership 3, Stealth 2, Profession (Belter) 2, Gun Combat (S
 
 ## Connections
 
+## Session 1 - Official Business
+
+- Recognized a fellow veteran from service aboard the Venture and remembered Carlos's old poker game.
+- Initially encouraged compliance after the [[Mercier Assassination]].
+- Joined the fight and escape once the situation turned lethal.
+- Asked [[Marcel Delphine]] why the [[Jardin Syndicate]] had rescued the group and what they wanted.
+- Contacted allies afterward: a lover to recover belongings, smuggling contacts for escape options, a reporter/investigative contact, and someone who can listen at the [[Friday Party Congress Hearing]].
+- Learned of the [[Sunken Ship-Boat]] as a possible escape asset.
+
 - Ally: Romantic
 - Unnamed Ally
 - Contact: Solomani Guerrillas

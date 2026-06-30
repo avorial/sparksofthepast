@@ -214,6 +214,16 @@ notes:
 
 ## Connections
 
+## Session 1 - Official Business
+
+- Attended the [[Hall des Futurs Choisis]] as an autonomous AI/robot whose status required financial and administrative review.
+- Stood apart at first, trying not to interrupt human social protocols.
+- Identified herself by pointing to the `0-31` designation: "31" as Saichi and "0" as Maru.
+- Joined the escape after the [[Mercier Assassination]].
+- Killed the pilot of the attacking walker/mech without destroying the machine, enabling the group to ride it down the building.
+- Took damage in the descent and was repaired afterward by [[Dan Araujo (Josh)]].
+- Built or placed a tracker for [[Marcel Delphine]]'s communicator so the group would not lose it.
+
 - Unnamed Ally
 - Unnamed Contact
 

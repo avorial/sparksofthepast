@@ -574,6 +574,12 @@ A child disappears into the unregistered sections of the arcology.
 
 Finding them requires entering places that officially do not exist.
 
+## Session 1 Notes
+
+The player characters live in the Rousseau arcology, though on different floors, classes, elevators, and routines. After the [[Mercier Assassination]], a driverless grav speeder returned toward their home but used waste-disposal access rather than a public entrance.
+
+The vehicle entered hidden service routes beneath the arcology. [[Victor Mendes (Steinbach)]] recognized that criminal organizations on Jardin are rumored to use access ways, cleaning-material locations, venting paths, and similar spaces as headquarters in the cracks of the city.
+
 ---
 :::gm
 

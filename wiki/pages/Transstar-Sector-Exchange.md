@@ -484,6 +484,12 @@ A forgotten data vault from the Solomani Rim War is discovered beneath Transstar
 
 Everyone wants what is inside.
 
+## Session 1 - Potential Refuge
+
+Emma's smuggler contact identified the Transstar Sector Exchange as a possible refuge after the [[Mercier Frame-Up]]. The Exchange is described as an independent legal entity inside Jardin: not fully outside local reality, but separate enough that the group may not be direct enemies of the state while inside it.
+
+The contact compared it to a corporate enclave or embassy-like safe zone. If the [[Identity Veils]] begin to fail, reaching the Exchange may allow the group to speak more openly with contacts and seek corporate or smuggling options.
+
 ---
 :::gm
 # Referee Notes
