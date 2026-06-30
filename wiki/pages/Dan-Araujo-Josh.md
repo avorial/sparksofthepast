@@ -39,6 +39,13 @@ Engineer (J-drive) 3, Mechanic 2, Investigate 2, Vacc Suit 2, Astrogation 1, Dip
 
 ## Connections
 
+## Session 1 - Official Business
+
+- Initially leaned toward compliance with authorities after the [[Mercier Assassination]], trusting that he had done nothing wrong.
+- Stayed with the group as the containment broke into violence and escape.
+- After reaching the hideout, repaired [[0-31 Saichi Maru (Annette)]] after the walker descent.
+- Focused on tangible technical work rather than drawing attention through risky computer searches.
+
 - Rival: Racial Incident
 
 ## Equipment & Benefits

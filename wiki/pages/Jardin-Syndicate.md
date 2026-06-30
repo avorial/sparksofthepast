@@ -39,6 +39,26 @@ lastEditedBy: patricthomas
 
 **Threat Assessment:** High
 
+## Session 1 Revelations
+
+During [[Session 1 - Official Business]], [[Marcel Delphine]] described the Syndicate's genetic work as manipulation of genetic-code records to help less fortunate people acquire jobs according to merit. Emma's smuggler contact gave similar context: the Syndicate often helps people who are less genetically pure or politically disfavored by creating or altering genetic identities.
+
+The Syndicate had feared that [[Alain Mercier]] had discovered their activity, but Marcel claimed Mercier's true finding pointed to corruption "from above." The Syndicate therefore wants the [[Mercier Frame-Up]] challenged before the official story can be used as justification for a crackdown.
+
+## Known Assets From Session 1
+
+- Hidden service and waste-disposal access beneath [[Arcosphere Rousseau]].
+- Driverless grav vehicle extraction capability.
+- [[Identity Veils]] that spoof camera recognition for approximately three cycles.
+- Possible unedited footage of the assassination.
+- Contacts able to recover gear while posing as cleanup or police-adjacent workers.
+
+## Known Limits
+
+- The Syndicate is criminal and self-interested.
+- It may help the group because their survival hurts mutual enemies, not because of altruism alone.
+- Marcel does not give the unedited footage freely.
+
 **Status:** Active
 
 **Known Leader:** [[Marcel Delphine]] ("The Shepherd")

@@ -38,6 +38,10 @@ The **Palais de Continuité** (Palace of Continuity) serves as both the administ
 
 To the citizens of Jardin, the palace represents stability, order, and the promise that each generation will improve upon the achievements of those that came before. Images of its distinctive towers appear on government broadcasts, educational materials, currency, and public monuments throughout the world.
 
+## Session 1 Note
+
+The transcript sometimes refers to the incident location as the Palace of Continuity, though the detailed scene takes place in the [[Hall des Futurs Choisis]] / Hall of Chosen Futures. Treat "Palace of Continuity" references in Session 1 as either broad government-complex shorthand or transcript imprecision unless later clarified.
+
 To foreign observers, however, the palace often appears as something far more imposing: the command center of one of the most organized and closely managed societies in the Solomani Confederation.
 
 ---

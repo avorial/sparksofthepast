@@ -38,6 +38,13 @@ Pilot (Spacecraft) 3, Diplomat 2, Mechanic 2, Medic 2, Admin 1, Astrogation 1, E
 ## Connections
 
 - Enemy: Betrayer, formerly an education ally or close clique member
+
+## Session 1 - Official Business
+
+- Noticed [[Alain Mercier]] moving through the office area with urgency shortly before the assassination.
+- Carried Mercier's body briefly during the chaos and reported "man down" before complying.
+- Helped the group move through the escape and regroup afterward.
+- Contacted an education ally to retrieve belongings and obtain astrogation/navigation study material.
 - Ally: Education close clique
 
 ## Equipment & Benefits

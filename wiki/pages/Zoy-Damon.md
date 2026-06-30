@@ -39,6 +39,14 @@ Astrogation 2, Recon 3, Stealth 3, Survival 2, Streetwise 2, Profession (Belter)
 
 ## Connections
 
+## Session 1 - Official Business
+
+- Was present at the Hall during the [[Mercier Assassination]] and became a central target of the [[False News Broadcast]].
+- Public propaganda falsely showed Zoy throwing a grenade at [[Alain Mercier]].
+- Checked regular news afterward and discovered the fake narrative accusing genetic "half-breeds" of the attack.
+- His criminal/underworld contacts were treated as linked to the [[Jardin Syndicate]] for gear recovery.
+- The public story makes Zoy especially visible as a scapegoat.
+
 - Contact: underworld connections
 - Contact: underworld connections
 - Contact: Imperial Starport Authority

@@ -38,6 +38,15 @@ Astrogation 4, Leadership 3, Tactics (Naval) 2, Medic 2, Vacc Suit 2, Deception 
 ## Connections
 
 - Enemy: Racial Incident
+
+## Session 1 - Official Business
+
+- Arrived without his gun, then assessed distance, cover, and possible exits as Social Solidarity and Home Guard arrived.
+- Grappled [[Elena Verona]] during the firefight and took her sidearm/gear, including the one-use grav belt.
+- Used the grav belt during the exterior descent.
+- Recognized that the hidden routes beneath [[Arcosphere Rousseau]] resembled criminal access ways used in the cracks of Jardin society.
+- Returned to his apartment after the escape, noticed it had been disturbed, and left after saying aloud that he had done nothing wrong.
+- Lost a Social Solidarity tail before returning to the group.
 - Unnamed Contact
 - Unnamed Contact
 - Unnamed Ally

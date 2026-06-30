@@ -161,6 +161,14 @@ Possesses a more adventurous spirit than most Jardinese cities.
 
 - **Customs & Immigration Checkpoint Harmony** — The point through which nearly every visitor enters Jardin.
 
+## Session 1 Notes
+
+The campaign begins in Nouvelle Sainte-Jeanne, with the player characters living in or around [[Arcosphere Rousseau]]. Jardin is presented as normally safe but politically surveilled, with police activity against dissidents, revolutionaries, and people accused of aggression against the state.
+
+Veterans and retired military personnel may carry weapons when they have proper military IDs, partly so they can aid the [[Home Guard]] in a rebel outbreak. This rule helped make the [[Mercier Frame-Up]] plausible: the characters could be gathered armed in a civic building without immediately breaking local procedure.
+
+Direct off-world escape from Jardin is difficult because identity, passport, and genetic controls are heavy at major departure points. [[Keith Morris]] suggested moving elsewhere within the Jardin system before attempting a jump.
+
 :::gm
 ## GM Truth
 
