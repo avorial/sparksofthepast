@@ -13,59 +13,73 @@ aliases: []
 lastEditedBy: patricthomas
 ---
 
-# Sparks of the Past
+# Sparks From the Past
 
-The home page for this campaign — who's playing, what it's about, and how to plug in. Edit it like any other page.
+Welcome to the campaign hub for **Sparks From the Past**. This wiki contains the campaign setting, session notes, player characters, NPCs, locations, handouts, and world lore. If it has happened in the game, it belongs here.
 
-## The Concept
+---
 
-_A paragraph on the setting, the premise, the stakes, and where the story stands right now._
+## Campaign Overview
 
-## System & Tone
+The year is **1105 Imperial**, on the Solomani world of **Jardin**. The Travellers have come together for their own reasons, but events beyond their control are about to pull them into a conspiracy that reaches the highest levels of government. As political tensions rise and long-buried truths begin to surface, the crew will have to decide who they can trust, what they are willing to sacrifice, and whether some secrets are better left forgotten.
 
-- **Game system:** Traveller Mongoose 2nd
-- **Tone:** Dark Future
-- **Safety tools:**
+The campaign begins with what should have been an ordinary visit to a government registration office.
 
-## The Table
+---
 
-_The players and the characters they run._
+## System
 
-| Player | Character | Role |
-| --- | --- | --- |
-|  Annette | [[0-31 Saichi Maru (Annette)]] |  |
-|  Kolb | [[Cass Pien (Kolb)]] |  |
-|  Peter | [[Ciernan Seanislav (Peter)]] |  |
-|  Josh | [[Dan Araujo (Josh)]] |  |
-|  Laura | [[Emma Colbert (Laura)]]  |  |
-|  Carla | [[Judith Dumont (Carla)]] |  |
-|  Allen | [[Varian Svazz (Allen)]] |  |
-|  Steinbach | [[Victor Mendes (Steinbach)]] |  |
-|  Damon | [[Zoy (Damon)]] |  |
+* **Game:** Traveller (Mongoose 2nd Edition)
+* **Setting:** Solomani Confederation
+* **Primary World:** Jardin
+* **Theme:** Political intrigue, espionage, investigation, exploration, and survival.
+* **Tone:** Grounded science fiction with moments of action, mystery, and moral ambiguity.
 
+---
 
-## How to Connect
+## Players
 
-- **Web app:** https://rpg.avorial.com
-- **GitHub:** the campaign repo (see the "Open GitHub" button in the header).
-- **AI / MCP:** mint a token under **GM Admin → tokens**, then point your MCP client at this campaign.
+| Player    | Character                      |
+| --------- | ------------------------------ |
+| Annette   | [[0-31 Saichi Maru (Annette)]] |
+| Kolb      | [[Cass Pien (Kolb)]]           |
+| Peter     | [[Ciernan Seanislav (Peter)]]  |
+| Josh      | [[Dan Araujo (Josh)]]          |
+| Laura     | [[Emma Colbert (Laura)]]       |
+| Carla     | [[Judith Dumont (Carla)]]      |
+| Allen     | [[Varian Svazz (Allen)]]       |
+| Steinbach | [[Victor Mendes (Steinbach)]]  |
+| Damon     | [[Zoy (Damon)]]                |
 
-## Key NPCs & Factions
+---
 
-- [[NPC]] —
+## Campaign Resources
+
+* **Campaign Website:** https://rpg.avorial.com
+* **GitHub Repository:** Available through the **Open GitHub** button in the site header.
+* **AI / MCP Access:** Create a personal token under **GM Admin → Tokens**, then configure your MCP client to connect to this campaign.
+
+---
+
+## Important NPCs
+
+* [[NPC]]
+
+---
 
 ## House Rules
 
--
+See [[Table Rules]] for the complete list of expectations and house rules used during play.
 
-## Where We Are Now
+---
 
-_Current location, active goals, and looming threats._
+## Current Situation
 
-## Timeline
+The crew has recently arrived on Jardin and is preparing to complete routine government registration. What should be a mundane administrative task is about to become the spark that sets much larger events in motion.
 
--
+---
 
-:::gm
-GM-only campaign notes: the truth behind the concept, secret clocks, and long-game plans.
-:::
+## Campaign Timeline
+
+* Session 0 — Character creation and party connections.
+* Session 1 — *To be discovered...*
