@@ -10,7 +10,7 @@ approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: CampaignRepo
+lastEditedBy: patricthomas
 ---
 
 # Sparks of the Past
@@ -23,8 +23,8 @@ _A paragraph on the setting, the premise, the stakes, and where the story stands
 
 ## System & Tone
 
-- **Game system:** Traveller
-- **Tone:**
+- **Game system:** Traveller Mongoose 2nd
+- **Tone:** Dark Future
 - **Safety tools:**
 
 ## The Table
@@ -33,11 +33,20 @@ _The players and the characters they run._
 
 | Player | Character | Role |
 | --- | --- | --- |
-|  | [[Character]] |  |
+|  Annette | [[0-31 Saichi Maru (Annette)]] |  |
+|  Kolb | [[Cass Pien (Kolb)]] |  |
+|  Peter | [[Ciernan Seanislav (Peter)]] |  |
+|  Josh | [[Dan Araujo (Josh)]] |  |
+|  Laura | [[Emma Colbert (Laura)]]  |  |
+|  Carla | [[Judith Dumont (Carla)]] |  |
+|  Allen | [[Varian Svazz (Allen)]] |  |
+|  Steinbach | [[Victor Mendes (Steinbach)]] |  |
+|  Damon | [[Zoy (Damon)]] |  |
+
 
 ## How to Connect
 
-- **Web app:** this site — sign in and open this campaign.
+- **Web app:** https://rpg.avorial.com
 - **GitHub:** the campaign repo (see the "Open GitHub" button in the header).
 - **AI / MCP:** mint a token under **GM Admin → tokens**, then point your MCP client at this campaign.
 
