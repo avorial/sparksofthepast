@@ -1,7 +1,724 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T04:17:18.046Z",
+  "generatedAt": "2026-07-14T04:17:55.458Z",
   "pages": [
+    {
+      "id": "character-0-31-Saichi-Maru-Annette",
+      "title": "0-31 Saichi Maru (Annette)",
+      "path": "wiki/pages/0-31-Saichi-Maru-Annette.md",
+      "type": "character",
+      "tags": [
+        "character",
+        "robot"
+      ],
+      "links": [
+        "location-Hall-des-Futurs-Choisis",
+        "event-Mercier-Assassination",
+        "character-Dan-Araujo-Josh",
+        "npc-Marcel-Delphine"
+      ],
+      "aliases": [
+        "Saichi"
+      ],
+      "summary": "Security walker robot configured for gunner and shipboard defense duties.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Alain-Mercier",
+      "title": "Alain Mercier",
+      "path": "wiki/pages/Alain-Mercier.md",
+      "type": "npc",
+      "tags": [
+        "npc"
+      ],
+      "links": [
+        "npc-Session-1-Official-Business",
+        "location-Hall-des-Futurs-Choisis",
+        "item-Merciers-Locked-Pad",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Arcosphere-Rousseau",
+      "title": "Arcosphere Rousseau",
+      "path": "wiki/pages/Arcosphere-Rousseau.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [
+        "event-Mercier-Assassination",
+        "character-Victor-Mendes-Steinbach"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-Campaign",
+      "title": "Campaign",
+      "path": "wiki/pages/Campaign.md",
+      "type": "lore",
+      "tags": [
+        "lore"
+      ],
+      "links": [
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon",
+        "unresolved:npc",
+        "unresolved:table-rules"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Carlos",
+      "title": "Carlos",
+      "path": "wiki/pages/Carlos.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "contact",
+        "session-1"
+      ],
+      "links": [
+        "character-Cass-Pien-Kolb",
+        "npc-Session-1-Official-Business"
+      ],
+      "aliases": [
+        "Carlos Contax"
+      ],
+      "summary": "Old Navy acquaintance associated with a poker game on the Venture; possibly connected to future jump contacts.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Cass Pien (Kolb)]]"
+      ]
+    },
+    {
+      "id": "character-Cass-Pien-Kolb",
+      "title": "Cass Pien (Kolb)",
+      "path": "wiki/pages/Cass-Pien-Kolb.md",
+      "type": "character",
+      "tags": [
+        "character"
+      ],
+      "links": [
+        "event-Mercier-Assassination",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "event-Friday-Party-Congress-Hearing",
+        "item-Sunken-Ship-Boat"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Ciernan-Seanislav-Peter",
+      "title": "Ciernan Seanislav (Peter)",
+      "path": "wiki/pages/Ciernan-Seanislav-Peter.md",
+      "type": "character",
+      "tags": [
+        "character"
+      ],
+      "links": [
+        "character-Judith-Dumont-Carla"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Cr-che-District-14",
+      "title": "Crèche District 14",
+      "path": "wiki/pages/Cr-che-District-14.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Customs-Immigration-Checkpoint-Harmony",
+      "title": "Customs & Immigration Checkpoint Harmony",
+      "path": "wiki/pages/Customs-Immigration-Checkpoint-Harmony.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Dan-Araujo-Josh",
+      "title": "Dan Araujo (Josh)",
+      "path": "wiki/pages/Dan-Araujo-Josh.md",
+      "type": "character",
+      "tags": [
+        "character"
+      ],
+      "links": [
+        "event-Mercier-Assassination",
+        "character-0-31-Saichi-Maru-Annette"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Elena-Verona",
+      "title": "Elena Verona",
+      "path": "wiki/pages/Elena-Verona.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "social-solidarity",
+        "session-1"
+      ],
+      "links": [
+        "organization-Social-Solidarity",
+        "location-Hall-des-Futurs-Choisis",
+        "event-Mercier-Assassination",
+        "character-Victor-Mendes-Steinbach",
+        "npc-Session-1-Official-Business",
+        "event-Mercier-Frame-Up"
+      ],
+      "aliases": [
+        "Alina Verona",
+        "Commissar Verona"
+      ],
+      "summary": "Social Solidarity commissar who responded to the Mercier assassination scene and survived the group's escape.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Social Solidarity]]",
+        "[[Mercier Assassination]]"
+      ]
+    },
+    {
+      "id": "character-Emma-Colbert-Laura",
+      "title": "Emma Colbert (Laura)",
+      "path": "wiki/pages/Emma-Colbert-Laura.md",
+      "type": "character",
+      "tags": [
+        "character"
+      ],
+      "links": [
+        "event-Mercier-Assassination",
+        "npc-Marcel-Delphine",
+        "npc-Sarah-Gays-Son",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "location-Transstar-Sector-Exchange"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "event-False-News-Broadcast",
+      "title": "False News Broadcast",
+      "path": "wiki/pages/False-News-Broadcast.md",
+      "type": "event",
+      "tags": [
+        "event",
+        "propaganda",
+        "media"
+      ],
+      "links": [
+        "event-Mercier-Assassination",
+        "npc-Alain-Mercier",
+        "character-Zoy-Damon",
+        "npc-Elena-Verona",
+        "organization-Jardin-Syndicate"
+      ],
+      "aliases": [
+        "Fake Mercier Broadcast"
+      ],
+      "summary": "A fabricated broadcast blamed Mercier's murder on genetic outcasts and falsely showed Zoy attacking the minister.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Mercier Frame-Up]]",
+        "[[Zoy (Damon)]]"
+      ]
+    },
+    {
+      "id": "location-Fort-Robespierre-Naval-Annex",
+      "title": "Fort Robespierre Naval Annex",
+      "path": "wiki/pages/Fort-Robespierre-Naval-Annex.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "event-Friday-Party-Congress-Hearing",
+      "title": "Friday Party Congress Hearing",
+      "path": "wiki/pages/Friday-Party-Congress-Hearing.md",
+      "type": "event",
+      "tags": [
+        "event",
+        "session-1",
+        "politics"
+      ],
+      "links": [
+        "event-Mercier-Assassination",
+        "npc-Alain-Mercier",
+        "character-Cass-Pien-Kolb",
+        "event-Mercier-Frame-Up",
+        "organization-Jardin-Syndicate"
+      ],
+      "aliases": [
+        "Friday Hearing",
+        "Party Congress Hearing"
+      ],
+      "summary": "Upcoming internal hearing where contacts may reveal who is shaping the official story after Mercier's death.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Alain Mercier]]",
+        "[[Mercier Frame-Up]]"
+      ]
+    },
+    {
+      "id": "location-Hall-des-Futurs-Choisis",
+      "title": "Hall des Futurs Choisis",
+      "path": "wiki/pages/Hall-des-Futurs-Choisis.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [
+        "npc-Alain-Mercier",
+        "event-Mercier-Assassination",
+        "organization-Home-Guard",
+        "organization-Social-Solidarity"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-Home-Guard",
+      "title": "Home Guard",
+      "path": "wiki/pages/Home-Guard.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "security",
+        "session-1"
+      ],
+      "links": [
+        "event-Mercier-Assassination"
+      ],
+      "aliases": [],
+      "summary": "Jardin security force called to contain the Mercier assassination scene.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Mercier Assassination]]",
+        "[[Social Solidarity]]"
+      ]
+    },
+    {
+      "id": "item-Identity-Veils",
+      "title": "Identity Veils",
+      "path": "wiki/pages/Identity-Veils.md",
+      "type": "item",
+      "tags": [
+        "item",
+        "technology",
+        "session-1"
+      ],
+      "links": [
+        "npc-Marcel-Delphine",
+        "event-Mercier-Assassination",
+        "character-0-31-Saichi-Maru-Annette",
+        "event-Mercier-Frame-Up",
+        "npc-Session-1-Official-Business"
+      ],
+      "aliases": [
+        "Electronic Veils",
+        "Identity Masks"
+      ],
+      "summary": "Camera-spoofing masks provided by Marcel Delphine that alter how wearers register to surveillance systems.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Marcel Delphine]]",
+        "[[Jardin Syndicate]]"
+      ]
+    },
+    {
+      "id": "location-Jardin",
+      "title": "Jardin",
+      "path": "wiki/pages/Jardin.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "world"
+      ],
+      "links": [
+        "location-Le-Palais-de-Continuit",
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Transstar-Sector-Exchange",
+        "location-Arcosphere-Rousseau",
+        "organization-Home-Guard",
+        "event-Mercier-Frame-Up",
+        "npc-Keith-Morris"
+      ],
+      "aliases": [],
+      "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
+      ]
+    },
+    {
+      "id": "organization-Jardin-Syndicate",
+      "title": "Jardin Syndicate",
+      "path": "wiki/pages/Jardin-Syndicate.md",
+      "type": "organization",
+      "tags": [
+        "organization"
+      ],
+      "links": [
+        "npc-Session-1-Official-Business",
+        "npc-Marcel-Delphine",
+        "npc-Alain-Mercier",
+        "event-Mercier-Frame-Up",
+        "location-Arcosphere-Rousseau",
+        "item-Identity-Veils",
+        "npc-Marcel-Delphine"
+      ],
+      "aliases": [
+        "Syndicat Jardin"
+      ],
+      "summary": "The **Jardin Syndicate** is one of the largest and most influential criminal organizations operating within the Jardin Subsector. Originally founded on Jardin itself, the Syndicate has expanded across dozens of worlds, establishing networks that span both Confederation and Imperial territory.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Marcel Delphine]]"
+      ]
+    },
+    {
+      "id": "character-Judith-Dumont-Carla",
+      "title": "Judith Dumont (Carla)",
+      "path": "wiki/pages/Judith-Dumont-Carla.md",
+      "type": "character",
+      "tags": [
+        "character"
+      ],
+      "links": [
+        "npc-Alain-Mercier",
+        "npc-Marcel-Delphine",
+        "npc-Keith-Morris",
+        "location-Miasma"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Keith-Morris",
+      "title": "Keith Morris",
+      "path": "wiki/pages/Keith-Morris.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "contact",
+        "session-1"
+      ],
+      "links": [
+        "character-Judith-Dumont-Carla",
+        "location-Miasma",
+        "npc-Session-1-Official-Business"
+      ],
+      "aliases": [],
+      "summary": "Corporate executive contact of Judith Dumont who advised that direct off-world escape from Jardin is blocked by identity controls.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Judith Dumont (Carla)]]",
+        "[[Miasma]]"
+      ]
+    },
+    {
+      "id": "location-Le-Palais-de-Continuit",
+      "title": "Le Palais de Continuité",
+      "path": "wiki/pages/Le-Palais-de-Continuit.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [
+        "location-Hall-des-Futurs-Choisis"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Les-Jardins-Ferm-s",
+      "title": "Les Jardins Fermés",
+      "path": "wiki/pages/Les-Jardins-Ferm-s.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Marcel-Delphine",
+      "title": "Marcel Delphine",
+      "path": "wiki/pages/Marcel-Delphine.md",
+      "type": "npc",
+      "tags": [
+        "npc"
+      ],
+      "links": [
+        "event-Mercier-Assassination",
+        "location-Hall-des-Futurs-Choisis",
+        "location-Arcosphere-Rousseau",
+        "organization-Jardin-Syndicate",
+        "npc-Alain-Mercier",
+        "item-Identity-Veils",
+        "organization-Jardin-Syndicate",
+        "unresolved:leo-duprey",
+        "npc-Alain-Mercier",
+        "organization-Jardin-Syndicate",
+        "location-Hall-des-Futurs-Choisis",
+        "organization-SolSec",
+        "unresolved:rousseau-arcology",
+        "unresolved:citizens-aid-cooperative",
+        "unresolved:the-floating-court"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "event-Mercier-Assassination",
+      "title": "Mercier Assassination",
+      "path": "wiki/pages/Mercier-Assassination.md",
+      "type": "event",
+      "tags": [
+        "event",
+        "session-1",
+        "assassination"
+      ],
+      "links": [
+        "npc-Alain-Mercier",
+        "location-Hall-des-Futurs-Choisis",
+        "character-Ciernan-Seanislav-Peter",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "event-Mercier-Frame-Up",
+        "npc-Alain-Mercier",
+        "npc-Elena-Verona",
+        "organization-Social-Solidarity",
+        "organization-Home-Guard",
+        "organization-Jardin-Syndicate"
+      ],
+      "aliases": [
+        "Mercier Murder",
+        "Mercer Assassination"
+      ],
+      "summary": "Minister Alain Mercier was killed at the Hall des Futurs Choisis after announcing that he would reveal corruption in Jardin's genetic records.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Alain Mercier]]",
+        "[[Hall des Futurs Choisis]]",
+        "[[Mercier Frame-Up]]"
+      ]
+    },
+    {
+      "id": "event-Mercier-Frame-Up",
+      "title": "Mercier Frame-Up",
+      "path": "wiki/pages/Mercier-Frame-Up.md",
+      "type": "event",
+      "tags": [
+        "event",
+        "session-1",
+        "propaganda"
+      ],
+      "links": [
+        "npc-Alain-Mercier",
+        "character-Zoy-Damon",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "character-Emma-Colbert-Laura",
+        "npc-Elena-Verona"
+      ],
+      "aliases": [
+        "Official Frame-Up",
+        "Mercier False Story"
+      ],
+      "summary": "The official story falsely blamed the Mercier assassination on the player characters and genetic outcasts.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Mercier Assassination]]",
+        "[[False News Broadcast]]"
+      ]
+    },
+    {
+      "id": "item-Merciers-Locked-Pad",
+      "title": "Mercier's Locked Pad",
+      "path": "wiki/pages/Merciers-Locked-Pad.md",
+      "type": "item",
+      "tags": [
+        "item",
+        "clue",
+        "session-1"
+      ],
+      "links": [
+        "npc-Alain-Mercier",
+        "event-Mercier-Assassination",
+        "event-Mercier-Frame-Up",
+        "npc-Alain-Mercier"
+      ],
+      "aliases": [
+        "Mercier's Tablet",
+        "Minister's Pad"
+      ],
+      "summary": "Locked tablet recovered from Alain Mercier's body after the assassination.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Alain Mercier]]",
+        "[[Mercier Assassination]]"
+      ]
+    },
+    {
+      "id": "location-Miasma",
+      "title": "Miasma",
+      "path": "wiki/pages/Miasma.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "world",
+        "session-1"
+      ],
+      "links": [
+        "location-Jardin",
+        "character-Judith-Dumont-Carla",
+        "npc-Keith-Morris"
+      ],
+      "aliases": [],
+      "summary": "A low-key destination one jump from Jardin, considered as a possible escape target.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Judith Dumont (Carla)]]",
+        "[[Keith Morris]]"
+      ]
+    },
+    {
+      "id": "location-Port-Sainte-Jeanne-Downport",
+      "title": "Port Sainte-Jeanne Downport",
+      "path": "wiki/pages/Port-Sainte-Jeanne-Downport.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Quartier-Danton",
+      "title": "Quartier Danton",
+      "path": "wiki/pages/Quartier-Danton.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Quartier-Sainte-Libert",
+      "title": "Quartier Sainte-Liberté",
+      "path": "wiki/pages/Quartier-Sainte-Libert.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
     {
       "id": "event-Research-Note-117A",
       "title": "Research Note 117A",
@@ -10,8 +727,273 @@
       "tags": [
         "event"
       ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Sarah-Gays-Son",
+      "title": "Sarah Gay's Son",
+      "path": "wiki/pages/Sarah-Gays-Son.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "contact",
+        "smuggler",
+        "session-1"
+      ],
       "links": [
-        "unresolved:Session-Zero"
+        "character-Emma-Colbert-Laura",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "npc-Session-1-Official-Business",
+        "location-Transstar-Sector-Exchange"
+      ],
+      "aliases": [
+        "Emma's Smuggler Contact"
+      ],
+      "summary": "Emma Colbert's smuggler contact; a mid-tier smuggler loyal to Emma within limits.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Emma Colbert (Laura)]]",
+        "[[Jardin Syndicate]]",
+        "[[Transstar Sector Exchange]]"
+      ]
+    },
+    {
+      "id": "npc-Session-1-Official-Business",
+      "title": "Session 1 Official Business",
+      "path": "wiki/pages/Session-1-Official-Business.md",
+      "type": "npc",
+      "tags": [],
+      "links": [
+        "event-Mercier-Assassination",
+        "event-Mercier-Frame-Up",
+        "npc-Marcel-Delphine",
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Alain-Mercier",
+        "organization-Social-Solidarity",
+        "organization-Home-Guard",
+        "character-Emma-Colbert-Laura",
+        "character-0-31-Saichi-Maru-Annette",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "item-Identity-Veils",
+        "event-Mercier-Assassination",
+        "event-Mercier-Frame-Up",
+        "event-False-News-Broadcast",
+        "item-Identity-Veils",
+        "item-Merciers-Locked-Pad",
+        "event-Friday-Party-Congress-Hearing",
+        "item-Sunken-Ship-Boat",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-Social-Solidarity",
+      "title": "Social Solidarity",
+      "path": "wiki/pages/Social-Solidarity.md",
+      "type": "organization",
+      "tags": [
+        "organization"
+      ],
+      "links": [
+        "npc-Session-1-Official-Business",
+        "npc-Elena-Verona",
+        "event-Mercier-Assassination",
+        "organization-SolSec"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-SolSec",
+      "title": "SolSec",
+      "path": "wiki/pages/SolSec.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "security"
+      ],
+      "links": [
+        "organization-Social-Solidarity",
+        "character-Emma-Colbert-Laura",
+        "npc-Session-1-Official-Business"
+      ],
+      "aliases": [
+        "Solomani Security"
+      ],
+      "summary": "Solomani security service focused on terrorism and external threats; distinct from Jardin's Social Solidarity.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Emma Colbert (Laura)]]",
+        "[[Social Solidarity]]"
+      ]
+    },
+    {
+      "id": "item-Sunken-Ship-Boat",
+      "title": "Sunken Ship-Boat",
+      "path": "wiki/pages/Sunken-Ship-Boat.md",
+      "type": "item",
+      "tags": [
+        "item",
+        "vehicle",
+        "escape",
+        "session-1"
+      ],
+      "links": [
+        "npc-Session-1-Official-Business"
+      ],
+      "aliases": [
+        "Broken Ship-Boat",
+        "Submerged Ship-Boat"
+      ],
+      "summary": "Possible submerged escape asset that may require a boat or submersible to reach and repair.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Cass Pien (Kolb)]]",
+        "[[Miasma]]"
+      ]
+    },
+    {
+      "id": "event-Timeline",
+      "title": "Timeline",
+      "path": "wiki/pages/Timeline.md",
+      "type": "event",
+      "tags": [
+        "timeline",
+        "event"
+      ],
+      "links": [
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Alain-Mercier",
+        "npc-Elena-Verona",
+        "organization-Home-Guard",
+        "character-0-31-Saichi-Maru-Annette",
+        "location-Arcosphere-Rousseau",
+        "npc-Marcel-Delphine",
+        "item-Identity-Veils",
+        "organization-Jardin-Syndicate",
+        "event-Mercier-Frame-Up",
+        "character-Zoy-Damon",
+        "item-Merciers-Locked-Pad",
+        "location-Transstar-Sector-Exchange",
+        "item-Sunken-Ship-Boat",
+        "location-Miasma"
+      ],
+      "aliases": [
+        "Campaign Timeline"
+      ],
+      "summary": "Chronological campaign timeline for Sparks of the Past.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Session 1 - Official Business]]"
+      ]
+    },
+    {
+      "id": "organization-Transstar",
+      "title": "Transstar",
+      "path": "wiki/pages/Transstar.md",
+      "type": "organization",
+      "tags": [
+        "organization"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Transstar-Sector-Exchange",
+      "title": "Transstar Sector Exchange",
+      "path": "wiki/pages/Transstar-Sector-Exchange.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [
+        "event-Mercier-Frame-Up",
+        "item-Identity-Veils"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Varian-Svazz-Allen",
+      "title": "Varian Svazz (Allen)",
+      "path": "wiki/pages/Varian-Svazz-Allen.md",
+      "type": "character",
+      "tags": [
+        "character"
+      ],
+      "links": [
+        "npc-Alain-Mercier"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Victor-Mendes-Steinbach",
+      "title": "Victor Mendes (Steinbach)",
+      "path": "wiki/pages/Victor-Mendes-Steinbach.md",
+      "type": "character",
+      "tags": [
+        "character"
+      ],
+      "links": [
+        "npc-Elena-Verona",
+        "location-Arcosphere-Rousseau"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Zoy-Damon",
+      "title": "Zoy (Damon)",
+      "path": "wiki/pages/Zoy-Damon.md",
+      "type": "character",
+      "tags": [
+        "character"
+      ],
+      "links": [
+        "event-Mercier-Assassination",
+        "event-False-News-Broadcast",
+        "npc-Alain-Mercier",
+        "organization-Jardin-Syndicate"
       ],
       "aliases": [],
       "summary": "",
