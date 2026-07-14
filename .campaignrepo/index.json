@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-14T04:17:18.046Z",
+  "pages": [
+    {
+      "id": "event-Research-Note-117A",
+      "title": "Research Note 117A",
+      "path": "wiki/pages/Research-Note-117A.md",
+      "type": "event",
+      "tags": [
+        "event"
+      ],
+      "links": [
+        "unresolved:Session-Zero"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    }
+  ]
+}
