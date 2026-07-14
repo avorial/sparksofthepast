@@ -68,7 +68,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "lore-Campaign",
@@ -204,7 +205,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "location-Customs-Immigration-Checkpoint-Harmony",
@@ -219,7 +221,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "character-Dan-Araujo-Josh",
@@ -371,7 +374,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "event-Friday-Party-Congress-Hearing",
@@ -427,7 +431,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "organization-Home-Guard",
@@ -636,7 +641,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "location-Les-Jardins-Ferm-s",
@@ -655,7 +661,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "npc-Lucin",
@@ -954,7 +961,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "location-Quartier-Danton",
@@ -969,7 +977,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "location-Quartier-Sainte-Libert",
@@ -984,7 +993,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "event-Research-Note-117A",
@@ -1337,7 +1347,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "character-Varian-Svazz-Allen",
