@@ -47,6 +47,14 @@ Astrogation 4, Leadership 3, Tactics (Naval) 2, Medic 2, Vacc Suit 2, Deception 
 - Recognized that the hidden routes beneath [[Arcosphere Rousseau]] resembled criminal access ways used in the cracks of Jardin society.
 - Returned to his apartment after the escape, noticed it had been disturbed, and left after saying aloud that he had done nothing wrong.
 - Lost a Social Solidarity tail before returning to the group.
+
+## Session 2 - Masks and Markers
+
+- Joined the Sainte-Liberte supply team and helped frame Lucin's errand as a low-risk way to gain a vehicle, trust, and an information broker.
+- Emphasized that the party should keep overwatch and reserves in place before attempting the delivery.
+- Pointed out that the group may have been chosen because their existing connections and expendability made them easy to frame as a conspiracy.
+- Supported using the recovered evidence to approach [[SolSec]] rather than trusting planetary security.
+
 - Unnamed Contact
 - Unnamed Contact
 - Unnamed Ally

@@ -45,6 +45,15 @@ Pilot (Spacecraft) 3, Diplomat 2, Mechanic 2, Medic 2, Admin 1, Astrogation 1, E
 - Carried Mercier's body briefly during the chaos and reported "man down" before complying.
 - Helped the group move through the escape and regroup afterward.
 - Contacted an education ally to retrieve belongings and obtain astrogation/navigation study material.
+
+## Session 2 - Masks and Markers
+
+- Accompanied [[0-31 Saichi Maru (Annette)]] to find a heavy charge source.
+- Identified the public shaming at the Grand Axis as a patriotic/civic discipline event rather than an immediate execution.
+- Used diplomacy and crowd energy to help distract attention while Saichi charged from a police mech.
+- Helped the group understand the public shaming as a revealing, systemic feature of Jardin's culture.
+- Returned with Saichi after she restored enough power to keep operating for the next phase.
+
 - Ally: Education close clique
 
 ## Equipment & Benefits

@@ -41,6 +41,8 @@ The frame-up also accused the group of killing Mercier's bodyguards. Some of tha
 - [[Emma Colbert (Laura)]] has a recording of the "kill them all" warning/order from her setup.
 - Mercier's locked pad may contain relevant evidence.
 - The public footage is known to include fake material.
+- The [[Mobile Data Tube]] recovered in [[Session 2 - Masks and Markers]] contains data suggesting Mercier was killed for the information he received.
+- [[Inspector Marc Valois]] and SolSec are being denied access by Social Solidarity, creating a possible non-planetary evidence channel.
 
 ## Open Questions
 
@@ -48,4 +50,4 @@ The frame-up also accused the group of killing Mercier's bodyguards. Some of tha
 - Who ordered Social Solidarity or Home Guard to kill the witnesses?
 - What will [[Elena Verona]] say as the surviving commissar?
 - Will the Friday hearing reveal who benefits from the cover story?
-
+- Can the recovered [[Mercier Genetic Findings]] be used without exposing the party to another trap?

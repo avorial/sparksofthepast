@@ -45,6 +45,8 @@ The killing appeared designed to implicate the gathered characters. Several char
 - The identity of the person or group "above" Mercier is unknown.
 - [[Marcel Delphine]] claims the [[Jardin Syndicate]] has unedited footage proving the characters did not shoot Mercier.
 - Marcel claims Mercier's true discovery pointed upward within the system, not at Syndicate genetic fraud.
+- Data recovered in [[Session 2 - Masks and Markers]] suggests Mercier was killed for genetic-marker research tied to extraordinary or psionic-like effects.
+- The same data may provide a possible avenue for understanding the impossible weapon or bullet behavior.
 
 ## Connected Pages
 
@@ -54,4 +56,5 @@ The killing appeared designed to implicate the gathered characters. Several char
 - [[Social Solidarity]]
 - [[Home Guard]]
 - [[Jardin Syndicate]]
-
+- [[Mercier Genetic Findings]]
+- [[Mobile Data Tube]]

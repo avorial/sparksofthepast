@@ -37,9 +37,14 @@ The identity veils are electronic masks or overlays provided by [[Marcel Delphin
 - They are not confirmed to fool direct human recognition.
 - They do not solve passport or genetic identity checks by themselves.
 - They are temporary.
+- By the end of [[Session 2 - Masks and Markers]], the group expects the veils to last for only one more game or short operational window.
+
+## Session 2 Use
+
+The group used the veils to move around Nouvelle Sainte-Jeanne in separate teams, including the Hall recon, Saichi's recharge, the Sainte-Liberte supply run, and Lucin's delivery to [[Chief Helene Marchand]]. The veils were treated as sufficient to fool routine cameras and security patrols, but not as a long-term identity solution.
 
 ## Connected Events
 
 - [[Mercier Frame-Up]]
 - [[Session 1 - Official Business]]
-
+- [[Session 2 - Masks and Markers]]

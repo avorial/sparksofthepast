@@ -501,6 +501,12 @@ Several portions of Minister Alain Mercier's controversial upcoming Party Congre
 
 What those findings reveal remains unknown.
 
+## Session 2 - Dome 2 Delivery
+
+During [[Session 2 - Masks and Markers]], the party picked up a sealed crate from Dome 2 after pressing a one-use communicator supplied by [[Lucin]]. A worker in blue overalls brought the crate out on a dolly and wished them good travels.
+
+The crate was delivered to [[Chief Helene Marchand]]'s secured residence and contained a corgi. The delivery may have been simple underworld favor-trading, political contraband, or something connected to the Gardens' genetic work.
+
 ---
 
 # Adventure Hooks

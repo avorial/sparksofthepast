@@ -11,6 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[Session 1 - Official Business]]"
+  - "[[Session 2 - Masks and Markers]]"
 aliases:
   - Campaign Timeline
 lastEditedBy: Codex
@@ -59,3 +60,41 @@ The official story becomes the [[Mercier Frame-Up]]. News broadcasts falsely bla
 - Find a boat/submersible and repair the [[Sunken Ship-Boat]].
 - Move within the Jardin system before attempting off-world escape to [[Miasma]] or elsewhere.
 
+## 144-1105 - Masks and Markers
+
+### Warehouse Morning
+
+The group wakes in Emma's off-grid warehouse. [[0-31 Saichi Maru (Annette)]] needs a heavy charge soon, the [[Identity Veils]] have limited time left, and the party agrees to split up while they can still move under disguised identities.
+
+### Hall Reconnaissance
+
+At the [[Hall des Futurs Choisis]], the recon team sees [[Social Solidarity]] denying [[SolSec]] access to the assassination evidence. [[Emma Colbert (Laura)]] recognizes [[Inspector Marc Valois]], a SolSec investigator tied to genetic and alien-biology crimes.
+
+### Mobile Data Tube
+
+Inside the Hall, [[Dr. Luc Moreau]] sends data through the plumbing in a [[Mobile Data Tube]]. Zoy and Cass recover it, and Emma disarms its self-destruct charge. The chip inside later reveals part of the [[Mercier Genetic Findings]].
+
+### Saichi Recharged
+
+At the Grand Axis, Saichi and Varian use a public shaming as cover. Saichi unplugs a police mech from a heavy charger and restores herself to roughly three days of noncombat power.
+
+### Sainte-Liberte Supply Run
+
+The supply team acquires food, medical supplies, water and hygiene goods, batteries, a repair kit, and [[Secure Burner Comms]]. They also meet [[Lucin]], a data broker who can arrange ammunition through a [[Transstar Sector Exchange]] contact.
+
+### Lucin's Delivery
+
+The party completes Lucin's errand, picking up a crate from Dome 2 of [[Les Jardins Fermes]] and delivering it to [[Chief Helene Marchand]]'s secured residence. The crate contains a corgi. The group keeps Lucin's trike.
+
+### Genetic Marker Revelation
+
+The recovered data suggests Mercier was working with decades of genetic-marker research tied to psionic-like or extraordinary abilities. The file is corrupted before its final conclusion, but known markers include HX-14, SC-9, MY22, and PX-4.
+
+### Next Decisions
+
+- Contact [[Marcel Delphine]] before the identity veils fail.
+- Get more or renewed [[Identity Veils]].
+- Use the recovered data to approach [[SolSec]] or clear the group's names.
+- Move to the [[Transstar Sector Exchange]] for safety and ammunition.
+- Compare the party's own genetic records against the recovered markers.
+- Continue attempts to open [[Mercier's Locked Pad]].

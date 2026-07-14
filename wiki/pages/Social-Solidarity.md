@@ -50,6 +50,12 @@ The transcript clarifies that on Jardin, Social Solidarity functions as the loca
 - Whether Verona knowingly participated in the frame-up or was herself responding to manipulated information is not confirmed.
 - The source of the "kill them all" warning/order received by Emma remains unresolved.
 
+## Session 2 Role
+
+During [[Session 2 - Masks and Markers]], Social Solidarity personnel blocked [[Inspector Marc Valois]] and [[SolSec]] from entering the [[Hall des Futurs Choisis]] investigation scene. Their stated argument was jurisdictional and political: [[Alain Mercier]] was a planetary official killed in a planetary government building, and a SolSec operative was implicated, so SolSec could not be trusted with evidence access.
+
+This confirms the rivalry between Social Solidarity and SolSec is now active inside the Mercier investigation. It also gives the party a possible wedge: evidence sent to the right SolSec channel might bypass the planetary narrative, but it could also escalate the conflict between agencies.
+
 To foreign observers it resembles a mixture of:
 
 * Internal Security Service

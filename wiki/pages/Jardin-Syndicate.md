@@ -59,6 +59,10 @@ The Syndicate had feared that [[Alain Mercier]] had discovered their activity, b
 - It may help the group because their survival hurts mutual enemies, not because of altruism alone.
 - Marcel does not give the unedited footage freely.
 
+## Session 2 - Underworld Contact
+
+In [[Session 2 - Masks and Markers]], the group met [[Lucin]], a Sainte-Liberte data broker who may or may not be connected to [[Marcel Delphine]] or the wider Syndicate. The party deliberately avoided invoking Marcel's name. Lucin's successful delivery job gave the group a vehicle, a minor underworld credential, and a possible path to ammunition through [[Transstar Sector Exchange]].
+
 **Status:** Active
 
 **Known Leader:** [[Marcel Delphine]] ("The Shepherd")

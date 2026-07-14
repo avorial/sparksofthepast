@@ -211,6 +211,13 @@ Tactics (Naval) 3, Leadership 3, Stealth 2, Profession (Belter) 2, Gun Combat (S
 - Contacted allies afterward: a lover to recover belongings, smuggling contacts for escape options, a reporter/investigative contact, and someone who can listen at the [[Friday Party Congress Hearing]].
 - Learned of the [[Sunken Ship-Boat]] as a possible escape asset.
 
+## Session 2 - Masks and Markers
+
+- Joined the Hall recon team and helped investigate the anxious Hall scientist, later identified as [[Dr. Luc Moreau]].
+- Entered the bathroom with [[Zoy (Damon)]] while following Moreau's suspicious movement through the Hall.
+- Assisted in recovering the [[Mobile Data Tube]] from the bathroom plumbing before it could escape or destroy its contents.
+- Continued pushing for actionable evidence that could clear the group or expose the frame-up.
+
 - Ally: Romantic
 - Unnamed Ally
 - Contact: Solomani Guerrillas

@@ -490,6 +490,10 @@ Emma's smuggler contact identified the Transstar Sector Exchange as a possible r
 
 The contact compared it to a corporate enclave or embassy-like safe zone. If the [[Identity Veils]] begin to fail, reaching the Exchange may allow the group to speak more openly with contacts and seek corporate or smuggling options.
 
+## Session 2 - Ammunition Lead
+
+During [[Session 2 - Masks and Markers]], [[Lucin]] claimed he has a broker in Transstar who can provide military-grade ammunition if the group supplies the weapon models and credits. The GM also flagged Transstar as a safer next destination where the party might pick up ammunition and avoid being ambushed in the warehouse district.
+
 ---
 :::gm
 # Referee Notes

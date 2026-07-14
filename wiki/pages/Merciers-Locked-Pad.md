@@ -31,6 +31,7 @@ Mercier's locked pad was recovered from [[Alain Mercier]] after his assassinatio
 - An attempted hack failed.
 - Four attempts remain before the pad wipes itself.
 - Its contents are unknown.
+- At the end of [[Session 2 - Masks and Markers]], the group still intends to revisit the pad, but has not opened it.
 
 ## Importance
 
@@ -41,4 +42,4 @@ The pad may contain evidence of the genetic-file corruption Mercier intended to 
 - [[Mercier Assassination]]
 - [[Mercier Frame-Up]]
 - [[Alain Mercier]]
-
+- [[Mercier Genetic Findings]]

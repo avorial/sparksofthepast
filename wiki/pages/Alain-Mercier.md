@@ -115,6 +115,12 @@ Items recovered from Mercier:
 
 [[Marcel Delphine]] later claimed Mercier's real discovery pointed to corruption "from above," not to the [[Jardin Syndicate]]'s genetic identity manipulation.
 
+## Session 2 - Recovered Research
+
+During [[Session 2 - Masks and Markers]], the party recovered a [[Mobile Data Tube]] from the Hall's plumbing. Its message stated that Mercier had been killed for data given to him. The chip inside contained part of the [[Mercier Genetic Findings]]: long-term genetic-marker research tied to extraordinary or psionic-like effects.
+
+The file is corrupted before its final conclusion, but the recovered material strongly suggests Mercier's planned disclosure was more than ordinary record fraud.
+
 ---
 
 ## Press Materials

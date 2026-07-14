@@ -54,7 +54,7 @@ Marcel gave the group [[Identity Veils]] that can fool camera recognition for ab
 - [[Marcel Delphine]] - rescued the group and offered identity veils.
 - [[Elena Verona]] - Social Solidarity commissar present during the frame-up.
 - [[Keith Morris]] - Judith's corporate executive contact; advised that direct off-world travel is blocked by identity/passport controls.
-- [[Sarah Gay's Son]] - Emma's smuggler contact; provided information about Marcel and the Transstar Sector Exchange.
+- [[Nico Gay]] - Emma's smuggler contact; provided information about Marcel and the Transstar Sector Exchange.
 - [[Carlos]] - old Navy acquaintance tied to Cass and possible future jump contacts; identity needs review.
 
 ## Places

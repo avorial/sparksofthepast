@@ -44,10 +44,9 @@ The robot is operated by Annette and is built around battlefield awareness, corr
 
 ## Updates
 
-
-
-
-No campaign events have been recorded yet.
+- In [[Session 2 - Masks and Markers]], Saichi warned the group she needed a heavy charge within about a day unless she avoided combat.
+- Saichi and Varian used a public shaming at the Grand Axis as cover to access a police mech charger.
+- Saichi unplugged the mech, charged herself, and restored roughly three days of noncombat power.
 
 ## Character Sheet
 
@@ -223,6 +222,15 @@ notes:
 - Killed the pilot of the attacking walker/mech without destroying the machine, enabling the group to ride it down the building.
 - Took damage in the descent and was repaired afterward by [[Dan Araujo (Josh)]].
 - Built or placed a tracker for [[Marcel Delphine]]'s communicator so the group would not lose it.
+
+## Session 2 - Masks and Markers
+
+- Made her power needs a priority for the group before they split up.
+- Traveled under an [[Identity Veils|Identity Veil]] that made her appear as a similar but different robot model.
+- Went with [[Varian Svazz (Allen)]] to find a heavy charge source while the others investigated the Hall and gathered supplies.
+- Used the public shaming at the Grand Axis as cover to reach a police mech charger.
+- Recharged from the police mech during the crowd distraction and left the mech unplugged.
+- Returned to the warehouse with enough power to keep operating for the next phase.
 
 - Unnamed Ally
 - Unnamed Contact

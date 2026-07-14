@@ -47,6 +47,14 @@ Gun Combat (Slug) 3, Heavy Weapons (Manportable) 2, Vacc Suit 2, Athletics (Endu
 - Helped support the walker/mech descent while Emma drove.
 - Hid or moved heavy gear afterward, including a minigun, with help from the group.
 
+## Session 2 - Masks and Markers
+
+- Joined the Sainte-Liberte supply team and prioritized ammunition, repair tools, and practical survival needs.
+- Used his broker skills to acquire ordinary supplies without immediately exposing the group through identity-linked payments.
+- Helped create [[Secure Burner Comms]] from cheap phones and parts.
+- Met [[Lucin]] with Dan and the supply team, opening a path to ammunition through a Transstar broker.
+- Compared the recovered [[Mercier Genetic Findings]] to his own genetic papers. The identified markers do not appear in his records.
+
 - Rival: Betrayer
 - Enemy: Pressik Voss, space pirate and reptilian rascal who seeks destruction for destruction's sake
 - Enemy: Pirates/Corsairs

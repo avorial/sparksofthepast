@@ -46,6 +46,15 @@ Engineer (J-drive) 3, Mechanic 2, Investigate 2, Vacc Suit 2, Astrogation 1, Dip
 - After reaching the hideout, repaired [[0-31 Saichi Maru (Annette)]] after the walker descent.
 - Focused on tangible technical work rather than drawing attention through risky computer searches.
 
+## Session 2 - Masks and Markers
+
+- Joined the Sainte-Liberte supply team.
+- Helped secure a repair kit that should provide bonuses on the next few repair attempts.
+- Spoke with [[Lucin]] and helped turn the supply run into a data-broker contact.
+- Became surprisingly enthusiastic about doing "criminal" work well, while still insisting he is not a criminal by nature.
+- Supported the Lucin delivery plan as a way to gain a vehicle and a possible underworld information channel.
+- Helped complete the daylight crate delivery from [[Les Jardins Fermes]] to [[Chief Helene Marchand]]'s secured residence.
+
 - Rival: Racial Incident
 
 ## Equipment & Benefits

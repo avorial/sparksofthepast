@@ -47,6 +47,14 @@ Astrogation 2, Recon 3, Stealth 3, Survival 2, Streetwise 2, Profession (Belter)
 - His criminal/underworld contacts were treated as linked to the [[Jardin Syndicate]] for gear recovery.
 - The public story makes Zoy especially visible as a scapegoat.
 
+## Session 2 - Masks and Markers
+
+- Entered the [[Hall des Futurs Choisis]] bathroom with Cass while following an anxious Hall scientist.
+- Climbed above the stall and saw the scientist place a data stick into a metal tube before flushing it.
+- Helped recover the [[Mobile Data Tube]] from the plumbing before it escaped.
+- Carried the tube out covertly so Emma could disarm it and access the data chip.
+- Reviewed the recovered data with [[Emma Colbert (Laura)]] back at the warehouse, tying it to Mercier's genetic-marker research.
+
 - Contact: underworld connections
 - Contact: underworld connections
 - Contact: Imperial Starport Authority

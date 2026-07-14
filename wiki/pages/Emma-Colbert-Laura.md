@@ -45,8 +45,18 @@ Broker 2, Carouse 2, Deception 2, Electronics (Comms) 2, Persuade 2, Advocate 1,
 - Opened fire on a Home Guard guard, triggering the group's active escape.
 - Provided or had access to a safe warehouse with shower and stored food where the group could regroup.
 - Held or was trusted with [[Marcel Delphine]]'s one-use communicator.
-- Contacted [[Sarah Gay's Son]], a smuggler contact, and learned more about [[Marcel Delphine]], the [[Jardin Syndicate]], and the [[Transstar Sector Exchange]] as a potential refuge.
+- Contacted [[Nico Gay]], a smuggler contact, and learned more about [[Marcel Delphine]], the [[Jardin Syndicate]], and the [[Transstar Sector Exchange]] as a potential refuge.
 - Retained a recording of the "kill them all" warning/order.
+
+## Session 2 - Masks and Markers
+
+- Joined the recon team returning to the [[Hall des Futurs Choisis]] under an [[Identity Veils|Identity Veil]].
+- Recognized [[Inspector Marc Valois]], a SolSec investigator tied to genetic and alien-biology crimes.
+- Observed that [[Social Solidarity]] was actively blocking [[SolSec]] access to the assassination scene.
+- Intercepted outgoing phone data from the Hall and set up a limited comms tap forwarding calls to a server she may be able to access.
+- Helped secure and disarm the [[Mobile Data Tube]], preserving the data chip inside.
+- Interpreted the recovered [[Mercier Genetic Findings]], including markers HX-14, SC-9, MY22, and PX-4.
+- Suggested checking the party's own genetic records to see whether any of them carry the recovered markers.
 
 Emma has an extensive SolSec contact network including Captain Anna Pereira, Christine Hernandez, Anita Hussain, Nancy Wang, Anita Singh, Sergey Sun, Captain Irina Lal, Sergeant Andrea Jin, Lieutenant Robert Rodriguez, Pedro He, Secretary Daniel Garcia, Luis Zhang, Laura Yuan, Nainod, Fatima Yu, Mayer Meeks, and a compartmentalized Marc Duncan bureaucracy contact.
 

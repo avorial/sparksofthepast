@@ -1,7 +1,7 @@
 ---
 category: npc
 type: npc
-name: Sarah Gay's Son
+name: Nico Gay
 summary: Emma Colbert's smuggler contact; a mid-tier smuggler loyal to Emma within limits.
 tags:
   - npc
@@ -17,15 +17,16 @@ keyLinks:
   - "[[Transstar Sector Exchange]]"
 aliases:
   - Emma's Smuggler Contact
+  - Nicolas Gay
 lastEditedBy: Codex
 allegiance: ""
 ---
 
-# Sarah Gay's Son
+# Nico Gay
 
 ## Overview
 
-Sarah Gay's son is an unnamed mid-tier smuggler contact of [[Emma Colbert (Laura)]]. The transcript describes him as oddly loyal to Emma, provided she does not ask him to betray family or front crew.
+Nico Gay is the son of Sarah Gay and a mid-tier smuggler contact of [[Emma Colbert (Laura)]]. The transcript describes him as oddly loyal to Emma, provided she does not ask him to betray family or front crew.
 
 He gave Emma background on [[Marcel Delphine]] and the [[Jardin Syndicate]], saying the Syndicate is unlikely to betray the group as long as they deal honestly while down and out.
 
@@ -39,7 +40,6 @@ He gave Emma background on [[Marcel Delphine]] and the [[Jardin Syndicate]], say
 - The Syndicate is generally useful to the desperate or excluded.
 - The [[Transstar Sector Exchange]] is an independent legal entity and potential refuge if the group's identity veils begin to fail.
 
-## Human Review
+## Name Note
 
-The contact's personal name is not present in the transcript.
-
+The transcript identified him by family connection rather than personal name; Nico Gay is an assigned campaign name.

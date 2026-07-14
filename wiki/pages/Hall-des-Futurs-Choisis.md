@@ -574,6 +574,12 @@ Shortly after a news broadcast about [[Alain Mercier]] and genetic-file corrupti
 - [[Home Guard]] and [[Social Solidarity]] personnel responded quickly.
 - A walker/mech later breached the window during the group's escape.
 
+## Session 2 - Aftermath Recon
+
+The next day, the party returned under [[Identity Veils]] and found the exterior repairs already underway. Scaffolding covered the wall damaged during the walker escape, and security preparation was visible around the nearby Palace of Continuity in anticipation of protests or unrest.
+
+[[Social Solidarity]] personnel were blocking [[Inspector Marc Valois]] and [[SolSec]] from accessing the assassination scene. Inside the Hall, [[Dr. Luc Moreau]] tried to send data out through the plumbing in a [[Mobile Data Tube]]. The party intercepted it and later recovered part of the [[Mercier Genetic Findings]].
+
 ---
 :::gm
 # Referee Notes
