@@ -37,7 +37,7 @@
         "npc"
       ],
       "links": [
-        "npc-Session-1-Official-Business",
+        "game-Session-1-Official-Business",
         "npc-Hall-des-Futurs-Choisis",
         "item-Merciers-Locked-Pad",
         "npc-Marcel-Delphine",
@@ -107,7 +107,7 @@
       ],
       "links": [
         "character-Cass-Pien-Kolb",
-        "npc-Session-1-Official-Business"
+        "game-Session-1-Official-Business"
       ],
       "aliases": [
         "Carlos Contax"
@@ -286,7 +286,7 @@
         "npc-Hall-des-Futurs-Choisis",
         "event-Mercier-Assassination",
         "character-Victor-Mendes-Steinbach",
-        "npc-Session-1-Official-Business",
+        "game-Session-1-Official-Business",
         "event-Mercier-Frame-Up"
       ],
       "aliases": [
@@ -458,7 +458,7 @@
         "game-Session-2-Masks-and-Markers",
         "npc-Chief-Helene-Marchand",
         "event-Mercier-Frame-Up",
-        "npc-Session-1-Official-Business",
+        "game-Session-1-Official-Business",
         "game-Session-2-Masks-and-Markers"
       ],
       "aliases": [
@@ -543,7 +543,7 @@
         "organization"
       ],
       "links": [
-        "npc-Session-1-Official-Business",
+        "game-Session-1-Official-Business",
         "npc-Marcel-Delphine",
         "npc-Alain-Mercier",
         "event-Mercier-Frame-Up",
@@ -600,7 +600,7 @@
       "links": [
         "character-Judith-Dumont-Carla",
         "location-Miasma",
-        "npc-Session-1-Official-Business"
+        "game-Session-1-Official-Business"
       ],
       "aliases": [],
       "summary": "Corporate executive contact of Judith Dumont who advised that direct off-world escape from Jardin is blocked by identity controls.",
@@ -912,7 +912,7 @@
         "character-Emma-Colbert-Laura",
         "npc-Marcel-Delphine",
         "organization-Jardin-Syndicate",
-        "npc-Session-1-Official-Business",
+        "game-Session-1-Official-Business",
         "npc-Transstar-Sector-Exchange"
       ],
       "aliases": [
@@ -1001,15 +1001,16 @@
       ]
     },
     {
-      "id": "npc-Session-1-Official-Business",
-      "title": "Session 1 Official Business",
+      "id": "game-Session-1-Official-Business",
+      "title": "Session 1 - Official Business",
       "path": "wiki/pages/Session-1-Official-Business.md",
-      "type": "npc",
-      "tags": [],
+      "type": "game",
+      "tags": [
+        "session",
+        "game",
+        "session-1"
+      ],
       "links": [
-        "event-Mercier-Assassination",
-        "event-Mercier-Frame-Up",
-        "npc-Marcel-Delphine",
         "npc-Hall-des-Futurs-Choisis",
         "npc-Alain-Mercier",
         "organization-Social-Solidarity",
@@ -1048,11 +1049,19 @@
         "character-Victor-Mendes-Steinbach",
         "character-Zoy-Damon"
       ],
-      "aliases": [],
-      "summary": "",
-      "visibility": "gm",
+      "aliases": [
+        "Game 1",
+        "Chapter 1 Game 1",
+        "Stars g1"
+      ],
+      "summary": "Opening session: the group is framed for Alain Mercier's assassination and rescued by Marcel Delphine.",
+      "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [
+        "[[Mercier Assassination]]",
+        "[[Mercier Frame-Up]]",
+        "[[Marcel Delphine]]"
+      ]
     },
     {
       "id": "game-Session-2-Masks-and-Markers",
@@ -1148,7 +1157,7 @@
         "organization"
       ],
       "links": [
-        "npc-Session-1-Official-Business",
+        "game-Session-1-Official-Business",
         "npc-Elena-Verona",
         "event-Mercier-Assassination",
         "organization-SolSec",
@@ -1181,7 +1190,7 @@
         "event-Mercier-Assassination",
         "npc-Hall-des-Futurs-Choisis",
         "organization-Social-Solidarity",
-        "npc-Session-1-Official-Business",
+        "game-Session-1-Official-Business",
         "game-Session-2-Masks-and-Markers"
       ],
       "aliases": [
@@ -1208,7 +1217,7 @@
         "session-1"
       ],
       "links": [
-        "npc-Session-1-Official-Business"
+        "game-Session-1-Official-Business"
       ],
       "aliases": [
         "Broken Ship-Boat",
