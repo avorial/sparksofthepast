@@ -14,6 +14,45 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
+## Contents
+
+- [The Palace of Continuity](#the-palace-of-continuity)
+- [Overview](#overview)
+- [Session 1 Note](#session-1-note)
+- [History](#history)
+  - [Colonial Administration (Years 0-120)](#colonial-administration-years-0-120)
+  - [The Unification Crisis (Year 147)](#the-unification-crisis-year-147)
+  - [The Century of Planning (Years 280-450)](#the-century-of-planning-years-280-450)
+  - [Modern Era](#modern-era)
+- [Architecture](#architecture)
+- [Major Facilities](#major-facilities)
+  - [Office of the Supreme Presidency](#office-of-the-supreme-presidency)
+  - [Chamber of Continuity](#chamber-of-continuity)
+  - [Hall of Founders](#hall-of-founders)
+  - [Directorate Wing](#directorate-wing)
+  - [Archives of Continuity](#archives-of-continuity)
+- [Government Functions](#government-functions)
+  - [Executive Administration](#executive-administration)
+  - [Strategic Planning](#strategic-planning)
+  - [Foreign Relations](#foreign-relations)
+  - [Emergency Management](#emergency-management)
+  - [National Security](#national-security)
+- [Current Leadership](#current-leadership)
+  - [Supreme President Leo Duprey](#supreme-president-leo-duprey)
+  - [Hélène Marchand](#h-l-ne-marchand)
+  - [Alain Mercier](#alain-mercier)
+- [Security](#security)
+- [Daily Life](#daily-life)
+- [Cultural Significance](#cultural-significance)
+- [Common Sayings](#common-sayings)
+  - ["All roads lead to Continuity."](#all-roads-lead-to-continuity)
+  - ["The Palace remembers."](#the-palace-remembers)
+  - ["Ask the Tower."](#ask-the-tower)
+- [Rumors and Secrets](#rumors-and-secrets)
+- [Traveller Information](#traveller-information)
+- [Adventure Hooks](#adventure-hooks)
+- [Referee Notes](#referee-notes)
+
 # Le Palais de Continuité
 
 ## The Palace of Continuity

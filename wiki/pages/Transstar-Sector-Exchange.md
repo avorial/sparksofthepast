@@ -14,6 +14,52 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
+## Contents
+
+- [Transstar Sector Exchange](#transstar-sector-exchange)
+- [Overview](#overview)
+- [History](#history)
+  - [Foundation](#foundation)
+  - [The Great Expansion](#the-great-expansion)
+- [Governance](#governance)
+- [The Exchange Authority](#the-exchange-authority)
+- [Exchange Security Bureau](#exchange-security-bureau)
+  - [Corporate Police](#corporate-police)
+- [Relationship with Social Solidarity](#relationship-with-social-solidarity)
+- [Relationship with SolSec](#relationship-with-solsec)
+- [Architecture](#architecture)
+- [Major Districts](#major-districts)
+  - [The Grand Market](#the-grand-market)
+  - [Transstar Plaza](#transstar-plaza)
+  - [Meridian Financial Quarter](#meridian-financial-quarter)
+  - [International Concourse](#international-concourse)
+  - [Broker's Row](#broker-s-row)
+- [Commerce](#commerce)
+- [Foreign Presence](#foreign-presence)
+- [Criminal Activity](#criminal-activity)
+- [The Jardin Syndicate](#the-jardin-syndicate)
+- [Notable Individuals](#notable-individuals)
+  - [Antoine Mercier](#antoine-mercier)
+  - [Isabelle Fournier](#isabelle-fournier)
+  - [Lucien Voss](#lucien-voss)
+  - [Mara Kovalenko](#mara-kovalenko)
+- [Public Reputation](#public-reputation)
+- [Rumors](#rumors)
+  - [The Hidden Market](#the-hidden-market)
+  - [The Ghost Accounts](#the-ghost-accounts)
+  - [The Syndicate Ledger](#the-syndicate-ledger)
+  - [The Foreign Vault](#the-foreign-vault)
+- [Adventure Hooks](#adventure-hooks)
+    - [Market Crash](#market-crash)
+    - [Missing Broker](#missing-broker)
+    - [Corporate War](#corporate-war)
+    - [Syndicate Money](#syndicate-money)
+    - [SolSec Investigation](#solsec-investigation)
+    - [The Sealed Vault](#the-sealed-vault)
+  - [Session 1 - Potential Refuge](#session-1-potential-refuge)
+  - [Session 2 - Ammunition Lead](#session-2-ammunition-lead)
+- [Referee Notes](#referee-notes)
+
 # Secteur d'Échange Transstar
 # Transstar Sector Exchange
 

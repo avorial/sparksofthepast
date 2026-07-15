@@ -18,6 +18,11 @@ lastEditedBy: Codex
 parent: ""
 ---
 
+## Contents
+
+- [Overview](#overview)
+- [Session 1 Notes](#session-1-notes)
+
 # Miasma
 
 ## Overview

@@ -14,6 +14,36 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
+## Contents
+
+- [Overview](#overview)
+- [First Impressions](#first-impressions)
+- [Philosophy](#philosophy)
+- [Structure](#structure)
+  - [Maisons](#maisons)
+- [Mentors](#mentors)
+- [Education](#education)
+- [Daily Life](#daily-life)
+- [The Memory Gardens](#the-memory-gardens)
+- [Relationship with Biological Parents](#relationship-with-biological-parents)
+- [Public Opinion](#public-opinion)
+- [Security](#security)
+- [Notable Locations](#notable-locations)
+  - [Hall of First Steps](#hall-of-first-steps)
+  - [Unity Stadium](#unity-stadium)
+  - [Garden of Futures](#garden-of-futures)
+  - [The Reflection Pool](#the-reflection-pool)
+- [Notable Individuals](#notable-individuals)
+  - [Director Elise Fournier](#director-elise-fournier)
+  - [Mentor Jean Mercier](#mentor-jean-mercier)
+  - [Dr. Amelie Rousseau](#dr-amelie-rousseau)
+- [What Foreigners Notice](#what-foreigners-notice)
+- [Rumors](#rumors)
+  - [The Lost Maison](#the-lost-maison)
+  - [The Original Children](#the-original-children)
+  - [The Questionnaires](#the-questionnaires)
+- [Referee Notes](#referee-notes)
+
 # Crèche District 14
 
 *"Every Child, A Future."*

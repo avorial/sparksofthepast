@@ -14,6 +14,51 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
+## Contents
+
+- [Poste d'Harmonie Frontalière](#poste-d-harmonie-frontali-re)
+- [Overview](#overview)
+- [First Impressions](#first-impressions)
+- [Architecture](#architecture)
+- [Primary Divisions](#primary-divisions)
+  - [Immigration Processing Hall](#immigration-processing-hall)
+  - [Citizen Services Bureau](#citizen-services-bureau)
+  - [Customs Inspection Complex](#customs-inspection-complex)
+  - [Biosecurity Division](#biosecurity-division)
+  - [Visitor Orientation Center](#visitor-orientation-center)
+- [Social Solidarity Presence](#social-solidarity-presence)
+- [SolSec Liaison Office](#solsec-liaison-office)
+- [The Arrival Assessment](#the-arrival-assessment)
+- [Processing Categories](#processing-categories)
+  - [Green Channel](#green-channel)
+  - [Blue Channel](#blue-channel)
+  - [Silver Channel](#silver-channel)
+  - [Red Channel](#red-channel)
+- [Notable Locations](#notable-locations)
+  - [Hall of Welcome](#hall-of-welcome)
+  - [The Registry Atrium](#the-registry-atrium)
+  - [Observation Gallery](#observation-gallery)
+  - [Quarantine Annex](#quarantine-annex)
+- [Notable Individuals](#notable-individuals)
+  - [Director Simone Laurent](#director-simone-laurent)
+  - [Inspector Gabriel Rousseau](#inspector-gabriel-rousseau)
+  - [Commissioner Elise Martin](#commissioner-elise-martin)
+  - [Agent Luc Deschamps](#agent-luc-deschamps)
+- [Public Reputation](#public-reputation)
+- [Rumors](#rumors)
+  - [The Forgotten Traveler](#the-forgotten-traveler)
+  - [The Hidden Registry](#the-hidden-registry)
+  - [The Watch List](#the-watch-list)
+  - [The Silent Room](#the-silent-room)
+- [Adventure Hooks](#adventure-hooks)
+    - [Missing Passenger](#missing-passenger)
+    - [Smuggled Data](#smuggled-data)
+    - [False Identity](#false-identity)
+    - [Quarantine Alert](#quarantine-alert)
+    - [SolSec Request](#solsec-request)
+    - [The Red Channel](#the-red-channel)
+- [Referee Notes](#referee-notes)
+
 # Customs & Immigration Checkpoint Harmony
 # Poste d'Harmonie Frontalière
 
