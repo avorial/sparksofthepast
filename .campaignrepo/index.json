@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T17:05:10.555Z",
+  "generatedAt": "2026-07-15T00:13:52.459Z",
   "pages": [
     {
       "id": "character-0-31-Saichi-Maru-Annette",
@@ -995,21 +995,6 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
-    },
-    {
-      "id": "event-Research-Note-117A",
-      "title": "Research Note 117A",
-      "path": "wiki/pages/Research-Note-117A.md",
-      "type": "event",
-      "tags": [
-        "event"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
     },
     {
       "id": "item-Secure-Burner-Comms",
