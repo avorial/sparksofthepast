@@ -56,12 +56,14 @@
       "id": "npc-Arcosphere-Rousseau",
       "title": "Arcosphere Rousseau",
       "path": "wiki/pages/Arcosphere-Rousseau.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
@@ -189,28 +191,32 @@
     },
     {
       "id": "npc-Cr-che-District-14",
-      "title": "Cr che District 14",
+      "title": "Crèche District 14",
       "path": "wiki/pages/Cr-che-District-14.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
     },
     {
       "id": "npc-Customs-Immigration-Checkpoint-Harmony",
-      "title": "Customs Immigration Checkpoint Harmony",
+      "title": "Customs & Immigration Checkpoint Harmony",
       "path": "wiki/pages/Customs-Immigration-Checkpoint-Harmony.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
@@ -356,12 +362,14 @@
       "id": "npc-Fort-Robespierre-Naval-Annex",
       "title": "Fort Robespierre Naval Annex",
       "path": "wiki/pages/Fort-Robespierre-Naval-Annex.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
@@ -399,12 +407,14 @@
       "id": "npc-Hall-des-Futurs-Choisis",
       "title": "Hall des Futurs Choisis",
       "path": "wiki/pages/Hall-des-Futurs-Choisis.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
@@ -603,28 +613,32 @@
     },
     {
       "id": "npc-Le-Palais-de-Continuit",
-      "title": "Le Palais de Continuit",
+      "title": "Le Palais de Continuité",
       "path": "wiki/pages/Le-Palais-de-Continuit.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
     },
     {
       "id": "npc-Les-Jardins-Ferm-s",
-      "title": "Les Jardins Ferm s",
+      "title": "Les Jardins Fermés",
       "path": "wiki/pages/Les-Jardins-Ferm-s.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
@@ -916,14 +930,16 @@
     },
     {
       "id": "npc-Port-Sainte-Jeanne-Downport",
-      "title": "Port Sainte Jeanne Downport",
+      "title": "Port Sainte-Jeanne Downport",
       "path": "wiki/pages/Port-Sainte-Jeanne-Downport.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
@@ -932,26 +948,30 @@
       "id": "npc-Quartier-Danton",
       "title": "Quartier Danton",
       "path": "wiki/pages/Quartier-Danton.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
     },
     {
       "id": "npc-Quartier-Sainte-Libert",
-      "title": "Quartier Sainte Libert",
+      "title": "Quartier Sainte-Liberté",
       "path": "wiki/pages/Quartier-Sainte-Libert.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
@@ -1278,12 +1298,14 @@
       "id": "npc-Transstar-Sector-Exchange",
       "title": "Transstar Sector Exchange",
       "path": "wiki/pages/Transstar-Sector-Exchange.md",
-      "type": "npc",
-      "tags": [],
+      "type": "location",
+      "tags": [
+        "location"
+      ],
       "links": [],
       "aliases": [],
       "summary": "",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
