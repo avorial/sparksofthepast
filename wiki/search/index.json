@@ -1,0 +1,2460 @@
+[
+  {
+    "id": "3:0-31-Saichi-Maru-Annette",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "0-31-Saichi-Maru-Annette",
+    "title": "0-31 Saichi Maru (Annette)",
+    "category": "character",
+    "summary": "Security walker robot configured for gunner and shipboard defense duties.",
+    "tags": [
+      "character",
+      "robot"
+    ],
+    "aliases": [
+      "Saichi"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 2 - Masks and Markers",
+      "Hall des Futurs Choisis",
+      "Mercier Assassination",
+      "Dan Araujo (Josh)",
+      "Marcel Delphine",
+      "Identity Veils",
+      "Varian Svazz (Allen)"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Dan-Araujo-Josh",
+      "Identity-Veils",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline",
+      "Timeline",
+      "Varian-Svazz-Allen"
+    ],
+    "keyLinks": [],
+    "excerpt": "# 0-31 Saichi Maru (Annette) *Security Walker Robot* **Designation:** 0-31 Saichi Maru | **Type:** Size 5 walker robot | **TL:** 12+ | **Status:** Active | **Owner:** Annette ![0-31 Saichi Maru portrait](/wiki/media/Saichi-Maru-HEAD.png) | Field | Value | | ----- | ----- | | Designation | 0-31 Saich"
+  },
+  {
+    "id": "3:Alain-Mercier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Alain-Mercier",
+    "title": "Alain Mercier",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 1 - Official Business",
+      "Hall des Futurs Choisis",
+      "Mercier's Locked Pad",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Session 2 - Masks and Markers",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings"
+    ],
+    "backlinks": [
+      "False-News-Broadcast",
+      "Friday-Party-Congress-Hearing",
+      "Inspector-Marc-Valois",
+      "Jardin-Syndicate",
+      "Judith-Dumont-Carla",
+      "Marcel-Delphine",
+      "Marcel-Delphine",
+      "Mercier-Assassination",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Mercier-Genetic-Findings",
+      "Merciers-Locked-Pad",
+      "Merciers-Locked-Pad",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Social-Solidarity",
+      "Timeline",
+      "Varian-Svazz-Allen",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Alain Mercier ## Basic Information **Full Name:** Alain Étienne Mercier **Species:** Human (Solomani) **Citizenship:** Solomani Confederation (Jardin) **Birth Year:** 1061 **Birthplace:** Nouvelle Sainte-Jeanne, Jardin **Occupation:** Minister of Genetics, Government of Jardin **Political Affiliat"
+  },
+  {
+    "id": "3:Arcosphere-Rousseau",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Arcosphere-Rousseau",
+    "title": "Arcosphere Rousseau",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Jardin",
+      "Jardin-Syndicate",
+      "Marcel-Delphine",
+      "Timeline",
+      "Victor-Mendes-Steinbach"
+    ],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Arcosphère Rousseau ## Rousseau Arcology **Location:** Central Nouvelle Sainte-Jeanne, Jardin **Type:** Urban Arcology, Residential Megastructure, Commercial Hub **Administrative Authority:** Arcology Administration Directorate **Governor:** Adrien Pelletier **Population:** 1.8 Billion Permanent R"
+  },
+  {
+    "id": "3:Campaign",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Campaign",
+    "title": "Campaign",
+    "category": "lore",
+    "summary": "",
+    "tags": [
+      "lore"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)",
+      "NPC",
+      "Table Rules"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Sparks From the Past Welcome to the campaign hub for **Sparks From the Past**. This wiki contains the campaign setting, session notes, player characters, NPCs, locations, handouts, and world lore. If it has happened in the game, it belongs here. --- ## Campaign Overview The year is **1105 Imperial"
+  },
+  {
+    "id": "3:Carlos",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Carlos",
+    "title": "Carlos",
+    "category": "npc",
+    "summary": "Old Navy acquaintance associated with a poker game on the Venture; possibly connected to future jump contacts.",
+    "tags": [
+      "npc",
+      "contact",
+      "session-1"
+    ],
+    "aliases": [
+      "Carlos Contax"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Cass Pien (Kolb)",
+      "Session 1 - Official Business"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Cass Pien (Kolb)]]"
+    ],
+    "excerpt": "# Carlos ## Overview Carlos is an old shipboard acquaintance mentioned when [[Cass Pien (Kolb)]] and another veteran recognized each other from service aboard the Venture. He used to run a poker game and is remembered as a cheat and poor bluffer, though still \"loyal to the party\" in the joking recol"
+  },
+  {
+    "id": "3:Cass-Pien-Kolb",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Cass-Pien-Kolb",
+    "title": "Cass Pien (Kolb)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Friday Party Congress Hearing",
+      "Sunken Ship-Boat",
+      "Dr. Luc Moreau",
+      "Zoy (Damon)",
+      "Mobile Data Tube"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Carlos",
+      "Friday-Party-Congress-Hearing",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Cass Pien (Kolb) ![Cass Pien portrait](/wiki/media/Cass-Pien.png) *Solomani Racial • Confederation Navy: Flight* **Hits:** 27 **Armour:** Ceramic Carapace, Protection 10; Protection 16 vs lasers, flame throwers, and fire-based attacks **Cash:** Cr27,250 **Ship Shares:** 3 ```traveller-sheet header"
+  },
+  {
+    "id": "3:Chief-Helene-Marchand",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Chief-Helene-Marchand",
+    "title": "Chief Helene Marchand",
+    "category": "npc",
+    "summary": "President's Chief of Staff whose secured residence received Lucin's covert delivery.",
+    "tags": [
+      "npc",
+      "government",
+      "session-2"
+    ],
+    "aliases": [
+      "Helene Marchand",
+      "Chief Marchand"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 2 - Masks and Markers",
+      "Identity Veils"
+    ],
+    "backlinks": [
+      "Dan-Araujo-Josh",
+      "Identity-Veils",
+      "Lucin",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Lucin]]",
+      "[[Les Jardins Fermes]]"
+    ],
+    "excerpt": "# Chief Helene Marchand ## Overview Chief Helene Marchand is identified by a gold plaque as Chief of Staff of the President. During [[Session 2 - Masks and Markers]], the group delivered Lucin's crate to a secured residence bearing her name. ## Session 2 The group arrived at Marchand's address on Lu"
+  },
+  {
+    "id": "3:Ciernan-Seanislav-Peter",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Ciernan-Seanislav-Peter",
+    "title": "Ciernan Seanislav (Peter)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Judith Dumont (Carla)",
+      "Secure Burner Comms",
+      "Lucin",
+      "Mercier Genetic Findings"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Mercier-Assassination",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Ciernan Seanislav (Peter) ![Ciernan Seanislav portrait](/wiki/media/Ciernan-Seanislav.png) *Solomani Racial • Merchant: Merchant Marine* **Player:** Peter **Age:** 30 **Species:** Solomani Racial **Gender:** Unknown **UPP:** STR 11, DEX 8, END 12, INT 6, EDU 8, SOC 8 **Hits:** 31 **Armour:** Cloth"
+  },
+  {
+    "id": "3:Cr-che-District-14",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Cr-che-District-14",
+    "title": "Crèche District 14",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Crèche District 14 *\"Every Child, A Future.\"* **Location:** Eastern Nouvelle Sainte-Jeanne **Type:** State Child Development Arcology **Administrative Authority:** Directorate of Child Development **Status:** Active **Population:** 1.2 Million Children **Staff:** 180,000 Educators, Medical Personn"
+  },
+  {
+    "id": "3:Customs-Immigration-Checkpoint-Harmony",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Customs-Immigration-Checkpoint-Harmony",
+    "title": "Customs & Immigration Checkpoint Harmony",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Customs & Immigration Checkpoint Harmony # Poste d'Harmonie Frontalière *\"Every Arrival Matters.\"* **Location:** Port Sainte-Jeanne Downport **Type:** Customs and Immigration Processing Complex **Administrative Authority:** Directorate of Citizen Integrity **Operational Control:** Ministry of Soci"
+  },
+  {
+    "id": "3:Dan-Araujo-Josh",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Dan-Araujo-Josh",
+    "title": "Dan Araujo (Josh)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination",
+      "0-31 Saichi Maru (Annette)",
+      "Lucin",
+      "Les Jardins Fermes",
+      "Chief Helene Marchand"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Campaign",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Dan Araujo (Josh) ![Dan Araujo portrait](/wiki/media/Dan-Araujo.png) *Solomani Racial • Confederation Navy: Technical* **Player:** Josh **Age:** 34 **Species:** Solomani Racial **Gender:** Male **UPP:** STR 7, DEX 12, END 8, INT 14, EDU 12, SOC 12 **Hits:** 25 **Armour:** Cloth (TL10), Protection "
+  },
+  {
+    "id": "3:Dr-Luc-Moreau",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Dr-Luc-Moreau",
+    "title": "Dr. Luc Moreau",
+    "category": "npc",
+    "summary": "Nervous Hall scientist who tried to move Mercier-linked data out through a mobile pipe courier.",
+    "tags": [
+      "npc",
+      "scientist",
+      "session-2"
+    ],
+    "aliases": [
+      "Luc Moreau",
+      "Hall Scientist"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Hall des Futurs Choisis",
+      "Session 2 - Masks and Markers",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings"
+    ],
+    "backlinks": [
+      "Cass-Pien-Kolb",
+      "Mobile-Data-Tube",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Hall des Futurs Choisis]]",
+      "[[Mobile Data Tube]]",
+      "[[Mercier Genetic Findings]]"
+    ],
+    "excerpt": "# Dr. Luc Moreau ## Overview Dr. Luc Moreau is a scientist or technical researcher at the [[Hall des Futurs Choisis]]. During [[Session 2 - Masks and Markers]], the party saw him leave a secured floor looking anxious and enter a public bathroom despite presumably having access to facilities on his o"
+  },
+  {
+    "id": "3:Elena-Verona",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Elena-Verona",
+    "title": "Elena Verona",
+    "category": "npc",
+    "summary": "Social Solidarity commissar who responded to the Mercier assassination scene and survived the group's escape.",
+    "tags": [
+      "npc",
+      "social-solidarity",
+      "session-1"
+    ],
+    "aliases": [
+      "Alina Verona",
+      "Commissar Verona"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Social Solidarity",
+      "Hall des Futurs Choisis",
+      "Mercier Assassination",
+      "Victor Mendes (Steinbach)",
+      "Session 1 - Official Business",
+      "Mercier Frame-Up"
+    ],
+    "backlinks": [
+      "False-News-Broadcast",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Session-1-Official-Business",
+      "Social-Solidarity",
+      "Timeline",
+      "Victor-Mendes-Steinbach"
+    ],
+    "keyLinks": [
+      "[[Social Solidarity]]",
+      "[[Mercier Assassination]]"
+    ],
+    "excerpt": "# Elena Verona ## Overview Elena Verona is a commissar of [[Social Solidarity]] who arrived at the [[Hall des Futurs Choisis]] after the [[Mercier Assassination]]. The transcript first presents her over the speakers as \"Elena Verona, Commissar of Social Solidarity,\" though later table speech also ca"
+  },
+  {
+    "id": "3:Emma-Colbert-Laura",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Emma-Colbert-Laura",
+    "title": "Emma Colbert (Laura)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination",
+      "Marcel Delphine",
+      "Nico Gay",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Transstar Sector Exchange",
+      "Hall des Futurs Choisis",
+      "Identity Veils",
+      "Inspector Marc Valois",
+      "Social Solidarity",
+      "SolSec",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Inspector-Marc-Valois",
+      "Mercier-Frame-Up",
+      "Nico-Gay",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "SolSec",
+      "Timeline",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Emma Colbert (Laura) ![Emma Colbert portrait](/wiki/media/Emma-Colbert.jpg) *Solomani Racial • SolSec: Secret Agent* **Player:** Laura **Age:** 38 **Species:** Solomani Racial **Gender:** Female **UPP:** STR 7, DEX 10, END 9, INT 14, EDU 15, SOC 10 **Hits:** 24 **Armour:** Protec Suit; Cloth Trenc"
+  },
+  {
+    "id": "3:False-News-Broadcast",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "False-News-Broadcast",
+    "title": "False News Broadcast",
+    "category": "event",
+    "summary": "A fabricated broadcast blamed Mercier's murder on genetic outcasts and falsely showed Zoy attacking the minister.",
+    "tags": [
+      "event",
+      "propaganda",
+      "media"
+    ],
+    "aliases": [
+      "Fake Mercier Broadcast"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination",
+      "Alain Mercier",
+      "Zoy (Damon)",
+      "Elena Verona",
+      "Jardin Syndicate"
+    ],
+    "backlinks": [
+      "Session-1-Official-Business",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Mercier Frame-Up]]",
+      "[[Zoy (Damon)]]"
+    ],
+    "excerpt": "# False News Broadcast ## Overview Within hours of the [[Mercier Assassination]], public news reported a terrorist attack at the Hall of Continuity and claimed that Minister [[Alain Mercier]] had been killed by genetic \"half-breeds.\" The report showed fake footage of [[Zoy (Damon)]] throwing a grena"
+  },
+  {
+    "id": "3:Fort-Robespierre-Naval-Annex",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Fort-Robespierre-Naval-Annex",
+    "title": "Fort Robespierre Naval Annex",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Jardin"
+    ],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Fort Robespierre Naval Annex *\"Vigilance, Duty, Victory.\"* **Location:** Southern Coastal Military Zone, Jardin **Type:** Naval Installation and Military Training Complex **Administrative Authority:** Confederation Navy **Operational Control:** Jardin Naval Command **Status:** Active Military Faci"
+  },
+  {
+    "id": "3:Friday-Party-Congress-Hearing",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Friday-Party-Congress-Hearing",
+    "title": "Friday Party Congress Hearing",
+    "category": "event",
+    "summary": "Upcoming internal hearing where contacts may reveal who is shaping the official story after Mercier's death.",
+    "tags": [
+      "event",
+      "session-1",
+      "politics"
+    ],
+    "aliases": [
+      "Friday Hearing",
+      "Party Congress Hearing"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination",
+      "Alain Mercier",
+      "Cass Pien (Kolb)",
+      "Mercier Frame-Up",
+      "Jardin Syndicate"
+    ],
+    "backlinks": [
+      "Cass-Pien-Kolb",
+      "Session-1-Official-Business"
+    ],
+    "keyLinks": [
+      "[[Alain Mercier]]",
+      "[[Mercier Frame-Up]]"
+    ],
+    "excerpt": "# Friday Party Congress Hearing ## Overview The Friday Party Congress hearing is expected two days after the [[Mercier Assassination]]. [[Alain Mercier]] had planned to reveal his findings there before he was killed. [[Cass Pien (Kolb)]] contacted a trusted ally to listen from inside the hearing and"
+  },
+  {
+    "id": "3:Hall-des-Futurs-Choisis",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Hall-des-Futurs-Choisis",
+    "title": "Hall des Futurs Choisis",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Dr-Luc-Moreau",
+      "Elena-Verona",
+      "Emma-Colbert-Laura",
+      "Inspector-Marc-Valois",
+      "Marcel-Delphine",
+      "Marcel-Delphine",
+      "Mercier-Assassination",
+      "Mobile-Data-Tube",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Social-Solidarity",
+      "SolSec",
+      "Timeline",
+      "Timeline",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Hall des Futurs Choisis ## Hall of Chosen Futures **Location:** Government District, Nouvelle Sainte-Jeanne, Jardin **Type:** Ministry Complex, Civic Registry, Genetic Administration Center **Population:** Approximately 120,000 employees and visitors daily **Administrative Authority:** Ministry of"
+  },
+  {
+    "id": "3:Home-Guard",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Home-Guard",
+    "title": "Home Guard",
+    "category": "organization",
+    "summary": "Jardin security force called to contain the Mercier assassination scene.",
+    "tags": [
+      "organization",
+      "security",
+      "session-1"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination"
+    ],
+    "backlinks": [
+      "Jardin",
+      "Mercier-Assassination",
+      "Session-1-Official-Business",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Mercier Assassination]]",
+      "[[Social Solidarity]]"
+    ],
+    "excerpt": "# Home Guard ## Overview The Home Guard is a Jardin security force referenced as the expected defender against dissidents, rebel outbreaks, and revolutionaries. Veterans and retired military personnel may carry weapons with military IDs partly so they can support the Home Guard during unrest. Home G"
+  },
+  {
+    "id": "3:Identity-Veils",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Identity-Veils",
+    "title": "Identity Veils",
+    "category": "item",
+    "summary": "Camera-spoofing masks provided by Marcel Delphine that alter how wearers register to surveillance systems.",
+    "tags": [
+      "item",
+      "technology",
+      "session-1"
+    ],
+    "aliases": [
+      "Electronic Veils",
+      "Identity Masks"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Marcel Delphine",
+      "Mercier Assassination",
+      "0-31 Saichi Maru (Annette)",
+      "Session 2 - Masks and Markers",
+      "Chief Helene Marchand",
+      "Mercier Frame-Up",
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Chief-Helene-Marchand",
+      "Emma-Colbert-Laura",
+      "Jardin-Syndicate",
+      "Marcel-Delphine",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline",
+      "Timeline",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Marcel Delphine]]",
+      "[[Jardin Syndicate]]"
+    ],
+    "excerpt": "# Identity Veils ## Overview The identity veils are electronic masks or overlays provided by [[Marcel Delphine]] after the group escaped the [[Mercier Assassination]]. Marcel described them as masks that prevent camera systems from registering the wearer's normal identity. ## Known Capabilities - Ea"
+  },
+  {
+    "id": "3:Inspector-Marc-Valois",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Inspector-Marc-Valois",
+    "title": "Inspector Marc Valois",
+    "category": "npc",
+    "summary": "SolSec investigator blocked from the Mercier assassination scene by Social Solidarity.",
+    "tags": [
+      "npc",
+      "solsec",
+      "session-2"
+    ],
+    "aliases": [
+      "Mark Valois",
+      "Inspector Valois"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "SolSec",
+      "Hall des Futurs Choisis",
+      "Session 2 - Masks and Markers",
+      "Emma Colbert (Laura)",
+      "Alain Mercier",
+      "Social Solidarity",
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Mercier Genetic Findings",
+      "Mobile Data Tube"
+    ],
+    "backlinks": [
+      "Emma-Colbert-Laura",
+      "Mercier-Frame-Up",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Social-Solidarity",
+      "SolSec",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[SolSec]]",
+      "[[Social Solidarity]]",
+      "[[Hall des Futurs Choisis]]"
+    ],
+    "excerpt": "# Inspector Marc Valois ## Overview Inspector Marc Valois is a [[SolSec]] investigator seen outside the [[Hall des Futurs Choisis]] during [[Session 2 - Masks and Markers]]. [[Emma Colbert (Laura)]] recognized him from prior SolSec circles, though he was not in her direct chain of command. Valois wo"
+  },
+  {
+    "id": "3:Jardin",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Jardin",
+    "title": "Jardin",
+    "category": "location",
+    "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
+    "tags": [
+      "location",
+      "world"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Le Palais de Continuité",
+      "Fort Robespierre Naval Annex",
+      "Transstar Sector Exchange",
+      "Arcosphere Rousseau",
+      "Home Guard",
+      "Mercier Frame-Up",
+      "Keith Morris"
+    ],
+    "backlinks": [
+      "Miasma"
+    ],
+    "keyLinks": [
+      "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
+    ],
+    "excerpt": "# Jardin ![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png) *Capital World of the Jardin Subsector* **UWP:** A5679BC-D **Allegiance:** SoCf (Solomani Confederation) **Trade Codes:** Hi, Cp, Pr, Pz, Ht **Subsector:** Jardin **Tech Level:** 13 ## Overview Jardin is the capital and dominant world of the"
+  },
+  {
+    "id": "3:Jardin-Syndicate",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Jardin-Syndicate",
+    "title": "Jardin Syndicate",
+    "category": "organization",
+    "summary": "The **Jardin Syndicate** is one of the largest and most influential criminal organizations operating within the Jardin Subsector. Originally founded on Jardin itself, the Syndicate has expanded across dozens of worlds, establishing networks that span both Confederation and Imperial territory.",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [
+      "Syndicat Jardin"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 1 - Official Business",
+      "Marcel Delphine",
+      "Alain Mercier",
+      "Mercier Frame-Up",
+      "Arcosphere Rousseau",
+      "Identity Veils",
+      "Session 2 - Masks and Markers",
+      "Lucin",
+      "Marcel Delphine",
+      "Transstar Sector Exchange",
+      "Marcel Delphine"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Cass-Pien-Kolb",
+      "Emma-Colbert-Laura",
+      "False-News-Broadcast",
+      "Friday-Party-Congress-Hearing",
+      "Lucin",
+      "Marcel-Delphine",
+      "Marcel-Delphine",
+      "Marcel-Delphine",
+      "Mercier-Assassination",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Nico-Gay",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Timeline",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Marcel Delphine]]"
+    ],
+    "excerpt": "# Syndicat Jardin ## Jardin Syndicate **Type:** Interstellar Criminal Organization **Area of Operations:** Jardin Subsector and neighboring regions on both sides of the Solomani-Imperial border **Primary Activities:** * Human trafficking * Refugee exploitation * Identity fraud * Smuggling * Money la"
+  },
+  {
+    "id": "3:Judith-Dumont-Carla",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Judith-Dumont-Carla",
+    "title": "Judith Dumont (Carla)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Alain Mercier",
+      "Marcel Delphine",
+      "Keith Morris",
+      "Miasma",
+      "Les Jardins Fermes",
+      "Lucin"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Ciernan-Seanislav-Peter",
+      "Keith-Morris",
+      "Miasma",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Judith Dumont (Carla) ![Judith Dumont portrait](/wiki/media/Judith-Dumont.png) *Solomani Racial • Bounty Hunter: Hunter* **Player:** Carla **Age:** 42 **Species:** Solomani Racial **Gender:** Female **UPP:** STR 11, DEX 10, END 12, INT 11, EDU 10, SOC 8 **Hits:** 33 **Armour:** Cloth (TL10), Prote"
+  },
+  {
+    "id": "3:Keith-Morris",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Keith-Morris",
+    "title": "Keith Morris",
+    "category": "npc",
+    "summary": "Corporate executive contact of Judith Dumont who advised that direct off-world escape from Jardin is blocked by identity controls.",
+    "tags": [
+      "npc",
+      "contact",
+      "session-1"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Judith Dumont (Carla)",
+      "Miasma",
+      "Session 1 - Official Business"
+    ],
+    "backlinks": [
+      "Jardin",
+      "Judith-Dumont-Carla",
+      "Miasma"
+    ],
+    "keyLinks": [
+      "[[Judith Dumont (Carla)]]",
+      "[[Miasma]]"
+    ],
+    "excerpt": "# Keith Morris ## Overview Keith Morris is a corporate executive contact of [[Judith Dumont (Carla)]]. Judith hoped he could help the group get off Jardin and eventually reach [[Miasma]]. Morris explained that the immediate problem is not money for transport but identity control: the group lacks usa"
+  },
+  {
+    "id": "3:Le-Palais-de-Continuit",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Le-Palais-de-Continuit",
+    "title": "Le Palais de Continuité",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Jardin"
+    ],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Le Palais de Continuité ## The Palace of Continuity **Location:** Nouvelle Sainte-Jeanne, Jardin **Type:** Seat of Government, Executive Complex, National Symbol **Population:** Approximately 35,000 permanent staff **Security Level:** Extreme **Primary Authority:** Office of the Supreme Presidency"
+  },
+  {
+    "id": "3:Les-Jardins-Ferm-s",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Les-Jardins-Ferm-s",
+    "title": "Les Jardins Fermés",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Les Jardins Fermés ## The Closed Gardens **Location:** Eastern Scientific District, Nouvelle Sainte-Jeanne, Jardin **Type:** Scientific Research Complex, Botanical Preserve, Agricultural Development Arcology **Administrative Authority:** Ministry of Genetics **Director-General:** Dr. Sophie Delacr"
+  },
+  {
+    "id": "3:Lucin",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Lucin",
+    "title": "Lucin",
+    "category": "npc",
+    "summary": "Armored Sainte-Liberte data broker who gave the group a trike in exchange for a daylight delivery.",
+    "tags": [
+      "npc",
+      "broker",
+      "underworld",
+      "session-2"
+    ],
+    "aliases": [
+      "Lucen",
+      "Lucent"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Quartier-Sainte-Liberte",
+      "Session 2 - Masks and Markers",
+      "Transstar Sector Exchange",
+      "Les Jardins Fermes",
+      "Chief Helene Marchand",
+      "Marcel Delphine",
+      "Jardin Syndicate"
+    ],
+    "backlinks": [
+      "Ciernan-Seanislav-Peter",
+      "Dan-Araujo-Josh",
+      "Jardin-Syndicate",
+      "Judith-Dumont-Carla",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Quartier-Sainte-Liberte]]",
+      "[[Jardin Syndicate]]",
+      "[[Chief Helene Marchand]]"
+    ],
+    "excerpt": "# Lucin ## Overview Lucin is an armored data broker encountered in [[Quartier-Sainte-Liberte]] during [[Session 2 - Masks and Markers]]. He operated from a dark alley market where credits were exchanged for data chips. Lucin wore armor and had a cybernetic third arm emerging from his back. He was ca"
+  },
+  {
+    "id": "3:Marcel-Delphine",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Marcel-Delphine",
+    "title": "Marcel Delphine",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination",
+      "Hall des Futurs Choisis",
+      "Arcosphere Rousseau",
+      "Jardin Syndicate",
+      "Alain Mercier",
+      "Identity Veils",
+      "Jardin Syndicate",
+      "Leo Duprey",
+      "Alain Mercier",
+      "Jardin Syndicate",
+      "Hall des Futurs Choisis",
+      "SolSec",
+      "Rousseau Arcology",
+      "Citizens Aid Cooperative",
+      "The Floating Court"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Cass-Pien-Kolb",
+      "Emma-Colbert-Laura",
+      "Emma-Colbert-Laura",
+      "Identity-Veils",
+      "Jardin-Syndicate",
+      "Jardin-Syndicate",
+      "Jardin-Syndicate",
+      "Judith-Dumont-Carla",
+      "Lucin",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Nico-Gay",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Timeline",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Marcel Delphine *The Shepherd of Lost Futures* **Designation:** Marcel Delphine | **Type:** NPC | **TL:** 14 | **Status:** Active | **Owner:** GM ![marcel-delphine.jpg](/wiki/media/marcel-delphine.jpg) | Field | Value | | ----------- | -------------------------- | | Designation | Marcel Delphine |"
+  },
+  {
+    "id": "3:Mercier-Assassination",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mercier-Assassination",
+    "title": "Mercier Assassination",
+    "category": "event",
+    "summary": "Minister Alain Mercier was killed at the Hall des Futurs Choisis after announcing that he would reveal corruption in Jardin's genetic records.",
+    "tags": [
+      "event",
+      "session-1",
+      "assassination"
+    ],
+    "aliases": [
+      "Mercier Murder",
+      "Mercer Assassination"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Alain Mercier",
+      "Hall des Futurs Choisis",
+      "Ciernan Seanislav (Peter)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Session 2 - Masks and Markers",
+      "Mercier Frame-Up",
+      "Alain Mercier",
+      "Elena Verona",
+      "Social Solidarity",
+      "Home Guard",
+      "Jardin Syndicate",
+      "Mercier Genetic Findings",
+      "Mobile Data Tube"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Cass-Pien-Kolb",
+      "Dan-Araujo-Josh",
+      "Elena-Verona",
+      "Emma-Colbert-Laura",
+      "False-News-Broadcast",
+      "Friday-Party-Congress-Hearing",
+      "Home-Guard",
+      "Identity-Veils",
+      "Inspector-Marc-Valois",
+      "Marcel-Delphine",
+      "Merciers-Locked-Pad",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Social-Solidarity",
+      "SolSec",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Alain Mercier]]",
+      "[[Hall des Futurs Choisis]]",
+      "[[Mercier Frame-Up]]"
+    ],
+    "excerpt": "# Mercier Assassination ## Overview On 143-1105, Minister [[Alain Mercier]] was killed inside the [[Hall des Futurs Choisis]] shortly after the player characters were summoned there for official review. A news broadcast immediately beforehand reported that Mercier intended to reveal corruption in th"
+  },
+  {
+    "id": "3:Mercier-Frame-Up",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mercier-Frame-Up",
+    "title": "Mercier Frame-Up",
+    "category": "event",
+    "summary": "The official story falsely blamed the Mercier assassination on the player characters and genetic outcasts.",
+    "tags": [
+      "event",
+      "session-1",
+      "propaganda"
+    ],
+    "aliases": [
+      "Official Frame-Up",
+      "Mercier False Story"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Alain Mercier",
+      "Zoy (Damon)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Emma Colbert (Laura)",
+      "Mobile Data Tube",
+      "Session 2 - Masks and Markers",
+      "Inspector Marc Valois",
+      "Elena Verona",
+      "Mercier Genetic Findings"
+    ],
+    "backlinks": [
+      "Elena-Verona",
+      "Friday-Party-Congress-Hearing",
+      "Identity-Veils",
+      "Inspector-Marc-Valois",
+      "Jardin",
+      "Jardin-Syndicate",
+      "Mercier-Assassination",
+      "Merciers-Locked-Pad",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Mercier Assassination]]",
+      "[[False News Broadcast]]"
+    ],
+    "excerpt": "# Mercier Frame-Up ## Overview After [[Alain Mercier]] was killed, the official narrative rapidly reframed the event as a terrorist action by genetic \"half-breeds\" whose genetic identities were supposedly insecure. The news story included fabricated or edited footage, including a false image of [[Zo"
+  },
+  {
+    "id": "3:Mercier-Genetic-Findings",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mercier-Genetic-Findings",
+    "title": "Mercier Genetic Findings",
+    "category": "event",
+    "summary": "Recovered research data suggests decades of genetic-marker tests tied to psionic-like abilities and alien or non-Solomani markers.",
+    "tags": [
+      "event",
+      "clue",
+      "genetics",
+      "session-2"
+    ],
+    "aliases": [
+      "Genetic Marker Data",
+      "Mercier Report Data",
+      "Psionic Marker Research",
+      "Research Note 117A"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mobile Data Tube",
+      "Session 2 - Masks and Markers",
+      "Alain Mercier"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Ciernan-Seanislav-Peter",
+      "Dr-Luc-Moreau",
+      "Emma-Colbert-Laura",
+      "Inspector-Marc-Valois",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Merciers-Locked-Pad",
+      "Mobile-Data-Tube",
+      "Session-2-Masks-and-Markers",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Alain Mercier]]",
+      "[[Mobile Data Tube]]",
+      "[[Mercier Assassination]]"
+    ],
+    "excerpt": "# Mercier Genetic Findings ## Overview The Mercier genetic findings are recovered research notes from the [[Mobile Data Tube]] intercepted in [[Session 2 - Masks and Markers]]. The data appears to be part of what [[Alain Mercier]] planned to reveal before his assassination. The notes describe roughl"
+  },
+  {
+    "id": "3:Merciers-Locked-Pad",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Merciers-Locked-Pad",
+    "title": "Mercier's Locked Pad",
+    "category": "item",
+    "summary": "Locked tablet recovered from Alain Mercier's body after the assassination.",
+    "tags": [
+      "item",
+      "clue",
+      "session-1"
+    ],
+    "aliases": [
+      "Mercier's Tablet",
+      "Minister's Pad"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Alain Mercier",
+      "Session 2 - Masks and Markers",
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Alain Mercier",
+      "Mercier Genetic Findings"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Session-1-Official-Business",
+      "Timeline",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Alain Mercier]]",
+      "[[Mercier Assassination]]"
+    ],
+    "excerpt": "# Mercier's Locked Pad ## Overview Mercier's locked pad was recovered from [[Alain Mercier]] after his assassination. It is roughly Kindle-sized and password protected. ## Known Facts - The pad was on Mercier's body. - An attempted hack failed. - Four attempts remain before the pad wipes itself. - I"
+  },
+  {
+    "id": "3:Miasma",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Miasma",
+    "title": "Miasma",
+    "category": "location",
+    "summary": "A low-key destination one jump from Jardin, considered as a possible escape target.",
+    "tags": [
+      "location",
+      "world",
+      "session-1"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Jardin",
+      "Judith Dumont (Carla)",
+      "Keith Morris"
+    ],
+    "backlinks": [
+      "Judith-Dumont-Carla",
+      "Keith-Morris",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Judith Dumont (Carla)]]",
+      "[[Keith Morris]]"
+    ],
+    "excerpt": "# Miasma ## Overview Miasma is described in the transcript as a relatively low-key jump destination one jump from [[Jardin]]. [[Judith Dumont (Carla)]] considered it as a possible escape destination and hoped [[Keith Morris]] could help with plans to get there. ## Session 1 Notes - Directly jumping "
+  },
+  {
+    "id": "3:Mobile-Data-Tube",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mobile-Data-Tube",
+    "title": "Mobile Data Tube",
+    "category": "item",
+    "summary": "Self-moving pipe courier recovered from the Hall; it carried a data chip tied to Mercier's genetic findings.",
+    "tags": [
+      "item",
+      "clue",
+      "technology",
+      "session-2"
+    ],
+    "aliases": [
+      "Toilet Runner",
+      "Pipe Courier",
+      "Data Tube"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Hall des Futurs Choisis",
+      "Session 2 - Masks and Markers",
+      "Dr. Luc Moreau",
+      "Mercier Genetic Findings"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Cass-Pien-Kolb",
+      "Dr-Luc-Moreau",
+      "Emma-Colbert-Laura",
+      "Inspector-Marc-Valois",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Mercier-Genetic-Findings",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Mercier Genetic Findings]]",
+      "[[Hall des Futurs Choisis]]",
+      "[[Dr. Luc Moreau]]",
+      "[[Inspector Marc Valois]]"
+    ],
+    "excerpt": "# Mobile Data Tube ## Overview The mobile data tube is a cigar-sized metal cylinder recovered from a bathroom drain inside the [[Hall des Futurs Choisis]] during [[Session 2 - Masks and Markers]]. [[Dr. Luc Moreau]] placed a data stick into the tube, typed a warning message on an arm computer, put t"
+  },
+  {
+    "id": "3:Nico-Gay",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Nico-Gay",
+    "title": "Nico Gay",
+    "category": "npc",
+    "summary": "Emma Colbert's smuggler contact; a mid-tier smuggler loyal to Emma within limits.",
+    "tags": [
+      "npc",
+      "contact",
+      "smuggler",
+      "session-1"
+    ],
+    "aliases": [
+      "Emma's Smuggler Contact",
+      "Nicolas Gay"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Emma Colbert (Laura)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Session 1 - Official Business",
+      "Transstar Sector Exchange"
+    ],
+    "backlinks": [
+      "Emma-Colbert-Laura",
+      "Session-1-Official-Business"
+    ],
+    "keyLinks": [
+      "[[Emma Colbert (Laura)]]",
+      "[[Jardin Syndicate]]",
+      "[[Transstar Sector Exchange]]"
+    ],
+    "excerpt": "# Nico Gay ## Overview Nico Gay is the son of Sarah Gay and a mid-tier smuggler contact of [[Emma Colbert (Laura)]]. The transcript describes him as oddly loyal to Emma, provided she does not ask him to betray family or front crew. He gave Emma background on [[Marcel Delphine]] and the [[Jardin Synd"
+  },
+  {
+    "id": "3:Port-Sainte-Jeanne-Downport",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Port-Sainte-Jeanne-Downport",
+    "title": "Port Sainte-Jeanne Downport",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Port Sainte-Jeanne Downport *\"Gateway to the Frontier.\"* **Location:** Western Nouvelle Sainte-Jeanne **Type:** Class A Starport Downport **Administrative Authority:** Port Authority of Jardin **Operational Control:** Transstar Port Services **Security:** Port Security Directorate, Customs Bureau,"
+  },
+  {
+    "id": "3:Quartier-Danton",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Quartier-Danton",
+    "title": "Quartier Danton",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Quartier Danton # Danton Quarter *\"Ideas Shape History.\"* **Location:** Central Nouvelle Sainte-Jeanne **Type:** Political and Academic District **Administrative Authority:** Municipal Government of Nouvelle Sainte-Jeanne **Status:** Active **Population:** 2.4 Million **Primary Functions:** - Part"
+  },
+  {
+    "id": "3:Quartier-Sainte-Libert",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Quartier-Sainte-Libert",
+    "title": "Quartier Sainte-Liberté",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Quartier Sainte-Liberté # Saint Liberty Quarter *\"Everyone Belongs Somewhere.\"* **Location:** Lower Eastern Rousseau Arcology and Adjacent Surface Districts **Type:** Mixed Residential and Commercial District **Administrative Authority:** Municipal Administration of Nouvelle Sainte-Jeanne **Actual"
+  },
+  {
+    "id": "3:Secure-Burner-Comms",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Secure-Burner-Comms",
+    "title": "Secure Burner Comms",
+    "category": "item",
+    "summary": "Modified burner communicators built from cheap phones and parts during Session 2.",
+    "tags": [
+      "item",
+      "equipment",
+      "session-2"
+    ],
+    "aliases": [
+      "Modified Burner Phones",
+      "Burner Comms"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 2 - Masks and Markers"
+    ],
+    "backlinks": [
+      "Ciernan-Seanislav-Peter",
+      "Session-2-Masks-and-Markers",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Session 2 - Masks and Markers]]"
+    ],
+    "excerpt": "# Secure Burner Comms ## Overview The secure burner comms are modified cheap phones created by the supply team during [[Session 2 - Masks and Markers]]. The group bought several burners and parts, then modified them into local military-grade communicators. ## Capabilities - Each party member receive"
+  },
+  {
+    "id": "3:Session-1-Official-Business",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Session-1-Official-Business",
+    "title": "Session 1 - Official Business",
+    "category": "game",
+    "summary": "Opening session: the group is framed for Alain Mercier's assassination and rescued by Marcel Delphine.",
+    "tags": [
+      "session",
+      "game",
+      "session-1"
+    ],
+    "aliases": [
+      "Game 1",
+      "Chapter 1 Game 1",
+      "Stars g1"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Hall des Futurs Choisis",
+      "Alain Mercier",
+      "Social Solidarity",
+      "Home Guard",
+      "Emma Colbert (Laura)",
+      "0-31 Saichi Maru (Annette)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Alain Mercier",
+      "Ciernan Seanislav (Peter)",
+      "Elena Verona",
+      "Emma Colbert (Laura)",
+      "0-31 Saichi Maru (Annette)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Zoy (Damon)",
+      "Identity Veils",
+      "Transstar Sector Exchange",
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "False News Broadcast",
+      "Identity Veils",
+      "Mercier's Locked Pad",
+      "Friday Party Congress Hearing",
+      "Sunken Ship-Boat",
+      "Nico Gay",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Carlos",
+      "Elena-Verona",
+      "Identity-Veils",
+      "Jardin-Syndicate",
+      "Keith-Morris",
+      "Nico-Gay",
+      "Social-Solidarity",
+      "SolSec",
+      "Sunken-Ship-Boat"
+    ],
+    "keyLinks": [
+      "[[Mercier Assassination]]",
+      "[[Mercier Frame-Up]]",
+      "[[Marcel Delphine]]"
+    ],
+    "excerpt": "# Session 1 - Official Business **Transcript Source:** `Stars g1.md` ## Synopsis The group is summoned to the [[Hall des Futurs Choisis]] for official review and finds itself assembled in an unusually armed, suspiciously connected cluster. A broadcast announces that Minister [[Alain Mercier]] will r"
+  },
+  {
+    "id": "3:Session-2-Masks-and-Markers",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Session-2-Masks-and-Markers",
+    "title": "Session 2 - Masks and Markers",
+    "category": "game",
+    "summary": "The group gathers evidence, recharges Saichi, meets data broker Lucin, and recovers Mercier-linked genetic-marker research.",
+    "tags": [
+      "session",
+      "game",
+      "session-2"
+    ],
+    "aliases": [
+      "Game 2",
+      "Chapter 1 Game 2"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "0-31 Saichi Maru (Annette)",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "SolSec",
+      "Inspector Marc Valois",
+      "Mobile Data Tube",
+      "Dr. Luc Moreau",
+      "Lucin",
+      "Les Jardins Fermes",
+      "Chief Helene Marchand",
+      "0-31 Saichi Maru (Annette)",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "SolSec",
+      "Emma Colbert (Laura)",
+      "Inspector Marc Valois",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
+      "Zoy (Damon)",
+      "Cass Pien (Kolb)",
+      "Varian Svazz (Allen)",
+      "Quartier-Sainte-Liberte",
+      "Lucin",
+      "Les Jardins Fermes",
+      "Chief Helene Marchand",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
+      "Ciernan Seanislav (Peter)",
+      "Secure Burner Comms",
+      "Dan Araujo (Josh)",
+      "Lucin",
+      "Emma Colbert (Laura)",
+      "Inspector Marc Valois",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "SolSec",
+      "Zoy (Damon)",
+      "Mercier Genetic Findings",
+      "Mobile Data Tube",
+      "Dr. Luc Moreau",
+      "Inspector Marc Valois",
+      "Lucin",
+      "Chief Helene Marchand",
+      "Identity Veils",
+      "Transstar Sector Exchange",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Chief-Helene-Marchand",
+      "Dr-Luc-Moreau",
+      "Identity-Veils",
+      "Identity-Veils",
+      "Inspector-Marc-Valois",
+      "Jardin-Syndicate",
+      "Lucin",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Mercier-Genetic-Findings",
+      "Merciers-Locked-Pad",
+      "Mobile-Data-Tube",
+      "Secure-Burner-Comms",
+      "Social-Solidarity",
+      "SolSec",
+      "SolSec"
+    ],
+    "keyLinks": [
+      "[[Mercier Genetic Findings]]",
+      "[[Mobile Data Tube]]",
+      "[[Inspector Marc Valois]]",
+      "[[Lucin]]"
+    ],
+    "excerpt": "# Session 2 - Masks and Markers **Transcript Source:** `transcript_2026-07-14T13_30_07.150Z.json` ## Synopsis The group wakes in Emma's warehouse with practical problems: [[0-31 Saichi Maru (Annette)]] needs a heavy charge, the [[Identity Veils]] have little time left, and the party still needs evid"
+  },
+  {
+    "id": "3:Social-Solidarity",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Social-Solidarity",
+    "title": "Social Solidarity",
+    "category": "organization",
+    "summary": "",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 1 - Official Business",
+      "Elena Verona",
+      "Mercier Assassination",
+      "SolSec",
+      "Session 2 - Masks and Markers",
+      "Inspector Marc Valois",
+      "SolSec",
+      "Hall des Futurs Choisis",
+      "Alain Mercier"
+    ],
+    "backlinks": [
+      "Elena-Verona",
+      "Emma-Colbert-Laura",
+      "Inspector-Marc-Valois",
+      "Mercier-Assassination",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "SolSec",
+      "SolSec",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Ministère de la Solidarité Sociale # Ministry of Social Solidarity *\"Harmony Through Responsibility\"* **Designation:** Ministry of Social Solidarity | **Type:** Government Ministry | **Founded:** 705 | **Status:** Active | **Authority:** Supreme Presidency of Jardin Social Solidarity Emblem ![Mini"
+  },
+  {
+    "id": "3:SolSec",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "SolSec",
+    "title": "SolSec",
+    "category": "organization",
+    "summary": "Solomani security service focused on terrorism and external threats; distinct from Jardin's Social Solidarity.",
+    "tags": [
+      "organization",
+      "security"
+    ],
+    "aliases": [
+      "Solomani Security"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Social Solidarity",
+      "Emma Colbert (Laura)",
+      "Session 2 - Masks and Markers",
+      "Inspector Marc Valois",
+      "Mercier Assassination",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers"
+    ],
+    "backlinks": [
+      "Emma-Colbert-Laura",
+      "Inspector-Marc-Valois",
+      "Marcel-Delphine",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Social-Solidarity",
+      "Social-Solidarity",
+      "Timeline",
+      "Timeline",
+      "Victor-Mendes-Steinbach"
+    ],
+    "keyLinks": [
+      "[[Emma Colbert (Laura)]]",
+      "[[Social Solidarity]]",
+      "[[Inspector Marc Valois]]"
+    ],
+    "excerpt": "# SolSec ## Overview SolSec is distinguished in the transcript from [[Social Solidarity]]. On Jardin, Social Solidarity functions as the local secret police and internal security arm, while SolSec handles terrorism and external threats. [[Emma Colbert (Laura)]] has a SolSec background as a secret ag"
+  },
+  {
+    "id": "3:Sunken-Ship-Boat",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Sunken-Ship-Boat",
+    "title": "Sunken Ship-Boat",
+    "category": "item",
+    "summary": "Possible submerged escape asset that may require a boat or submersible to reach and repair.",
+    "tags": [
+      "item",
+      "vehicle",
+      "escape",
+      "session-1"
+    ],
+    "aliases": [
+      "Broken Ship-Boat",
+      "Submerged Ship-Boat"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 1 - Official Business"
+    ],
+    "backlinks": [
+      "Cass-Pien-Kolb",
+      "Session-1-Official-Business",
+      "Timeline"
+    ],
+    "keyLinks": [
+      "[[Cass Pien (Kolb)]]",
+      "[[Miasma]]"
+    ],
+    "excerpt": "# Sunken Ship-Boat ## Overview One of Cass Pien's smuggling contacts reported a broken ship-boat sunk under the water. If the group can acquire a naval vessel, boat, or submersible and reach it, they may be able to repair it and use it as part of an escape route. ## Session 1 Context At the end of ["
+  },
+  {
+    "id": "3:Timeline",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Timeline",
+    "title": "Timeline",
+    "category": "event",
+    "summary": "Chronological campaign timeline for Sparks of the Past.",
+    "tags": [
+      "timeline",
+      "event"
+    ],
+    "aliases": [
+      "Campaign Timeline"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Hall des Futurs Choisis",
+      "Alain Mercier",
+      "Elena Verona",
+      "Home Guard",
+      "0-31 Saichi Maru (Annette)",
+      "Arcosphere Rousseau",
+      "Marcel Delphine",
+      "Identity Veils",
+      "Jardin Syndicate",
+      "Mercier Frame-Up",
+      "Zoy (Damon)",
+      "Mercier's Locked Pad",
+      "Transstar Sector Exchange",
+      "Sunken Ship-Boat",
+      "Miasma",
+      "0-31 Saichi Maru (Annette)",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "SolSec",
+      "Emma Colbert (Laura)",
+      "Inspector Marc Valois",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings",
+      "Secure Burner Comms",
+      "Lucin",
+      "Transstar Sector Exchange",
+      "Les Jardins Fermes",
+      "Chief Helene Marchand",
+      "Marcel Delphine",
+      "Identity Veils",
+      "SolSec",
+      "Transstar Sector Exchange",
+      "Mercier's Locked Pad"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Session 1 - Official Business]]",
+      "[[Session 2 - Masks and Markers]]"
+    ],
+    "excerpt": "# Timeline ## 143-1105 - Official Business ### Summons to the Hall The player characters are summoned to the [[Hall des Futurs Choisis]] in Nouvelle Sainte-Jeanne for official genetic, military, financial, or AI-status review. Their military IDs allow many of them to enter armed, but the grouping is"
+  },
+  {
+    "id": "3:Transstar",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar",
+    "title": "Transstar",
+    "category": "organization",
+    "summary": "",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Transstar *The Merchant Line of the Solomani Cause* **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party ![Corporation logo](/wiki/media/transstar.jpg) | Field | Value | | ------------------ | ---------------------------------- | | Design"
+  },
+  {
+    "id": "3:Transstar-Sector-Exchange",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar-Sector-Exchange",
+    "title": "Transstar Sector Exchange",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Emma-Colbert-Laura",
+      "Jardin",
+      "Jardin-Syndicate",
+      "Lucin",
+      "Nico-Gay",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Timeline",
+      "Timeline",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Secteur d'Échange Transstar # Transstar Sector Exchange *\"The Market Never Sleeps.\"* **Location:** Grand Axis District, Nouvelle Sainte-Jeanne, Jardin **Type:** Special Economic Zone **Administrative Authority:** Transstar Economic Directorate **Status:** Semi-Autonomous Economic District **Popula"
+  },
+  {
+    "id": "3:Varian-Svazz-Allen",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Varian-Svazz-Allen",
+    "title": "Varian Svazz (Allen)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Alain Mercier",
+      "0-31 Saichi Maru (Annette)"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Campaign",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Varian Svazz (Allen) ![Varian Svazz portrait](/wiki/media/Varian-Svaz.png) *Solomani Racial • Confederation Navy: Flight* **Player:** Allen **Age:** 34 **Species:** Solomani Racial **Gender:** Male **UPP:** STR 8, DEX 12, END 12, INT 11, EDU 14, SOC 7 **Hits:** 30 **Ship Shares:** 2 ## Profile Var"
+  },
+  {
+    "id": "3:Victor-Mendes-Steinbach",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Victor-Mendes-Steinbach",
+    "title": "Victor Mendes (Steinbach)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Elena Verona",
+      "Arcosphere Rousseau",
+      "SolSec"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Elena-Verona",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Victor Mendes (Steinbach) ![Victor Mendes portrait](/wiki/media/Victor-Mendes.png) *Solomani Mixed • Confederation Navy: Line Crew* **Player:** Steinbach **Age:** 34 **Species:** Solomani Mixed **Gender:** Male **UPP:** STR 8, DEX 9, END 9, INT 13, EDU 10, SOC 9 **Hits:** 26 **Ship Shares:** 5 ## "
+  },
+  {
+    "id": "3:Zoy-Damon",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Zoy-Damon",
+    "title": "Zoy (Damon)",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination",
+      "False News Broadcast",
+      "Alain Mercier",
+      "Jardin Syndicate",
+      "Hall des Futurs Choisis",
+      "Mobile Data Tube",
+      "Emma Colbert (Laura)"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Cass-Pien-Kolb",
+      "False-News-Broadcast",
+      "Mercier-Frame-Up",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Zoy (Damon) ![Zoy portrait](/wiki/media/Zoy.png) *Uplifted Ape Chimp • Merchant: Free Trader* **Player:** Damon **Age:** 34 **Species:** Uplifted Ape Chimp **Gender:** Unknown **UPP:** STR 6, DEX 8, END 11, INT 11, EDU 10, SOC 4 **Hits:** 25 **Armour:** Cloth Trench Coat, Protection 7 **Cash:** Cr"
+  },
+  {
+    "id": "3:media:wiki/media/Alain-Mercier-Hall-of-Genetics-News.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Alain-Mercier-Hall-of-Genetics-News.png",
+    "title": "Breaking news capture: Fraud at the Hall of Genetics?",
+    "category": "media",
+    "summary": "Minister Mercier promises major findings at the upcoming Party Congress.",
+    "tags": [
+      "Alain Mercier",
+      "Hall of Genetics",
+      "news",
+      "handout"
+    ],
+    "aliases": [
+      "Alain-Mercier-Hall-of-Genetics-News.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Alain-Mercier-Party-Congress-Announcement.mp3",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Alain-Mercier-Party-Congress-Announcement.mp3",
+    "title": "Minister Mercier announcement audio",
+    "category": "media",
+    "summary": "Minister Alain Mercier announces major findings ahead of the Party Congress.",
+    "tags": [
+      "Alain Mercier",
+      "audio",
+      "handout"
+    ],
+    "aliases": [
+      "Alain-Mercier-Party-Congress-Announcement.mp3"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Cass-Pien.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Cass-Pien.png",
+    "title": "Cass-Pien.png",
+    "category": "media",
+    "summary": "wiki/media/Cass-Pien.png",
+    "tags": [],
+    "aliases": [
+      "Cass-Pien.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Ciernan-Seanislav.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Ciernan-Seanislav.png",
+    "title": "Ciernan-Seanislav.png",
+    "category": "media",
+    "summary": "wiki/media/Ciernan-Seanislav.png",
+    "tags": [],
+    "aliases": [
+      "Ciernan-Seanislav.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Dan-Araujo.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Dan-Araujo.png",
+    "title": "Dan-Araujo.png",
+    "category": "media",
+    "summary": "wiki/media/Dan-Araujo.png",
+    "tags": [],
+    "aliases": [
+      "Dan-Araujo.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Emma-Colbert.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Emma-Colbert.jpg",
+    "title": "Emma-Colbert.jpg",
+    "category": "media",
+    "summary": "wiki/media/Emma-Colbert.jpg",
+    "tags": [],
+    "aliases": [
+      "Emma-Colbert.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Emma-Colbert.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Emma-Colbert.png",
+    "title": "Emma-Colbert.png",
+    "category": "media",
+    "summary": "wiki/media/Emma-Colbert.png",
+    "tags": [],
+    "aliases": [
+      "Emma-Colbert.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Jarin-Jump-Map.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Jarin-Jump-Map.png",
+    "title": "Jarin Jump Map",
+    "category": "media",
+    "summary": "wiki/media/Jarin-Jump-Map.png",
+    "tags": [],
+    "aliases": [
+      "Jarin-Jump-Map.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Judith-Dumont.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Judith-Dumont.png",
+    "title": "Judith-Dumont.png",
+    "category": "media",
+    "summary": "wiki/media/Judith-Dumont.png",
+    "tags": [],
+    "aliases": [
+      "Judith-Dumont.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Le-Palais-de-Continuite.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Le-Palais-de-Continuite.png",
+    "title": "Le-Palais-de-Continuite.png",
+    "category": "media",
+    "summary": "wiki/media/Le-Palais-de-Continuite.png",
+    "tags": [],
+    "aliases": [
+      "Le-Palais-de-Continuite.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Ministry-of-Social-Solidarity.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Ministry-of-Social-Solidarity.png",
+    "title": "Ministry of Social Solidarity",
+    "category": "media",
+    "summary": "wiki/media/Ministry-of-Social-Solidarity.png",
+    "tags": [],
+    "aliases": [
+      "Ministry-of-Social-Solidarity.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Nouvell-Saint-Jeanne-Capital-of-Jardin.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Nouvell-Saint-Jeanne-Capital-of-Jardin.png",
+    "title": "Nouvell Saint-Jeanne",
+    "category": "media",
+    "summary": "Capital of Jardin",
+    "tags": [
+      "map"
+    ],
+    "aliases": [
+      "Nouvell-Saint-Jeanne-Capital-of-Jardin.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Saichi-Maru-HEAD.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Saichi-Maru-HEAD.png",
+    "title": "Saichi-Maru-HEAD.png",
+    "category": "media",
+    "summary": "wiki/media/Saichi-Maru-HEAD.png",
+    "tags": [],
+    "aliases": [
+      "Saichi-Maru-HEAD.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Steven-Ahmadi.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Steven-Ahmadi.png",
+    "title": "Steven-Ahmadi.png",
+    "category": "media",
+    "summary": "wiki/media/Steven-Ahmadi.png",
+    "tags": [],
+    "aliases": [
+      "Steven-Ahmadi.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Varian-Svaz.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Varian-Svaz.png",
+    "title": "Varian-Svaz.png",
+    "category": "media",
+    "summary": "wiki/media/Varian-Svaz.png",
+    "tags": [],
+    "aliases": [
+      "Varian-Svaz.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Victor-Mendes.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Victor-Mendes.png",
+    "title": "Victor-Mendes.png",
+    "category": "media",
+    "summary": "wiki/media/Victor-Mendes.png",
+    "tags": [],
+    "aliases": [
+      "Victor-Mendes.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Zoy.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Zoy.png",
+    "title": "Zoy.png",
+    "category": "media",
+    "summary": "wiki/media/Zoy.png",
+    "tags": [],
+    "aliases": [
+      "Zoy.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/marcel-delphine.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/marcel-delphine.jpg",
+    "title": "marcel-delphine.jpg",
+    "category": "media",
+    "summary": "wiki/media/marcel-delphine.jpg",
+    "tags": [],
+    "aliases": [
+      "marcel-delphine.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  }
+]
