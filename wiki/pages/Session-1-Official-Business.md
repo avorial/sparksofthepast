@@ -1,6 +1,20 @@
 ---
 category: game
 type: game
+name: Session 1 Official Business
+summary: ""
+tags: []
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas
+---
+
+---
+category: game
+type: game
 name: Session 1 - Official Business
 summary: Opening session: the group is framed for Alain Mercier's assassination and rescued by Marcel Delphine.
 tags:
