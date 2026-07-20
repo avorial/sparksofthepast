@@ -465,7 +465,8 @@
       "Carlos",
       "Friday-Party-Congress-Hearing",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers"
+      "Session-2-Masks-and-Markers",
+      "Sunken-Ship-Boat"
     ],
     "keyLinks": [],
     "excerpt": "# Cass Pien (Kolb) ![Cass Pien portrait](/wiki/media/Cass-Pien.png) *Solomani Racial • Confederation Navy: Flight* **Hits:** 27 **Armour:** Ceramic Carapace, Protection 10; Protection 16 vs lasers, flame throwers, and fire-based attacks **Cash:** Cr27,250 **Ship Shares:** 3 ```traveller-sheet header"
@@ -1443,6 +1444,7 @@
     ],
     "backlinks": [
       "Cass-Pien-Kolb",
+      "Merciers-Locked-Pad",
       "Session-1-Official-Business"
     ],
     "keyLinks": [
@@ -1753,6 +1755,7 @@
       "Emma-Colbert-Laura",
       "Hall-des-Futurs-Choisis",
       "Mercier-Frame-Up",
+      "Merciers-Locked-Pad",
       "Session-2-Masks-and-Markers",
       "Social-Solidarity",
       "SolSec",
@@ -1843,6 +1846,7 @@
       "Mercier-Frame-Up",
       "Nico-Gay",
       "Session-1-Official-Business",
+      "Sunken-Ship-Boat",
       "Timeline",
       "Zoy-Damon"
     ],
@@ -1977,7 +1981,8 @@
     "backlinks": [
       "Jardin",
       "Judith-Dumont-Carla",
-      "Miasma"
+      "Miasma",
+      "Sunken-Ship-Boat"
     ],
     "keyLinks": [
       "[[Judith Dumont (Carla)]]",
@@ -2048,6 +2053,7 @@
       "Dr-Sophie-Delacroix",
       "Le-Palais-de-Continuit",
       "Marcel-Delphine",
+      "Merciers-Locked-Pad",
       "Social-Solidarity"
     ],
     "keyLinks": [
@@ -2227,7 +2233,9 @@
       "Jardin-Syndicate",
       "Judith-Dumont-Carla",
       "Les-Jardins-Ferm-s",
+      "Merciers-Locked-Pad",
       "Session-2-Masks-and-Markers",
+      "Sunken-Ship-Boat",
       "Timeline",
       "Transstar-Sector-Exchange"
     ],
@@ -2520,7 +2528,7 @@
     "slug": "Merciers-Locked-Pad",
     "title": "Mercier's Locked Pad",
     "category": "item",
-    "summary": "Locked tablet recovered from Alain Mercier's body after the assassination.",
+    "summary": "Locked tablet recovered from Alain Mercier's body; one wrong attempt used, four before it wipes.",
     "tags": [
       "item",
       "clue",
@@ -2537,20 +2545,28 @@
     "links": [
       "Alain Mercier",
       "Session 2 - Masks and Markers",
+      "Friday Party Congress Hearing",
+      "Social Solidarity",
+      "Mercier Genetic Findings",
       "Mercier Assassination",
       "Mercier Frame-Up",
-      "Mercier Genetic Findings"
+      "Leo Duprey",
+      "Lucin",
+      "Inspector Marc Valois"
     ],
     "backlinks": [
       "Alain-Mercier",
       "Session-1-Official-Business",
+      "Sunken-Ship-Boat",
       "Timeline"
     ],
     "keyLinks": [
       "[[Alain Mercier]]",
-      "[[Mercier Assassination]]"
+      "[[Mercier Assassination]]",
+      "[[Mercier Genetic Findings]]",
+      "[[Social Solidarity]]"
     ],
-    "excerpt": "# Mercier's Locked Pad ## Overview Mercier's locked pad was recovered from [[Alain Mercier]] after his assassination. It is roughly Kindle-sized and password protected. ## Known Facts - The pad was on Mercier's body. - An attempted hack failed. - Four attempts remain before the pad wipes itself. - I"
+    "excerpt": "# Mercier's Locked Pad *The minister's last secret, one bad guess from ash* ## Overview Mercier's locked pad was recovered from [[Alain Mercier]] after his assassination. It is roughly Kindle-sized and password protected, and it is almost certainly the reason he was killed with it still on his body "
   },
   {
     "id": "3:Miasma",
@@ -2578,6 +2594,7 @@
     "backlinks": [
       "Judith-Dumont-Carla",
       "Keith-Morris",
+      "Sunken-Ship-Boat",
       "Timeline"
     ],
     "keyLinks": [
@@ -2832,7 +2849,8 @@
       "Captain-Victor-Mendes",
       "Commander-Sophie-Durand",
       "Director-Luc-Beaumont",
-      "Etienne-Marchand"
+      "Etienne-Marchand",
+      "Sunken-Ship-Boat"
     ],
     "keyLinks": [],
     "excerpt": "# Port Sainte-Jeanne Downport *\"Gateway to the Frontier.\"* **Location:** Western Nouvelle Sainte-Jeanne **Type:** Class A Starport Downport **Administrative Authority:** Port Authority of Jardin **Operational Control:** Transstar Port Services **Security:** Port Security Directorate, Customs Bureau,"
@@ -3245,11 +3263,13 @@
       "Inspector-Marc-Valois",
       "Leo-Duprey",
       "Mercier-Assassination",
+      "Merciers-Locked-Pad",
       "Nadia-Giroux",
       "Pierre-Gauthier",
       "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
       "SolSec",
+      "Sunken-Ship-Boat",
       "Timeline"
     ],
     "keyLinks": [],
@@ -3311,7 +3331,7 @@
     "slug": "Sunken-Ship-Boat",
     "title": "Sunken Ship-Boat",
     "category": "item",
-    "summary": "Possible submerged escape asset that may require a boat or submersible to reach and repair.",
+    "summary": "A drowned, pre-registration ship's boat that could carry the party past Jardin's identity controls — if they can raise it.",
     "tags": [
       "item",
       "vehicle",
@@ -3320,13 +3340,22 @@
     ],
     "aliases": [
       "Broken Ship-Boat",
-      "Submerged Ship-Boat"
+      "Submerged Ship-Boat",
+      "The Drowned Boat"
     ],
     "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
     "links": [
+      "Cass Pien (Kolb)",
+      "Port Sainte-Jeanne Downport",
+      "Keith Morris",
+      "Social Solidarity",
+      "Jardin Syndicate",
+      "Lucin",
+      "Mercier's Locked Pad",
+      "Miasma",
       "Session 1 - Official Business"
     ],
     "backlinks": [
@@ -3336,9 +3365,10 @@
     ],
     "keyLinks": [
       "[[Cass Pien (Kolb)]]",
+      "[[Port Sainte-Jeanne Downport]]",
       "[[Miasma]]"
     ],
-    "excerpt": "# Sunken Ship-Boat ## Overview One of Cass Pien's smuggling contacts reported a broken ship-boat sunk under the water. If the group can acquire a naval vessel, boat, or submersible and reach it, they may be able to repair it and use it as part of an escape route. ## Session 1 Context At the end of ["
+    "excerpt": "# Sunken Ship-Boat *A dead hull in the shallows, and maybe a way out* ## Overview One of [[Cass Pien (Kolb)]]'s smuggling contacts reported a broken ship's boat lying sunk beneath the water off the coast near [[Port Sainte-Jeanne Downport]]. A ship's boat is a small enclosed craft — the kind a stars"
   },
   {
     "id": "3:Timeline",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T16:36:51.827Z",
+  "generatedAt": "2026-07-20T16:51:16.605Z",
   "pages": [
     {
       "id": "character-0-31-Saichi-Maru-Annette",
@@ -1769,20 +1769,27 @@
       "links": [
         "npc-Alain-Mercier",
         "game-Session-2-Masks-and-Markers",
+        "event-Friday-Party-Congress-Hearing",
+        "organization-Social-Solidarity",
+        "event-Mercier-Genetic-Findings",
         "event-Mercier-Assassination",
         "event-Mercier-Frame-Up",
-        "event-Mercier-Genetic-Findings"
+        "npc-Leo-Duprey",
+        "npc-Lucin",
+        "npc-Inspector-Marc-Valois"
       ],
       "aliases": [
         "Mercier's Tablet",
         "Minister's Pad"
       ],
-      "summary": "Locked tablet recovered from Alain Mercier's body after the assassination.",
+      "summary": "Locked tablet recovered from Alain Mercier's body; one wrong attempt used, four before it wipes.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
         "[[Alain Mercier]]",
-        "[[Mercier Assassination]]"
+        "[[Mercier Assassination]]",
+        "[[Mercier Genetic Findings]]",
+        "[[Social Solidarity]]"
       ]
     },
     {
@@ -2320,17 +2327,27 @@
         "session-1"
       ],
       "links": [
+        "character-Cass-Pien-Kolb",
+        "location-Port-Sainte-Jeanne-Downport",
+        "npc-Keith-Morris",
+        "organization-Social-Solidarity",
+        "organization-Jardin-Syndicate",
+        "npc-Lucin",
+        "item-Merciers-Locked-Pad",
+        "location-Miasma",
         "game-Session-1-Official-Business"
       ],
       "aliases": [
         "Broken Ship-Boat",
-        "Submerged Ship-Boat"
+        "Submerged Ship-Boat",
+        "The Drowned Boat"
       ],
-      "summary": "Possible submerged escape asset that may require a boat or submersible to reach and repair.",
+      "summary": "A drowned, pre-registration ship's boat that could carry the party past Jardin's identity controls — if they can raise it.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
         "[[Cass Pien (Kolb)]]",
+        "[[Port Sainte-Jeanne Downport]]",
         "[[Miasma]]"
       ]
     },
