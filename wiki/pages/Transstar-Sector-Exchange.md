@@ -14,54 +14,8 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
-## Contents
-
-- [Transstar Sector Exchange](#transstar-sector-exchange)
-- [Overview](#overview)
-- [History](#history)
-  - [Foundation](#foundation)
-  - [The Great Expansion](#the-great-expansion)
-- [Governance](#governance)
-- [The Exchange Authority](#the-exchange-authority)
-- [Exchange Security Bureau](#exchange-security-bureau)
-  - [Corporate Police](#corporate-police)
-- [Relationship with Social Solidarity](#relationship-with-social-solidarity)
-- [Relationship with SolSec](#relationship-with-solsec)
-- [Architecture](#architecture)
-- [Major Districts](#major-districts)
-  - [The Grand Market](#the-grand-market)
-  - [Transstar Plaza](#transstar-plaza)
-  - [Meridian Financial Quarter](#meridian-financial-quarter)
-  - [International Concourse](#international-concourse)
-  - [Broker's Row](#broker-s-row)
-- [Commerce](#commerce)
-- [Foreign Presence](#foreign-presence)
-- [Criminal Activity](#criminal-activity)
-- [The Jardin Syndicate](#the-jardin-syndicate)
-- [Notable Individuals](#notable-individuals)
-  - [Antoine Mercier](#antoine-mercier)
-  - [Isabelle Fournier](#isabelle-fournier)
-  - [Lucien Voss](#lucien-voss)
-  - [Mara Kovalenko](#mara-kovalenko)
-- [Public Reputation](#public-reputation)
-- [Rumors](#rumors)
-  - [The Hidden Market](#the-hidden-market)
-  - [The Ghost Accounts](#the-ghost-accounts)
-  - [The Syndicate Ledger](#the-syndicate-ledger)
-  - [The Foreign Vault](#the-foreign-vault)
-- [Adventure Hooks](#adventure-hooks)
-    - [Market Crash](#market-crash)
-    - [Missing Broker](#missing-broker)
-    - [Corporate War](#corporate-war)
-    - [Syndicate Money](#syndicate-money)
-    - [SolSec Investigation](#solsec-investigation)
-    - [The Sealed Vault](#the-sealed-vault)
-  - [Session 1 - Potential Refuge](#session-1-potential-refuge)
-  - [Session 2 - Ammunition Lead](#session-2-ammunition-lead)
-- [Referee Notes](#referee-notes)
-
-# Secteur d'Échange Transstar
 # Transstar Sector Exchange
+*Secteur d'Échange Transstar*
 
 *"The Market Never Sleeps."*
 
@@ -90,7 +44,50 @@ parent: Jardin
 
 ---
 
-# Overview
+## Contents
+
+- [Overview](#overview)
+- [History](#history)
+  - [Foundation](#foundation)
+  - [The Great Expansion](#the-great-expansion)
+- [Governance](#governance)
+- [The Exchange Authority](#the-exchange-authority)
+- [Exchange Security Bureau](#exchange-security-bureau)
+- [Relationship with Social Solidarity](#relationship-with-social-solidarity)
+- [Relationship with SolSec](#relationship-with-solsec)
+- [Architecture](#architecture)
+- [Major Districts](#major-districts)
+  - [The Grand Market](#the-grand-market)
+  - [Transstar Plaza](#transstar-plaza)
+  - [Meridian Financial Quarter](#meridian-financial-quarter)
+  - [International Concourse](#international-concourse)
+  - [Broker's Row](#broker-s-row)
+- [Commerce](#commerce)
+- [Foreign Presence](#foreign-presence)
+- [Criminal Activity](#criminal-activity)
+- [The Jardin Syndicate](#the-jardin-syndicate)
+- [Notable Individuals](#notable-individuals)
+  - [Antoine Mercier](#antoine-mercier)
+  - [Isabelle Fournier](#isabelle-fournier)
+  - [Lucien Voss](#lucien-voss)
+  - [Mara Kovalenko](#mara-kovalenko)
+- [Public Reputation](#public-reputation)
+- [Rumors](#rumors)
+  - [The Hidden Market](#the-hidden-market)
+  - [The Ghost Accounts](#the-ghost-accounts)
+  - [The Syndicate Ledger](#the-syndicate-ledger)
+  - [The Foreign Vault](#the-foreign-vault)
+- [Adventure Hooks](#adventure-hooks)
+  - [Market Crash](#market-crash)
+  - [Missing Broker](#missing-broker)
+  - [Corporate War](#corporate-war)
+  - [Syndicate Money](#syndicate-money)
+  - [SolSec Investigation](#solsec-investigation)
+  - [The Sealed Vault](#the-sealed-vault)
+  - [Session 1 - Potential Refuge](#session-1-potential-refuge)
+  - [Session 2 - Ammunition Lead](#session-2-ammunition-lead)
+
+## Overview
 
 The **Transstar Sector Exchange** is the economic heart of Jardin and one of the most important financial centers in the Solomani Front.
 
@@ -112,9 +109,9 @@ Money speaks every language.
 
 ---
 
-# History
+## History
 
-## Foundation
+### Foundation
 
 The Exchange was established shortly after Jardin became the dominant economic power of the subsector.
 
@@ -132,7 +129,7 @@ The experiment proved wildly successful.
 
 ---
 
-## The Great Expansion
+### The Great Expansion
 
 Following the Solomani Rim War, the Exchange became one of the Confederation's most important frontier trade hubs.
 
@@ -151,7 +148,7 @@ Within decades it became the largest concentration of commercial activity in the
 
 ---
 
-# Governance
+## Governance
 
 The Exchange exists under a special charter.
 
@@ -173,7 +170,7 @@ Transstar runs most day-to-day operations.
 
 ---
 
-# The Exchange Authority
+## The Exchange Authority
 
 The district is administered by the **Exchange Authority**, a joint body consisting of:
 
@@ -186,9 +183,9 @@ Most decisions are made through negotiation.
 
 ---
 
-# Exchange Security Bureau
+## Exchange Security Bureau
 
-## Corporate Police
+*Corporate Police*
 
 The district's police force.
 
@@ -214,7 +211,7 @@ Inside the district they are feared.
 
 ---
 
-# Relationship with Social Solidarity
+## Relationship with Social Solidarity
 
 The relationship is tense.
 
@@ -228,7 +225,7 @@ Neither trusts the other.
 
 ---
 
-# Relationship with SolSec
+## Relationship with SolSec
 
 SolSec maintains a permanent office inside the Exchange.
 
@@ -242,7 +239,7 @@ Everyone knows the district is crawling with intelligence services.
 
 ---
 
-# Architecture
+## Architecture
 
 The district combines:
 
@@ -262,9 +259,9 @@ The Exchange never truly sleeps.
 
 ---
 
-# Major Districts
+## Major Districts
 
-## The Grand Market
+### The Grand Market
 
 The commercial center.
 
@@ -279,7 +276,7 @@ Thousands of contracts worth billions of credits are signed here daily.
 
 ---
 
-## Transstar Plaza
+### Transstar Plaza
 
 The symbolic center of the district.
 
@@ -296,7 +293,7 @@ Many citizens consider it the true center of power in the subsector.
 
 ---
 
-## Meridian Financial Quarter
+### Meridian Financial Quarter
 
 Home to:
 
@@ -309,7 +306,7 @@ The wealthiest square kilometer on Jardin.
 
 ---
 
-## International Concourse
+### International Concourse
 
 The most cosmopolitan district on the planet.
 
@@ -326,7 +323,7 @@ Business comes first.
 
 ---
 
-## Broker's Row
+### Broker's Row
 
 Hundreds of freight brokers compete for contracts.
 
@@ -340,7 +337,7 @@ change hands here.
 
 ---
 
-# Commerce
+## Commerce
 
 Nearly forty percent of all legal interstellar commerce entering Jardin passes through the Exchange.
 
@@ -361,7 +358,7 @@ Few are willing to damage something so profitable.
 
 ---
 
-# Foreign Presence
+## Foreign Presence
 
 Special permits allow limited foreign corporate representation.
 
@@ -377,7 +374,7 @@ The Exchange remains one of the few places on Jardin where foreigners are common
 
 ---
 
-# Criminal Activity
+## Criminal Activity
 
 Money attracts crime.
 
@@ -393,7 +390,7 @@ Most activity remains hidden beneath layers of legality.
 
 ---
 
-# The Jardin Syndicate
+## The Jardin Syndicate
 
 The Syndicate maintains extensive influence throughout the Exchange.
 
@@ -410,9 +407,9 @@ Most achieve only temporary victories.
 
 ---
 
-# Notable Individuals
+## Notable Individuals
 
-## Antoine Mercier
+### [[Antoine Mercier]]
 
 **Executive Director, Solomani Front Operations**
 
@@ -422,7 +419,7 @@ Frequently rumored to possess more influence than several planetary ministers.
 
 ---
 
-## Isabelle Fournier
+### [[Commissioner Isabelle Fournier|Isabelle Fournier]]
 
 **Chief Commissioner, Exchange Security Bureau**
 
@@ -432,7 +429,7 @@ At least according to official statements.
 
 ---
 
-## Lucien Voss
+### [[Lucien Voss]]
 
 **Senior Freight Broker**
 
@@ -444,7 +441,7 @@ For a price.
 
 ---
 
-## Mara Kovalenko
+### [[Mara Kovalenko]]
 
 **Director of Foreign Trade Relations**
 
@@ -454,7 +451,7 @@ Possesses one of the largest diplomatic contact networks in the subsector.
 
 ---
 
-# Public Reputation
+## Public Reputation
 
 Citizens of Jardin often hold mixed opinions regarding the Exchange.
 
@@ -472,21 +469,21 @@ Most simply call it:
 
 ---
 
-# Rumors
+## Rumors
 
-## The Hidden Market
+### The Hidden Market
 
 An entire black-market exchange allegedly exists beneath the district.
 
 ---
 
-## The Ghost Accounts
+### The Ghost Accounts
 
 Anonymous investment funds appear to move billions of credits without identifiable owners.
 
 ---
 
-## The Syndicate Ledger
+### The Syndicate Ledger
 
 A document exists proving corruption at the highest levels of the Exchange Authority.
 
@@ -496,13 +493,13 @@ Few continue searching.
 
 ---
 
-## The Foreign Vault
+### The Foreign Vault
 
 One of the banks allegedly stores data belonging to multiple intelligence agencies.
 
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### Market Crash
 
@@ -530,19 +527,19 @@ A forgotten data vault from the Solomani Rim War is discovered beneath Transstar
 
 Everyone wants what is inside.
 
-## Session 1 - Potential Refuge
+### Session 1 - Potential Refuge
 
 Emma's smuggler contact identified the Transstar Sector Exchange as a possible refuge after the [[Mercier Frame-Up]]. The Exchange is described as an independent legal entity inside Jardin: not fully outside local reality, but separate enough that the group may not be direct enemies of the state while inside it.
 
 The contact compared it to a corporate enclave or embassy-like safe zone. If the [[Identity Veils]] begin to fail, reaching the Exchange may allow the group to speak more openly with contacts and seek corporate or smuggling options.
 
-## Session 2 - Ammunition Lead
+### Session 2 - Ammunition Lead
 
 During [[Session 2 - Masks and Markers]], [[Lucin]] claimed he has a broker in Transstar who can provide military-grade ammunition if the group supplies the weapon models and credits. The GM also flagged Transstar as a safer next destination where the party might pick up ammunition and avoid being ambushed in the warehouse district.
 
 ---
 :::gm
-# Referee Notes
+## Referee Notes
 
 The Transstar Sector Exchange should feel fundamentally different from the rest of Jardin.
 
@@ -565,5 +562,4 @@ It is the one place on Jardin where a person can genuinely believe that credits 
 Whether that belief is true remains open to debate.
 
 
-GM-only truth goes here.
 :::

@@ -14,60 +14,8 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
-## Contents
-
-- [Danton Quarter](#danton-quarter)
-- [Overview](#overview)
-- [First Impressions](#first-impressions)
-- [History](#history)
-  - [The Founding](#the-founding)
-  - [The Congress District](#the-congress-district)
-- [Architecture](#architecture)
-- [Major Districts](#major-districts)
-  - [Republic Square](#republic-square)
-  - [Academy Row](#academy-row)
-  - [The Press District](#the-press-district)
-  - [Forum Boulevard](#forum-boulevard)
-  - [The Debate Gardens](#the-debate-gardens)
-- [Political Culture](#political-culture)
-    - [Continuity Bloc](#continuity-bloc)
-    - [Future Movement](#future-movement)
-    - [Civic Humanists](#civic-humanists)
-    - [Frontier Development League](#frontier-development-league)
-- [Universities](#universities)
-  - [University of Jardin](#university-of-jardin)
-  - [Party Academy of Public Administration](#party-academy-of-public-administration)
-  - [Institute for Historical Continuity](#institute-for-historical-continuity)
-- [Security](#security)
-- [Relationship with Social Solidarity](#relationship-with-social-solidarity)
-- [Relationship with the Ministry of Genetics](#relationship-with-the-ministry-of-genetics)
-- [Notable Locations](#notable-locations)
-  - [The Hall of Public Discourse](#the-hall-of-public-discourse)
-  - [Café République](#caf-r-publique)
-  - [Library of the Solomani Future](#library-of-the-solomani-future)
-  - [Monument to the First Congress](#monument-to-the-first-congress)
-- [Notable Individuals](#notable-individuals)
-  - [Professor Émile Laurent](#professor-mile-laurent)
-  - [Juliette Mercier](#juliette-mercier)
-  - [Director Alain Mercier](#director-alain-mercier)
-  - [Pierre Gauthier](#pierre-gauthier)
-- [Public Reputation](#public-reputation)
-- [Rumors](#rumors)
-  - [The Secret Congress](#the-secret-congress)
-  - [The Missing Manuscript](#the-missing-manuscript)
-  - [The Speaker's List](#the-speaker-s-list)
-  - [The Forgotten Archive](#the-forgotten-archive)
-- [Adventure Hooks](#adventure-hooks)
-    - [The Stolen Speech](#the-stolen-speech)
-    - [Academic Defector](#academic-defector)
-    - [Congress Intrigue](#congress-intrigue)
-    - [The Lost Archive](#the-lost-archive)
-    - [Student Movement](#student-movement)
-    - [The Future Report](#the-future-report)
-- [Referee Notes](#referee-notes)
-
 # Quartier Danton
-# Danton Quarter
+*Danton Quarter*
 
 *"Ideas Shape History."*
 
@@ -93,7 +41,57 @@ parent: Jardin
 
 ---
 
-# Overview
+## Contents
+
+- [Overview](#overview)
+- [First Impressions](#first-impressions)
+- [History](#history)
+  - [The Founding](#the-founding)
+  - [The Congress District](#the-congress-district)
+- [Architecture](#architecture)
+- [Major Districts](#major-districts)
+  - [Republic Square](#republic-square)
+  - [Academy Row](#academy-row)
+  - [The Press District](#the-press-district)
+  - [Forum Boulevard](#forum-boulevard)
+  - [The Debate Gardens](#the-debate-gardens)
+- [Political Culture](#political-culture)
+  - [Continuity Bloc](#continuity-bloc)
+  - [Future Movement](#future-movement)
+  - [Civic Humanists](#civic-humanists)
+  - [Frontier Development League](#frontier-development-league)
+- [Universities](#universities)
+  - [University of Jardin](#university-of-jardin)
+  - [Party Academy of Public Administration](#party-academy-of-public-administration)
+  - [Institute for Historical Continuity](#institute-for-historical-continuity)
+- [Security](#security)
+- [Relationship with Social Solidarity](#relationship-with-social-solidarity)
+- [Relationship with the Ministry of Genetics](#relationship-with-the-ministry-of-genetics)
+- [Notable Locations](#notable-locations)
+  - [The Hall of Public Discourse](#the-hall-of-public-discourse)
+  - [Café République](#caf-r-publique)
+  - [Library of the Solomani Future](#library-of-the-solomani-future)
+  - [Monument to the First Congress](#monument-to-the-first-congress)
+- [Notable Individuals](#notable-individuals)
+  - [Professor Émile Laurent](#professor-mile-laurent)
+  - [Juliette Mercier](#juliette-mercier)
+  - [Director Alain Mercier](#director-alain-mercier)
+  - [Pierre Gauthier](#pierre-gauthier)
+- [Public Reputation](#public-reputation)
+- [Rumors](#rumors)
+  - [The Secret Congress](#the-secret-congress)
+  - [The Missing Manuscript](#the-missing-manuscript)
+  - [The Speaker's List](#the-speaker-s-list)
+  - [The Forgotten Archive](#the-forgotten-archive)
+- [Adventure Hooks](#adventure-hooks)
+  - [The Stolen Speech](#the-stolen-speech)
+  - [Academic Defector](#academic-defector)
+  - [Congress Intrigue](#congress-intrigue)
+  - [The Lost Archive](#the-lost-archive)
+  - [Student Movement](#student-movement)
+  - [The Future Report](#the-future-report)
+
+## Overview
 
 The **Quartier Danton** serves as the intellectual and political center of Jardin.
 
@@ -114,7 +112,7 @@ Many also die here.
 
 ---
 
-# First Impressions
+## First Impressions
 
 Danton feels educated.
 
@@ -136,9 +134,9 @@ Usually several at once.
 
 ---
 
-# History
+## History
 
-## The Founding
+### The Founding
 
 The district emerged around Jardin's earliest universities.
 
@@ -148,7 +146,7 @@ Over time the area became the unofficial center of political thought.
 
 ---
 
-## The Congress District
+### The Congress District
 
 Following the violent Party Congress of 844, many political organizations centralized their operations in Danton.
 
@@ -160,7 +158,7 @@ For influence.
 
 ---
 
-# Architecture
+## Architecture
 
 Unlike the monumental government districts, Danton is designed on a human scale.
 
@@ -177,9 +175,9 @@ The atmosphere resembles a university city more than a capital district.
 
 ---
 
-# Major Districts
+## Major Districts
 
-## Republic Square
+### Republic Square
 
 The symbolic center of the Quarter.
 
@@ -194,7 +192,7 @@ Nearly every political movement on Jardin has held rallies here.
 
 ---
 
-## Academy Row
+### Academy Row
 
 Home to:
 
@@ -206,7 +204,7 @@ Thousands of students study here.
 
 ---
 
-## The Press District
+### The Press District
 
 Contains the headquarters of:
 
@@ -219,7 +217,7 @@ Journalists wield considerable influence within Danton.
 
 ---
 
-## Forum Boulevard
+### Forum Boulevard
 
 A long avenue lined with:
 
@@ -231,7 +229,7 @@ Every building appears to be studying something.
 
 ---
 
-## The Debate Gardens
+### The Debate Gardens
 
 Public park designed specifically for lectures, discussions, and political gatherings.
 
@@ -239,7 +237,7 @@ An unusual feature even by Solomani standards.
 
 ---
 
-# Political Culture
+## Political Culture
 
 Politics in Danton is intense.
 
@@ -279,9 +277,9 @@ Strong support from Transstar interests.
 
 ---
 
-# Universities
+## Universities
 
-## University of Jardin
+### University of Jardin
 
 The most prestigious educational institution on the planet.
 
@@ -295,7 +293,7 @@ Many future leaders begin here.
 
 ---
 
-## Party Academy of Public Administration
+### Party Academy of Public Administration
 
 The premier training institution for future Party officials.
 
@@ -303,7 +301,7 @@ Graduates dominate government service.
 
 ---
 
-## Institute for Historical Continuity
+### Institute for Historical Continuity
 
 Responsible for preserving and interpreting the history of Jardin.
 
@@ -311,7 +309,7 @@ Frequently accused of political bias.
 
 ---
 
-# Security
+## Security
 
 The district remains heavily monitored.
 
@@ -327,7 +325,7 @@ Most activity focuses on observation rather than intervention.
 
 ---
 
-# Relationship with Social Solidarity
+## Relationship with Social Solidarity
 
 Complicated.
 
@@ -341,7 +339,7 @@ Most of the time.
 
 ---
 
-# Relationship with the Ministry of Genetics
+## Relationship with the Ministry of Genetics
 
 Very close.
 
@@ -351,15 +349,15 @@ Many Ministry officials maintain offices here.
 
 ---
 
-# Notable Locations
+## Notable Locations
 
-## The Hall of Public Discourse
+### The Hall of Public Discourse
 
 A massive amphitheater used for debates and conferences.
 
 ---
 
-## Café République
+### Café République
 
 Most famous political café on Jardin.
 
@@ -369,21 +367,21 @@ Many have ended here as well.
 
 ---
 
-## Library of the Solomani Future
+### Library of the Solomani Future
 
 One of the largest public libraries in the Confederation.
 
 ---
 
-## Monument to the First Congress
+### Monument to the First Congress
 
 Commemorates the founding generation of the Solomani Movement.
 
 ---
 
-# Notable Individuals
+## Notable Individuals
 
-## Professor Émile Laurent
+### [[Professor Émile Laurent]]
 
 Political theorist and public intellectual.
 
@@ -391,7 +389,7 @@ Frequently appears on state broadcasts.
 
 ---
 
-## Juliette Mercier
+### [[Juliette Mercier]]
 
 Senior editor at Jardin Today.
 
@@ -399,7 +397,7 @@ Known for asking difficult questions.
 
 ---
 
-## Director Alain Mercier
+### [[Alain Mercier|Director Alain Mercier]]
 
 Maintains an office in the district despite serving primarily from the Closed Gardens.
 
@@ -407,7 +405,7 @@ His lectures routinely fill entire auditoriums.
 
 ---
 
-## Pierre Gauthier
+### [[Pierre Gauthier]]
 
 Student activist and rising political figure.
 
@@ -415,7 +413,7 @@ Closely watched by Social Solidarity.
 
 ---
 
-# Public Reputation
+## Public Reputation
 
 Most citizens describe Danton as:
 
@@ -427,21 +425,21 @@ Critics consider it a district full of people who have never held a real job.
 
 ---
 
-# Rumors
+## Rumors
 
-## The Secret Congress
+### The Secret Congress
 
 Influential figures occasionally meet in private to shape future Party policy.
 
 ---
 
-## The Missing Manuscript
+### The Missing Manuscript
 
 A controversial political work disappeared before publication.
 
 ---
 
-## The Speaker's List
+### The Speaker's List
 
 Certain lecturers are quietly prevented from speaking in public.
 
@@ -449,13 +447,13 @@ Officially no such list exists.
 
 ---
 
-## The Forgotten Archive
+### The Forgotten Archive
 
 Records from the violent Congress of 844 remain sealed somewhere beneath the district.
 
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### The Stolen Speech
 
@@ -484,7 +482,7 @@ An unpublished Ministry document threatens to destabilize several powerful facti
 ---
 :::gm
 
-# Referee Notes
+## Referee Notes
 
 Danton should feel like the ideological battlefield of Jardin.
 
@@ -502,6 +500,4 @@ If Fort Robespierre trains soldiers and the Closed Gardens train scientists, Dan
 
 And on Jardin, that can be just as dangerous.
 
-:::gm
-GM-only truth goes here.
 :::

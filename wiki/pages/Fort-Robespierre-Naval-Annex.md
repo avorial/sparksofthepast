@@ -14,6 +14,38 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
+# Fort Robespierre Naval Annex
+
+*"Vigilance, Duty, Victory."*
+
+**Location:** Southern Coastal Military Zone, Jardin
+
+**Type:** Naval Installation and Military Training Complex
+
+**Administrative Authority:** Confederation Navy
+
+**Operational Control:** Jardin Naval Command
+
+**Status:** Active Military Facility
+
+**Security Classification:** Restricted
+
+**Population:** 850,000 Military Personnel
+
+**Daily Population:** Approximately 1.5 Million
+
+**Primary Functions:**
+- Naval Operations
+- Marine Training
+- Mech Warfare Development
+- Orbital Deployment
+- Military Logistics
+- Fleet Support
+
+**Nickname:** The Fort
+
+---
+
 ## Contents
 
 - [Overview](#overview)
@@ -60,47 +92,14 @@ parent: Jardin
   - [The Lost Regiment](#the-lost-regiment)
   - [The Black Hangar](#the-black-hangar)
 - [Adventure Hooks](#adventure-hooks)
-    - [Missing Prototype](#missing-prototype)
-    - [Marine Investigation](#marine-investigation)
-    - [Orbital Emergency](#orbital-emergency)
-    - [Classified Cargo](#classified-cargo)
-    - [Fleet Exercise](#fleet-exercise)
-    - [The Black Hangar](#the-black-hangar)
-- [Referee Notes](#referee-notes)
+  - [Missing Prototype](#missing-prototype)
+  - [Marine Investigation](#marine-investigation)
+  - [Orbital Emergency](#orbital-emergency)
+  - [Classified Cargo](#classified-cargo)
+  - [Fleet Exercise](#fleet-exercise)
+  - [The Black Hangar](#the-black-hangar)
 
-# Fort Robespierre Naval Annex
-
-*"Vigilance, Duty, Victory."*
-
-**Location:** Southern Coastal Military Zone, Jardin
-
-**Type:** Naval Installation and Military Training Complex
-
-**Administrative Authority:** Confederation Navy
-
-**Operational Control:** Jardin Naval Command
-
-**Status:** Active Military Facility
-
-**Security Classification:** Restricted
-
-**Population:** 850,000 Military Personnel
-
-**Daily Population:** Approximately 1.5 Million
-
-**Primary Functions:**
-- Naval Operations
-- Marine Training
-- Mech Warfare Development
-- Orbital Deployment
-- Military Logistics
-- Fleet Support
-
-**Nickname:** The Fort
-
----
-
-# Overview
+## Overview
 
 Fort Robespierre Naval Annex is the military heart of Jardin.
 
@@ -124,9 +123,9 @@ Warships must always remain ready.
 
 ---
 
-# History
+## History
 
-## Origins
+### Origins
 
 Fort Robespierre traces its roots to the period before Solomani intervention.
 
@@ -140,7 +139,7 @@ Over time the Fort became one of the most important naval installations in the S
 
 ---
 
-## The Rim War Era
+### The Rim War Era
 
 During the Solomani Rim War the Annex operated continuously.
 
@@ -157,7 +156,7 @@ Many monuments throughout the complex commemorate units destroyed during the war
 
 ---
 
-## Modern Role
+### Modern Role
 
 Today Fort Robespierre acts as both military headquarters and training institution.
 
@@ -167,7 +166,7 @@ Many senior naval officers began their careers here.
 
 ---
 
-# First Impressions
+## First Impressions
 
 The Fort feels fundamentally different from the rest of Jardin.
 
@@ -189,13 +188,13 @@ It is designed to prepare for war.
 
 ---
 
-# Layout
+## Layout
 
 The Annex occupies hundreds of square kilometers of coastline and inland training territory.
 
 Major districts include:
 
-## Naval Command Citadel
+### Naval Command Citadel
 
 The headquarters of military operations on Jardin.
 
@@ -210,7 +209,7 @@ This is where regional naval operations are coordinated.
 
 ---
 
-## Marine Training Grounds
+### Marine Training Grounds
 
 The largest military training area on Jardin.
 
@@ -225,7 +224,7 @@ Thousands of marines train here every year.
 
 ---
 
-## Mech Combat Academy
+### Mech Combat Academy
 
 One of the most famous institutions on the planet.
 
@@ -242,7 +241,7 @@ Graduates are highly respected.
 
 ---
 
-## Vehicle Development Range
+### Vehicle Development Range
 
 Testing area for:
 
@@ -257,7 +256,7 @@ Explosions are common.
 
 ---
 
-## Orbital Transfer Complex
+### Orbital Transfer Complex
 
 The busiest military transportation hub on Jardin.
 
@@ -273,7 +272,7 @@ Most naval officers spend considerable time here.
 
 ---
 
-## Fleet Logistics Center
+### Fleet Logistics Center
 
 Handles:
 
@@ -286,7 +285,7 @@ One of the largest military warehouses in the subsector.
 
 ---
 
-# Orbital Facilities
+## Orbital Facilities
 
 The Annex itself does not house major warships.
 
@@ -294,7 +293,7 @@ Those vessels remain in orbit.
 
 Instead the Fort serves as the surface support facility for:
 
-## Robespierre Fleet Anchorage
+### Robespierre Fleet Anchorage
 
 Massive orbital station supporting:
 
@@ -305,19 +304,19 @@ Massive orbital station supporting:
 
 ---
 
-## Marine Orbital Barracks
+### Marine Orbital Barracks
 
 Housing and deployment center for marine forces.
 
 ---
 
-## Strategic Reserve Yards
+### Strategic Reserve Yards
 
 Storage facilities containing reserve vessels and emergency supplies.
 
 ---
 
-# Military Culture
+## Military Culture
 
 Fort Robespierre produces officers with a distinctive reputation.
 
@@ -336,13 +335,13 @@ The graduates generally do not disagree.
 
 ---
 
-# Security
+## Security
 
 Security is among the strictest on Jardin.
 
 Organizations present include:
 
-## Naval Security Command
+### Naval Security Command
 
 Primary military police force.
 
@@ -354,7 +353,7 @@ Responsible for:
 
 ---
 
-## Marine Provost Corps
+### Marine Provost Corps
 
 Handles discipline among marine units.
 
@@ -362,7 +361,7 @@ Feared throughout the installation.
 
 ---
 
-## SolSec Military Liaison Office
+### SolSec Military Liaison Office
 
 Maintains oversight regarding:
 
@@ -372,7 +371,7 @@ Maintains oversight regarding:
 
 ---
 
-## Social Solidarity Military Affairs Bureau
+### Social Solidarity Military Affairs Bureau
 
 Ensures continued political reliability among personnel.
 
@@ -380,9 +379,9 @@ Its presence is often resented.
 
 ---
 
-# Relationship with Other Institutions
+## Relationship with Other Institutions
 
-## Palace of Continuity
+### Palace of Continuity
 
 Officially subordinate.
 
@@ -392,7 +391,7 @@ Many officers believe politicians underestimate military realities.
 
 ---
 
-## Social Solidarity
+### Social Solidarity
 
 A necessary relationship.
 
@@ -400,7 +399,7 @@ Not always a comfortable one.
 
 ---
 
-## Transstar
+### Transstar
 
 Maintains extensive logistics contracts with the military.
 
@@ -408,9 +407,9 @@ Many supplies pass through Transstar networks.
 
 ---
 
-# Notable Landmarks
+## Notable Landmarks
 
-## Hall of Heroes
+### Hall of Heroes
 
 Massive memorial honoring fallen servicemen and women.
 
@@ -418,13 +417,13 @@ Every graduating class visits.
 
 ---
 
-## Victory Square
+### Victory Square
 
 Site of military parades and public ceremonies.
 
 ---
 
-## The Iron Gate
+### The Iron Gate
 
 The ceremonial entrance to the installation.
 
@@ -432,7 +431,7 @@ Named after the Iron Gate naval expansion program.
 
 ---
 
-## Marshal Cartier Academy
+### Marshal Cartier Academy
 
 Prestigious officer training institution.
 
@@ -440,9 +439,9 @@ Named after Marine Cartier.
 
 ---
 
-# Notable Individuals
+## Notable Individuals
 
-## Admiral Henri Duval
+### [[Admiral Henri Duval]]
 
 **Commander, Jardin Naval Command**
 
@@ -452,7 +451,7 @@ A strong advocate for expanding naval power in the Solomani Front.
 
 ---
 
-## General Claire Moreau
+### [[General Claire Moreau]]
 
 **Commander, Marine Forces Jardin**
 
@@ -462,7 +461,7 @@ Widely respected by frontline personnel.
 
 ---
 
-## Colonel Victor Almeida
+### [[Colonel Victor Almeida]]
 
 **Commandant, Mech Combat Academy**
 
@@ -472,7 +471,7 @@ A hero among mech pilots.
 
 ---
 
-## Commander Lucien Marchand
+### [[Commander Lucien Marchand]]
 
 **Director, Orbital Transfer Operations**
 
@@ -482,7 +481,7 @@ Few officers influence daily operations more.
 
 ---
 
-# Public Reputation
+## Public Reputation
 
 Citizens generally view the Fort favorably.
 
@@ -498,21 +497,21 @@ Military officers tend to dismiss such concerns.
 
 ---
 
-# Rumors
+## Rumors
 
-## The Deep Vault
+### The Deep Vault
 
 A classified facility beneath the Annex contains military technology recovered from pre-Confederation ruins.
 
 ---
 
-## Project Bastion
+### Project Bastion
 
 An experimental walker program is operating under extreme secrecy.
 
 ---
 
-## The Lost Regiment
+### The Lost Regiment
 
 Records indicate an entire marine regiment disappeared during the Rim War.
 
@@ -520,7 +519,7 @@ Official histories never mention them.
 
 ---
 
-## The Black Hangar
+### The Black Hangar
 
 A secure aerospace facility receives unidentified vessels under heavy guard.
 
@@ -528,7 +527,7 @@ No official explanation exists.
 
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### Missing Prototype
 
@@ -556,7 +555,7 @@ A SolSec contact requests assistance investigating rumors surrounding a secret a
 
 ---
 :::gm
-# Referee Notes
+## Referee Notes
 
 Fort Robespierre should feel like the martial soul of Jardin.
 
@@ -580,5 +579,4 @@ For civilians, it should feel slightly intimidating.
 
 For enemies of Jardin, it should feel dangerous.
 
-GM-only truth goes here.
 :::

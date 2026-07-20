@@ -14,9 +14,26 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
+# Le Palais de Continuité
+
+*The Palace of Continuity*
+
+**Location:** Nouvelle Sainte-Jeanne, Jardin
+
+**Type:** Seat of Government, Executive Complex, National Symbol
+
+**Population:** Approximately 35,000 permanent staff
+
+**Security Level:** Extreme
+
+**Primary Authority:** Office of the Supreme Presidency
+
+**Current Supreme President:** Leo Duprey
+
+---
+
 ## Contents
 
-- [The Palace of Continuity](#the-palace-of-continuity)
 - [Overview](#overview)
 - [Session 1 Note](#session-1-note)
 - [History](#history)
@@ -51,25 +68,6 @@ parent: Jardin
 - [Rumors and Secrets](#rumors-and-secrets)
 - [Traveller Information](#traveller-information)
 - [Adventure Hooks](#adventure-hooks)
-- [Referee Notes](#referee-notes)
-
-# Le Palais de Continuité
-
-## The Palace of Continuity
-
-**Location:** Nouvelle Sainte-Jeanne, Jardin
-
-**Type:** Seat of Government, Executive Complex, National Symbol
-
-**Population:** Approximately 35,000 permanent staff
-
-**Security Level:** Extreme
-
-**Primary Authority:** Office of the Supreme Presidency
-
-**Current Supreme President:** Leo Duprey
-
----
 
 ## Overview
 
@@ -243,7 +241,7 @@ Coordination between military, intelligence, and internal security organizations
 
 ## Current Leadership
 
-### Supreme President Leo Duprey
+### [[Leo Duprey|Supreme President Leo Duprey]]
 
 The current ruler of Jardin.
 
@@ -262,7 +260,7 @@ Few make such criticisms publicly.
 
 ---
 
-### Hélène Marchand
+### [[Chief Helene Marchand|Hélène Marchand]]
 
 **Chief of Staff**
 
@@ -272,7 +270,7 @@ Many observers believe she controls access to power more effectively than any ca
 
 ---
 
-### Alain Mercier
+### [[Alain Mercier]]
 
 **Minister of Genetics**
 
@@ -391,8 +389,6 @@ Violations are dealt with swiftly.
 
 
 
-:::gm
-GM-only truth goes here.
 ## Adventure Hooks
 
 1. A senior official disappears shortly before Party Congress.
@@ -408,6 +404,8 @@ GM-only truth goes here.
 
 ---
 
+
+:::gm
 ## Referee Notes
 
 The Palace of Continuity functions best as the political center of a campaign focused on intrigue, espionage, diplomacy, and conspiracy.

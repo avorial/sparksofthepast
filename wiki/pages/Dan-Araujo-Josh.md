@@ -53,7 +53,7 @@ Engineer (J-drive) 3, Mechanic 2, Investigate 2, Vacc Suit 2, Astrogation 1, Dip
 - Spoke with [[Lucin]] and helped turn the supply run into a data-broker contact.
 - Became surprisingly enthusiastic about doing "criminal" work well, while still insisting he is not a criminal by nature.
 - Supported the Lucin delivery plan as a way to gain a vehicle and a possible underworld information channel.
-- Helped complete the daylight crate delivery from [[Les Jardins Fermes]] to [[Chief Helene Marchand]]'s secured residence.
+- Helped complete the daylight crate delivery from [[Les Jardins Fermés]] to [[Chief Helene Marchand]]'s secured residence.
 
 - Rival: Racial Incident
 

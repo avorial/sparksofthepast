@@ -14,60 +14,9 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
-## Contents
-
-- [Hall of Chosen Futures](#hall-of-chosen-futures)
-- [Overview](#overview)
-- [Public Purpose](#public-purpose)
-- [History](#history)
-- [Foundation Era](#foundation-era)
-- [The Genetic Reforms](#the-genetic-reforms)
-- [The Integration Period](#the-integration-period)
-- [Architecture](#architecture)
-- [Major Divisions](#major-divisions)
-- [Citizen Registry Directorate](#citizen-registry-directorate)
-- [Bureau of Genetic Assessment](#bureau-of-genetic-assessment)
-- [Directorate of Educational Futures](#directorate-of-educational-futures)
-- [Bureau of Family Development](#bureau-of-family-development)
-- [Immigration and Citizenship Authority](#immigration-and-citizenship-authority)
-- [Robot Registration Bureau](#robot-registration-bureau)
-- [The Citizen Lifecycle](#the-citizen-lifecycle)
-- [Birth](#birth)
-- [Childhood](#childhood)
-- [Adolescence](#adolescence)
-- [Adulthood](#adulthood)
-- [Retirement](#retirement)
-- [Daily Operations](#daily-operations)
-- [Minister Alain Mercier](#minister-alain-mercier)
-- [Public Opinion](#public-opinion)
-- [Common Sayings](#common-sayings)
-  - ["Trust the numbers."](#trust-the-numbers)
-  - ["The Hall remembers."](#the-hall-remembers)
-  - ["Everyone visits eventually."](#everyone-visits-eventually)
-  - ["Ask the Hall."](#ask-the-hall)
-- [Security](#security)
-- [Foreign Visitors](#foreign-visitors)
-- [Rumors](#rumors)
-- [Classified Information](#classified-information)
-- [Project Horizon](#project-horizon)
-- [Restricted Archives](#restricted-archives)
-- [The Mercier Findings](#the-mercier-findings)
-- [Adventure Hooks](#adventure-hooks)
-  - [Missing File](#missing-file)
-  - [Ghost Citizen](#ghost-citizen)
-  - [Stolen Genome](#stolen-genome)
-  - [Foreign Defector](#foreign-defector)
-  - [Robot Uprising](#robot-uprising)
-  - [The Wrong Future](#the-wrong-future)
-  - [Party Congress](#party-congress)
-- [Session 1 - Official Business](#session-1-official-business)
-- [Session 1 Security Notes](#session-1-security-notes)
-- [Session 2 - Aftermath Recon](#session-2-aftermath-recon)
-- [Referee Notes](#referee-notes)
-
 # Hall des Futurs Choisis
 
-## Hall of Chosen Futures
+*Hall of Chosen Futures*
 
 **Location:** Government District, Nouvelle Sainte-Jeanne, Jardin
 
@@ -83,7 +32,52 @@ parent: Jardin
 
 ---
 
-# Overview
+## Contents
+
+- [Overview](#overview)
+- [Public Purpose](#public-purpose)
+- [History](#history)
+  - [Foundation Era](#foundation-era)
+  - [The Genetic Reforms](#the-genetic-reforms)
+  - [The Integration Period](#the-integration-period)
+- [Architecture](#architecture)
+- [Major Divisions](#major-divisions)
+  - [Citizen Registry Directorate](#citizen-registry-directorate)
+  - [Bureau of Genetic Assessment](#bureau-of-genetic-assessment)
+  - [Directorate of Educational Futures](#directorate-of-educational-futures)
+  - [Bureau of Family Development](#bureau-of-family-development)
+  - [Immigration and Citizenship Authority](#immigration-and-citizenship-authority)
+  - [Robot Registration Bureau](#robot-registration-bureau)
+- [The Citizen Lifecycle](#the-citizen-lifecycle)
+  - [Birth](#birth)
+  - [Childhood](#childhood)
+  - [Adolescence](#adolescence)
+  - [Adulthood](#adulthood)
+  - [Retirement](#retirement)
+- [Daily Operations](#daily-operations)
+- [Minister Alain Mercier](#minister-alain-mercier)
+- [Public Opinion](#public-opinion)
+- [Common Sayings](#common-sayings)
+  - ["Trust the numbers."](#trust-the-numbers)
+  - ["The Hall remembers."](#the-hall-remembers)
+  - ["Everyone visits eventually."](#everyone-visits-eventually)
+  - ["Ask the Hall."](#ask-the-hall)
+- [Security](#security)
+- [Foreign Visitors](#foreign-visitors)
+- [Rumors](#rumors)
+- [Adventure Hooks](#adventure-hooks)
+  - [Missing File](#missing-file)
+  - [Ghost Citizen](#ghost-citizen)
+  - [Stolen Genome](#stolen-genome)
+  - [Foreign Defector](#foreign-defector)
+  - [Robot Uprising](#robot-uprising)
+  - [The Wrong Future](#the-wrong-future)
+  - [Party Congress](#party-congress)
+  - [Session 1 - Official Business](#session-1-official-business)
+  - [Session 1 Security Notes](#session-1-security-notes)
+  - [Session 2 - Aftermath Recon](#session-2-aftermath-recon)
+
+## Overview
 
 The **Hall des Futurs Choisis** (Hall of Chosen Futures) is among the most influential institutions on Jardin and arguably the most important government building outside the Palace of Continuity itself.
 
@@ -101,7 +95,7 @@ For many foreigners, it represents something far more unsettling.
 
 ---
 
-# Public Purpose
+## Public Purpose
 
 The Hall's official mission is inscribed above the main entrance:
 
@@ -127,9 +121,9 @@ Most citizens reject such characterizations.
 
 ---
 
-# History
+## History
 
-## Foundation Era
+### Foundation Era
 
 The original Hall began as a simple census and population records office during Jardin's first century.
 
@@ -145,7 +139,7 @@ The ministry eventually became the Hall.
 
 ---
 
-## The Genetic Reforms
+### The Genetic Reforms
 
 The modern Hall emerged during the Genetic Reforms of the sixth century.
 
@@ -168,7 +162,7 @@ The public generally supported further expansion.
 
 ---
 
-## The Integration Period
+### The Integration Period
 
 During the following centuries dozens of independent agencies were merged into the Hall.
 
@@ -187,7 +181,7 @@ By the modern era, nearly every major life event passed through the Hall.
 
 ---
 
-# Architecture
+## Architecture
 
 The Hall covers nearly four square kilometers and consists of seven interconnected administrative towers surrounding a central civic plaza.
 
@@ -214,9 +208,9 @@ Only after proceeding deeper into the complex does its true scale become apparen
 
 ---
 
-# Major Divisions
+## Major Divisions
 
-## Citizen Registry Directorate
+### Citizen Registry Directorate
 
 The oldest department within the Hall.
 
@@ -237,7 +231,7 @@ Officials proudly describe the Registry as the most complete demographic databas
 
 ---
 
-## Bureau of Genetic Assessment
+### Bureau of Genetic Assessment
 
 Perhaps the Hall's most famous department.
 
@@ -256,7 +250,7 @@ Citizens often view refusing assessment as irresponsible.
 
 ---
 
-## Directorate of Educational Futures
+### Directorate of Educational Futures
 
 Tracks educational development from childhood through adulthood.
 
@@ -275,7 +269,7 @@ Many citizens follow them.
 
 ---
 
-## Bureau of Family Development
+### Bureau of Family Development
 
 Handles:
 
@@ -292,7 +286,7 @@ In reality, most services remain advisory rather than mandatory.
 
 ---
 
-## Immigration and Citizenship Authority
+### Immigration and Citizenship Authority
 
 Responsible for:
 
@@ -305,7 +299,7 @@ Every long-term visitor eventually encounters this department.
 
 ---
 
-## Robot Registration Bureau
+### Robot Registration Bureau
 
 One of the Hall's newer divisions.
 
@@ -327,11 +321,11 @@ Unregistered robots can be confiscated.
 
 ---
 
-# The Citizen Lifecycle
+## The Citizen Lifecycle
 
 A typical citizen may interact with the Hall dozens of times throughout life.
 
-## Birth
+### Birth
 
 Parents register newborns.
 
@@ -341,7 +335,7 @@ Healthcare recommendations are provided.
 
 ---
 
-## Childhood
+### Childhood
 
 Educational assessments begin.
 
@@ -351,7 +345,7 @@ Specialized opportunities are identified.
 
 ---
 
-## Adolescence
+### Adolescence
 
 Aptitude evaluations occur.
 
@@ -361,7 +355,7 @@ Military and civic service pathways are discussed.
 
 ---
 
-## Adulthood
+### Adulthood
 
 Marriage registration.
 
@@ -375,7 +369,7 @@ Citizenship updates.
 
 ---
 
-## Retirement
+### Retirement
 
 Medical support planning.
 
@@ -385,7 +379,7 @@ Legacy documentation.
 
 ---
 
-# Daily Operations
+## Daily Operations
 
 Nearly 500,000 people pass through the Hall every week.
 
@@ -410,7 +404,7 @@ Officials already know what forms are required.
 
 ---
 
-# Minister Alain Mercier
+## Minister Alain Mercier
 
 Current Minister of Genetics and director of the Hall.
 
@@ -434,7 +428,7 @@ His upcoming presentation at the next Party Congress has generated enormous publ
 
 ---
 
-# Public Opinion
+## Public Opinion
 
 Surveys consistently show strong public approval.
 
@@ -453,7 +447,7 @@ Meaning that even complicated problems usually have a solution.
 
 ---
 
-# Common Sayings
+## Common Sayings
 
 ### "Trust the numbers."
 
@@ -473,7 +467,7 @@ Used when seeking official guidance.
 
 ---
 
-# Security
+## Security
 
 Security is extensive but intentionally discreet.
 
@@ -494,7 +488,7 @@ The Hall maintains one of the most valuable information repositories in the Conf
 
 ---
 
-# Foreign Visitors
+## Foreign Visitors
 
 Visitors remaining longer than seven days must register.
 
@@ -514,7 +508,7 @@ Many leave feeling uncomfortable without being entirely certain why.
 
 ---
 
-# Rumors
+## Rumors
 
 Numerous rumors surround the Hall.
 
@@ -530,11 +524,13 @@ Officials dismiss such stories as exaggerations.
 
 ---
 
-# Classified Information
+:::gm
+
+## Classified Information
 
 The following information is not publicly known.
 
-## Project Horizon
+### Project Horizon
 
 A classified demographic forecasting initiative operating beneath the Hall.
 
@@ -546,7 +542,7 @@ Officially, the project does not exist.
 
 ---
 
-## Restricted Archives
+### Restricted Archives
 
 Deep beneath the Hall lies a secure repository containing genetic records dating back centuries.
 
@@ -556,7 +552,7 @@ Even many Hall administrators are unaware of its existence.
 
 ---
 
-## The Mercier Findings
+### The Mercier Findings
 
 Recent research conducted under Minister Alain Mercier has produced highly controversial results.
 
@@ -566,9 +562,11 @@ However, rumors have spread throughout government circles that the data may chal
 
 Several senior officials reportedly view the upcoming Party Congress with considerable anxiety.
 
+:::
+
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### Missing File
 
@@ -610,7 +608,7 @@ Months later, those events begin occurring.
 
 The Travellers become entangled in the political fallout surrounding Alain Mercier's long-awaited presentation.
 
-## Session 1 - Official Business
+### Session 1 - Official Business
 
 The player characters were summoned here for administrative reasons tied to genetic status, military records, finances, or autonomous AI review. The process resembled a large bureaucratic office: numbers were assigned, people were called in strange orders, and military IDs were checked because many arrived armed.
 
@@ -618,14 +616,14 @@ The grouping was suspicious. Too many armed veterans and connected figures were 
 
 Shortly after a news broadcast about [[Alain Mercier]] and genetic-file corruption, Mercier crossed the office area and was killed in the [[Mercier Assassination]].
 
-## Session 1 Security Notes
+### Session 1 Security Notes
 
 - The Hall had cameras throughout the office area.
 - Government workers used bioscans to open secure side doors.
 - [[Home Guard]] and [[Social Solidarity]] personnel responded quickly.
 - A walker/mech later breached the window during the group's escape.
 
-## Session 2 - Aftermath Recon
+### Session 2 - Aftermath Recon
 
 The next day, the party returned under [[Identity Veils]] and found the exterior repairs already underway. Scaffolding covered the wall damaged during the walker escape, and security preparation was visible around the nearby Palace of Continuity in anticipation of protests or unrest.
 
@@ -633,7 +631,7 @@ The next day, the party returned under [[Identity Veils]] and found the exterior
 
 ---
 :::gm
-# Referee Notes
+## Referee Notes
 
 The Hall des Futurs Choisis should not be portrayed as overtly sinister.
 
@@ -655,5 +653,4 @@ The question facing visitors is whether any institution should possess this much
 
 That question lies at the heart of modern Jardin.
 
-GM-only truth goes here.
 :::

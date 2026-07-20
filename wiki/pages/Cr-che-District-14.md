@@ -14,6 +14,26 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
+# Crèche District 14
+
+*"Every Child, A Future."*
+
+**Location:** Eastern Nouvelle Sainte-Jeanne
+
+**Type:** State Child Development Arcology
+
+**Administrative Authority:** Directorate of Child Development
+
+**Status:** Active
+
+**Population:** 1.2 Million Children
+
+**Staff:** 180,000 Educators, Medical Personnel, and Administrators
+
+**Nickname:** District 14
+
+---
+
 ## Contents
 
 - [Overview](#overview)
@@ -42,29 +62,8 @@ parent: Jardin
   - [The Lost Maison](#the-lost-maison)
   - [The Original Children](#the-original-children)
   - [The Questionnaires](#the-questionnaires)
-- [Referee Notes](#referee-notes)
 
-# Crèche District 14
-
-*"Every Child, A Future."*
-
-**Location:** Eastern Nouvelle Sainte-Jeanne
-
-**Type:** State Child Development Arcology
-
-**Administrative Authority:** Directorate of Child Development
-
-**Status:** Active
-
-**Population:** 1.2 Million Children
-
-**Staff:** 180,000 Educators, Medical Personnel, and Administrators
-
-**Nickname:** District 14
-
----
-
-# Overview
+## Overview
 
 Crèche District 14 is one of the largest child development complexes on Jardin.
 
@@ -80,7 +79,7 @@ To foreign visitors, it is often deeply unsettling.
 
 ---
 
-# First Impressions
+## First Impressions
 
 Visitors expecting a grim institution are often surprised.
 
@@ -110,7 +109,7 @@ Nothing appears wrong.
 
 ---
 
-# Philosophy
+## Philosophy
 
 District 14 operates under a simple belief:
 
@@ -131,11 +130,11 @@ It views itself as replacing inequality.
 
 ---
 
-# Structure
+## Structure
 
 Children are organized into developmental cohorts called:
 
-## Maisons
+### Maisons
 
 Houses.
 
@@ -152,7 +151,7 @@ The House becomes their family.
 
 ---
 
-# Mentors
+## Mentors
 
 The closest equivalent to parents.
 
@@ -169,7 +168,7 @@ Former students frequently maintain lifelong relationships with mentors.
 
 ---
 
-# Education
+## Education
 
 District 14 contains:
 
@@ -193,7 +192,7 @@ at remarkable rates.
 
 ---
 
-# Daily Life
+## Daily Life
 
 Children live structured lives.
 
@@ -213,7 +212,7 @@ The goal is optimization.
 
 ---
 
-# The Memory Gardens
+## The Memory Gardens
 
 The most unusual area of District 14.
 
@@ -233,7 +232,7 @@ For many, this is the first time they learn much about their biological origins.
 
 ---
 
-# Relationship with Biological Parents
+## Relationship with Biological Parents
 
 Biological parents are not secret.
 
@@ -251,7 +250,7 @@ The Maison is primary.
 
 ---
 
-# Public Opinion
+## Public Opinion
 
 Most Jardinese consider District 14 a success.
 
@@ -268,7 +267,7 @@ Most struggle to define exactly what.
 
 ---
 
-# Security
+## Security
 
 District 14 maintains its own branch of Social Solidarity.
 
@@ -282,9 +281,9 @@ Visitors often describe the district as:
 
 ---
 
-# Notable Locations
+## Notable Locations
 
-## Hall of First Steps
+### Hall of First Steps
 
 Infant development center.
 
@@ -292,27 +291,27 @@ Every citizen of District 14 begins here.
 
 ---
 
-## Unity Stadium
+### Unity Stadium
 
 Largest youth athletics facility on Jardin.
 
 ---
 
-## Garden of Futures
+### Garden of Futures
 
 A massive public park where graduation ceremonies occur.
 
 ---
 
-## The Reflection Pool
+### The Reflection Pool
 
 A quiet memorial dedicated to former students.
 
 ---
 
-# Notable Individuals
+## Notable Individuals
 
-## Director Elise Fournier
+### [[Director Elise Fournier]]
 
 Administrator of District 14.
 
@@ -324,7 +323,7 @@ Known throughout Jardin as:
 
 ---
 
-## Mentor Jean Mercier
+### [[Mentor Jean Mercier]]
 
 One of the oldest serving mentors.
 
@@ -332,7 +331,7 @@ Three generations of graduates have passed through his Maison.
 
 ---
 
-## Dr. Amelie Rousseau
+### [[Dr. Amelie Rousseau]]
 
 Chief Developmental Psychologist.
 
@@ -340,7 +339,7 @@ Her research shapes educational policy across Jardin.
 
 ---
 
-# What Foreigners Notice
+## What Foreigners Notice
 
 Visitors usually report three things:
 
@@ -352,21 +351,21 @@ The third observation is usually the one that stays with them.
 
 ---
 
-# Rumors
+## Rumors
 
-## The Lost Maison
+### The Lost Maison
 
 A House that supposedly disappeared from official records decades ago.
 
 ---
 
-## The Original Children
+### The Original Children
 
 Records of the first generation raised under the Perfection System remain sealed.
 
 ---
 
-## The Questionnaires
+### The Questionnaires
 
 Every child completes extensive annual assessments.
 
@@ -374,7 +373,7 @@ Conspiracy theorists claim these evaluations serve purposes beyond education.
 
 ---
 :::gm
-# Referee Notes
+## Referee Notes
 
 District 14 should never feel like an orphanage.
 
@@ -389,5 +388,4 @@ And then immediately wondering:
 > "So why does this place make me uncomfortable?"
 
 
-GM-only truth goes here.
 :::

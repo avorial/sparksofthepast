@@ -51,7 +51,7 @@ Gun Combat 4, Astrogation 2, Gun Combat (Energy) 2, Electronics 1, Electronics (
 
 - Joined the Sainte-Liberte supply team and helped keep the group supplied without exposing their identities.
 - Converted her M-84 rifle to the carbine configuration for less conspicuous travel.
-- Supported the Lucin delivery plan as overwatch near [[Les Jardins Fermes]].
+- Supported the Lucin delivery plan as overwatch near [[Les Jardins Fermés]].
 - Helped the group preserve tactical caution while testing a first underworld errand.
 - Helped keep the party's new criminal contact useful without committing blindly to [[Lucin]].
 

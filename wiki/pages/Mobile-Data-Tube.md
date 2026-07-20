@@ -25,13 +25,21 @@ lastEditedBy: Codex
 
 # Mobile Data Tube
 
+## Contents
+
+- [Overview](#overview)
+- [Payload](#payload)
+- [Capabilities](#capabilities)
+- [Party Handling](#party-handling)
+- [Open Questions](#open-questions)
+
 ## Overview
 
 The mobile data tube is a cigar-sized metal cylinder recovered from a bathroom drain inside the [[Hall des Futurs Choisis]] during [[Session 2 - Masks and Markers]].
 
 [[Dr. Luc Moreau]] placed a data stick into the tube, typed a warning message on an arm computer, put the tube in the toilet, and flushed it. The tube then extended small legs and tried to travel through the pipes to a recovery point.
 
-## Contents
+## Payload
 
 The tube carried a data chip connected to [[Mercier Genetic Findings]]. The intercepted message said this was the last time the sender would pass information and that Mercier had obviously been killed for the data he received.
 

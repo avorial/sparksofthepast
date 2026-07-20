@@ -14,75 +14,9 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
-## Contents
-
-- [The Closed Gardens](#the-closed-gardens)
-- [Overview](#overview)
-- [History](#history)
-- [The Agricultural Emergency](#the-agricultural-emergency)
-- [The Expansion Years](#the-expansion-years)
-- [The Biological Revolution](#the-biological-revolution)
-- [The Modern Era](#the-modern-era)
-- [Architecture](#architecture)
-- [Major Domes](#major-domes)
-- [Dome One: Conservatoire des Fondateurs](#dome-one-conservatoire-des-fondateurs)
-  - [Founders Conservatory](#founders-conservatory)
-- [Dome Two: Terran Heritage Preserve](#dome-two-terran-heritage-preserve)
-  - [Terran Heritage Preserve](#terran-heritage-preserve)
-- [Dome Three: Futures Agriculture Division](#dome-three-futures-agriculture-division)
-  - [Agricultural Futures Division](#agricultural-futures-division)
-- [Dome Four: Atmospheric Systems Laboratory](#dome-four-atmospheric-systems-laboratory)
-  - [Atmospheric Systems Laboratory](#atmospheric-systems-laboratory)
-- [Dome Five: Living Medicines Center](#dome-five-living-medicines-center)
-  - [Living Medicines Center](#living-medicines-center)
-- [Dome Six: Aquatic Biosystems Facility](#dome-six-aquatic-biosystems-facility)
-  - [Aquatic Biosystems Facility](#aquatic-biosystems-facility)
-- [Dome Seven: Ecological Systems Laboratory](#dome-seven-ecological-systems-laboratory)
-  - [Ecological Systems Laboratory](#ecological-systems-laboratory)
-- [Dome Eight: Advanced Genetic Research Division](#dome-eight-advanced-genetic-research-division)
-  - [Advanced Genetic Research Division](#advanced-genetic-research-division)
-- [Dome Nine: Xenobiological Annex](#dome-nine-xenobiological-annex)
-  - [Xenobiological Annex](#xenobiological-annex)
-- [Dome Ten: Colonial Adaptation Center](#dome-ten-colonial-adaptation-center)
-  - [Colonial Adaptation Center](#colonial-adaptation-center)
-- [Dome Eleven: Experimental Systems Division](#dome-eleven-experimental-systems-division)
-  - [Experimental Systems Division](#experimental-systems-division)
-- [Dome Twelve: Restricted Research Zone](#dome-twelve-restricted-research-zone)
-  - [Restricted Research Zone](#restricted-research-zone)
-- [Daily Life](#daily-life)
-- [Scientific Importance](#scientific-importance)
-- [Public Perception](#public-perception)
-- [Notable Individuals](#notable-individuals)
-- [Dr. Sophie Delacroix](#dr-sophie-delacroix)
-- [Professor Lucien Morel](#professor-lucien-morel)
-- [Dr. Isabelle Fournier](#dr-isabelle-fournier)
-- [Dr. Gabriel Laurent](#dr-gabriel-laurent)
-- [Security](#security)
-- [Rumors](#rumors)
-- [The Silent Forest](#the-silent-forest)
-- [Mercier's Laboratory](#mercier-s-laboratory)
-- [The Perfect Crop](#the-perfect-crop)
-- [Living Archive](#living-archive)
-- [The Lost Species](#the-lost-species)
-- [Classified Information](#classified-information)
-- [Project Verdant Horizon](#project-verdant-horizon)
-- [Dome Twelve](#dome-twelve)
-- [The Mercier Findings](#the-mercier-findings)
-- [Session 2 - Dome 2 Delivery](#session-2-dome-2-delivery)
-- [Adventure Hooks](#adventure-hooks)
-  - [The Escaped Specimen](#the-escaped-specimen)
-  - [The Silent Dome](#the-silent-dome)
-  - [Industrial Espionage](#industrial-espionage)
-  - [The Lost Botanist](#the-lost-botanist)
-  - [The Impossible Plant](#the-impossible-plant)
-  - [The Hidden Tunnel](#the-hidden-tunnel)
-  - [The Xenobiology Problem](#the-xenobiology-problem)
-  - [Mercier's Secret](#mercier-s-secret)
-- [Referee Notes](#referee-notes)
-
 # Les Jardins Fermés
 
-## The Closed Gardens
+*The Closed Gardens*
 
 **Location:** Eastern Scientific District, Nouvelle Sainte-Jeanne, Jardin
 
@@ -100,7 +34,54 @@ parent: Jardin
 
 ---
 
-# Overview
+## Contents
+
+- [Overview](#overview)
+- [History](#history)
+  - [The Agricultural Emergency](#the-agricultural-emergency)
+  - [The Expansion Years](#the-expansion-years)
+  - [The Biological Revolution](#the-biological-revolution)
+  - [The Modern Era](#the-modern-era)
+- [Architecture](#architecture)
+- [Major Domes](#major-domes)
+  - [Dome One: Conservatoire des Fondateurs](#dome-one-conservatoire-des-fondateurs)
+  - [Dome Two: Terran Heritage Preserve](#dome-two-terran-heritage-preserve)
+  - [Dome Three: Futures Agriculture Division](#dome-three-futures-agriculture-division)
+  - [Dome Four: Atmospheric Systems Laboratory](#dome-four-atmospheric-systems-laboratory)
+  - [Dome Five: Living Medicines Center](#dome-five-living-medicines-center)
+  - [Dome Six: Aquatic Biosystems Facility](#dome-six-aquatic-biosystems-facility)
+  - [Dome Seven: Ecological Systems Laboratory](#dome-seven-ecological-systems-laboratory)
+  - [Dome Eight: Advanced Genetic Research Division](#dome-eight-advanced-genetic-research-division)
+  - [Dome Nine: Xenobiological Annex](#dome-nine-xenobiological-annex)
+  - [Dome Ten: Colonial Adaptation Center](#dome-ten-colonial-adaptation-center)
+  - [Dome Eleven: Experimental Systems Division](#dome-eleven-experimental-systems-division)
+  - [Dome Twelve: Restricted Research Zone](#dome-twelve-restricted-research-zone)
+- [Daily Life](#daily-life)
+- [Scientific Importance](#scientific-importance)
+- [Public Perception](#public-perception)
+- [Notable Individuals](#notable-individuals)
+  - [Dr. Sophie Delacroix](#dr-sophie-delacroix)
+  - [Professor Lucien Morel](#professor-lucien-morel)
+  - [Dr. Isabelle Fournier](#dr-isabelle-fournier)
+  - [Dr. Gabriel Laurent](#dr-gabriel-laurent)
+- [Security](#security)
+- [Rumors](#rumors)
+  - [The Silent Forest](#the-silent-forest)
+  - [Mercier's Laboratory](#mercier-s-laboratory)
+  - [The Perfect Crop](#the-perfect-crop)
+  - [Living Archive](#living-archive)
+  - [The Lost Species](#the-lost-species)
+- [Adventure Hooks](#adventure-hooks)
+  - [The Escaped Specimen](#the-escaped-specimen)
+  - [The Silent Dome](#the-silent-dome)
+  - [Industrial Espionage](#industrial-espionage)
+  - [The Lost Botanist](#the-lost-botanist)
+  - [The Impossible Plant](#the-impossible-plant)
+  - [The Hidden Tunnel](#the-hidden-tunnel)
+  - [The Xenobiology Problem](#the-xenobiology-problem)
+  - [Mercier's Secret](#mercier-s-secret)
+
+## Overview
 
 The **Jardins Fermés** (Closed Gardens) are among the greatest scientific achievements of modern Jardin and one of the most recognizable landmarks on the planet. Stretching across nearly forty square kilometers beneath a network of massive environmental domes, the Gardens serve as the primary center for biological research, agricultural innovation, ecological engineering, and environmental sciences on Jardin.
 
@@ -118,9 +99,9 @@ The Gardens' unofficial motto is widely known throughout Jardin:
 
 ---
 
-# History
+## History
 
-## The Agricultural Emergency
+### The Agricultural Emergency
 
 The origins of the Gardens trace back nearly six centuries to a period known as the **Agricultural Emergency**.
 
@@ -134,7 +115,7 @@ The first domes were constructed shortly thereafter.
 
 ---
 
-## The Expansion Years
+### The Expansion Years
 
 Initial results exceeded expectations.
 
@@ -154,7 +135,7 @@ Within a century, the original agricultural station had grown into a vast scient
 
 ---
 
-## The Biological Revolution
+### The Biological Revolution
 
 As genetic science advanced, the Gardens became the center of biological innovation on Jardin.
 
@@ -170,7 +151,7 @@ Many of the technologies that define modern Jardin originated beneath the domes.
 
 ---
 
-## The Modern Era
+### The Modern Era
 
 Today the Gardens represent one of the largest integrated biological research facilities in the Confederation.
 
@@ -180,7 +161,7 @@ Many spend entire careers inside the complex.
 
 ---
 
-# Architecture
+## Architecture
 
 Unlike the monumental grandeur of the Palace of Continuity or the administrative efficiency of the Hall of Chosen Futures, the Gardens emphasize harmony between technology and nature.
 
@@ -200,11 +181,11 @@ Many first-time visitors compare the experience to entering another world.
 
 ---
 
-# Major Domes
+## Major Domes
 
-## Dome One: Conservatoire des Fondateurs
+### Dome One: Conservatoire des Fondateurs
 
-### Founders Conservatory
+*Founders Conservatory*
 
 The primary public section of the Gardens.
 
@@ -219,9 +200,8 @@ Nearly every schoolchild on Jardin visits at least once.
 
 ---
 
-## Dome Two: Terran Heritage Preserve
+### Dome Two: Terran Heritage Preserve
 
-### Terran Heritage Preserve
 
 Dedicated to preserving species and ecosystems originating on Terra.
 
@@ -236,9 +216,9 @@ The preserve is both a research facility and a cultural monument.
 
 ---
 
-## Dome Three: Futures Agriculture Division
+### Dome Three: Futures Agriculture Division
 
-### Agricultural Futures Division
+*Agricultural Futures Division*
 
 The largest food-production research center on Jardin.
 
@@ -253,9 +233,8 @@ Many agricultural exports begin here.
 
 ---
 
-## Dome Four: Atmospheric Systems Laboratory
+### Dome Four: Atmospheric Systems Laboratory
 
-### Atmospheric Systems Laboratory
 
 Studies planetary climate systems.
 
@@ -270,9 +249,8 @@ Several projects support Confederation colony worlds.
 
 ---
 
-## Dome Five: Living Medicines Center
+### Dome Five: Living Medicines Center
 
-### Living Medicines Center
 
 One of the most valuable facilities on the planet.
 
@@ -287,9 +265,8 @@ Numerous life-extending therapies were developed here.
 
 ---
 
-## Dome Six: Aquatic Biosystems Facility
+### Dome Six: Aquatic Biosystems Facility
 
-### Aquatic Biosystems Facility
 
 Contains:
 
@@ -302,9 +279,8 @@ Several interior oceans and lakes occupy much of the dome's volume.
 
 ---
 
-## Dome Seven: Ecological Systems Laboratory
+### Dome Seven: Ecological Systems Laboratory
 
-### Ecological Systems Laboratory
 
 Entire ecosystems are modeled within controlled environments.
 
@@ -319,9 +295,8 @@ This dome functions as a living simulation laboratory.
 
 ---
 
-## Dome Eight: Advanced Genetic Research Division
+### Dome Eight: Advanced Genetic Research Division
 
-### Advanced Genetic Research Division
 
 One of the most prestigious scientific facilities in Jardin.
 
@@ -336,9 +311,8 @@ Many projects directly support the Hall of Chosen Futures.
 
 ---
 
-## Dome Nine: Xenobiological Annex
+### Dome Nine: Xenobiological Annex
 
-### Xenobiological Annex
 
 Officially responsible for studying imported alien organisms.
 
@@ -350,9 +324,8 @@ Many rumors originate here.
 
 ---
 
-## Dome Ten: Colonial Adaptation Center
+### Dome Ten: Colonial Adaptation Center
 
-### Colonial Adaptation Center
 
 Develops biological solutions for harsh colony environments.
 
@@ -365,9 +338,8 @@ Projects include:
 
 ---
 
-## Dome Eleven: Experimental Systems Division
+### Dome Eleven: Experimental Systems Division
 
-### Experimental Systems Division
 
 Supports unusual and high-risk research.
 
@@ -375,9 +347,8 @@ Most projects remain classified until completion.
 
 ---
 
-## Dome Twelve: Restricted Research Zone
+### Dome Twelve: Restricted Research Zone
 
-### Restricted Research Zone
 
 Official records describe the dome only as:
 
@@ -391,7 +362,7 @@ No scientist discusses their work there.
 
 ---
 
-# Daily Life
+## Daily Life
 
 The Gardens operate continuously.
 
@@ -411,7 +382,7 @@ Many employees describe it as a university town hidden inside a research install
 
 ---
 
-# Scientific Importance
+## Scientific Importance
 
 The Gardens have contributed to:
 
@@ -425,7 +396,7 @@ Many historians argue that no institution has contributed more directly to Jardi
 
 ---
 
-# Public Perception
+## Public Perception
 
 The Gardens are one of the most trusted institutions on the planet.
 
@@ -439,9 +410,9 @@ A common saying states:
 
 ---
 
-# Notable Individuals
+## Notable Individuals
 
-## Dr. Sophie Delacroix
+### [[Dr. Sophie Delacroix]]
 
 **Director-General of the Gardens**
 
@@ -451,7 +422,7 @@ Frequently consulted by both Supreme President Leo Duprey and Minister Alain Mer
 
 ---
 
-## Professor Lucien Morel
+### [[Professor Lucien Morel]]
 
 **Chief Ecological Systems Analyst**
 
@@ -461,7 +432,7 @@ Believes entire planetary biospheres can eventually be predicted mathematically.
 
 ---
 
-## Dr. Isabelle Fournier
+### [[Dr. Isabelle Fournier]]
 
 **Director of Medical Botany**
 
@@ -471,7 +442,7 @@ A popular public figure due to her medical achievements.
 
 ---
 
-## Dr. Gabriel Laurent
+### [[Dr. Gabriel Laurent]]
 
 **Director of Xenobiology**
 
@@ -481,7 +452,7 @@ His work within Dome Nine has generated considerable speculation.
 
 ---
 
-# Security
+## Security
 
 Most of the Gardens are open and welcoming.
 
@@ -499,9 +470,9 @@ Questions about these restrictions are politely ignored.
 
 ---
 
-# Rumors
+## Rumors
 
-## The Silent Forest
+### The Silent Forest
 
 An ecosystem hidden within a restricted section of Dome Twelve.
 
@@ -509,7 +480,7 @@ Researchers allegedly enter but rarely discuss what they observed.
 
 ---
 
-## Mercier's Laboratory
+### Mercier's Laboratory
 
 Many believe Alain Mercier maintains a private research facility somewhere beneath the Gardens.
 
@@ -517,7 +488,7 @@ No evidence has ever surfaced.
 
 ---
 
-## The Perfect Crop
+### The Perfect Crop
 
 A genetically engineered plant capable of eliminating food shortages across hundreds of worlds.
 
@@ -525,7 +496,7 @@ The government supposedly refuses to release it.
 
 ---
 
-## Living Archive
+### Living Archive
 
 Some claim the Gardens preserve biological samples from every major family line on Jardin.
 
@@ -533,15 +504,17 @@ Officials deny this.
 
 ---
 
-## The Lost Species
+### The Lost Species
 
 Several supposedly extinct Terran species are rumored to survive within hidden sections of the complex.
 
 ---
 
-# Classified Information
+:::gm
 
-## Project Verdant Horizon
+## Classified Information
+
+### Project Verdant Horizon
 
 A highly classified initiative combining ecological forecasting with demographic modeling.
 
@@ -551,7 +524,7 @@ Only a handful of senior officials possess access.
 
 ---
 
-## Dome Twelve
+### Dome Twelve
 
 Contrary to public records, Dome Twelve is not a single facility.
 
@@ -561,21 +534,23 @@ Even many senior researchers are unaware of the complex's full extent.
 
 ---
 
-## The Mercier Findings
+### The Mercier Findings
 
 Several portions of Minister Alain Mercier's controversial upcoming Party Congress presentation originated from research conducted within the Gardens.
 
 What those findings reveal remains unknown.
 
-## Session 2 - Dome 2 Delivery
+### Session 2 - Dome 2 Delivery
 
 During [[Session 2 - Masks and Markers]], the party picked up a sealed crate from Dome 2 after pressing a one-use communicator supplied by [[Lucin]]. A worker in blue overalls brought the crate out on a dolly and wished them good travels.
 
 The crate was delivered to [[Chief Helene Marchand]]'s secured residence and contained a corgi. The delivery may have been simple underworld favor-trading, political contraband, or something connected to the Gardens' genetic work.
 
+:::
+
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### The Escaped Specimen
 
@@ -635,7 +610,7 @@ Several powerful factions suddenly become interested in their activities.
 
 ---
 :::gm
-# Referee Notes
+## Referee Notes
 
 The Gardens represent the optimistic face of Jardin.
 
@@ -653,5 +628,4 @@ They grow beneath glass.
 
 
 
-GM-only truth goes here.
 :::

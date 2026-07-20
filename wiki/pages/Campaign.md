@@ -63,7 +63,12 @@ The campaign begins with what should have been an ordinary visit to a government
 
 ## Important NPCs
 
-* [[NPC]]
+* [[Alain Mercier]] — Minister of Genetics, assassinated at the Hall; the spark for everything that follows.
+* [[Marcel Delphine]] — "The Shepherd," the party's underworld contact and source of the [[Identity Veils]].
+* [[Leo Duprey]] — Supreme President of Jardin, ruling from [[Le Palais de Continuité]].
+* [[Chief Helene Marchand]] — the President's Chief of Staff, tied to Lucin's mysterious delivery.
+* [[Elena Verona]] — Social Solidarity commissar and surviving witness to the assassination.
+* [[Inspector Marc Valois]] — SolSec investigator whose interests overlap the party's frame-up.
 
 ---
 

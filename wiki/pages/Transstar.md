@@ -320,13 +320,13 @@ The Jardin Syndicate has established an illegal migration corridor that bypasses
 
 A battle for control of a regional directorate threatens to spill into local politics.
 
-# Transstar Personnel of Jardin
+## Transstar Personnel of Jardin
 
 A collection of notable Transstar employees, executives, and operators commonly encountered on Jardin and throughout the surrounding subsector.
 
 ---
 
-# Étienne Moreau
+## [[Étienne Moreau]]
 
 *Regional Director, Jardin Subsector*
 
@@ -348,7 +348,7 @@ No one is completely certain.
 
 ---
 
-# Claire Bouchard
+## [[Claire Bouchard]]
 
 *Highport Operations Manager*
 
@@ -372,7 +372,7 @@ She can reroute half a sector's shipping traffic while eating lunch.
 
 ---
 
-# Victor Mendes
+## [[Captain Victor Mendes|Victor Mendes]]
 
 *Senior Freight Captain*
 
@@ -396,7 +396,7 @@ Refuses to transport anything he believes is connected to slavery.
 
 ---
 
-# Nadine Pelletier
+## [[Nadine Pelletier]]
 
 *Passenger Services Director*
 
@@ -416,7 +416,7 @@ Rumors persist that she knows every secret carried by every important passenger.
 
 ---
 
-# Luc Girard
+## [[Luc Girard]]
 
 *Labor Coordinator*
 
@@ -436,7 +436,7 @@ His influence among working-class Party members is considerable.
 
 ---
 
-# Sarah Chen
+## [[Sarah Chen]]
 
 *Route Intelligence Analyst*
 
@@ -461,7 +461,7 @@ She pretends not to notice.
 
 ---
 
-# Armand Rousselet
+## [[Armand Rousselet]]
 
 *Senior Customs Liaison*
 
@@ -481,7 +481,7 @@ Many smugglers secretly respect him.
 
 ---
 
-# Elena Kovacs
+## [[Elena Kovacs]]
 
 *Taj Mahal Class Purser*
 
@@ -506,7 +506,7 @@ She possesses enough gossip to destabilize multiple governments.
 
 ---
 
-# Philippe Laurent
+## [[Philippe Laurent]]
 
 *Fleet Maintenance Director*
 
@@ -528,7 +528,7 @@ His engineers are terrified of disappointing him.
 
 ---
 
-# Amelia Torres
+## [[Amelia Torres]]
 
 *Special Projects Coordinator*
 
@@ -558,7 +558,7 @@ She always smiles when asked.
 
 
 :::gm
-# Referee Notes
+## Referee Notes
 
 These ten NPCs collectively represent most of the power centers within Transstar:
 

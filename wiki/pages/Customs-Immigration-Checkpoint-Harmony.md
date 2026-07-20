@@ -14,9 +14,39 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
+# Customs & Immigration Checkpoint Harmony
+*Poste d'Harmonie Frontalière*
+
+*"Every Arrival Matters."*
+
+**Location:** Port Sainte-Jeanne Downport
+
+**Type:** Customs and Immigration Processing Complex
+
+**Administrative Authority:** Directorate of Citizen Integrity
+
+**Operational Control:** Ministry of Social Solidarity
+
+**Status:** Active
+
+**Security Classification:** Controlled Access
+
+**Daily Throughput:** 250,000-400,000 Travelers
+
+**Primary Functions:**
+- Immigration Processing
+- Customs Inspection
+- Citizenship Verification
+- Biosecurity Screening
+- Visitor Registration
+- Repatriation Services
+
+**Nickname:** The Gate
+
+---
+
 ## Contents
 
-- [Poste d'Harmonie Frontalière](#poste-d-harmonie-frontali-re)
 - [Overview](#overview)
 - [First Impressions](#first-impressions)
 - [Architecture](#architecture)
@@ -51,46 +81,14 @@ parent: Jardin
   - [The Watch List](#the-watch-list)
   - [The Silent Room](#the-silent-room)
 - [Adventure Hooks](#adventure-hooks)
-    - [Missing Passenger](#missing-passenger)
-    - [Smuggled Data](#smuggled-data)
-    - [False Identity](#false-identity)
-    - [Quarantine Alert](#quarantine-alert)
-    - [SolSec Request](#solsec-request)
-    - [The Red Channel](#the-red-channel)
-- [Referee Notes](#referee-notes)
+  - [Missing Passenger](#missing-passenger)
+  - [Smuggled Data](#smuggled-data)
+  - [False Identity](#false-identity)
+  - [Quarantine Alert](#quarantine-alert)
+  - [SolSec Request](#solsec-request)
+  - [The Red Channel](#the-red-channel)
 
-# Customs & Immigration Checkpoint Harmony
-# Poste d'Harmonie Frontalière
-
-*"Every Arrival Matters."*
-
-**Location:** Port Sainte-Jeanne Downport
-
-**Type:** Customs and Immigration Processing Complex
-
-**Administrative Authority:** Directorate of Citizen Integrity
-
-**Operational Control:** Ministry of Social Solidarity
-
-**Status:** Active
-
-**Security Classification:** Controlled Access
-
-**Daily Throughput:** 250,000-400,000 Travelers
-
-**Primary Functions:**
-- Immigration Processing
-- Customs Inspection
-- Citizenship Verification
-- Biosecurity Screening
-- Visitor Registration
-- Repatriation Services
-
-**Nickname:** The Gate
-
----
-
-# Overview
+## Overview
 
 The **Customs & Immigration Checkpoint Harmony** is the primary entry point into Jardin.
 
@@ -120,7 +118,7 @@ As many Jardinese officials proudly state:
 
 ---
 
-# First Impressions
+## First Impressions
 
 The checkpoint resembles a modern airport terminal scaled to impossible proportions.
 
@@ -150,7 +148,7 @@ Because they are.
 
 ---
 
-# Architecture
+## Architecture
 
 The facility was intentionally designed to project confidence rather than intimidation.
 
@@ -168,9 +166,9 @@ The extensive security measures remain largely hidden from view.
 
 ---
 
-# Primary Divisions
+## Primary Divisions
 
-## Immigration Processing Hall
+### Immigration Processing Hall
 
 The largest section of the facility.
 
@@ -187,7 +185,7 @@ Most.
 
 ---
 
-## Citizen Services Bureau
+### Citizen Services Bureau
 
 Dedicated to Jardinese citizens.
 
@@ -202,7 +200,7 @@ Returning citizens are often directed here before being allowed to proceed.
 
 ---
 
-## Customs Inspection Complex
+### Customs Inspection Complex
 
 Responsible for:
 
@@ -217,7 +215,7 @@ Smugglers possess other descriptions.
 
 ---
 
-## Biosecurity Division
+### Biosecurity Division
 
 Protects Jardin from:
 
@@ -229,7 +227,7 @@ The division maintains quarantine facilities capable of isolating thousands of t
 
 ---
 
-## Visitor Orientation Center
+### Visitor Orientation Center
 
 Provides information regarding:
 
@@ -242,7 +240,7 @@ Many visitors later admit they should have paid closer attention.
 
 ---
 
-# Social Solidarity Presence
+## Social Solidarity Presence
 
 The checkpoint falls under the authority of the **Directorate of Citizen Integrity**.
 
@@ -259,7 +257,7 @@ They also have access to more information than most travelers realize.
 
 ---
 
-# SolSec Liaison Office
+## SolSec Liaison Office
 
 A permanent SolSec office operates within the checkpoint.
 
@@ -275,7 +273,7 @@ Those who do generally remember the experience.
 
 ---
 
-# The Arrival Assessment
+## The Arrival Assessment
 
 One of the facility's most unusual procedures.
 
@@ -292,9 +290,9 @@ Many travelers later discover the information was far more valuable than they re
 
 ---
 
-# Processing Categories
+## Processing Categories
 
-## Green Channel
+### Green Channel
 
 Low-risk travelers.
 
@@ -304,7 +302,7 @@ Minimal review.
 
 ---
 
-## Blue Channel
+### Blue Channel
 
 Routine review.
 
@@ -314,7 +312,7 @@ Most visitors fall into this category.
 
 ---
 
-## Silver Channel
+### Silver Channel
 
 Enhanced screening.
 
@@ -326,7 +324,7 @@ Usually associated with:
 
 ---
 
-## Red Channel
+### Red Channel
 
 Restricted access.
 
@@ -336,9 +334,9 @@ Fewer discuss it afterward.
 
 ---
 
-# Notable Locations
+## Notable Locations
 
-## Hall of Welcome
+### Hall of Welcome
 
 The first chamber encountered by arriving visitors.
 
@@ -350,7 +348,7 @@ Contains:
 
 ---
 
-## The Registry Atrium
+### The Registry Atrium
 
 Where identity records are verified and updated.
 
@@ -358,7 +356,7 @@ Connected directly to systems maintained by the Hall of Chosen Futures.
 
 ---
 
-## Observation Gallery
+### Observation Gallery
 
 An elevated monitoring center overlooking the facility.
 
@@ -366,7 +364,7 @@ Closed to the public.
 
 ---
 
-## Quarantine Annex
+### Quarantine Annex
 
 Biosecurity facility located beneath the main complex.
 
@@ -374,9 +372,9 @@ Most travelers never know it exists.
 
 ---
 
-# Notable Individuals
+## Notable Individuals
 
-## Director Simone Laurent
+### [[Director Simone Laurent]]
 
 **Chief Administrator**
 
@@ -386,7 +384,7 @@ Known for exceptional efficiency.
 
 ---
 
-## Inspector Gabriel Rousseau
+### [[Inspector Gabriel Rousseau]]
 
 **Senior Customs Officer**
 
@@ -394,7 +392,7 @@ A legend among anti-smuggling investigators.
 
 ---
 
-## Commissioner Elise Martin
+### [[Commissioner Elise Martin]]
 
 **Directorate of Citizen Integrity**
 
@@ -402,7 +400,7 @@ Coordinates Social Solidarity operations within the facility.
 
 ---
 
-## Agent Luc Deschamps
+### [[Agent Luc Deschamps]]
 
 **SolSec Liaison Officer**
 
@@ -412,7 +410,7 @@ Unofficially responsible for many other things.
 
 ---
 
-# Public Reputation
+## Public Reputation
 
 Most Jardinese citizens appreciate the checkpoint.
 
@@ -432,9 +430,9 @@ Common observations include:
 
 ---
 
-# Rumors
+## Rumors
 
-## The Forgotten Traveler
+### The Forgotten Traveler
 
 A visitor allegedly entered the checkpoint decades ago and was never seen leaving.
 
@@ -442,13 +440,13 @@ No records exist.
 
 ---
 
-## The Hidden Registry
+### The Hidden Registry
 
 A classified database beneath the facility contains information unavailable even to the Hall of Chosen Futures.
 
 ---
 
-## The Watch List
+### The Watch List
 
 Certain names automatically trigger responses from multiple government agencies.
 
@@ -456,7 +454,7 @@ No one knows how many names are included.
 
 ---
 
-## The Silent Room
+### The Silent Room
 
 A secure interview chamber rumored to be jointly operated by Social Solidarity and SolSec.
 
@@ -464,7 +462,7 @@ Officially it does not exist.
 
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### Missing Passenger
 
@@ -493,7 +491,7 @@ A routine arrival is unexpectedly redirected into the facility's most restricted
 ---
 
 :::gm
-# Referee Notes
+## Referee Notes
 
 The Checkpoint should not feel oppressive.
 
@@ -520,5 +518,4 @@ For most visitors, passing through the Gate is routine.
 
 For those carrying secrets, it can be one of the most dangerous places on Jardin.
 
-GM-only truth goes here.
 :::

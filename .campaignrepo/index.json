@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T00:14:09.781Z",
+  "generatedAt": "2026-07-20T16:36:51.827Z",
   "pages": [
     {
       "id": "character-0-31-Saichi-Maru-Annette",
@@ -13,7 +13,7 @@
       ],
       "links": [
         "game-Session-2-Masks-and-Markers",
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "event-Mercier-Assassination",
         "character-Dan-Araujo-Josh",
         "npc-Marcel-Delphine",
@@ -29,6 +29,79 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Admiral-Henri-Duval",
+      "title": "Admiral Henri Duval",
+      "path": "wiki/pages/Admiral-Henri-Duval.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "military",
+        "navy"
+      ],
+      "links": [
+        "location-Fort-Robespierre-Naval-Annex"
+      ],
+      "aliases": [
+        "Henri Duval"
+      ],
+      "summary": "Commander, Jardin Naval Command at Fort Robespierre Naval Annex.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Fort Robespierre Naval Annex]]"
+      ]
+    },
+    {
+      "id": "npc-Adrien-Pelletier",
+      "title": "Adrien Pelletier",
+      "path": "wiki/pages/Adrien-Pelletier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "government",
+        "administration"
+      ],
+      "links": [
+        "location-Arcosphere-Rousseau"
+      ],
+      "aliases": [
+        "Governor Pelletier"
+      ],
+      "summary": "Governor of Rousseau at Arcosphere Rousseau.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Arcosphere Rousseau]]"
+      ]
+    },
+    {
+      "id": "npc-Agent-Luc-Deschamps",
+      "title": "Agent Luc Deschamps",
+      "path": "wiki/pages/Agent-Luc-Deschamps.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "intelligence",
+        "solsec"
+      ],
+      "links": [
+        "organization-SolSec",
+        "location-Customs-Immigration-Checkpoint-Harmony",
+        "organization-Social-Solidarity"
+      ],
+      "aliases": [
+        "Luc Deschamps"
+      ],
+      "summary": "SolSec Liaison Officer at Customs & Immigration Checkpoint Harmony.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Customs & Immigration Checkpoint Harmony]]",
+        "[[SolSec]]",
+        "[[Social Solidarity]]"
+      ]
+    },
+    {
       "id": "npc-Alain-Mercier",
       "title": "Alain Mercier",
       "path": "wiki/pages/Alain-Mercier.md",
@@ -38,7 +111,7 @@
       ],
       "links": [
         "game-Session-1-Official-Business",
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "item-Merciers-Locked-Pad",
         "npc-Marcel-Delphine",
         "organization-Jardin-Syndicate",
@@ -53,20 +126,105 @@
       "keyLinks": []
     },
     {
-      "id": "npc-Arcosphere-Rousseau",
+      "id": "npc-Amelia-Torres",
+      "title": "Amelia Torres",
+      "path": "wiki/pages/Amelia-Torres.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "intelligence"
+      ],
+      "links": [
+        "organization-Transstar",
+        "organization-SolSec"
+      ],
+      "aliases": [
+        "Torres"
+      ],
+      "summary": "Special Projects Coordinator at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]",
+        "[[SolSec]]"
+      ]
+    },
+    {
+      "id": "npc-Antoine-Mercier",
+      "title": "Antoine Mercier",
+      "path": "wiki/pages/Antoine-Mercier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "transstar"
+      ],
+      "links": [
+        "organization-Transstar",
+        "location-Transstar-Sector-Exchange"
+      ],
+      "aliases": [
+        "Antoine Mercier"
+      ],
+      "summary": "Executive Director, Solomani Front Operations at Transstar Sector Exchange.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar Sector Exchange]]",
+        "[[Transstar]]"
+      ]
+    },
+    {
+      "id": "location-Arcosphere-Rousseau",
       "title": "Arcosphere Rousseau",
       "path": "wiki/pages/Arcosphere-Rousseau.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
-      "aliases": [],
+      "links": [
+        "npc-Adrien-Pelletier",
+        "npc-Nadia-Giroux",
+        "npc-Sister-Celeste-Moreau",
+        "npc-Jacques-Martin",
+        "event-Mercier-Assassination",
+        "character-Victor-Mendes-Steinbach"
+      ],
+      "aliases": [
+        "Rousseau Arcology",
+        "Rousseau"
+      ],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
+    },
+    {
+      "id": "npc-Armand-Rousselet",
+      "title": "Armand Rousselet",
+      "path": "wiki/pages/Armand-Rousselet.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "customs"
+      ],
+      "links": [
+        "organization-Transstar"
+      ],
+      "aliases": [
+        "Rousselet"
+      ],
+      "summary": "Senior Customs Liaison at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]"
+      ]
     },
     {
       "id": "lore-Campaign",
@@ -86,14 +244,47 @@
         "character-Varian-Svazz-Allen",
         "character-Victor-Mendes-Steinbach",
         "character-Zoy-Damon",
-        "unresolved:npc",
-        "unresolved:table-rules"
+        "npc-Alain-Mercier",
+        "npc-Marcel-Delphine",
+        "item-Identity-Veils",
+        "npc-Leo-Duprey",
+        "location-Le-Palais-de-Continuit",
+        "npc-Chief-Helene-Marchand",
+        "npc-Elena-Verona",
+        "npc-Inspector-Marc-Valois",
+        "unresolved:Table-Rules"
       ],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Captain-Victor-Mendes",
+      "title": "Captain Victor Mendes",
+      "path": "wiki/pages/Captain-Victor-Mendes.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "transstar",
+        "spacer"
+      ],
+      "links": [
+        "location-Port-Sainte-Jeanne-Downport",
+        "organization-Transstar"
+      ],
+      "aliases": [
+        "Victor Mendes (freight captain)"
+      ],
+      "summary": "Senior Transstar Freight Captain at Port Sainte-Jeanne Downport.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Port Sainte-Jeanne Downport]]",
+        "[[Transstar]]"
+      ]
     },
     {
       "id": "npc-Carlos",
@@ -166,7 +357,7 @@
       "approvalStatus": "approved",
       "keyLinks": [
         "[[Lucin]]",
-        "[[Les Jardins Fermes]]"
+        "[[Les Jardins Fermés]]"
       ]
     },
     {
@@ -190,14 +381,186 @@
       "keyLinks": []
     },
     {
-      "id": "npc-Cr-che-District-14",
+      "id": "npc-Claire-Bouchard",
+      "title": "Claire Bouchard",
+      "path": "wiki/pages/Claire-Bouchard.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "transstar"
+      ],
+      "links": [
+        "organization-Transstar"
+      ],
+      "aliases": [
+        "Bouchard"
+      ],
+      "summary": "Highport Operations Manager at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]"
+      ]
+    },
+    {
+      "id": "npc-Colette-Moreau",
+      "title": "Colette Moreau",
+      "path": "wiki/pages/Colette-Moreau.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "civic",
+        "business"
+      ],
+      "links": [
+        "location-Quartier-Sainte-Libert",
+        "organization-Jardin-Syndicate"
+      ],
+      "aliases": [
+        "Colette Moreau"
+      ],
+      "summary": "President, Liberty Merchants Association at Quartier Sainte-Liberté.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Quartier Sainte-Liberté]]",
+        "[[Jardin Syndicate]]"
+      ]
+    },
+    {
+      "id": "npc-Colonel-Victor-Almeida",
+      "title": "Colonel Victor Almeida",
+      "path": "wiki/pages/Colonel-Victor-Almeida.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "military",
+        "mech"
+      ],
+      "links": [
+        "location-Fort-Robespierre-Naval-Annex"
+      ],
+      "aliases": [
+        "Victor Almeida"
+      ],
+      "summary": "Commandant, Mech Combat Academy at Fort Robespierre Naval Annex.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Fort Robespierre Naval Annex]]"
+      ]
+    },
+    {
+      "id": "npc-Commander-Lucien-Marchand",
+      "title": "Commander Lucien Marchand",
+      "path": "wiki/pages/Commander-Lucien-Marchand.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "military",
+        "logistics"
+      ],
+      "links": [
+        "location-Fort-Robespierre-Naval-Annex"
+      ],
+      "aliases": [
+        "Lucien Marchand"
+      ],
+      "summary": "Director, Orbital Transfer Operations at Fort Robespierre Naval Annex.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Fort Robespierre Naval Annex]]"
+      ]
+    },
+    {
+      "id": "npc-Commander-Sophie-Durand",
+      "title": "Commander Sophie Durand",
+      "path": "wiki/pages/Commander-Sophie-Durand.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "security",
+        "law"
+      ],
+      "links": [
+        "location-Port-Sainte-Jeanne-Downport",
+        "organization-Jardin-Syndicate"
+      ],
+      "aliases": [
+        "Sophie Durand"
+      ],
+      "summary": "Port Security Directorate at Port Sainte-Jeanne Downport.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Port Sainte-Jeanne Downport]]",
+        "[[Jardin Syndicate]]"
+      ]
+    },
+    {
+      "id": "npc-Commissioner-Elise-Martin",
+      "title": "Commissioner Elise Martin",
+      "path": "wiki/pages/Commissioner-Elise-Martin.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "security",
+        "government"
+      ],
+      "links": [
+        "organization-Social-Solidarity",
+        "location-Customs-Immigration-Checkpoint-Harmony"
+      ],
+      "aliases": [
+        "Elise Martin"
+      ],
+      "summary": "Directorate of Citizen Integrity at Customs & Immigration Checkpoint Harmony.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Customs & Immigration Checkpoint Harmony]]",
+        "[[Social Solidarity]]"
+      ]
+    },
+    {
+      "id": "npc-Commissioner-Isabelle-Fournier",
+      "title": "Commissioner Isabelle Fournier",
+      "path": "wiki/pages/Commissioner-Isabelle-Fournier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "security",
+        "corporate"
+      ],
+      "links": [
+        "location-Transstar-Sector-Exchange"
+      ],
+      "aliases": [
+        "Isabelle Fournier (Exchange Security)"
+      ],
+      "summary": "Chief Commissioner, Exchange Security Bureau at Transstar Sector Exchange.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar Sector Exchange]]"
+      ]
+    },
+    {
+      "id": "location-Cr-che-District-14",
       "title": "Crèche District 14",
       "path": "wiki/pages/Cr-che-District-14.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "npc-Director-Elise-Fournier",
+        "npc-Mentor-Jean-Mercier",
+        "npc-Dr-Amelie-Rousseau"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -206,14 +569,19 @@
       "parent": "Jardin"
     },
     {
-      "id": "npc-Customs-Immigration-Checkpoint-Harmony",
+      "id": "location-Customs-Immigration-Checkpoint-Harmony",
       "title": "Customs & Immigration Checkpoint Harmony",
       "path": "wiki/pages/Customs-Immigration-Checkpoint-Harmony.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "npc-Director-Simone-Laurent",
+        "npc-Inspector-Gabriel-Rousseau",
+        "npc-Commissioner-Elise-Martin",
+        "npc-Agent-Luc-Deschamps"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -233,7 +601,7 @@
         "event-Mercier-Assassination",
         "character-0-31-Saichi-Maru-Annette",
         "npc-Lucin",
-        "unresolved:les-jardins-fermes",
+        "location-Les-Jardins-Ferm-s",
         "npc-Chief-Helene-Marchand"
       ],
       "aliases": [],
@@ -241,6 +609,171 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Director-Elise-Fournier",
+      "title": "Director Elise Fournier",
+      "path": "wiki/pages/Director-Elise-Fournier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "government",
+        "education"
+      ],
+      "links": [
+        "location-Cr-che-District-14"
+      ],
+      "aliases": [
+        "Elise Fournier",
+        "The Mother of a Million"
+      ],
+      "summary": "Administrator of District 14 at Crèche District 14.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Crèche District 14]]"
+      ]
+    },
+    {
+      "id": "npc-Director-General-Camille-Fournier",
+      "title": "Director-General Camille Fournier",
+      "path": "wiki/pages/Director-General-Camille-Fournier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "government",
+        "security"
+      ],
+      "links": [
+        "organization-Social-Solidarity",
+        "npc-Leo-Duprey"
+      ],
+      "aliases": [
+        "Camille Fournier"
+      ],
+      "summary": "Head of the Ministry of Social Solidarity.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Social Solidarity]]",
+        "[[Leo Duprey]]"
+      ]
+    },
+    {
+      "id": "npc-Director-Luc-Beaumont",
+      "title": "Director Luc Beaumont",
+      "path": "wiki/pages/Director-Luc-Beaumont.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "government",
+        "administration"
+      ],
+      "links": [
+        "location-Port-Sainte-Jeanne-Downport",
+        "organization-Social-Solidarity"
+      ],
+      "aliases": [
+        "Luc Beaumont"
+      ],
+      "summary": "Port Authority Director at Port Sainte-Jeanne Downport.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Port Sainte-Jeanne Downport]]"
+      ]
+    },
+    {
+      "id": "npc-Director-Simone-Laurent",
+      "title": "Director Simone Laurent",
+      "path": "wiki/pages/Director-Simone-Laurent.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "government",
+        "customs"
+      ],
+      "links": [
+        "location-Customs-Immigration-Checkpoint-Harmony"
+      ],
+      "aliases": [
+        "Simone Laurent"
+      ],
+      "summary": "Chief Administrator, Checkpoint Harmony at Customs & Immigration Checkpoint Harmony.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Customs & Immigration Checkpoint Harmony]]"
+      ]
+    },
+    {
+      "id": "npc-Dr-Amelie-Rousseau",
+      "title": "Dr. Amelie Rousseau",
+      "path": "wiki/pages/Dr-Amelie-Rousseau.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "scientist",
+        "education"
+      ],
+      "links": [
+        "location-Cr-che-District-14"
+      ],
+      "aliases": [
+        "Amelie Rousseau"
+      ],
+      "summary": "Chief Developmental Psychologist at Crèche District 14.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Crèche District 14]]"
+      ]
+    },
+    {
+      "id": "npc-Dr-Gabriel-Laurent",
+      "title": "Dr. Gabriel Laurent",
+      "path": "wiki/pages/Dr-Gabriel-Laurent.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "scientist",
+        "classified"
+      ],
+      "links": [
+        "location-Les-Jardins-Ferm-s"
+      ],
+      "aliases": [
+        "Gabriel Laurent"
+      ],
+      "summary": "Director of Xenobiology at Les Jardins Fermés.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Les Jardins Fermés]]"
+      ]
+    },
+    {
+      "id": "npc-Dr-Isabelle-Fournier",
+      "title": "Dr. Isabelle Fournier",
+      "path": "wiki/pages/Dr-Isabelle-Fournier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "scientist",
+        "medical"
+      ],
+      "links": [
+        "location-Les-Jardins-Ferm-s"
+      ],
+      "aliases": [
+        "Isabelle Fournier (Medical Botany)"
+      ],
+      "summary": "Director of Medical Botany at Les Jardins Fermés.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Les Jardins Fermés]]"
+      ]
     },
     {
       "id": "npc-Dr-Luc-Moreau",
@@ -253,7 +786,7 @@
         "session-2"
       ],
       "links": [
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "game-Session-2-Masks-and-Markers",
         "item-Mobile-Data-Tube",
         "event-Mercier-Genetic-Findings"
@@ -272,6 +805,57 @@
       ]
     },
     {
+      "id": "npc-Dr-Sophie-Delacroix",
+      "title": "Dr. Sophie Delacroix",
+      "path": "wiki/pages/Dr-Sophie-Delacroix.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "scientist",
+        "government"
+      ],
+      "links": [
+        "location-Les-Jardins-Ferm-s",
+        "npc-Leo-Duprey",
+        "npc-Alain-Mercier"
+      ],
+      "aliases": [
+        "Sophie Delacroix"
+      ],
+      "summary": "Director-General of the Gardens at Les Jardins Fermés.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Les Jardins Fermés]]",
+        "[[Leo Duprey]]",
+        "[[Alain Mercier]]"
+      ]
+    },
+    {
+      "id": "npc-Elena-Kovacs",
+      "title": "Elena Kovacs",
+      "path": "wiki/pages/Elena-Kovacs.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "luxury"
+      ],
+      "links": [
+        "organization-Transstar"
+      ],
+      "aliases": [
+        "Kovacs"
+      ],
+      "summary": "Taj Mahal Class Purser at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]"
+      ]
+    },
+    {
       "id": "npc-Elena-Verona",
       "title": "Elena Verona",
       "path": "wiki/pages/Elena-Verona.md",
@@ -283,7 +867,7 @@
       ],
       "links": [
         "organization-Social-Solidarity",
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "event-Mercier-Assassination",
         "character-Victor-Mendes-Steinbach",
         "game-Session-1-Official-Business",
@@ -313,10 +897,9 @@
         "event-Mercier-Assassination",
         "npc-Marcel-Delphine",
         "npc-Nico-Gay",
-        "npc-Marcel-Delphine",
         "organization-Jardin-Syndicate",
-        "npc-Transstar-Sector-Exchange",
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Transstar-Sector-Exchange",
+        "location-Hall-des-Futurs-Choisis",
         "item-Identity-Veils",
         "npc-Inspector-Marc-Valois",
         "organization-Social-Solidarity",
@@ -329,6 +912,56 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Etienne-Marchand",
+      "title": "Étienne Marchand",
+      "path": "wiki/pages/Etienne-Marchand.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "government",
+        "customs"
+      ],
+      "links": [
+        "location-Port-Sainte-Jeanne-Downport",
+        "npc-Chief-Helene-Marchand"
+      ],
+      "aliases": [
+        "Etienne Marchand"
+      ],
+      "summary": "Customs Commissioner at Port Sainte-Jeanne Downport.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Port Sainte-Jeanne Downport]]"
+      ]
+    },
+    {
+      "id": "npc-Etienne-Moreau",
+      "title": "Étienne Moreau",
+      "path": "wiki/pages/Etienne-Moreau.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "transstar"
+      ],
+      "links": [
+        "organization-Transstar",
+        "organization-SolSec"
+      ],
+      "aliases": [
+        "Etienne Moreau"
+      ],
+      "summary": "Regional Director, Jardin Subsector at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]",
+        "[[SolSec]]"
+      ]
     },
     {
       "id": "event-False-News-Broadcast",
@@ -359,14 +992,19 @@
       ]
     },
     {
-      "id": "npc-Fort-Robespierre-Naval-Annex",
+      "id": "location-Fort-Robespierre-Naval-Annex",
       "title": "Fort Robespierre Naval Annex",
       "path": "wiki/pages/Fort-Robespierre-Naval-Annex.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "npc-Admiral-Henri-Duval",
+        "npc-General-Claire-Moreau",
+        "npc-Colonel-Victor-Almeida",
+        "npc-Commander-Lucien-Marchand"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -404,14 +1042,48 @@
       ]
     },
     {
-      "id": "npc-Hall-des-Futurs-Choisis",
+      "id": "npc-General-Claire-Moreau",
+      "title": "General Claire Moreau",
+      "path": "wiki/pages/General-Claire-Moreau.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "military",
+        "marines"
+      ],
+      "links": [
+        "location-Fort-Robespierre-Naval-Annex"
+      ],
+      "aliases": [
+        "Claire Moreau"
+      ],
+      "summary": "Commander, Marine Forces Jardin at Fort Robespierre Naval Annex.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Fort Robespierre Naval Annex]]"
+      ]
+    },
+    {
+      "id": "location-Hall-des-Futurs-Choisis",
       "title": "Hall des Futurs Choisis",
       "path": "wiki/pages/Hall-des-Futurs-Choisis.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "npc-Alain-Mercier",
+        "event-Mercier-Assassination",
+        "organization-Home-Guard",
+        "organization-Social-Solidarity",
+        "item-Identity-Veils",
+        "npc-Inspector-Marc-Valois",
+        "organization-SolSec",
+        "npc-Dr-Luc-Moreau",
+        "item-Mobile-Data-Tube",
+        "event-Mercier-Genetic-Findings"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -430,7 +1102,9 @@
         "session-1"
       ],
       "links": [
-        "event-Mercier-Assassination"
+        "event-Mercier-Assassination",
+        "organization-Social-Solidarity",
+        "location-Fort-Robespierre-Naval-Annex"
       ],
       "aliases": [],
       "summary": "Jardin security force called to contain the Mercier assassination scene.",
@@ -458,8 +1132,7 @@
         "game-Session-2-Masks-and-Markers",
         "npc-Chief-Helene-Marchand",
         "event-Mercier-Frame-Up",
-        "game-Session-1-Official-Business",
-        "game-Session-2-Masks-and-Markers"
+        "game-Session-1-Official-Business"
       ],
       "aliases": [
         "Electronic Veils",
@@ -474,6 +1147,80 @@
       ]
     },
     {
+      "id": "npc-Inspector-Adrien-Martin",
+      "title": "Inspector Adrien Martin",
+      "path": "wiki/pages/Inspector-Adrien-Martin.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "security",
+        "government"
+      ],
+      "links": [
+        "organization-Social-Solidarity",
+        "location-Quartier-Sainte-Libert",
+        "organization-Jardin-Syndicate"
+      ],
+      "aliases": [
+        "Adrien Martin"
+      ],
+      "summary": "Social Solidarity Liaison at Quartier Sainte-Liberté.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Quartier Sainte-Liberté]]",
+        "[[Social Solidarity]]",
+        "[[Jardin Syndicate]]"
+      ]
+    },
+    {
+      "id": "npc-Inspector-Gabriel-Rousseau",
+      "title": "Inspector Gabriel Rousseau",
+      "path": "wiki/pages/Inspector-Gabriel-Rousseau.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "security",
+        "customs"
+      ],
+      "links": [
+        "location-Customs-Immigration-Checkpoint-Harmony",
+        "item-Identity-Veils"
+      ],
+      "aliases": [
+        "Gabriel Rousseau"
+      ],
+      "summary": "Senior Customs Officer at Customs & Immigration Checkpoint Harmony.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Customs & Immigration Checkpoint Harmony]]"
+      ]
+    },
+    {
+      "id": "npc-Inspector-General-Marc-Villeneuve",
+      "title": "Inspector-General Marc Villeneuve",
+      "path": "wiki/pages/Inspector-General-Marc-Villeneuve.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "security",
+        "enforcement"
+      ],
+      "links": [
+        "organization-Social-Solidarity"
+      ],
+      "aliases": [
+        "Marc Villeneuve"
+      ],
+      "summary": "Commander, Directorate of Social Stability at Social Solidarity.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Social Solidarity]]"
+      ]
+    },
+    {
       "id": "npc-Inspector-Marc-Valois",
       "title": "Inspector Marc Valois",
       "path": "wiki/pages/Inspector-Marc-Valois.md",
@@ -485,7 +1232,7 @@
       ],
       "links": [
         "organization-SolSec",
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "game-Session-2-Masks-and-Markers",
         "character-Emma-Colbert-Laura",
         "npc-Alain-Mercier",
@@ -509,29 +1256,28 @@
       ]
     },
     {
-      "id": "location-Jardin",
-      "title": "Jardin",
-      "path": "wiki/pages/Jardin.md",
-      "type": "location",
+      "id": "npc-Jacques-Martin",
+      "title": "Jacques Martin",
+      "path": "wiki/pages/Jacques-Martin.md",
+      "type": "npc",
       "tags": [
-        "location",
-        "world"
+        "npc",
+        "business",
+        "syndicate"
       ],
       "links": [
-        "npc-Le-Palais-de-Continuit",
-        "npc-Fort-Robespierre-Naval-Annex",
-        "npc-Transstar-Sector-Exchange",
-        "npc-Arcosphere-Rousseau",
-        "organization-Home-Guard",
-        "event-Mercier-Frame-Up",
-        "npc-Keith-Morris"
+        "organization-Jardin-Syndicate",
+        "location-Arcosphere-Rousseau"
       ],
-      "aliases": [],
-      "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
+      "aliases": [
+        "Martin"
+      ],
+      "summary": "Business Executive at Arcosphere Rousseau.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
-        "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
+        "[[Arcosphere Rousseau]]",
+        "[[Jardin Syndicate]]"
       ]
     },
     {
@@ -547,22 +1293,46 @@
         "npc-Marcel-Delphine",
         "npc-Alain-Mercier",
         "event-Mercier-Frame-Up",
-        "npc-Arcosphere-Rousseau",
+        "location-Arcosphere-Rousseau",
         "item-Identity-Veils",
         "game-Session-2-Masks-and-Markers",
         "npc-Lucin",
-        "npc-Marcel-Delphine",
-        "npc-Transstar-Sector-Exchange",
-        "npc-Marcel-Delphine"
+        "location-Transstar-Sector-Exchange"
       ],
       "aliases": [
         "Syndicat Jardin"
       ],
-      "summary": "The **Jardin Syndicate** is one of the largest and most influential criminal organizations operating within the Jardin Subsector. Originally founded on Jardin itself, the Syndicate has expanded across dozens of worlds, establishing networks that span both Confederation and Imperial territory.",
+      "summary": "The **Jardin Syndicate** is one of the largest and most influential",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
         "[[Marcel Delphine]]"
+      ]
+    },
+    {
+      "id": "location-Jardin",
+      "title": "Jardin",
+      "path": "wiki/pages/Jardin.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "world"
+      ],
+      "links": [
+        "location-Le-Palais-de-Continuit",
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Transstar-Sector-Exchange",
+        "location-Arcosphere-Rousseau",
+        "organization-Home-Guard",
+        "event-Mercier-Frame-Up",
+        "npc-Keith-Morris"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
       ]
     },
     {
@@ -578,7 +1348,7 @@
         "npc-Marcel-Delphine",
         "npc-Keith-Morris",
         "location-Miasma",
-        "unresolved:les-jardins-fermes",
+        "location-Les-Jardins-Ferm-s",
         "npc-Lucin"
       ],
       "aliases": [],
@@ -586,6 +1356,29 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Juliette-Mercier",
+      "title": "Juliette Mercier",
+      "path": "wiki/pages/Juliette-Mercier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "media",
+        "press"
+      ],
+      "links": [
+        "location-Quartier-Danton"
+      ],
+      "aliases": [
+        "Juliette Mercier"
+      ],
+      "summary": "Senior Editor, Jardin Today at Quartier Danton.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Quartier Danton]]"
+      ]
     },
     {
       "id": "npc-Keith-Morris",
@@ -612,14 +1405,19 @@
       ]
     },
     {
-      "id": "npc-Le-Palais-de-Continuit",
+      "id": "location-Le-Palais-de-Continuit",
       "title": "Le Palais de Continuité",
       "path": "wiki/pages/Le-Palais-de-Continuit.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Leo-Duprey",
+        "npc-Chief-Helene-Marchand",
+        "npc-Alain-Mercier"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -628,20 +1426,127 @@
       "parent": "Jardin"
     },
     {
-      "id": "npc-Les-Jardins-Ferm-s",
+      "id": "npc-Leo-Duprey",
+      "title": "Leo Duprey",
+      "path": "wiki/pages/Leo-Duprey.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "government",
+        "head-of-state"
+      ],
+      "links": [
+        "location-Le-Palais-de-Continuit",
+        "npc-Alain-Mercier",
+        "organization-Social-Solidarity"
+      ],
+      "aliases": [
+        "Supreme President Leo Duprey",
+        "President Duprey",
+        "Duprey"
+      ],
+      "summary": "Supreme President of Jardin at Le Palais de Continuité.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Le Palais de Continuité]]",
+        "[[Alain Mercier]]",
+        "[[Social Solidarity]]"
+      ]
+    },
+    {
+      "id": "location-Les-Jardins-Ferm-s",
       "title": "Les Jardins Fermés",
       "path": "wiki/pages/Les-Jardins-Ferm-s.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "npc-Dr-Sophie-Delacroix",
+        "npc-Professor-Lucien-Morel",
+        "npc-Dr-Isabelle-Fournier",
+        "npc-Dr-Gabriel-Laurent",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Lucin",
+        "npc-Chief-Helene-Marchand"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
+    },
+    {
+      "id": "npc-Luc-Girard",
+      "title": "Luc Girard",
+      "path": "wiki/pages/Luc-Girard.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "labor"
+      ],
+      "links": [
+        "organization-Transstar"
+      ],
+      "aliases": [
+        "Girard"
+      ],
+      "summary": "Labor Coordinator at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]"
+      ]
+    },
+    {
+      "id": "npc-Lucien-Roche",
+      "title": "Lucien Roche",
+      "path": "wiki/pages/Lucien-Roche.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "underworld",
+        "broker"
+      ],
+      "links": [
+        "location-Quartier-Sainte-Libert"
+      ],
+      "aliases": [
+        "Roche"
+      ],
+      "summary": "Information Broker at Quartier Sainte-Liberté.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Quartier Sainte-Liberté]]"
+      ]
+    },
+    {
+      "id": "npc-Lucien-Voss",
+      "title": "Lucien Voss",
+      "path": "wiki/pages/Lucien-Voss.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "logistics"
+      ],
+      "links": [
+        "location-Transstar-Sector-Exchange"
+      ],
+      "aliases": [
+        "Voss"
+      ],
+      "summary": "Senior Freight Broker at Transstar Sector Exchange.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar Sector Exchange]]"
+      ]
     },
     {
       "id": "npc-Lucin",
@@ -655,10 +1560,10 @@
         "session-2"
       ],
       "links": [
-        "unresolved:quartier-sainte-liberte",
+        "location-Quartier-Sainte-Libert",
         "game-Session-2-Masks-and-Markers",
-        "npc-Transstar-Sector-Exchange",
-        "unresolved:les-jardins-fermes",
+        "location-Transstar-Sector-Exchange",
+        "location-Les-Jardins-Ferm-s",
         "npc-Chief-Helene-Marchand",
         "npc-Marcel-Delphine",
         "organization-Jardin-Syndicate"
@@ -671,9 +1576,32 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
-        "[[Quartier-Sainte-Liberte]]",
+        "[[Quartier Sainte-Liberté]]",
         "[[Jardin Syndicate]]",
         "[[Chief Helene Marchand]]"
+      ]
+    },
+    {
+      "id": "npc-Mara-Kovalenko",
+      "title": "Mara Kovalenko",
+      "path": "wiki/pages/Mara-Kovalenko.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "diplomatic"
+      ],
+      "links": [
+        "location-Transstar-Sector-Exchange"
+      ],
+      "aliases": [
+        "Kovalenko"
+      ],
+      "summary": "Director of Foreign Trade Relations at Transstar Sector Exchange.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar Sector Exchange]]"
       ]
     },
     {
@@ -686,26 +1614,45 @@
       ],
       "links": [
         "event-Mercier-Assassination",
-        "npc-Hall-des-Futurs-Choisis",
-        "npc-Arcosphere-Rousseau",
+        "location-Hall-des-Futurs-Choisis",
+        "location-Arcosphere-Rousseau",
         "organization-Jardin-Syndicate",
         "npc-Alain-Mercier",
         "item-Identity-Veils",
-        "organization-Jardin-Syndicate",
-        "unresolved:leo-duprey",
-        "npc-Alain-Mercier",
-        "organization-Jardin-Syndicate",
-        "npc-Hall-des-Futurs-Choisis",
+        "npc-Leo-Duprey",
         "organization-SolSec",
-        "unresolved:rousseau-arcology",
-        "unresolved:citizens-aid-cooperative",
-        "unresolved:the-floating-court"
+        "location-Arcosphere-Rousseau",
+        "unresolved:Citizens-Aid-Cooperative",
+        "unresolved:The-Floating-Court"
       ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Mentor-Jean-Mercier",
+      "title": "Mentor Jean Mercier",
+      "path": "wiki/pages/Mentor-Jean-Mercier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "education",
+        "civic"
+      ],
+      "links": [
+        "location-Cr-che-District-14"
+      ],
+      "aliases": [
+        "Jean Mercier"
+      ],
+      "summary": "Senior Creche Mentor at Crèche District 14.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Crèche District 14]]"
+      ]
     },
     {
       "id": "event-Mercier-Assassination",
@@ -719,17 +1666,15 @@
       ],
       "links": [
         "npc-Alain-Mercier",
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "character-Ciernan-Seanislav-Peter",
         "npc-Marcel-Delphine",
         "organization-Jardin-Syndicate",
         "game-Session-2-Masks-and-Markers",
         "event-Mercier-Frame-Up",
-        "npc-Alain-Mercier",
         "npc-Elena-Verona",
         "organization-Social-Solidarity",
         "organization-Home-Guard",
-        "organization-Jardin-Syndicate",
         "event-Mercier-Genetic-Findings",
         "item-Mobile-Data-Tube"
       ],
@@ -802,7 +1747,7 @@
         "Psionic Marker Research",
         "Research Note 117A"
       ],
-      "summary": "Recovered research data suggests decades of genetic-marker tests tied to psionic-like abilities and alien or non-Solomani markers.",
+      "summary": "Recovered research data suggests decades of genetic-marker tests tied",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
@@ -826,7 +1771,6 @@
         "game-Session-2-Masks-and-Markers",
         "event-Mercier-Assassination",
         "event-Mercier-Frame-Up",
-        "npc-Alain-Mercier",
         "event-Mercier-Genetic-Findings"
       ],
       "aliases": [
@@ -877,7 +1821,7 @@
         "session-2"
       ],
       "links": [
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "game-Session-2-Masks-and-Markers",
         "npc-Dr-Luc-Moreau",
         "event-Mercier-Genetic-Findings"
@@ -898,6 +1842,54 @@
       ]
     },
     {
+      "id": "npc-Nadia-Giroux",
+      "title": "Nadia Giroux",
+      "path": "wiki/pages/Nadia-Giroux.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "media",
+        "press"
+      ],
+      "links": [
+        "organization-Social-Solidarity",
+        "location-Arcosphere-Rousseau"
+      ],
+      "aliases": [
+        "Giroux"
+      ],
+      "summary": "Investigative Journalist at Arcosphere Rousseau.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Arcosphere Rousseau]]"
+      ]
+    },
+    {
+      "id": "npc-Nadine-Pelletier",
+      "title": "Nadine Pelletier",
+      "path": "wiki/pages/Nadine-Pelletier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "transstar"
+      ],
+      "links": [
+        "organization-Transstar"
+      ],
+      "aliases": [
+        "Nadine Pelletier"
+      ],
+      "summary": "Passenger Services Director at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]"
+      ]
+    },
+    {
       "id": "npc-Nico-Gay",
       "title": "Nico Gay",
       "path": "wiki/pages/Nico-Gay.md",
@@ -913,7 +1905,7 @@
         "npc-Marcel-Delphine",
         "organization-Jardin-Syndicate",
         "game-Session-1-Official-Business",
-        "npc-Transstar-Sector-Exchange"
+        "location-Transstar-Sector-Exchange"
       ],
       "aliases": [
         "Emma's Smuggler Contact",
@@ -929,14 +1921,68 @@
       ]
     },
     {
-      "id": "npc-Port-Sainte-Jeanne-Downport",
+      "id": "npc-Philippe-Laurent",
+      "title": "Philippe Laurent",
+      "path": "wiki/pages/Philippe-Laurent.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "engineering"
+      ],
+      "links": [
+        "organization-Transstar"
+      ],
+      "aliases": [
+        "Philippe Laurent"
+      ],
+      "summary": "Fleet Maintenance Director at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]"
+      ]
+    },
+    {
+      "id": "npc-Pierre-Gauthier",
+      "title": "Pierre Gauthier",
+      "path": "wiki/pages/Pierre-Gauthier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "activist",
+        "politics"
+      ],
+      "links": [
+        "location-Quartier-Danton",
+        "organization-Social-Solidarity"
+      ],
+      "aliases": [
+        "Gauthier"
+      ],
+      "summary": "Student Activist at Quartier Danton.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Quartier Danton]]",
+        "[[Social Solidarity]]"
+      ]
+    },
+    {
+      "id": "location-Port-Sainte-Jeanne-Downport",
       "title": "Port Sainte-Jeanne Downport",
       "path": "wiki/pages/Port-Sainte-Jeanne-Downport.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "npc-Director-Luc-Beaumont",
+        "npc-Commander-Sophie-Durand",
+        "npc-Etienne-Marchand",
+        "npc-Captain-Victor-Mendes"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -945,14 +1991,65 @@
       "parent": "Jardin"
     },
     {
-      "id": "npc-Quartier-Danton",
+      "id": "npc-Professor-Emile-Laurent",
+      "title": "Professor Émile Laurent",
+      "path": "wiki/pages/Professor-Emile-Laurent.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "academic",
+        "media"
+      ],
+      "links": [
+        "location-Quartier-Danton"
+      ],
+      "aliases": [
+        "Emile Laurent"
+      ],
+      "summary": "Political Theorist at Quartier Danton.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Quartier Danton]]"
+      ]
+    },
+    {
+      "id": "npc-Professor-Lucien-Morel",
+      "title": "Professor Lucien Morel",
+      "path": "wiki/pages/Professor-Lucien-Morel.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "scientist",
+        "academic"
+      ],
+      "links": [
+        "location-Les-Jardins-Ferm-s"
+      ],
+      "aliases": [
+        "Lucien Morel"
+      ],
+      "summary": "Chief Ecological Systems Analyst at Les Jardins Fermés.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Les Jardins Fermés]]"
+      ]
+    },
+    {
+      "id": "location-Quartier-Danton",
       "title": "Quartier Danton",
       "path": "wiki/pages/Quartier-Danton.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "npc-Professor-Emile-Laurent",
+        "npc-Juliette-Mercier",
+        "npc-Alain-Mercier",
+        "npc-Pierre-Gauthier"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -961,20 +2058,51 @@
       "parent": "Jardin"
     },
     {
-      "id": "npc-Quartier-Sainte-Libert",
+      "id": "location-Quartier-Sainte-Libert",
       "title": "Quartier Sainte-Liberté",
       "path": "wiki/pages/Quartier-Sainte-Libert.md",
       "type": "location",
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "npc-Marcel-Delphine",
+        "npc-Colette-Moreau",
+        "npc-Lucien-Roche",
+        "npc-Inspector-Adrien-Martin"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
+    },
+    {
+      "id": "npc-Sarah-Chen",
+      "title": "Sarah Chen",
+      "path": "wiki/pages/Sarah-Chen.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "corporate",
+        "intelligence"
+      ],
+      "links": [
+        "organization-Transstar",
+        "organization-SolSec"
+      ],
+      "aliases": [
+        "Chen"
+      ],
+      "summary": "Route Intelligence Analyst at Transstar.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar]]",
+        "[[SolSec]]"
+      ]
     },
     {
       "id": "item-Secure-Burner-Comms",
@@ -1011,7 +2139,7 @@
         "session-1"
       ],
       "links": [
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "npc-Alain-Mercier",
         "organization-Social-Solidarity",
         "organization-Home-Guard",
@@ -1020,34 +2148,22 @@
         "npc-Marcel-Delphine",
         "organization-Jardin-Syndicate",
         "item-Identity-Veils",
-        "npc-Hall-des-Futurs-Choisis",
-        "npc-Alain-Mercier",
         "character-Ciernan-Seanislav-Peter",
         "npc-Elena-Verona",
-        "character-Emma-Colbert-Laura",
-        "character-0-31-Saichi-Maru-Annette",
-        "npc-Marcel-Delphine",
-        "organization-Jardin-Syndicate",
         "character-Zoy-Damon",
-        "item-Identity-Veils",
-        "npc-Transstar-Sector-Exchange",
+        "location-Transstar-Sector-Exchange",
         "event-Mercier-Assassination",
         "event-Mercier-Frame-Up",
         "event-False-News-Broadcast",
-        "item-Identity-Veils",
         "item-Merciers-Locked-Pad",
         "event-Friday-Party-Congress-Hearing",
         "item-Sunken-Ship-Boat",
         "npc-Nico-Gay",
-        "character-0-31-Saichi-Maru-Annette",
         "character-Cass-Pien-Kolb",
-        "character-Ciernan-Seanislav-Peter",
         "character-Dan-Araujo-Josh",
-        "character-Emma-Colbert-Laura",
         "character-Judith-Dumont-Carla",
         "character-Varian-Svazz-Allen",
-        "character-Victor-Mendes-Steinbach",
-        "character-Zoy-Damon"
+        "character-Victor-Mendes-Steinbach"
       ],
       "aliases": [
         "Game 1",
@@ -1076,63 +2192,27 @@
       "links": [
         "character-0-31-Saichi-Maru-Annette",
         "item-Identity-Veils",
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "organization-Social-Solidarity",
         "organization-SolSec",
         "npc-Inspector-Marc-Valois",
         "item-Mobile-Data-Tube",
         "npc-Dr-Luc-Moreau",
         "npc-Lucin",
-        "unresolved:les-jardins-fermes",
+        "location-Les-Jardins-Ferm-s",
         "npc-Chief-Helene-Marchand",
-        "character-0-31-Saichi-Maru-Annette",
-        "item-Identity-Veils",
-        "npc-Hall-des-Futurs-Choisis",
-        "organization-Social-Solidarity",
-        "organization-SolSec",
         "character-Emma-Colbert-Laura",
-        "npc-Inspector-Marc-Valois",
-        "npc-Dr-Luc-Moreau",
-        "item-Mobile-Data-Tube",
         "character-Zoy-Damon",
         "character-Cass-Pien-Kolb",
         "character-Varian-Svazz-Allen",
-        "unresolved:quartier-sainte-liberte",
-        "npc-Lucin",
-        "unresolved:les-jardins-fermes",
-        "npc-Chief-Helene-Marchand",
-        "character-0-31-Saichi-Maru-Annette",
-        "character-Cass-Pien-Kolb",
-        "npc-Dr-Luc-Moreau",
-        "item-Mobile-Data-Tube",
+        "location-Quartier-Sainte-Libert",
         "character-Ciernan-Seanislav-Peter",
         "item-Secure-Burner-Comms",
         "character-Dan-Araujo-Josh",
-        "npc-Lucin",
-        "character-Emma-Colbert-Laura",
-        "npc-Inspector-Marc-Valois",
         "character-Judith-Dumont-Carla",
-        "character-Varian-Svazz-Allen",
         "character-Victor-Mendes-Steinbach",
-        "organization-SolSec",
-        "character-Zoy-Damon",
         "event-Mercier-Genetic-Findings",
-        "item-Mobile-Data-Tube",
-        "npc-Dr-Luc-Moreau",
-        "npc-Inspector-Marc-Valois",
-        "npc-Lucin",
-        "npc-Chief-Helene-Marchand",
-        "item-Identity-Veils",
-        "npc-Transstar-Sector-Exchange",
-        "character-0-31-Saichi-Maru-Annette",
-        "character-Cass-Pien-Kolb",
-        "character-Ciernan-Seanislav-Peter",
-        "character-Dan-Araujo-Josh",
-        "character-Emma-Colbert-Laura",
-        "character-Judith-Dumont-Carla",
-        "character-Varian-Svazz-Allen",
-        "character-Victor-Mendes-Steinbach",
-        "character-Zoy-Damon"
+        "location-Transstar-Sector-Exchange"
       ],
       "aliases": [
         "Game 2",
@@ -1146,6 +2226,29 @@
         "[[Mobile Data Tube]]",
         "[[Inspector Marc Valois]]",
         "[[Lucin]]"
+      ]
+    },
+    {
+      "id": "npc-Sister-Celeste-Moreau",
+      "title": "Sister Celeste Moreau",
+      "path": "wiki/pages/Sister-Celeste-Moreau.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "civic",
+        "charity"
+      ],
+      "links": [
+        "location-Arcosphere-Rousseau"
+      ],
+      "aliases": [
+        "Celeste Moreau"
+      ],
+      "summary": "Community Organizer at Arcosphere Rousseau.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Arcosphere Rousseau]]"
       ]
     },
     {
@@ -1163,9 +2266,11 @@
         "organization-SolSec",
         "game-Session-2-Masks-and-Markers",
         "npc-Inspector-Marc-Valois",
-        "organization-SolSec",
-        "npc-Hall-des-Futurs-Choisis",
-        "npc-Alain-Mercier"
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Alain-Mercier",
+        "npc-Leo-Duprey",
+        "npc-Director-General-Camille-Fournier",
+        "npc-Inspector-General-Marc-Villeneuve"
       ],
       "aliases": [],
       "summary": "",
@@ -1188,10 +2293,8 @@
         "game-Session-2-Masks-and-Markers",
         "npc-Inspector-Marc-Valois",
         "event-Mercier-Assassination",
-        "npc-Hall-des-Futurs-Choisis",
-        "organization-Social-Solidarity",
-        "game-Session-1-Official-Business",
-        "game-Session-2-Masks-and-Markers"
+        "location-Hall-des-Futurs-Choisis",
+        "game-Session-1-Official-Business"
       ],
       "aliases": [
         "Solomani Security"
@@ -1241,24 +2344,21 @@
         "event"
       ],
       "links": [
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "npc-Alain-Mercier",
         "npc-Elena-Verona",
         "organization-Home-Guard",
         "character-0-31-Saichi-Maru-Annette",
-        "npc-Arcosphere-Rousseau",
+        "location-Arcosphere-Rousseau",
         "npc-Marcel-Delphine",
         "item-Identity-Veils",
         "organization-Jardin-Syndicate",
         "event-Mercier-Frame-Up",
         "character-Zoy-Damon",
         "item-Merciers-Locked-Pad",
-        "npc-Transstar-Sector-Exchange",
+        "location-Transstar-Sector-Exchange",
         "item-Sunken-Ship-Boat",
         "location-Miasma",
-        "character-0-31-Saichi-Maru-Annette",
-        "item-Identity-Veils",
-        "npc-Hall-des-Futurs-Choisis",
         "organization-Social-Solidarity",
         "organization-SolSec",
         "character-Emma-Colbert-Laura",
@@ -1268,14 +2368,8 @@
         "event-Mercier-Genetic-Findings",
         "item-Secure-Burner-Comms",
         "npc-Lucin",
-        "npc-Transstar-Sector-Exchange",
-        "unresolved:les-jardins-fermes",
-        "npc-Chief-Helene-Marchand",
-        "npc-Marcel-Delphine",
-        "item-Identity-Veils",
-        "organization-SolSec",
-        "npc-Transstar-Sector-Exchange",
-        "item-Merciers-Locked-Pad"
+        "location-Les-Jardins-Ferm-s",
+        "npc-Chief-Helene-Marchand"
       ],
       "aliases": [
         "Campaign Timeline"
@@ -1289,6 +2383,31 @@
       ]
     },
     {
+      "id": "location-Transstar-Sector-Exchange",
+      "title": "Transstar Sector Exchange",
+      "path": "wiki/pages/Transstar-Sector-Exchange.md",
+      "type": "location",
+      "tags": [
+        "location"
+      ],
+      "links": [
+        "npc-Antoine-Mercier",
+        "npc-Commissioner-Isabelle-Fournier",
+        "npc-Lucien-Voss",
+        "npc-Mara-Kovalenko",
+        "event-Mercier-Frame-Up",
+        "item-Identity-Veils",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Lucin"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Jardin"
+    },
+    {
       "id": "organization-Transstar",
       "title": "Transstar",
       "path": "wiki/pages/Transstar.md",
@@ -1296,28 +2415,23 @@
       "tags": [
         "organization"
       ],
-      "links": [],
+      "links": [
+        "npc-Etienne-Moreau",
+        "npc-Claire-Bouchard",
+        "npc-Captain-Victor-Mendes",
+        "npc-Nadine-Pelletier",
+        "npc-Luc-Girard",
+        "npc-Sarah-Chen",
+        "npc-Armand-Rousselet",
+        "npc-Elena-Kovacs",
+        "npc-Philippe-Laurent",
+        "npc-Amelia-Torres"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
-    },
-    {
-      "id": "npc-Transstar-Sector-Exchange",
-      "title": "Transstar Sector Exchange",
-      "path": "wiki/pages/Transstar-Sector-Exchange.md",
-      "type": "location",
-      "tags": [
-        "location"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [],
-      "parent": "Jardin"
     },
     {
       "id": "character-Varian-Svazz-Allen",
@@ -1347,7 +2461,7 @@
       ],
       "links": [
         "npc-Elena-Verona",
-        "npc-Arcosphere-Rousseau",
+        "location-Arcosphere-Rousseau",
         "organization-SolSec"
       ],
       "aliases": [],
@@ -1369,7 +2483,7 @@
         "event-False-News-Broadcast",
         "npc-Alain-Mercier",
         "organization-Jardin-Syndicate",
-        "npc-Hall-des-Futurs-Choisis",
+        "location-Hall-des-Futurs-Choisis",
         "item-Mobile-Data-Tube",
         "character-Emma-Colbert-Laura"
       ],

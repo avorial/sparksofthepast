@@ -15,7 +15,7 @@ lastEditedBy: patricthomas
 
 # Ministère de la Solidarité Sociale
 
-# Ministry of Social Solidarity
+*Ministry of Social Solidarity*
 
 *"Harmony Through Responsibility"*
 
@@ -113,9 +113,9 @@ Today it is widely considered the second most powerful organization on Jardin af
 
 ---
 
-# Organizational Structure
+## Organizational Structure
 
-## Directorate of Civic Harmony
+### Directorate of Civic Harmony
 
 The public face of the Ministry.
 
@@ -131,7 +131,7 @@ Most citizens encounter Civic Harmony officers regularly.
 
 These officers wear light blue uniforms and are generally well-liked.
 
-### Public Reputation
+#### Public Reputation
 
 Helpful.
 
@@ -141,7 +141,7 @@ Mildly intrusive.
 
 ---
 
-## Directorate of Population Stewardship
+### Directorate of Population Stewardship
 
 Responsible for administration of:
 
@@ -162,7 +162,7 @@ Among citizens this division is often referred to as:
 
 usually with varying degrees of affection.
 
-### Public Reputation
+#### Public Reputation
 
 Necessary.
 
@@ -172,7 +172,7 @@ Sometimes feared.
 
 ---
 
-## Directorate of Social Stability
+### Directorate of Social Stability
 
 The Ministry's investigative branch.
 
@@ -188,7 +188,7 @@ Often mistaken for SolSec by outsiders.
 
 The Directorate does little to correct this misunderstanding.
 
-### Public Reputation
+#### Public Reputation
 
 Polite.
 
@@ -198,7 +198,7 @@ Dangerous.
 
 ---
 
-## Directorate of Citizen Integrity
+### Directorate of Citizen Integrity
 
 Maintains identity and compliance systems.
 
@@ -218,7 +218,7 @@ Works closely with:
 
 Many Syndicate investigations originate here.
 
-### Public Reputation
+#### Public Reputation
 
 Bureaucratic.
 
@@ -228,7 +228,7 @@ Impossible to avoid.
 
 ---
 
-## Directorate of Overseas Affairs
+### Directorate of Overseas Affairs
 
 Responsible for Jardinese citizens living off-world.
 
@@ -243,13 +243,13 @@ This division maintains offices throughout Confederation space.
 
 It is often the first point of contact between Social Solidarity and SolSec.
 
-### Public Reputation
+#### Public Reputation
 
 Almost invisible.
 
 ---
 
-## Directorate of Protective Operations
+### Directorate of Protective Operations
 
 The Ministry's tactical branch.
 
@@ -265,15 +265,15 @@ Members are heavily trained and equipped.
 
 Fortunately, most citizens never encounter them.
 
-### Public Reputation
+#### Public Reputation
 
 Trouble has already begun if they arrive.
 
 ---
 
-# Special Divisions
+## Special Divisions
 
-## Office of Social Forecasting
+### Office of Social Forecasting
 
 Analyzes long-term social trends.
 
@@ -290,7 +290,7 @@ Works closely with the Hall of Chosen Futures.
 
 ---
 
-## Office of Exceptional Citizens
+### Office of Exceptional Citizens
 
 Officially responsible for unusual citizen cases.
 
@@ -306,7 +306,7 @@ Rumors persist that it recruits individuals possessing unusual cognitive abiliti
 
 ---
 
-## Office of Historical Continuity
+### Office of Historical Continuity
 
 Preserves ideological consistency across generations.
 
@@ -320,7 +320,7 @@ Often involved in disputes concerning controversial historical events.
 
 ---
 
-# Relationship with SolSec
+## Relationship with SolSec
 
 The relationship between Social Solidarity and SolSec is often described as:
 
@@ -336,7 +336,7 @@ Neither entirely trusts the other.
 
 ---
 
-## Areas of SolSec Authority
+### Areas of SolSec Authority
 
 SolSec retains jurisdiction over:
 
@@ -348,7 +348,7 @@ SolSec retains jurisdiction over:
 
 ---
 
-## Areas of Social Solidarity Authority
+### Areas of Social Solidarity Authority
 
 Social Solidarity controls:
 
@@ -361,15 +361,15 @@ Social Solidarity controls:
 
 ---
 
-## Common Friction Points
+### Common Friction Points
 
-### Jurisdiction
+#### Jurisdiction
 
 Social Solidarity often believes SolSec interferes in local matters.
 
 SolSec often believes Social Solidarity conceals information.
 
-### Political Priorities
+#### Political Priorities
 
 SolSec serves the Confederation.
 
@@ -377,7 +377,7 @@ Social Solidarity serves Jardin.
 
 These goals do not always align.
 
-### Information Control
+#### Information Control
 
 Both organizations possess enormous databases.
 
@@ -385,7 +385,7 @@ Both are reluctant to share everything.
 
 ---
 
-## Typical Interaction
+### Typical Interaction
 
 A SolSec agent arriving on Jardin receives full cooperation.
 
@@ -399,9 +399,9 @@ Failure to follow these procedures frequently results in bureaucratic obstacles 
 
 ---
 
-# Facilities
+## Facilities
 
-## Citadel of Social Harmony
+### Citadel of Social Harmony
 
 Central headquarters.
 
@@ -416,7 +416,7 @@ A massive administrative complex combining:
 
 ---
 
-## Regional Harmony Centers
+### Regional Harmony Centers
 
 Found throughout Jardin.
 
@@ -424,7 +424,7 @@ Provide most public services.
 
 ---
 
-## Citizen Assessment Offices
+### Citizen Assessment Offices
 
 Located in every major population center.
 
@@ -436,9 +436,9 @@ Handle:
 
 ---
 
-# Notable Leaders
+## Notable Leaders
 
-## Supreme President Leo Duprey
+### [[Leo Duprey|Supreme President Leo Duprey]]
 
 Former Director-General of Social Solidarity.
 
@@ -446,7 +446,7 @@ Many observers believe he still exercises considerable influence within the Mini
 
 ---
 
-## Director-General Camille Fournier
+### [[Director-General Camille Fournier]]
 
 Current head of the Ministry.
 
@@ -454,7 +454,7 @@ A career administrator and loyal supporter of the Perfection System.
 
 ---
 
-## Inspector-General Marc Villeneuve
+### [[Inspector-General Marc Villeneuve]]
 
 Commander of the Directorate of Social Stability.
 
@@ -462,7 +462,7 @@ Widely feared by dissident organizations.
 
 ---
 
-# Public Perception
+## Public Perception
 
 Most citizens support Social Solidarity.
 
@@ -478,7 +478,7 @@ Such criticisms are usually expressed quietly.
 
 ---
 
-# Rivals
+## Rivals
 
 * Jardin Syndicate
 * Sirius Rising
@@ -487,7 +487,7 @@ Such criticisms are usually expressed quietly.
 
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### The Missing Assessment
 
@@ -511,7 +511,7 @@ A routine assessment reveals abilities no one can adequately explain.
 
 ---
 :::gm
-# Referee Notes
+## Referee Notes
 
 Social Solidarity should not be portrayed as cartoon villains.
 

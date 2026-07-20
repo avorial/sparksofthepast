@@ -23,6 +23,17 @@ subsector: ""
 techLevel: ""
 ---
 
+# Jardin
+![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png)
+
+*Capital World of the Jardin Subsector*
+
+**UWP:** A5679BC-D  
+**Allegiance:** SoCf (Solomani Confederation)  
+**Trade Codes:** Hi, Cp, Pr, Pz, Ht  
+**Subsector:** Jardin  
+**Tech Level:** 13
+
 ## Contents
 
 - [Overview](#overview)
@@ -36,18 +47,6 @@ techLevel: ""
   - [Port Mercier](#port-mercier)
 - [Points of Interest](#points-of-interest)
 - [Session 1 Notes](#session-1-notes)
-- [GM Truth](#gm-truth)
-
-# Jardin
-![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png)
-
-*Capital World of the Jardin Subsector*
-
-**UWP:** A5679BC-D  
-**Allegiance:** SoCf (Solomani Confederation)  
-**Trade Codes:** Hi, Cp, Pr, Pz, Ht  
-**Subsector:** Jardin  
-**Tech Level:** 13
 
 ## Overview
 

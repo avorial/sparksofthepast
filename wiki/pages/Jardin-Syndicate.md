@@ -20,7 +20,7 @@ lastEditedBy: patricthomas
 
 # Syndicat Jardin
 
-## Jardin Syndicate
+*Jardin Syndicate*
 
 **Type:** Interstellar Criminal Organization
 
@@ -73,7 +73,7 @@ In [[Session 2 - Masks and Markers]], the group met [[Lucin]], a Sainte-Liberte 
 
 ---
 
-# Overview
+## Overview
 
 The **Jardin Syndicate** is one of the largest and most influential criminal organizations operating within the Jardin Subsector. Originally founded on Jardin itself, the Syndicate has expanded across dozens of worlds, establishing networks that span both Confederation and Imperial territory.
 
@@ -99,9 +99,9 @@ The organization never specifies whose future profits from the arrangement.
 
 ---
 
-# Origins
+## Origins
 
-## The Border Opportunity
+### The Border Opportunity
 
 The Syndicate emerged approximately sixty years ago during a period of increasing migration between hard-line Solomani worlds and neighboring Imperial systems.
 
@@ -126,7 +126,7 @@ Someone was always willing to sell it.
 
 ---
 
-## The First Networks
+### The First Networks
 
 Initially the organization consisted of independent brokers and shipping agents.
 
@@ -142,7 +142,7 @@ The name "Jardin Syndicate" first appeared in SolSec intelligence reports nearly
 
 ---
 
-# Structure
+## Structure
 
 The Syndicate operates as a decentralized network rather than a traditional hierarchy.
 
@@ -154,7 +154,7 @@ This structure has proven highly resistant to law-enforcement efforts.
 
 ---
 
-## Directorate
+### Directorate
 
 The inner leadership circle.
 
@@ -169,7 +169,7 @@ Few individuals know the identities of all Directorate members.
 
 ---
 
-## Placement Agencies
+### Placement Agencies
 
 The public face of the organization.
 
@@ -188,7 +188,7 @@ Citizens rarely know the difference.
 
 ---
 
-## Transit Networks
+### Transit Networks
 
 Responsible for moving people across interstellar borders.
 
@@ -204,7 +204,7 @@ The network extends throughout the subsector.
 
 ---
 
-## Registry Specialists
+### Registry Specialists
 
 Among the Syndicate's most valuable assets.
 
@@ -219,9 +219,9 @@ A skilled Registry Specialist can make a person appear to have existed for decad
 
 ---
 
-# Business Operations
+## Business Operations
 
-## Refugee Transport
+### Refugee Transport
 
 The Syndicate's most profitable enterprise.
 
@@ -238,7 +238,7 @@ Others do not.
 
 ---
 
-## Identity Laundering
+### Identity Laundering
 
 The process of constructing entirely new legal identities.
 
@@ -253,7 +253,7 @@ Prices vary dramatically.
 
 ---
 
-## Debt Contracts
+### Debt Contracts
 
 Many migrants lack sufficient funds.
 
@@ -265,7 +265,7 @@ Debtors may spend years working to satisfy obligations.
 
 ---
 
-## Labor Placement
+### Labor Placement
 
 The Syndicate maintains relationships with employers throughout the subsector.
 
@@ -277,7 +277,7 @@ The distinction often depends on who is asked.
 
 ---
 
-## Counterfeiting
+### Counterfeiting
 
 The organization manufactures:
 
@@ -290,13 +290,13 @@ High-quality counterfeit records are among its most valuable products.
 
 ---
 
-# Political Relationships
+## Political Relationships
 
 The Syndicate survives because powerful people occasionally benefit from its activities.
 
 ---
 
-## Corrupt Officials
+### Corrupt Officials
 
 Some local politicians quietly use Syndicate services.
 
@@ -308,7 +308,7 @@ Benefits include:
 
 ---
 
-## Business Interests
+### Business Interests
 
 Several corporations rely upon labor supplied through Syndicate channels.
 
@@ -316,7 +316,7 @@ Publicly they deny involvement.
 
 ---
 
-## SolSec
+### SolSec
 
 The relationship between SolSec and the Syndicate remains complex.
 
@@ -332,7 +332,7 @@ Rumors persist that some Syndicate leaders possess information capable of embarr
 
 ---
 
-# Presence on Jardin
+## Presence on Jardin
 
 Jardin remains the organization's symbolic homeland.
 
@@ -347,7 +347,7 @@ Many legitimate businesses unknowingly interact with Syndicate-controlled interm
 
 ---
 
-# Public Front Organizations
+## Public Front Organizations
 
 Known examples include:
 
@@ -373,7 +373,7 @@ None have been successfully linked to senior Syndicate leadership.
 
 ---
 
-# Common Sayings
+## Common Sayings
 
 ### "Everyone deserves a future."
 
@@ -389,29 +389,29 @@ A phrase heard among migrant communities.
 
 ---
 
-# Rivals
+## Rivals
 
-## SolSec
+### SolSec
 
 The Syndicate's most dangerous enemy.
 
-## Ministry of Justice
+### Ministry of Justice
 
 Responsible for many anti-Syndicate investigations.
 
-## Independent Smugglers
+### Independent Smugglers
 
 Frequently absorbed or eliminated.
 
-## Local Criminal Organizations
+### Local Criminal Organizations
 
 Often become subordinate partners.
 
 ---
 
-# Rumors
+## Rumors
 
-## The Registry Mirror
+### The Registry Mirror
 
 The Syndicate allegedly possesses a complete copy of the Hall of Chosen Futures Citizen Registry.
 
@@ -419,25 +419,25 @@ Most experts consider this impossible.
 
 ---
 
-## The Hidden Fleet
+### The Hidden Fleet
 
 The Syndicate supposedly controls dozens of transport vessels operating under false registrations.
 
 ---
 
-## The Ghost Citizens
+### The Ghost Citizens
 
 Thousands of identities in the Confederation database may belong to people who never existed.
 
 ---
 
-## The Shepherd's Archive
+### The Shepherd's Archive
 
 Marcel Delphine is rumored to possess decades of blackmail material concerning politicians, Party officials, corporate executives, and military officers.
 
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### The Missing Family
 
@@ -474,7 +474,7 @@ A desperate migrant asks the Travellers for protection from Syndicate enforcers.
 
 :::gm
 
-# Referee Notes
+## Referee Notes
 
 The Jardin Syndicate should never be portrayed as purely evil or purely benevolent.
 
@@ -495,8 +495,4 @@ The organization's greatest strength is that it exists in the gray space between
 Every faction on Jardin has a reason to hate them.
 
 Every faction on Jardin also has a reason to quietly tolerate them.
-
-
-:::gm
-Secret agenda, debts, and leverage.
 :::

@@ -66,7 +66,7 @@ The data may explain why Mercier was killed. It may also give the party a possib
 - Is the corrupted ending recoverable from another source?
 - Did the weapon manipulation depend on these markers?
 
-# Research Note 117A
+## Research Note 117A
 
 Research Note 117A
 

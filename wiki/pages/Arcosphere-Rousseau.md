@@ -9,70 +9,16 @@ visibility: players
 approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
-aliases: []
+aliases:
+  - Rousseau Arcology
+  - Rousseau
 lastEditedBy: patricthomas
 parent: Jardin
 ---
 
-## Contents
-
-- [Rousseau Arcology](#rousseau-arcology)
-- [Overview](#overview)
-- [History](#history)
-- [The Arcology Initiative](#the-arcology-initiative)
-- [The Rousseau Doctrine](#the-rousseau-doctrine)
-- [The Quiet Expansion](#the-quiet-expansion)
-- [Architecture](#architecture)
-- [Major Districts](#major-districts)
-- [Les Sommets](#les-sommets)
-  - [The Summit Levels](#the-summit-levels)
-- [Les Niveaux Civiques](#les-niveaux-civiques)
-  - [Civic Levels](#civic-levels)
-- [Les Communes](#les-communes)
-  - [Commons Levels](#commons-levels)
-- [Les Ateliers](#les-ateliers)
-  - [Industrial Levels](#industrial-levels)
-- [Les Profondeurs](#les-profondeurs)
-  - [The Depths](#the-depths)
-- [The Unofficial City](#the-unofficial-city)
-- [Les Ombres](#les-ombres)
-  - [The Shadows](#the-shadows)
-- [Daily Life](#daily-life)
-- [Transportation](#transportation)
-- [Commerce](#commerce)
-- [Culture](#culture)
-- [Major Landmarks](#major-landmarks)
-- [Forum Rousseau](#forum-rousseau)
-- [Market of a Thousand Worlds](#market-of-a-thousand-worlds)
-- [The People's Conservatory](#the-people-s-conservatory)
-- [The Arcology Museum](#the-arcology-museum)
-- [Security](#security)
-- [Criminal Activity](#criminal-activity)
-- [The Jardin Syndicate](#the-jardin-syndicate)
-- [Notable Individuals](#notable-individuals)
-- [Adrien Pelletier](#adrien-pelletier)
-- [Nadia Giroux](#nadia-giroux)
-- [Sister Celeste Moreau](#sister-celeste-moreau)
-- [Jacques Martin](#jacques-martin)
-- [Public Opinion](#public-opinion)
-- [Rumors](#rumors)
-- [The Lost Levels](#the-lost-levels)
-- [The Hidden Registry](#the-hidden-registry)
-- [The Shepherd's Court](#the-shepherd-s-court)
-- [The Ghost Transit Line](#the-ghost-transit-line)
-- [Adventure Hooks](#adventure-hooks)
-  - [The Missing Citizen](#the-missing-citizen)
-  - [Arcology Election](#arcology-election)
-  - [Ghost District](#ghost-district)
-  - [The Shepherd's Invitation](#the-shepherd-s-invitation)
-  - [The Registry War](#the-registry-war)
-  - [Lost Beneath Rousseau](#lost-beneath-rousseau)
-- [Session 1 Notes](#session-1-notes)
-- [Referee Notes](#referee-notes)
-
 # Arcosphère Rousseau
 
-## Rousseau Arcology
+*Rousseau Arcology*
 
 **Location:** Central Nouvelle Sainte-Jeanne, Jardin
 
@@ -92,7 +38,55 @@ parent: Jardin
 
 ---
 
-# Overview
+## Contents
+
+- [Overview](#overview)
+- [History](#history)
+  - [The Arcology Initiative](#the-arcology-initiative)
+  - [The Rousseau Doctrine](#the-rousseau-doctrine)
+  - [The Quiet Expansion](#the-quiet-expansion)
+- [Architecture](#architecture)
+- [Major Districts](#major-districts)
+  - [Les Sommets](#les-sommets)
+  - [Les Niveaux Civiques](#les-niveaux-civiques)
+  - [Les Communes](#les-communes)
+  - [Les Ateliers](#les-ateliers)
+  - [Les Profondeurs](#les-profondeurs)
+- [The Unofficial City](#the-unofficial-city)
+  - [The Shadows](#the-shadows)
+- [Daily Life](#daily-life)
+- [Transportation](#transportation)
+- [Commerce](#commerce)
+- [Culture](#culture)
+- [Major Landmarks](#major-landmarks)
+  - [Forum Rousseau](#forum-rousseau)
+  - [Market of a Thousand Worlds](#market-of-a-thousand-worlds)
+  - [The People's Conservatory](#the-people-s-conservatory)
+  - [The Arcology Museum](#the-arcology-museum)
+- [Security](#security)
+- [Criminal Activity](#criminal-activity)
+- [The Jardin Syndicate](#the-jardin-syndicate)
+- [Notable Individuals](#notable-individuals)
+  - [Adrien Pelletier](#adrien-pelletier)
+  - [Nadia Giroux](#nadia-giroux)
+  - [Sister Celeste Moreau](#sister-celeste-moreau)
+  - [Jacques Martin](#jacques-martin)
+- [Public Opinion](#public-opinion)
+- [Rumors](#rumors)
+  - [The Lost Levels](#the-lost-levels)
+  - [The Hidden Registry](#the-hidden-registry)
+  - [The Shepherd's Court](#the-shepherd-s-court)
+  - [The Ghost Transit Line](#the-ghost-transit-line)
+- [Adventure Hooks](#adventure-hooks)
+  - [The Missing Citizen](#the-missing-citizen)
+  - [Arcology Election](#arcology-election)
+  - [Ghost District](#ghost-district)
+  - [The Shepherd's Invitation](#the-shepherd-s-invitation)
+  - [The Registry War](#the-registry-war)
+  - [Lost Beneath Rousseau](#lost-beneath-rousseau)
+  - [Session 1 Notes](#session-1-notes)
+
+## Overview
 
 The **Arcosphère Rousseau** (Rousseau Arcology) is the largest structure on Jardin and one of the most densely populated urban environments in the Solomani Confederation.
 
@@ -116,9 +110,9 @@ Residents typically describe it as:
 
 ---
 
-# History
+## History
 
-## The Arcology Initiative
+### The Arcology Initiative
 
 Construction began nearly two centuries ago during the Great Expansion.
 
@@ -143,7 +137,7 @@ The project became one of the largest construction efforts in Confederation hist
 
 ---
 
-## The Rousseau Doctrine
+### The Rousseau Doctrine
 
 Named after the ancient Terran philosopher Jean-Jacques Rousseau, the arcology was intended to demonstrate that careful planning could create a superior urban environment.
 
@@ -157,7 +151,7 @@ Reality proved more complicated.
 
 ---
 
-## The Quiet Expansion
+### The Quiet Expansion
 
 Over successive generations, unused maintenance spaces, storage sections, and service corridors were gradually converted into residential and commercial districts.
 
@@ -171,7 +165,7 @@ No one knows its true size.
 
 ---
 
-# Architecture
+## Architecture
 
 From above, Rousseau resembles an immense crescent embracing the Grand Axis of Nouvelle Sainte-Jeanne.
 
@@ -191,11 +185,11 @@ The arcology contains enough internal infrastructure to function independently f
 
 ---
 
-# Major Districts
+## Major Districts
 
-## Les Sommets
+### Les Sommets
 
-### The Summit Levels
+*The Summit Levels*
 
 The highest and most prestigious districts.
 
@@ -219,9 +213,9 @@ Residents insist this is merely coincidence.
 
 ---
 
-## Les Niveaux Civiques
+### Les Niveaux Civiques
 
-### Civic Levels
+*Civic Levels*
 
 The professional middle class.
 
@@ -245,9 +239,9 @@ Almost every government promotional video is filmed here.
 
 ---
 
-## Les Communes
+### Les Communes
 
-### Commons Levels
+*Commons Levels*
 
 The largest section of Rousseau.
 
@@ -267,9 +261,9 @@ Visitors often compare it to a city existing entirely indoors.
 
 ---
 
-## Les Ateliers
+### Les Ateliers
 
-### Industrial Levels
+*Industrial Levels*
 
 The manufacturing heart of the arcology.
 
@@ -289,9 +283,9 @@ Most residents depend upon it.
 
 ---
 
-## Les Profondeurs
+### Les Profondeurs
 
-### The Depths
+*The Depths*
 
 The lowest officially recognized districts.
 
@@ -308,9 +302,9 @@ Unofficially not.
 
 ---
 
-# The Unofficial City
+## The Unofficial City
 
-## Les Ombres
+*Les Ombres*
 
 ### The Shadows
 
@@ -332,7 +326,7 @@ Everyone else knows better.
 
 ---
 
-# Daily Life
+## Daily Life
 
 Life inside Rousseau rarely requires leaving the structure.
 
@@ -354,7 +348,7 @@ Most residents stop noticing.
 
 ---
 
-# Transportation
+## Transportation
 
 Rousseau possesses one of the most advanced transit systems in the Confederation.
 
@@ -370,7 +364,7 @@ The average resident can reach any major district within thirty minutes.
 
 ---
 
-# Commerce
+## Commerce
 
 The arcology contains millions of businesses.
 
@@ -387,7 +381,7 @@ Many of the Confederation's largest corporations maintain offices here.
 
 ---
 
-# Culture
+## Culture
 
 Rousseau possesses its own distinct identity.
 
@@ -408,9 +402,9 @@ Many citizens never fully identify with the broader city.
 
 ---
 
-# Major Landmarks
+## Major Landmarks
 
-## Forum Rousseau
+### Forum Rousseau
 
 The central public square.
 
@@ -424,7 +418,7 @@ The largest indoor gathering space on Jardin.
 
 ---
 
-## Market of a Thousand Worlds
+### Market of a Thousand Worlds
 
 A sprawling commercial district.
 
@@ -434,7 +428,7 @@ One of the best places on Jardin to find something unusual.
 
 ---
 
-## The People's Conservatory
+### The People's Conservatory
 
 A vast indoor park.
 
@@ -448,7 +442,7 @@ Many residents visit simply to experience something resembling nature.
 
 ---
 
-## The Arcology Museum
+### The Arcology Museum
 
 Documents the history of Rousseau and urban development throughout the Confederation.
 
@@ -458,7 +452,7 @@ Not popular with schoolchildren.
 
 ---
 
-# Security
+## Security
 
 Public security is maintained by:
 
@@ -474,7 +468,7 @@ The Shadows are not.
 
 ---
 
-# Criminal Activity
+## Criminal Activity
 
 Despite government claims, Rousseau possesses a substantial underworld.
 
@@ -490,7 +484,7 @@ Most criminal activity occurs within The Shadows.
 
 ---
 
-# The Jardin Syndicate
+## The Jardin Syndicate
 
 The arcology serves as the primary operational center of the Jardin Syndicate.
 
@@ -512,9 +506,9 @@ The Syndicate's unofficial slogan is frequently heard in the Shadows:
 
 ---
 
-# Notable Individuals
+## Notable Individuals
 
-## Adrien Pelletier
+### [[Adrien Pelletier]]
 
 **Governor of Rousseau**
 
@@ -522,7 +516,7 @@ A dedicated administrator who genuinely believes the arcology represents humanit
 
 ---
 
-## Nadia Giroux
+### [[Nadia Giroux]]
 
 **Investigative Journalist**
 
@@ -534,7 +528,7 @@ Frequently ignores them.
 
 ---
 
-## Sister Celeste Moreau
+### [[Sister Celeste Moreau]]
 
 **Community Organizer**
 
@@ -544,7 +538,7 @@ Widely respected by residents.
 
 ---
 
-## Jacques Martin
+### [[Jacques Martin]]
 
 **Business Executive**
 
@@ -554,7 +548,7 @@ Unofficially rumored to maintain extensive connections within the Jardin Syndica
 
 ---
 
-# Public Opinion
+## Public Opinion
 
 Government officials point to Rousseau as proof of the success of Solomani planning.
 
@@ -564,21 +558,21 @@ They simply disagree about why.
 
 ---
 
-# Rumors
+## Rumors
 
-## The Lost Levels
+### The Lost Levels
 
 Entire districts sealed during construction still exist beneath the arcology.
 
 ---
 
-## The Hidden Registry
+### The Hidden Registry
 
 An illegal copy of citizen records exists somewhere within The Shadows.
 
 ---
 
-## The Shepherd's Court
+### The Shepherd's Court
 
 Marcel Delphine allegedly maintains a hidden residence somewhere inside Rousseau.
 
@@ -586,7 +580,7 @@ No one agrees where.
 
 ---
 
-## The Ghost Transit Line
+### The Ghost Transit Line
 
 A maglev route appears on no official maps but continues to operate.
 
@@ -594,7 +588,7 @@ Passengers report reaching destinations that should not exist.
 
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### The Missing Citizen
 
@@ -630,7 +624,7 @@ A child disappears into the unregistered sections of the arcology.
 
 Finding them requires entering places that officially do not exist.
 
-## Session 1 Notes
+### Session 1 Notes
 
 The player characters live in the Rousseau arcology, though on different floors, classes, elevators, and routines. After the [[Mercier Assassination]], a driverless grav speeder returned toward their home but used waste-disposal access rather than a public entrance.
 
@@ -639,7 +633,7 @@ The vehicle entered hidden service routes beneath the arcology. [[Victor Mendes 
 ---
 :::gm
 
-# Referee Notes
+## Referee Notes
 
 Rousseau should feel alive.
 
@@ -661,7 +655,4 @@ Most campaigns set on Jardin will eventually spend more time here than anywhere 
 
 The arcology is large enough to contain an entire campaign by itself.
 
-
-:::gm
-GM-only truth goes here.
 :::

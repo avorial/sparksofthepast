@@ -14,57 +14,8 @@ lastEditedBy: patricthomas
 parent: Jardin
 ---
 
-## Contents
-
-- [Saint Liberty Quarter](#saint-liberty-quarter)
-- [Overview](#overview)
-- [First Impressions](#first-impressions)
-- [History](#history)
-  - [The Port Expansion](#the-port-expansion)
-  - [The Arcology Connection](#the-arcology-connection)
-  - [Modern Era](#modern-era)
-- [Architecture](#architecture)
-- [Atmosphere](#atmosphere)
-- [Major Districts](#major-districts)
-  - [Neon Row](#neon-row)
-  - [Market des Étoiles](#market-des-toiles)
-    - [Star Market](#star-market)
-  - [The Rainwalks](#the-rainwalks)
-  - [Lantern Quarter](#lantern-quarter)
-  - [Foundry Ward](#foundry-ward)
-- [Commerce](#commerce)
-- [The Data Markets](#the-data-markets)
-- [Nightlife](#nightlife)
-- [The Syndicate Presence](#the-syndicate-presence)
-- [Social Solidarity Presence](#social-solidarity-presence)
-- [Crime](#crime)
-- [Notable Locations](#notable-locations)
-  - [The Azure Dragon](#the-azure-dragon)
-  - [Liberty Station](#liberty-station)
-  - [The Holo Gardens](#the-holo-gardens)
-  - [The Crescent Market](#the-crescent-market)
-- [Notable Individuals](#notable-individuals)
-  - [Marcel Delphine](#marcel-delphine)
-  - [Colette Moreau](#colette-moreau)
-  - [Lucien Roche](#lucien-roche)
-  - [Inspector Adrien Martin](#inspector-adrien-martin)
-- [Public Reputation](#public-reputation)
-- [Rumors](#rumors)
-  - [The Hidden Exchange](#the-hidden-exchange)
-  - [The Shepherd's Court](#the-shepherd-s-court)
-  - [Ghost Towers](#ghost-towers)
-  - [The Black Ledger](#the-black-ledger)
-- [Adventure Hooks](#adventure-hooks)
-    - [Missing Courier](#missing-courier)
-    - [Syndicate Arbitration](#syndicate-arbitration)
-    - [The Hidden Market](#the-hidden-market)
-    - [Corporate Heist](#corporate-heist)
-    - [Ghost Tower](#ghost-tower)
-    - [The Shepherd's Invitation](#the-shepherd-s-invitation)
-- [Referee Notes](#referee-notes)
-
 # Quartier Sainte-Liberté
-# Saint Liberty Quarter
+*Saint Liberty Quarter*
 
 *"Everyone Belongs Somewhere."*
 
@@ -92,7 +43,53 @@ parent: Jardin
 
 ---
 
-# Overview
+## Contents
+
+- [Overview](#overview)
+- [First Impressions](#first-impressions)
+- [History](#history)
+  - [The Port Expansion](#the-port-expansion)
+  - [The Arcology Connection](#the-arcology-connection)
+  - [Modern Era](#modern-era)
+- [Architecture](#architecture)
+- [Atmosphere](#atmosphere)
+- [Major Districts](#major-districts)
+  - [Neon Row](#neon-row)
+  - [Market des Étoiles](#market-des-toiles)
+  - [The Rainwalks](#the-rainwalks)
+  - [Lantern Quarter](#lantern-quarter)
+  - [Foundry Ward](#foundry-ward)
+- [Commerce](#commerce)
+- [The Data Markets](#the-data-markets)
+- [Nightlife](#nightlife)
+- [The Syndicate Presence](#the-syndicate-presence)
+- [Social Solidarity Presence](#social-solidarity-presence)
+- [Crime](#crime)
+- [Notable Locations](#notable-locations)
+  - [The Azure Dragon](#the-azure-dragon)
+  - [Liberty Station](#liberty-station)
+  - [The Holo Gardens](#the-holo-gardens)
+  - [The Crescent Market](#the-crescent-market)
+- [Notable Individuals](#notable-individuals)
+  - [Marcel Delphine](#marcel-delphine)
+  - [Colette Moreau](#colette-moreau)
+  - [Lucien Roche](#lucien-roche)
+  - [Inspector Adrien Martin](#inspector-adrien-martin)
+- [Public Reputation](#public-reputation)
+- [Rumors](#rumors)
+  - [The Hidden Exchange](#the-hidden-exchange)
+  - [The Shepherd's Court](#the-shepherd-s-court)
+  - [Ghost Towers](#ghost-towers)
+  - [The Black Ledger](#the-black-ledger)
+- [Adventure Hooks](#adventure-hooks)
+  - [Missing Courier](#missing-courier)
+  - [Syndicate Arbitration](#syndicate-arbitration)
+  - [The Hidden Market](#the-hidden-market)
+  - [Corporate Heist](#corporate-heist)
+  - [Ghost Tower](#ghost-tower)
+  - [The Shepherd's Invitation](#the-shepherd-s-invitation)
+
+## Overview
 
 The **Quartier Sainte-Liberté** is the most vibrant, chaotic, and controversial district on Jardin.
 
@@ -125,7 +122,7 @@ Many visitors compare it to stepping into another world.
 
 ---
 
-# First Impressions
+## First Impressions
 
 Sainte-Liberté assaults the senses.
 
@@ -152,9 +149,9 @@ Sainte-Liberté is what happens when millions of people improvise.
 
 ---
 
-# History
+## History
 
-## The Port Expansion
+### The Port Expansion
 
 The district originated as worker housing supporting the expansion of Port Sainte-Jeanne.
 
@@ -172,7 +169,7 @@ Over time these populations created their own communities.
 
 ---
 
-## The Arcology Connection
+### The Arcology Connection
 
 When Rousseau expanded, elevated transit corridors linked the district directly to the arcology.
 
@@ -188,7 +185,7 @@ The district became the unofficial social capital of the city.
 
 ---
 
-## Modern Era
+### Modern Era
 
 Today Sainte-Liberté occupies a unique position.
 
@@ -202,7 +199,7 @@ At least not completely.
 
 ---
 
-# Architecture
+## Architecture
 
 The district is characterized by:
 
@@ -228,7 +225,7 @@ The skyline is dominated by holographic advertising and elevated transportation 
 
 ---
 
-# Atmosphere
+## Atmosphere
 
 The district feels unlike anywhere else on Jardin.
 
@@ -250,9 +247,9 @@ Or hide from them.
 
 ---
 
-# Major Districts
+## Major Districts
 
-## Neon Row
+### Neon Row
 
 The entertainment heart of Sainte-Liberté.
 
@@ -268,8 +265,8 @@ Bright enough to be visible from orbit.
 
 ---
 
-## Market des Étoiles
-### Star Market
+### Market des Étoiles
+*Star Market*
 
 The largest open commercial market on Jardin.
 
@@ -279,7 +276,7 @@ If you cannot find it in the Star Market, it probably does not exist.
 
 ---
 
-## The Rainwalks
+### The Rainwalks
 
 A maze of elevated pedestrian pathways.
 
@@ -295,7 +292,7 @@ Also popular with pickpockets.
 
 ---
 
-## Lantern Quarter
+### Lantern Quarter
 
 One of the oldest neighborhoods in the city.
 
@@ -309,7 +306,7 @@ Remarkably resistant to redevelopment.
 
 ---
 
-## Foundry Ward
+### Foundry Ward
 
 Industrial-commercial district.
 
@@ -324,7 +321,7 @@ Many independent technicians operate here.
 
 ---
 
-# Commerce
+## Commerce
 
 The district hosts millions of independent businesses.
 
@@ -339,7 +336,7 @@ The economy is dynamic, unpredictable, and difficult to regulate.
 
 ---
 
-# The Data Markets
+## The Data Markets
 
 One of the district's most unusual features.
 
@@ -358,7 +355,7 @@ Most.
 
 ---
 
-# Nightlife
+## Nightlife
 
 The district's nightlife is legendary.
 
@@ -373,7 +370,7 @@ Many establishments remain open twenty-four hours a day.
 
 ---
 
-# The Syndicate Presence
+## The Syndicate Presence
 
 The Jardin Syndicate maintains extensive influence throughout Sainte-Liberté.
 
@@ -390,7 +387,7 @@ Publicly, they would never admit this.
 
 ---
 
-# Social Solidarity Presence
+## Social Solidarity Presence
 
 The Ministry maintains numerous offices throughout the district.
 
@@ -404,7 +401,7 @@ This frustrates some officials.
 
 ---
 
-# Crime
+## Crime
 
 Common criminal activity includes:
 
@@ -420,9 +417,9 @@ The Syndicate has strong incentives to keep business stable.
 
 ---
 
-# Notable Locations
+## Notable Locations
 
-## The Azure Dragon
+### The Azure Dragon
 
 Most famous restaurant in the district.
 
@@ -430,7 +427,7 @@ A favored meeting place for merchants and smugglers alike.
 
 ---
 
-## Liberty Station
+### Liberty Station
 
 Largest transit hub in Sainte-Liberté.
 
@@ -438,13 +435,13 @@ More than two million passengers pass through daily.
 
 ---
 
-## The Holo Gardens
+### The Holo Gardens
 
 An entertainment complex combining public parks and holographic art installations.
 
 ---
 
-## The Crescent Market
+### The Crescent Market
 
 The largest night market on Jardin.
 
@@ -454,9 +451,9 @@ Never entirely closes.
 
 ---
 
-# Notable Individuals
+## Notable Individuals
 
-## Marcel Delphine
+### [[Marcel Delphine]]
 
 **The Shepherd**
 
@@ -464,7 +461,7 @@ Although he officially does not live here, many believe Sainte-Liberté is the t
 
 ---
 
-## Colette Moreau
+### [[Colette Moreau]]
 
 **President, Liberty Merchants Association**
 
@@ -472,7 +469,7 @@ One of the most influential civilian leaders in the district.
 
 ---
 
-## Lucien Roche
+### [[Lucien Roche]]
 
 **Information Broker**
 
@@ -482,7 +479,7 @@ For the right price.
 
 ---
 
-## Inspector Adrien Martin
+### [[Inspector Adrien Martin]]
 
 **Social Solidarity Liaison**
 
@@ -492,7 +489,7 @@ His job is extremely difficult.
 
 ---
 
-# Public Reputation
+## Public Reputation
 
 Citizens from elsewhere on Jardin often describe Sainte-Liberté as:
 
@@ -506,9 +503,9 @@ Residents generally consider this a compliment.
 
 ---
 
-# Rumors
+## Rumors
 
-## The Hidden Exchange
+### The Hidden Exchange
 
 A secret market exists beneath the district where anything can be bought.
 
@@ -516,19 +513,19 @@ Anything.
 
 ---
 
-## The Shepherd's Court
+### The Shepherd's Court
 
 A hidden meeting place where disputes are resolved under Syndicate protection.
 
 ---
 
-## Ghost Towers
+### Ghost Towers
 
 Several abandoned towers supposedly contain forgotten infrastructure dating back centuries.
 
 ---
 
-## The Black Ledger
+### The Black Ledger
 
 Evidence exists proving corruption among major officials.
 
@@ -536,7 +533,7 @@ Numerous organizations are searching for it.
 
 ---
 
-# Adventure Hooks
+## Adventure Hooks
 
 ### Missing Courier
 
@@ -568,7 +565,7 @@ Only a time.
 
 ---
 :::gm
-# Referee Notes
+## Referee Notes
 
 Sainte-Liberté should feel like the one place on Jardin where control becomes difficult.
 
@@ -595,5 +592,4 @@ Where the Syndicate thrives.
 If the rest of Jardin feels like a carefully designed machine, Sainte-Liberté should feel like humanity leaking out through the cracks.
 
 
-GM-only truth goes here.
 :::

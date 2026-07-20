@@ -32,18 +32,109 @@
       "Dan-Araujo-Josh",
       "Identity-Veils",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Timeline",
       "Timeline",
       "Varian-Svazz-Allen"
     ],
     "keyLinks": [],
     "excerpt": "# 0-31 Saichi Maru (Annette) *Security Walker Robot* **Designation:** 0-31 Saichi Maru | **Type:** Size 5 walker robot | **TL:** 12+ | **Status:** Active | **Owner:** Annette ![0-31 Saichi Maru portrait](/wiki/media/Saichi-Maru-HEAD.png) | Field | Value | | ----- | ----- | | Designation | 0-31 Saich"
+  },
+  {
+    "id": "3:Admiral-Henri-Duval",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Admiral-Henri-Duval",
+    "title": "Admiral Henri Duval",
+    "category": "npc",
+    "summary": "Commander, Jardin Naval Command at Fort Robespierre Naval Annex.",
+    "tags": [
+      "npc",
+      "military",
+      "navy"
+    ],
+    "aliases": [
+      "Henri Duval"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Fort Robespierre Naval Annex"
+    ],
+    "backlinks": [
+      "Fort-Robespierre-Naval-Annex"
+    ],
+    "keyLinks": [
+      "[[Fort Robespierre Naval Annex]]"
+    ],
+    "excerpt": "# Admiral Henri Duval *Commander, Jardin Naval Command* ## Overview Admiral Henri Duval commands Jardin Naval Command from the [[Fort Robespierre Naval Annex]] and is the senior naval officer assigned to the system. A strong advocate for expanding naval power across the Solomani Front, he sits at th"
+  },
+  {
+    "id": "3:Adrien-Pelletier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Adrien-Pelletier",
+    "title": "Adrien Pelletier",
+    "category": "npc",
+    "summary": "Governor of Rousseau at Arcosphere Rousseau.",
+    "tags": [
+      "npc",
+      "government",
+      "administration"
+    ],
+    "aliases": [
+      "Governor Pelletier"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Arcosphere Rousseau"
+    ],
+    "backlinks": [
+      "Arcosphere-Rousseau"
+    ],
+    "keyLinks": [
+      "[[Arcosphere Rousseau]]"
+    ],
+    "excerpt": "# Adrien Pelletier *Governor of Rousseau* ## Overview Adrien Pelletier governs the Arcosphère Rousseau, the largest single structure on Jardin and home to nearly two billion permanent residents. A dedicated administrator, he genuinely believes the arcology is a working model of humanity's future and"
+  },
+  {
+    "id": "3:Agent-Luc-Deschamps",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Agent-Luc-Deschamps",
+    "title": "Agent Luc Deschamps",
+    "category": "npc",
+    "summary": "SolSec Liaison Officer at Customs & Immigration Checkpoint Harmony.",
+    "tags": [
+      "npc",
+      "intelligence",
+      "solsec"
+    ],
+    "aliases": [
+      "Luc Deschamps"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "SolSec",
+      "Customs & Immigration Checkpoint Harmony",
+      "Social Solidarity"
+    ],
+    "backlinks": [
+      "Customs-Immigration-Checkpoint-Harmony"
+    ],
+    "keyLinks": [
+      "[[Customs & Immigration Checkpoint Harmony]]",
+      "[[SolSec]]",
+      "[[Social Solidarity]]"
+    ],
+    "excerpt": "# Agent Luc Deschamps *SolSec Liaison Officer* ## Overview Agent Luc Deschamps is the [[SolSec]] liaison officer at [[Customs & Immigration Checkpoint Harmony]], officially responsible for interagency coordination and unofficially responsible for a good deal more. As the Solomani security service's "
   },
   {
     "id": "3:Alain-Mercier",
@@ -72,20 +163,22 @@
       "Mercier Genetic Findings"
     ],
     "backlinks": [
+      "Campaign",
+      "Dr-Sophie-Delacroix",
       "False-News-Broadcast",
       "Friday-Party-Congress-Hearing",
+      "Hall-des-Futurs-Choisis",
       "Inspector-Marc-Valois",
       "Jardin-Syndicate",
       "Judith-Dumont-Carla",
+      "Le-Palais-de-Continuit",
+      "Leo-Duprey",
       "Marcel-Delphine",
-      "Marcel-Delphine",
-      "Mercier-Assassination",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
       "Mercier-Genetic-Findings",
       "Merciers-Locked-Pad",
-      "Merciers-Locked-Pad",
-      "Session-1-Official-Business",
+      "Quartier-Danton",
       "Session-1-Official-Business",
       "Social-Solidarity",
       "Timeline",
@@ -94,6 +187,73 @@
     ],
     "keyLinks": [],
     "excerpt": "# Alain Mercier ## Basic Information **Full Name:** Alain Étienne Mercier **Species:** Human (Solomani) **Citizenship:** Solomani Confederation (Jardin) **Birth Year:** 1061 **Birthplace:** Nouvelle Sainte-Jeanne, Jardin **Occupation:** Minister of Genetics, Government of Jardin **Political Affiliat"
+  },
+  {
+    "id": "3:Amelia-Torres",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Amelia-Torres",
+    "title": "Amelia Torres",
+    "category": "npc",
+    "summary": "Special Projects Coordinator at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "intelligence"
+    ],
+    "aliases": [
+      "Torres"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar",
+      "SolSec"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]",
+      "[[SolSec]]"
+    ],
+    "excerpt": "# Amelia Torres *Special Projects Coordinator* ## Overview Amelia Torres is [[Transstar]]'s Special Projects Coordinator, officially overseeing strategic transportation initiatives that no one can quite define. She appears whenever [[SolSec]] becomes involved, Party officials travel, or sensitive ca"
+  },
+  {
+    "id": "3:Antoine-Mercier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Antoine-Mercier",
+    "title": "Antoine Mercier",
+    "category": "npc",
+    "summary": "Executive Director, Solomani Front Operations at Transstar Sector Exchange.",
+    "tags": [
+      "npc",
+      "corporate",
+      "transstar"
+    ],
+    "aliases": [
+      "Antoine Mercier"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar",
+      "Transstar Sector Exchange"
+    ],
+    "backlinks": [
+      "Transstar-Sector-Exchange"
+    ],
+    "keyLinks": [
+      "[[Transstar Sector Exchange]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Antoine Mercier *Executive Director, Solomani Front Operations* ## Overview Antoine Mercier is Executive Director of Solomani Front Operations for [[Transstar]] and the most powerful Transstar executive on Jardin. He is frequently rumored to wield more real influence than several planetary ministe"
   },
   {
     "id": "3:Arcosphere-Rousseau",
@@ -106,22 +266,68 @@
     "tags": [
       "location"
     ],
-    "aliases": [],
+    "aliases": [
+      "Rousseau Arcology",
+      "Rousseau"
+    ],
     "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
+    "links": [
+      "Adrien Pelletier",
+      "Nadia Giroux",
+      "Sister Celeste Moreau",
+      "Jacques Martin",
+      "Mercier Assassination",
+      "Victor Mendes (Steinbach)"
+    ],
     "backlinks": [
+      "Adrien-Pelletier",
+      "Jacques-Martin",
       "Jardin",
       "Jardin-Syndicate",
       "Marcel-Delphine",
+      "Marcel-Delphine",
+      "Nadia-Giroux",
+      "Sister-Celeste-Moreau",
       "Timeline",
       "Victor-Mendes-Steinbach"
     ],
     "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Arcosphère Rousseau ## Rousseau Arcology **Location:** Central Nouvelle Sainte-Jeanne, Jardin **Type:** Urban Arcology, Residential Megastructure, Commercial Hub **Administrative Authority:** Arcology Administration Directorate **Governor:** Adrien Pelletier **Population:** 1.8 Billion Permanent R"
+    "excerpt": "# Arcosphère Rousseau *Rousseau Arcology* **Location:** Central Nouvelle Sainte-Jeanne, Jardin **Type:** Urban Arcology, Residential Megastructure, Commercial Hub **Administrative Authority:** Arcology Administration Directorate **Governor:** Adrien Pelletier **Population:** 1.8 Billion Permanent Re"
+  },
+  {
+    "id": "3:Armand-Rousselet",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Armand-Rousselet",
+    "title": "Armand Rousselet",
+    "category": "npc",
+    "summary": "Senior Customs Liaison at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "customs"
+    ],
+    "aliases": [
+      "Rousselet"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Armand Rousselet *Senior Customs Liaison* ## Overview Armand Rousselet is [[Transstar]]'s Senior Customs Liaison, working the seam between the company and Jardin's customs authorities. Thirty years of finding legal solutions to impossible problems have earned him the hatred of many smugglers and t"
   },
   {
     "id": "3:Campaign",
@@ -149,12 +355,54 @@
       "Varian Svazz (Allen)",
       "Victor Mendes (Steinbach)",
       "Zoy (Damon)",
-      "NPC",
+      "Alain Mercier",
+      "Marcel Delphine",
+      "Identity Veils",
+      "Leo Duprey",
+      "Le Palais de Continuité",
+      "Chief Helene Marchand",
+      "Elena Verona",
+      "Inspector Marc Valois",
       "Table Rules"
     ],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Sparks From the Past Welcome to the campaign hub for **Sparks From the Past**. This wiki contains the campaign setting, session notes, player characters, NPCs, locations, handouts, and world lore. If it has happened in the game, it belongs here. --- ## Campaign Overview The year is **1105 Imperial"
+  },
+  {
+    "id": "3:Captain-Victor-Mendes",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Captain-Victor-Mendes",
+    "title": "Captain Victor Mendes",
+    "category": "npc",
+    "summary": "Senior Transstar Freight Captain at Port Sainte-Jeanne Downport.",
+    "tags": [
+      "npc",
+      "corporate",
+      "transstar",
+      "spacer"
+    ],
+    "aliases": [
+      "Victor Mendes (freight captain)"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Port Sainte-Jeanne Downport",
+      "Transstar"
+    ],
+    "backlinks": [
+      "Port-Sainte-Jeanne-Downport",
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Port Sainte-Jeanne Downport]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Captain Victor Mendes *Senior Transstar Freight Captain* ## Overview Captain Victor Mendes is a respected merchant captain known throughout the [[Port Sainte-Jeanne Downport]] community and a senior freight captain for [[Transstar]]. A former Confederation Navy petty officer, he now commands the f"
   },
   {
     "id": "3:Carlos",
@@ -217,8 +465,6 @@
       "Carlos",
       "Friday-Party-Congress-Hearing",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
@@ -250,17 +496,19 @@
       "Identity Veils"
     ],
     "backlinks": [
+      "Campaign",
       "Dan-Araujo-Josh",
+      "Etienne-Marchand",
       "Identity-Veils",
+      "Le-Palais-de-Continuit",
+      "Les-Jardins-Ferm-s",
       "Lucin",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Timeline"
     ],
     "keyLinks": [
       "[[Lucin]]",
-      "[[Les Jardins Fermes]]"
+      "[[Les Jardins Fermés]]"
     ],
     "excerpt": "# Chief Helene Marchand ## Overview Chief Helene Marchand is identified by a gold plaque as Chief of Staff of the President. During [[Session 2 - Masks and Markers]], the group delivered Lucin's crate to a secured residence bearing her name. ## Session 2 The group arrived at Marchand's address on Lu"
   },
@@ -290,12 +538,234 @@
       "Campaign",
       "Mercier-Assassination",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
     "excerpt": "# Ciernan Seanislav (Peter) ![Ciernan Seanislav portrait](/wiki/media/Ciernan-Seanislav.png) *Solomani Racial • Merchant: Merchant Marine* **Player:** Peter **Age:** 30 **Species:** Solomani Racial **Gender:** Unknown **UPP:** STR 11, DEX 8, END 12, INT 6, EDU 8, SOC 8 **Hits:** 31 **Armour:** Cloth"
+  },
+  {
+    "id": "3:Claire-Bouchard",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Claire-Bouchard",
+    "title": "Claire Bouchard",
+    "category": "npc",
+    "summary": "Highport Operations Manager at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "transstar"
+    ],
+    "aliases": [
+      "Bouchard"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Claire Bouchard *Highport Operations Manager* ## Overview Claire Bouchard manages Highport operations for [[Transstar]] at Port Sainte-Jeanne, coordinating thousands of arrivals and departures every week. She has a reputation for absolute efficiency: nothing surprises her, nothing delays her, and "
+  },
+  {
+    "id": "3:Colette-Moreau",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Colette-Moreau",
+    "title": "Colette Moreau",
+    "category": "npc",
+    "summary": "President, Liberty Merchants Association at Quartier Sainte-Liberté.",
+    "tags": [
+      "npc",
+      "civic",
+      "business"
+    ],
+    "aliases": [
+      "Colette Moreau"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Quartier Sainte-Liberté",
+      "Jardin Syndicate"
+    ],
+    "backlinks": [
+      "Quartier-Sainte-Libert"
+    ],
+    "keyLinks": [
+      "[[Quartier Sainte-Liberté]]",
+      "[[Jardin Syndicate]]"
+    ],
+    "excerpt": "# Colette Moreau *President, Liberty Merchants Association* ## Overview Colette Moreau presides over the Liberty Merchants Association and is one of the most influential civilian leaders in [[Quartier Sainte-Liberté]], the capital's neon-lit entertainment and data-market district. She speaks for the"
+  },
+  {
+    "id": "3:Colonel-Victor-Almeida",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Colonel-Victor-Almeida",
+    "title": "Colonel Victor Almeida",
+    "category": "npc",
+    "summary": "Commandant, Mech Combat Academy at Fort Robespierre Naval Annex.",
+    "tags": [
+      "npc",
+      "military",
+      "mech"
+    ],
+    "aliases": [
+      "Victor Almeida"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Fort Robespierre Naval Annex"
+    ],
+    "backlinks": [
+      "Fort-Robespierre-Naval-Annex"
+    ],
+    "keyLinks": [
+      "[[Fort Robespierre Naval Annex]]"
+    ],
+    "excerpt": "# Colonel Victor Almeida *Commandant, Mech Combat Academy* ## Overview Colonel Victor Almeida is Commandant of the Mech Combat Academy at the [[Fort Robespierre Naval Annex]] and one of the Confederation's foremost experts on walker warfare. A hero among mech pilots, he trains the crews who operate "
+  },
+  {
+    "id": "3:Commander-Lucien-Marchand",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Commander-Lucien-Marchand",
+    "title": "Commander Lucien Marchand",
+    "category": "npc",
+    "summary": "Director, Orbital Transfer Operations at Fort Robespierre Naval Annex.",
+    "tags": [
+      "npc",
+      "military",
+      "logistics"
+    ],
+    "aliases": [
+      "Lucien Marchand"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Fort Robespierre Naval Annex"
+    ],
+    "backlinks": [
+      "Fort-Robespierre-Naval-Annex"
+    ],
+    "keyLinks": [
+      "[[Fort Robespierre Naval Annex]]"
+    ],
+    "excerpt": "# Commander Lucien Marchand *Director, Orbital Transfer Operations* ## Overview Commander Lucien Marchand directs Orbital Transfer Operations at the [[Fort Robespierre Naval Annex]], controlling military movement between Jardin's surface and orbit. Few officers shape daily operations more, because n"
+  },
+  {
+    "id": "3:Commander-Sophie-Durand",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Commander-Sophie-Durand",
+    "title": "Commander Sophie Durand",
+    "category": "npc",
+    "summary": "Port Security Directorate at Port Sainte-Jeanne Downport.",
+    "tags": [
+      "npc",
+      "security",
+      "law"
+    ],
+    "aliases": [
+      "Sophie Durand"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Port Sainte-Jeanne Downport",
+      "Jardin Syndicate"
+    ],
+    "backlinks": [
+      "Port-Sainte-Jeanne-Downport"
+    ],
+    "keyLinks": [
+      "[[Port Sainte-Jeanne Downport]]",
+      "[[Jardin Syndicate]]"
+    ],
+    "excerpt": "# Commander Sophie Durand *Port Security Directorate* ## Overview Commander Sophie Durand of the Port Security Directorate is a veteran investigator known for her relentless pursuit of organized crime at [[Port Sainte-Jeanne Downport]]. The downport is the [[Jardin Syndicate]]'s favorite seam — wher"
+  },
+  {
+    "id": "3:Commissioner-Elise-Martin",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Commissioner-Elise-Martin",
+    "title": "Commissioner Elise Martin",
+    "category": "npc",
+    "summary": "Directorate of Citizen Integrity at Customs & Immigration Checkpoint Harmony.",
+    "tags": [
+      "npc",
+      "security",
+      "government"
+    ],
+    "aliases": [
+      "Elise Martin"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Social Solidarity",
+      "Customs & Immigration Checkpoint Harmony"
+    ],
+    "backlinks": [
+      "Customs-Immigration-Checkpoint-Harmony"
+    ],
+    "keyLinks": [
+      "[[Customs & Immigration Checkpoint Harmony]]",
+      "[[Social Solidarity]]"
+    ],
+    "excerpt": "# Commissioner Elise Martin *Directorate of Citizen Integrity* ## Overview Commissioner Elise Martin coordinates [[Social Solidarity]] operations within [[Customs & Immigration Checkpoint Harmony]] through its Directorate of Citizen Integrity. Where the customs officers watch cargo and papers, Marti"
+  },
+  {
+    "id": "3:Commissioner-Isabelle-Fournier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Commissioner-Isabelle-Fournier",
+    "title": "Commissioner Isabelle Fournier",
+    "category": "npc",
+    "summary": "Chief Commissioner, Exchange Security Bureau at Transstar Sector Exchange.",
+    "tags": [
+      "npc",
+      "security",
+      "corporate"
+    ],
+    "aliases": [
+      "Isabelle Fournier (Exchange Security)"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar Sector Exchange"
+    ],
+    "backlinks": [
+      "Transstar-Sector-Exchange"
+    ],
+    "keyLinks": [
+      "[[Transstar Sector Exchange]]"
+    ],
+    "excerpt": "# Commissioner Isabelle Fournier *Chief Commissioner, Exchange Security Bureau* ## Overview Commissioner Isabelle Fournier heads the Exchange Security Bureau, the corporate police force of the [[Transstar Sector Exchange]]. She is respected, feared, and — according to official statements — incorrupt"
   },
   {
     "id": "3:Cr-che-District-14",
@@ -313,10 +783,17 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
-    "backlinks": [],
+    "links": [
+      "Director Elise Fournier",
+      "Mentor Jean Mercier",
+      "Dr. Amelie Rousseau"
+    ],
+    "backlinks": [
+      "Director-Elise-Fournier",
+      "Dr-Amelie-Rousseau",
+      "Mentor-Jean-Mercier"
+    ],
     "keyLinks": [],
-    "parent": "Jardin",
     "excerpt": "# Crèche District 14 *\"Every Child, A Future.\"* **Location:** Eastern Nouvelle Sainte-Jeanne **Type:** State Child Development Arcology **Administrative Authority:** Directorate of Child Development **Status:** Active **Population:** 1.2 Million Children **Staff:** 180,000 Educators, Medical Personn"
   },
   {
@@ -335,11 +812,20 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
-    "backlinks": [],
+    "links": [
+      "Director Simone Laurent",
+      "Inspector Gabriel Rousseau",
+      "Commissioner Elise Martin",
+      "Agent Luc Deschamps"
+    ],
+    "backlinks": [
+      "Agent-Luc-Deschamps",
+      "Commissioner-Elise-Martin",
+      "Director-Simone-Laurent",
+      "Inspector-Gabriel-Rousseau"
+    ],
     "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Customs & Immigration Checkpoint Harmony # Poste d'Harmonie Frontalière *\"Every Arrival Matters.\"* **Location:** Port Sainte-Jeanne Downport **Type:** Customs and Immigration Processing Complex **Administrative Authority:** Directorate of Citizen Integrity **Operational Control:** Ministry of Soci"
+    "excerpt": "# Customs & Immigration Checkpoint Harmony *Poste d'Harmonie Frontalière* *\"Every Arrival Matters.\"* **Location:** Port Sainte-Jeanne Downport **Type:** Customs and Immigration Processing Complex **Administrative Authority:** Directorate of Citizen Integrity **Operational Control:** Ministry of Soci"
   },
   {
     "id": "3:Dan-Araujo-Josh",
@@ -361,18 +847,238 @@
       "Mercier Assassination",
       "0-31 Saichi Maru (Annette)",
       "Lucin",
-      "Les Jardins Fermes",
+      "Les Jardins Fermés",
       "Chief Helene Marchand"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Campaign",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
     "excerpt": "# Dan Araujo (Josh) ![Dan Araujo portrait](/wiki/media/Dan-Araujo.png) *Solomani Racial • Confederation Navy: Technical* **Player:** Josh **Age:** 34 **Species:** Solomani Racial **Gender:** Male **UPP:** STR 7, DEX 12, END 8, INT 14, EDU 12, SOC 12 **Hits:** 25 **Armour:** Cloth (TL10), Protection "
+  },
+  {
+    "id": "3:Director-Elise-Fournier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Director-Elise-Fournier",
+    "title": "Director Elise Fournier",
+    "category": "npc",
+    "summary": "Administrator of District 14 at Crèche District 14.",
+    "tags": [
+      "npc",
+      "government",
+      "education"
+    ],
+    "aliases": [
+      "Elise Fournier",
+      "The Mother of a Million"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Crèche District 14"
+    ],
+    "backlinks": [
+      "Cr-che-District-14"
+    ],
+    "keyLinks": [
+      "[[Crèche District 14]]"
+    ],
+    "excerpt": "# Director Elise Fournier *Administrator of District 14* ## Overview Director Elise Fournier administers [[Crèche District 14]], one of the state creche districts where Jardin raises children communally under the Perfection System. Widely respected and known across the world as \"the Mother of a Mill"
+  },
+  {
+    "id": "3:Director-General-Camille-Fournier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Director-General-Camille-Fournier",
+    "title": "Director-General Camille Fournier",
+    "category": "npc",
+    "summary": "Head of the Ministry of Social Solidarity.",
+    "tags": [
+      "npc",
+      "government",
+      "security"
+    ],
+    "aliases": [
+      "Camille Fournier"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Social Solidarity",
+      "Leo Duprey"
+    ],
+    "backlinks": [
+      "Social-Solidarity"
+    ],
+    "keyLinks": [
+      "[[Social Solidarity]]",
+      "[[Leo Duprey]]"
+    ],
+    "excerpt": "# Director-General Camille Fournier *Head of the Ministry of Social Solidarity* ## Overview Director-General Camille Fournier is the current head of the Ministry of [[Social Solidarity]], Jardin's internal security and social-management apparatus. A career administrator and loyal supporter of the Pe"
+  },
+  {
+    "id": "3:Director-Luc-Beaumont",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Director-Luc-Beaumont",
+    "title": "Director Luc Beaumont",
+    "category": "npc",
+    "summary": "Port Authority Director at Port Sainte-Jeanne Downport.",
+    "tags": [
+      "npc",
+      "government",
+      "administration"
+    ],
+    "aliases": [
+      "Luc Beaumont"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Port Sainte-Jeanne Downport",
+      "Social Solidarity"
+    ],
+    "backlinks": [
+      "Port-Sainte-Jeanne-Downport"
+    ],
+    "keyLinks": [
+      "[[Port Sainte-Jeanne Downport]]"
+    ],
+    "excerpt": "# Director Luc Beaumont *Port Authority Director* ## Overview Director Luc Beaumont runs the Port Authority at [[Port Sainte-Jeanne Downport]], overseeing the largest transportation facility on Jardin. Pragmatic and politically skilled, he keeps cargo, passengers, and naval traffic moving through th"
+  },
+  {
+    "id": "3:Director-Simone-Laurent",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Director-Simone-Laurent",
+    "title": "Director Simone Laurent",
+    "category": "npc",
+    "summary": "Chief Administrator, Checkpoint Harmony at Customs & Immigration Checkpoint Harmony.",
+    "tags": [
+      "npc",
+      "government",
+      "customs"
+    ],
+    "aliases": [
+      "Simone Laurent"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Customs & Immigration Checkpoint Harmony"
+    ],
+    "backlinks": [
+      "Customs-Immigration-Checkpoint-Harmony"
+    ],
+    "keyLinks": [
+      "[[Customs & Immigration Checkpoint Harmony]]"
+    ],
+    "excerpt": "# Director Simone Laurent *Chief Administrator, Checkpoint Harmony* ## Overview Director Simone Laurent is Chief Administrator of [[Customs & Immigration Checkpoint Harmony]], responsible for its overall operation and known for exceptional efficiency. The checkpoint is where arrivals are sorted, ass"
+  },
+  {
+    "id": "3:Dr-Amelie-Rousseau",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Dr-Amelie-Rousseau",
+    "title": "Dr. Amelie Rousseau",
+    "category": "npc",
+    "summary": "Chief Developmental Psychologist at Crèche District 14.",
+    "tags": [
+      "npc",
+      "scientist",
+      "education"
+    ],
+    "aliases": [
+      "Amelie Rousseau"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Crèche District 14"
+    ],
+    "backlinks": [
+      "Cr-che-District-14"
+    ],
+    "keyLinks": [
+      "[[Crèche District 14]]"
+    ],
+    "excerpt": "# Dr. Amelie Rousseau *Chief Developmental Psychologist* ## Overview Dr. Amelie Rousseau is Chief Developmental Psychologist for [[Crèche District 14]], and her research shapes educational policy across Jardin. She studies how the state's communally raised children develop, and her findings feed dir"
+  },
+  {
+    "id": "3:Dr-Gabriel-Laurent",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Dr-Gabriel-Laurent",
+    "title": "Dr. Gabriel Laurent",
+    "category": "npc",
+    "summary": "Director of Xenobiology at Les Jardins Fermés.",
+    "tags": [
+      "npc",
+      "scientist",
+      "classified"
+    ],
+    "aliases": [
+      "Gabriel Laurent"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Les Jardins Fermés"
+    ],
+    "backlinks": [
+      "Les-Jardins-Ferm-s"
+    ],
+    "keyLinks": [
+      "[[Les Jardins Fermés]]"
+    ],
+    "excerpt": "# Dr. Gabriel Laurent *Director of Xenobiology* ## Overview Dr. Gabriel Laurent directs Xenobiology at [[Les Jardins Fermés]] and rarely appears in public. His work inside Dome Nine — the Xenobiological Annex — has generated considerable speculation, none of it confirmed. On a world already nervous "
+  },
+  {
+    "id": "3:Dr-Isabelle-Fournier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Dr-Isabelle-Fournier",
+    "title": "Dr. Isabelle Fournier",
+    "category": "npc",
+    "summary": "Director of Medical Botany at Les Jardins Fermés.",
+    "tags": [
+      "npc",
+      "scientist",
+      "medical"
+    ],
+    "aliases": [
+      "Isabelle Fournier (Medical Botany)"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Les Jardins Fermés"
+    ],
+    "backlinks": [
+      "Les-Jardins-Ferm-s"
+    ],
+    "keyLinks": [
+      "[[Les Jardins Fermés]]"
+    ],
+    "excerpt": "# Dr. Isabelle Fournier *Director of Medical Botany* ## Overview Dr. Isabelle Fournier directs Medical Botany at [[Les Jardins Fermés]] and is responsible for multiple breakthrough therapies drawn from the Gardens' living pharmacopeia. Her medical achievements have made her a popular public figure, "
   },
   {
     "id": "3:Dr-Luc-Moreau",
@@ -403,10 +1109,8 @@
     ],
     "backlinks": [
       "Cass-Pien-Kolb",
+      "Hall-des-Futurs-Choisis",
       "Mobile-Data-Tube",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Timeline"
     ],
@@ -416,6 +1120,73 @@
       "[[Mercier Genetic Findings]]"
     ],
     "excerpt": "# Dr. Luc Moreau ## Overview Dr. Luc Moreau is a scientist or technical researcher at the [[Hall des Futurs Choisis]]. During [[Session 2 - Masks and Markers]], the party saw him leave a secured floor looking anxious and enter a public bathroom despite presumably having access to facilities on his o"
+  },
+  {
+    "id": "3:Dr-Sophie-Delacroix",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Dr-Sophie-Delacroix",
+    "title": "Dr. Sophie Delacroix",
+    "category": "npc",
+    "summary": "Director-General of the Gardens at Les Jardins Fermés.",
+    "tags": [
+      "npc",
+      "scientist",
+      "government"
+    ],
+    "aliases": [
+      "Sophie Delacroix"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Les Jardins Fermés",
+      "Leo Duprey",
+      "Alain Mercier"
+    ],
+    "backlinks": [
+      "Les-Jardins-Ferm-s"
+    ],
+    "keyLinks": [
+      "[[Les Jardins Fermés]]",
+      "[[Leo Duprey]]",
+      "[[Alain Mercier]]"
+    ],
+    "excerpt": "# Dr. Sophie Delacroix *Director-General of the Gardens* ## Overview Dr. Sophie Delacroix is Director-General of [[Les Jardins Fermés]], the sealed biological research complex the Ministry of Genetics runs at the heart of Jardin's Perfection System. Regarded as one of the leading scientific minds in"
+  },
+  {
+    "id": "3:Elena-Kovacs",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Elena-Kovacs",
+    "title": "Elena Kovacs",
+    "category": "npc",
+    "summary": "Taj Mahal Class Purser at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "luxury"
+    ],
+    "aliases": [
+      "Kovacs"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Elena Kovacs *Taj Mahal Class Purser* ## Overview Elena Kovacs is a purser on [[Transstar]]'s Taj Mahal-class liner SS Nouvelle Aube, overseeing high-passage travel for billionaires, admirals, diplomats, and celebrities without breaking a sweat. She possesses enough overheard gossip to destabilize"
   },
   {
     "id": "3:Elena-Verona",
@@ -447,6 +1218,7 @@
       "Mercier Frame-Up"
     ],
     "backlinks": [
+      "Campaign",
       "False-News-Broadcast",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
@@ -481,7 +1253,6 @@
       "Mercier Assassination",
       "Marcel Delphine",
       "Nico Gay",
-      "Marcel Delphine",
       "Jardin Syndicate",
       "Transstar Sector Exchange",
       "Hall des Futurs Choisis",
@@ -498,10 +1269,6 @@
       "Mercier-Frame-Up",
       "Nico-Gay",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "SolSec",
       "Timeline",
@@ -509,6 +1276,72 @@
     ],
     "keyLinks": [],
     "excerpt": "# Emma Colbert (Laura) ![Emma Colbert portrait](/wiki/media/Emma-Colbert.jpg) *Solomani Racial • SolSec: Secret Agent* **Player:** Laura **Age:** 38 **Species:** Solomani Racial **Gender:** Female **UPP:** STR 7, DEX 10, END 9, INT 14, EDU 15, SOC 10 **Hits:** 24 **Armour:** Protec Suit; Cloth Trenc"
+  },
+  {
+    "id": "3:Etienne-Marchand",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Etienne-Marchand",
+    "title": "Étienne Marchand",
+    "category": "npc",
+    "summary": "Customs Commissioner at Port Sainte-Jeanne Downport.",
+    "tags": [
+      "npc",
+      "government",
+      "customs"
+    ],
+    "aliases": [
+      "Etienne Marchand"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Port Sainte-Jeanne Downport",
+      "Chief Helene Marchand"
+    ],
+    "backlinks": [
+      "Port-Sainte-Jeanne-Downport"
+    ],
+    "keyLinks": [
+      "[[Port Sainte-Jeanne Downport]]"
+    ],
+    "excerpt": "# Étienne Marchand *Customs Commissioner* ## Overview Étienne Marchand is Customs Commissioner at [[Port Sainte-Jeanne Downport]] — a nightmare for smugglers and a hero to accountants. He enforces the identity and cargo controls that make leaving Jardin directly so difficult, the very controls that "
+  },
+  {
+    "id": "3:Etienne-Moreau",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Etienne-Moreau",
+    "title": "Étienne Moreau",
+    "category": "npc",
+    "summary": "Regional Director, Jardin Subsector at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "transstar"
+    ],
+    "aliases": [
+      "Etienne Moreau"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar",
+      "SolSec"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]",
+      "[[SolSec]]"
+    ],
+    "excerpt": "# Étienne Moreau *Regional Director, Jardin Subsector* ## Overview Étienne Moreau is [[Transstar]]'s Regional Director for the Jardin Subsector and the senior Transstar executive on the ground. Polished, intelligent, and politically connected, he views transportation as the nervous system of civiliz"
   },
   {
     "id": "3:False-News-Broadcast",
@@ -563,12 +1396,21 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
+    "links": [
+      "Admiral Henri Duval",
+      "General Claire Moreau",
+      "Colonel Victor Almeida",
+      "Commander Lucien Marchand"
+    ],
     "backlinks": [
+      "Admiral-Henri-Duval",
+      "Colonel-Victor-Almeida",
+      "Commander-Lucien-Marchand",
+      "General-Claire-Moreau",
+      "Home-Guard",
       "Jardin"
     ],
     "keyLinks": [],
-    "parent": "Jardin",
     "excerpt": "# Fort Robespierre Naval Annex *\"Vigilance, Duty, Victory.\"* **Location:** Southern Coastal Military Zone, Jardin **Type:** Naval Installation and Military Training Complex **Administrative Authority:** Confederation Navy **Operational Control:** Jardin Naval Command **Status:** Active Military Faci"
   },
   {
@@ -610,6 +1452,37 @@
     "excerpt": "# Friday Party Congress Hearing ## Overview The Friday Party Congress hearing is expected two days after the [[Mercier Assassination]]. [[Alain Mercier]] had planned to reveal his findings there before he was killed. [[Cass Pien (Kolb)]] contacted a trusted ally to listen from inside the hearing and"
   },
   {
+    "id": "3:General-Claire-Moreau",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "General-Claire-Moreau",
+    "title": "General Claire Moreau",
+    "category": "npc",
+    "summary": "Commander, Marine Forces Jardin at Fort Robespierre Naval Annex.",
+    "tags": [
+      "npc",
+      "military",
+      "marines"
+    ],
+    "aliases": [
+      "Claire Moreau"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Fort Robespierre Naval Annex"
+    ],
+    "backlinks": [
+      "Fort-Robespierre-Naval-Annex"
+    ],
+    "keyLinks": [
+      "[[Fort Robespierre Naval Annex]]"
+    ],
+    "excerpt": "# General Claire Moreau *Commander, Marine Forces Jardin* ## Overview General Claire Moreau commands Marine Forces Jardin, responsible for all marine training and deployment operations run out of the [[Fort Robespierre Naval Annex]]. Widely respected by frontline personnel, she leads the ground and "
+  },
+  {
     "id": "3:Hall-des-Futurs-Choisis",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -625,7 +1498,18 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
+    "links": [
+      "Alain Mercier",
+      "Mercier Assassination",
+      "Home Guard",
+      "Social Solidarity",
+      "Identity Veils",
+      "Inspector Marc Valois",
+      "SolSec",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings"
+    ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Alain-Mercier",
@@ -633,23 +1517,19 @@
       "Elena-Verona",
       "Emma-Colbert-Laura",
       "Inspector-Marc-Valois",
-      "Marcel-Delphine",
+      "Le-Palais-de-Continuit",
       "Marcel-Delphine",
       "Mercier-Assassination",
       "Mobile-Data-Tube",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Social-Solidarity",
       "SolSec",
       "Timeline",
-      "Timeline",
       "Zoy-Damon"
     ],
     "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Hall des Futurs Choisis ## Hall of Chosen Futures **Location:** Government District, Nouvelle Sainte-Jeanne, Jardin **Type:** Ministry Complex, Civic Registry, Genetic Administration Center **Population:** Approximately 120,000 employees and visitors daily **Administrative Authority:** Ministry of"
+    "excerpt": "# Hall des Futurs Choisis *Hall of Chosen Futures* **Location:** Government District, Nouvelle Sainte-Jeanne, Jardin **Type:** Ministry Complex, Civic Registry, Genetic Administration Center **Population:** Approximately 120,000 employees and visitors daily **Administrative Authority:** Ministry of "
   },
   {
     "id": "3:Home-Guard",
@@ -670,9 +1550,12 @@
     "text": "",
     "playerText": "",
     "links": [
-      "Mercier Assassination"
+      "Mercier Assassination",
+      "Social Solidarity",
+      "Fort Robespierre Naval Annex"
     ],
     "backlinks": [
+      "Hall-des-Futurs-Choisis",
       "Jardin",
       "Mercier-Assassination",
       "Session-1-Official-Business",
@@ -682,7 +1565,7 @@
       "[[Mercier Assassination]]",
       "[[Social Solidarity]]"
     ],
-    "excerpt": "# Home Guard ## Overview The Home Guard is a Jardin security force referenced as the expected defender against dissidents, rebel outbreaks, and revolutionaries. Veterans and retired military personnel may carry weapons with military IDs partly so they can support the Home Guard during unrest. Home G"
+    "excerpt": "# Home Guard *Jardin's internal defense reserve* ## Overview The Home Guard is a Jardin security force referenced as the expected defender against dissidents, rebel outbreaks, and revolutionaries. Veterans and retired military personnel may carry weapons with military IDs partly so they can support "
   },
   {
     "id": "3:Identity-Veils",
@@ -712,30 +1595,125 @@
       "Session 2 - Masks and Markers",
       "Chief Helene Marchand",
       "Mercier Frame-Up",
-      "Session 1 - Official Business",
-      "Session 2 - Masks and Markers"
+      "Session 1 - Official Business"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
+      "Campaign",
       "Chief-Helene-Marchand",
       "Emma-Colbert-Laura",
+      "Hall-des-Futurs-Choisis",
+      "Inspector-Gabriel-Rousseau",
       "Jardin-Syndicate",
       "Marcel-Delphine",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Timeline",
-      "Timeline",
-      "Timeline"
+      "Transstar-Sector-Exchange"
     ],
     "keyLinks": [
       "[[Marcel Delphine]]",
       "[[Jardin Syndicate]]"
     ],
     "excerpt": "# Identity Veils ## Overview The identity veils are electronic masks or overlays provided by [[Marcel Delphine]] after the group escaped the [[Mercier Assassination]]. Marcel described them as masks that prevent camera systems from registering the wearer's normal identity. ## Known Capabilities - Ea"
+  },
+  {
+    "id": "3:Inspector-Adrien-Martin",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Inspector-Adrien-Martin",
+    "title": "Inspector Adrien Martin",
+    "category": "npc",
+    "summary": "Social Solidarity Liaison at Quartier Sainte-Liberté.",
+    "tags": [
+      "npc",
+      "security",
+      "government"
+    ],
+    "aliases": [
+      "Adrien Martin"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Social Solidarity",
+      "Quartier Sainte-Liberté",
+      "Jardin Syndicate"
+    ],
+    "backlinks": [
+      "Quartier-Sainte-Libert"
+    ],
+    "keyLinks": [
+      "[[Quartier Sainte-Liberté]]",
+      "[[Social Solidarity]]",
+      "[[Jardin Syndicate]]"
+    ],
+    "excerpt": "# Inspector Adrien Martin *Social Solidarity Liaison* ## Overview Inspector Adrien Martin is the [[Social Solidarity]] liaison for [[Quartier Sainte-Liberté]], responsible for maintaining relations between the district's organizations and the government. It is an extremely difficult job: he must kee"
+  },
+  {
+    "id": "3:Inspector-Gabriel-Rousseau",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Inspector-Gabriel-Rousseau",
+    "title": "Inspector Gabriel Rousseau",
+    "category": "npc",
+    "summary": "Senior Customs Officer at Customs & Immigration Checkpoint Harmony.",
+    "tags": [
+      "npc",
+      "security",
+      "customs"
+    ],
+    "aliases": [
+      "Gabriel Rousseau"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Customs & Immigration Checkpoint Harmony",
+      "Identity Veils"
+    ],
+    "backlinks": [
+      "Customs-Immigration-Checkpoint-Harmony"
+    ],
+    "keyLinks": [
+      "[[Customs & Immigration Checkpoint Harmony]]"
+    ],
+    "excerpt": "# Inspector Gabriel Rousseau *Senior Customs Officer* ## Overview Inspector Gabriel Rousseau is a senior customs officer at [[Customs & Immigration Checkpoint Harmony]] and a legend among anti-smuggling investigators. He knows the tells of a forged identity and a doctored manifest the way other peop"
+  },
+  {
+    "id": "3:Inspector-General-Marc-Villeneuve",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Inspector-General-Marc-Villeneuve",
+    "title": "Inspector-General Marc Villeneuve",
+    "category": "npc",
+    "summary": "Commander, Directorate of Social Stability at Social Solidarity.",
+    "tags": [
+      "npc",
+      "security",
+      "enforcement"
+    ],
+    "aliases": [
+      "Marc Villeneuve"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Social Solidarity"
+    ],
+    "backlinks": [
+      "Social-Solidarity"
+    ],
+    "keyLinks": [
+      "[[Social Solidarity]]"
+    ],
+    "excerpt": "# Inspector-General Marc Villeneuve *Commander, Directorate of Social Stability* ## Overview Inspector-General Marc Villeneuve commands the Directorate of Social Stability within [[Social Solidarity]] and is widely feared by dissident organizations. His directorate is the hard edge of the ministry —"
   },
   {
     "id": "3:Inspector-Marc-Valois",
@@ -771,11 +1749,10 @@
       "Mobile Data Tube"
     ],
     "backlinks": [
+      "Campaign",
       "Emma-Colbert-Laura",
+      "Hall-des-Futurs-Choisis",
       "Mercier-Frame-Up",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Social-Solidarity",
       "SolSec",
@@ -789,13 +1766,99 @@
     "excerpt": "# Inspector Marc Valois ## Overview Inspector Marc Valois is a [[SolSec]] investigator seen outside the [[Hall des Futurs Choisis]] during [[Session 2 - Masks and Markers]]. [[Emma Colbert (Laura)]] recognized him from prior SolSec circles, though he was not in her direct chain of command. Valois wo"
   },
   {
+    "id": "3:Jacques-Martin",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Jacques-Martin",
+    "title": "Jacques Martin",
+    "category": "npc",
+    "summary": "Business Executive at Arcosphere Rousseau.",
+    "tags": [
+      "npc",
+      "business",
+      "syndicate"
+    ],
+    "aliases": [
+      "Martin"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Jardin Syndicate",
+      "Arcosphere Rousseau"
+    ],
+    "backlinks": [
+      "Arcosphere-Rousseau"
+    ],
+    "keyLinks": [
+      "[[Arcosphere Rousseau]]",
+      "[[Jardin Syndicate]]"
+    ],
+    "excerpt": "# Jacques Martin *Business Executive* ## Overview Jacques Martin officially owns several logistics companies operating out of the Rousseau Arcology. Unofficially, he is widely rumored to maintain extensive connections within the [[Jardin Syndicate]], the kind of ties that turn a shipping firm into a"
+  },
+  {
+    "id": "3:Jardin-Syndicate",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Jardin-Syndicate",
+    "title": "Jardin Syndicate",
+    "category": "organization",
+    "summary": "The **Jardin Syndicate** is one of the largest and most influential",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [
+      "Syndicat Jardin"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 1 - Official Business",
+      "Marcel Delphine",
+      "Alain Mercier",
+      "Mercier Frame-Up",
+      "Arcosphere Rousseau",
+      "Identity Veils",
+      "Session 2 - Masks and Markers",
+      "Lucin",
+      "Transstar Sector Exchange"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Cass-Pien-Kolb",
+      "Colette-Moreau",
+      "Commander-Sophie-Durand",
+      "Emma-Colbert-Laura",
+      "False-News-Broadcast",
+      "Friday-Party-Congress-Hearing",
+      "Inspector-Adrien-Martin",
+      "Jacques-Martin",
+      "Lucin",
+      "Marcel-Delphine",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Nico-Gay",
+      "Session-1-Official-Business",
+      "Timeline",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Marcel Delphine]]"
+    ],
+    "excerpt": "# Syndicat Jardin *Jardin Syndicate* **Type:** Interstellar Criminal Organization **Area of Operations:** Jardin Subsector and neighboring regions on both sides of the Solomani-Imperial border **Primary Activities:** * Human trafficking * Refugee exploitation * Identity fraud * Smuggling * Money lau"
+  },
+  {
     "id": "3:Jardin",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
     "slug": "Jardin",
     "title": "Jardin",
     "category": "location",
-    "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
+    "summary": "",
     "tags": [
       "location",
       "world"
@@ -820,62 +1883,7 @@
     "keyLinks": [
       "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
     ],
-    "excerpt": "# Jardin ![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png) *Capital World of the Jardin Subsector* **UWP:** A5679BC-D **Allegiance:** SoCf (Solomani Confederation) **Trade Codes:** Hi, Cp, Pr, Pz, Ht **Subsector:** Jardin **Tech Level:** 13 ## Overview Jardin is the capital and dominant world of the"
-  },
-  {
-    "id": "3:Jardin-Syndicate",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Jardin-Syndicate",
-    "title": "Jardin Syndicate",
-    "category": "organization",
-    "summary": "The **Jardin Syndicate** is one of the largest and most influential criminal organizations operating within the Jardin Subsector. Originally founded on Jardin itself, the Syndicate has expanded across dozens of worlds, establishing networks that span both Confederation and Imperial territory.",
-    "tags": [
-      "organization"
-    ],
-    "aliases": [
-      "Syndicat Jardin"
-    ],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Session 1 - Official Business",
-      "Marcel Delphine",
-      "Alain Mercier",
-      "Mercier Frame-Up",
-      "Arcosphere Rousseau",
-      "Identity Veils",
-      "Session 2 - Masks and Markers",
-      "Lucin",
-      "Marcel Delphine",
-      "Transstar Sector Exchange",
-      "Marcel Delphine"
-    ],
-    "backlinks": [
-      "Alain-Mercier",
-      "Cass-Pien-Kolb",
-      "Emma-Colbert-Laura",
-      "False-News-Broadcast",
-      "Friday-Party-Congress-Hearing",
-      "Lucin",
-      "Marcel-Delphine",
-      "Marcel-Delphine",
-      "Marcel-Delphine",
-      "Mercier-Assassination",
-      "Mercier-Assassination",
-      "Mercier-Frame-Up",
-      "Nico-Gay",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Timeline",
-      "Zoy-Damon"
-    ],
-    "keyLinks": [
-      "[[Marcel Delphine]]"
-    ],
-    "excerpt": "# Syndicat Jardin ## Jardin Syndicate **Type:** Interstellar Criminal Organization **Area of Operations:** Jardin Subsector and neighboring regions on both sides of the Solomani-Imperial border **Primary Activities:** * Human trafficking * Refugee exploitation * Identity fraud * Smuggling * Money la"
+    "excerpt": "# Jardin ![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png) *Capital World of the Jardin Subsector* **UWP:** A5679BC-D **Allegiance:** SoCf (Solomani Confederation) **Trade Codes:** Hi, Cp, Pr, Pz, Ht **Subsector:** Jardin **Tech Level:** 13 ## Contents - [Overview](#overview) - [Major Cities](#major"
   },
   {
     "id": "3:Judith-Dumont-Carla",
@@ -898,7 +1906,7 @@
       "Marcel Delphine",
       "Keith Morris",
       "Miasma",
-      "Les Jardins Fermes",
+      "Les Jardins Fermés",
       "Lucin"
     ],
     "backlinks": [
@@ -907,11 +1915,41 @@
       "Keith-Morris",
       "Miasma",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
     "excerpt": "# Judith Dumont (Carla) ![Judith Dumont portrait](/wiki/media/Judith-Dumont.png) *Solomani Racial • Bounty Hunter: Hunter* **Player:** Carla **Age:** 42 **Species:** Solomani Racial **Gender:** Female **UPP:** STR 11, DEX 10, END 12, INT 11, EDU 10, SOC 8 **Hits:** 33 **Armour:** Cloth (TL10), Prote"
+  },
+  {
+    "id": "3:Juliette-Mercier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Juliette-Mercier",
+    "title": "Juliette Mercier",
+    "category": "npc",
+    "summary": "Senior Editor, Jardin Today at Quartier Danton.",
+    "tags": [
+      "npc",
+      "media",
+      "press"
+    ],
+    "aliases": [
+      "Juliette Mercier"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Quartier Danton"
+    ],
+    "backlinks": [
+      "Quartier-Danton"
+    ],
+    "keyLinks": [
+      "[[Quartier Danton]]"
+    ],
+    "excerpt": "# Juliette Mercier *Senior Editor, Jardin Today* ## Overview Juliette Mercier is a senior editor at Jardin Today, working out of the press district in [[Quartier Danton]], and is known for asking difficult questions. In the aftermath of Minister Mercier's assassination and the fabricated broadcast t"
   },
   {
     "id": "3:Keith-Morris",
@@ -963,13 +2001,61 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
+    "links": [
+      "Hall des Futurs Choisis",
+      "Leo Duprey",
+      "Chief Helene Marchand",
+      "Alain Mercier"
+    ],
     "backlinks": [
-      "Jardin"
+      "Campaign",
+      "Jardin",
+      "Leo-Duprey"
     ],
     "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Le Palais de Continuité ## The Palace of Continuity **Location:** Nouvelle Sainte-Jeanne, Jardin **Type:** Seat of Government, Executive Complex, National Symbol **Population:** Approximately 35,000 permanent staff **Security Level:** Extreme **Primary Authority:** Office of the Supreme Presidency"
+    "excerpt": "# Le Palais de Continuité *The Palace of Continuity* **Location:** Nouvelle Sainte-Jeanne, Jardin **Type:** Seat of Government, Executive Complex, National Symbol **Population:** Approximately 35,000 permanent staff **Security Level:** Extreme **Primary Authority:** Office of the Supreme Presidency "
+  },
+  {
+    "id": "3:Leo-Duprey",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Leo-Duprey",
+    "title": "Leo Duprey",
+    "category": "npc",
+    "summary": "Supreme President of Jardin at Le Palais de Continuité.",
+    "tags": [
+      "npc",
+      "government",
+      "head-of-state"
+    ],
+    "aliases": [
+      "Supreme President Leo Duprey",
+      "President Duprey",
+      "Duprey"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Le Palais de Continuité",
+      "Alain Mercier",
+      "Social Solidarity"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Director-General-Camille-Fournier",
+      "Dr-Sophie-Delacroix",
+      "Le-Palais-de-Continuit",
+      "Marcel-Delphine",
+      "Social-Solidarity"
+    ],
+    "keyLinks": [
+      "[[Le Palais de Continuité]]",
+      "[[Alain Mercier]]",
+      "[[Social Solidarity]]"
+    ],
+    "excerpt": "# Leo Duprey *Supreme President of Jardin* ## Overview Leo Duprey is the Supreme President of Jardin and the current ruler of the world, governing from [[Le Palais de Continuité]]. A former Minister of Social Solidarity, he rose through the Party apparatus over several decades and is credited by sup"
   },
   {
     "id": "3:Les-Jardins-Ferm-s",
@@ -987,11 +2073,122 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
-    "backlinks": [],
+    "links": [
+      "Dr. Sophie Delacroix",
+      "Professor Lucien Morel",
+      "Dr. Isabelle Fournier",
+      "Dr. Gabriel Laurent",
+      "Session 2 - Masks and Markers",
+      "Lucin",
+      "Chief Helene Marchand"
+    ],
+    "backlinks": [
+      "Dan-Araujo-Josh",
+      "Dr-Gabriel-Laurent",
+      "Dr-Isabelle-Fournier",
+      "Dr-Sophie-Delacroix",
+      "Judith-Dumont-Carla",
+      "Lucin",
+      "Professor-Lucien-Morel",
+      "Session-2-Masks-and-Markers",
+      "Timeline"
+    ],
     "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Les Jardins Fermés ## The Closed Gardens **Location:** Eastern Scientific District, Nouvelle Sainte-Jeanne, Jardin **Type:** Scientific Research Complex, Botanical Preserve, Agricultural Development Arcology **Administrative Authority:** Ministry of Genetics **Director-General:** Dr. Sophie Delacr"
+    "excerpt": "# Les Jardins Fermés *The Closed Gardens* **Location:** Eastern Scientific District, Nouvelle Sainte-Jeanne, Jardin **Type:** Scientific Research Complex, Botanical Preserve, Agricultural Development Arcology **Administrative Authority:** Ministry of Genetics **Director-General:** Dr. Sophie Delacro"
+  },
+  {
+    "id": "3:Luc-Girard",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Luc-Girard",
+    "title": "Luc Girard",
+    "category": "npc",
+    "summary": "Labor Coordinator at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "labor"
+    ],
+    "aliases": [
+      "Girard"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Luc Girard *Labor Coordinator* ## Overview Luc Girard is [[Transstar]]'s Labor Coordinator, assigning thousands of dockworkers and logistics personnel across the Rousseau industrial levels. Officially he manages staffing; unofficially he can make careers appear or disappear, and his influence amon"
+  },
+  {
+    "id": "3:Lucien-Roche",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Lucien-Roche",
+    "title": "Lucien Roche",
+    "category": "npc",
+    "summary": "Information Broker at Quartier Sainte-Liberté.",
+    "tags": [
+      "npc",
+      "underworld",
+      "broker"
+    ],
+    "aliases": [
+      "Roche"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Quartier Sainte-Liberté"
+    ],
+    "backlinks": [
+      "Quartier-Sainte-Libert"
+    ],
+    "keyLinks": [
+      "[[Quartier Sainte-Liberté]]"
+    ],
+    "excerpt": "# Lucien Roche *Information Broker* ## Overview Lucien Roche is an information broker in [[Quartier Sainte-Liberté]] who can acquire almost anything — for the right price. In a district whose data markets trade secrets the way other places trade goods, Roche is one of the names that gets whispered w"
+  },
+  {
+    "id": "3:Lucien-Voss",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Lucien-Voss",
+    "title": "Lucien Voss",
+    "category": "npc",
+    "summary": "Senior Freight Broker at Transstar Sector Exchange.",
+    "tags": [
+      "npc",
+      "corporate",
+      "logistics"
+    ],
+    "aliases": [
+      "Voss"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar Sector Exchange"
+    ],
+    "backlinks": [
+      "Transstar-Sector-Exchange"
+    ],
+    "keyLinks": [
+      "[[Transstar Sector Exchange]]"
+    ],
+    "excerpt": "# Lucien Voss *Senior Freight Broker* ## Overview Lucien Voss is a senior freight broker and something of a legend along Broker's Row in the [[Transstar Sector Exchange]], capable of arranging transport to almost anywhere — for a price. For a party that needs to move cargo, people, or itself off Jar"
   },
   {
     "id": "3:Lucin",
@@ -1016,10 +2213,10 @@
     "text": "",
     "playerText": "",
     "links": [
-      "Quartier-Sainte-Liberte",
+      "Quartier Sainte-Liberté",
       "Session 2 - Masks and Markers",
       "Transstar Sector Exchange",
-      "Les Jardins Fermes",
+      "Les Jardins Fermés",
       "Chief Helene Marchand",
       "Marcel Delphine",
       "Jardin Syndicate"
@@ -1029,18 +2226,48 @@
       "Dan-Araujo-Josh",
       "Jardin-Syndicate",
       "Judith-Dumont-Carla",
+      "Les-Jardins-Ferm-s",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Timeline"
+      "Timeline",
+      "Transstar-Sector-Exchange"
     ],
     "keyLinks": [
-      "[[Quartier-Sainte-Liberte]]",
+      "[[Quartier Sainte-Liberté]]",
       "[[Jardin Syndicate]]",
       "[[Chief Helene Marchand]]"
     ],
-    "excerpt": "# Lucin ## Overview Lucin is an armored data broker encountered in [[Quartier-Sainte-Liberte]] during [[Session 2 - Masks and Markers]]. He operated from a dark alley market where credits were exchanged for data chips. Lucin wore armor and had a cybernetic third arm emerging from his back. He was ca"
+    "excerpt": "# Lucin ## Overview Lucin is an armored data broker encountered in [[Quartier Sainte-Liberté]] during [[Session 2 - Masks and Markers]]. He operated from a dark alley market where credits were exchanged for data chips. Lucin wore armor and had a cybernetic third arm emerging from his back. He was ca"
+  },
+  {
+    "id": "3:Mara-Kovalenko",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mara-Kovalenko",
+    "title": "Mara Kovalenko",
+    "category": "npc",
+    "summary": "Director of Foreign Trade Relations at Transstar Sector Exchange.",
+    "tags": [
+      "npc",
+      "corporate",
+      "diplomatic"
+    ],
+    "aliases": [
+      "Kovalenko"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar Sector Exchange"
+    ],
+    "backlinks": [
+      "Transstar-Sector-Exchange"
+    ],
+    "keyLinks": [
+      "[[Transstar Sector Exchange]]"
+    ],
+    "excerpt": "# Mara Kovalenko *Director of Foreign Trade Relations* ## Overview Mara Kovalenko directs Foreign Trade Relations at the [[Transstar Sector Exchange]], managing its dealings with Imperial and Hive commercial interests. She holds one of the largest diplomatic contact networks in the subsector, the ki"
   },
   {
     "id": "3:Marcel-Delphine",
@@ -1065,11 +2292,7 @@
       "Jardin Syndicate",
       "Alain Mercier",
       "Identity Veils",
-      "Jardin Syndicate",
       "Leo Duprey",
-      "Alain Mercier",
-      "Jardin Syndicate",
-      "Hall des Futurs Choisis",
       "SolSec",
       "Rousseau Arcology",
       "Citizens Aid Cooperative",
@@ -1078,26 +2301,53 @@
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Alain-Mercier",
+      "Campaign",
       "Cass-Pien-Kolb",
       "Emma-Colbert-Laura",
-      "Emma-Colbert-Laura",
       "Identity-Veils",
-      "Jardin-Syndicate",
-      "Jardin-Syndicate",
       "Jardin-Syndicate",
       "Judith-Dumont-Carla",
       "Lucin",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
       "Nico-Gay",
+      "Quartier-Sainte-Libert",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Timeline",
       "Timeline"
     ],
     "keyLinks": [],
     "excerpt": "# Marcel Delphine *The Shepherd of Lost Futures* **Designation:** Marcel Delphine | **Type:** NPC | **TL:** 14 | **Status:** Active | **Owner:** GM ![marcel-delphine.jpg](/wiki/media/marcel-delphine.jpg) | Field | Value | | ----------- | -------------------------- | | Designation | Marcel Delphine |"
+  },
+  {
+    "id": "3:Mentor-Jean-Mercier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mentor-Jean-Mercier",
+    "title": "Mentor Jean Mercier",
+    "category": "npc",
+    "summary": "Senior Creche Mentor at Crèche District 14.",
+    "tags": [
+      "npc",
+      "education",
+      "civic"
+    ],
+    "aliases": [
+      "Jean Mercier"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Crèche District 14"
+    ],
+    "backlinks": [
+      "Cr-che-District-14"
+    ],
+    "keyLinks": [
+      "[[Crèche District 14]]"
+    ],
+    "excerpt": "# Mentor Jean Mercier *Senior Creche Mentor* ## Overview Mentor Jean Mercier is one of the oldest serving mentors in [[Crèche District 14]]; three generations of graduates have passed through his Maison. He represents the institutional memory of Jardin's creche system, a living link between the chil"
   },
   {
     "id": "3:Mercier-Assassination",
@@ -1128,28 +2378,27 @@
       "Jardin Syndicate",
       "Session 2 - Masks and Markers",
       "Mercier Frame-Up",
-      "Alain Mercier",
       "Elena Verona",
       "Social Solidarity",
       "Home Guard",
-      "Jardin Syndicate",
       "Mercier Genetic Findings",
       "Mobile Data Tube"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
+      "Arcosphere-Rousseau",
       "Cass-Pien-Kolb",
       "Dan-Araujo-Josh",
       "Elena-Verona",
       "Emma-Colbert-Laura",
       "False-News-Broadcast",
       "Friday-Party-Congress-Hearing",
+      "Hall-des-Futurs-Choisis",
       "Home-Guard",
       "Identity-Veils",
       "Inspector-Marc-Valois",
       "Marcel-Delphine",
       "Merciers-Locked-Pad",
-      "Session-1-Official-Business",
       "Session-1-Official-Business",
       "Social-Solidarity",
       "SolSec",
@@ -1205,8 +2454,8 @@
       "Mercier-Assassination",
       "Merciers-Locked-Pad",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Timeline"
+      "Timeline",
+      "Transstar-Sector-Exchange"
     ],
     "keyLinks": [
       "[[Mercier Assassination]]",
@@ -1221,7 +2470,7 @@
     "slug": "Mercier-Genetic-Findings",
     "title": "Mercier Genetic Findings",
     "category": "event",
-    "summary": "Recovered research data suggests decades of genetic-marker tests tied to psionic-like abilities and alien or non-Solomani markers.",
+    "summary": "Recovered research data suggests decades of genetic-marker tests tied",
     "tags": [
       "event",
       "clue",
@@ -1248,6 +2497,7 @@
       "Ciernan-Seanislav-Peter",
       "Dr-Luc-Moreau",
       "Emma-Colbert-Laura",
+      "Hall-des-Futurs-Choisis",
       "Inspector-Marc-Valois",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
@@ -1289,13 +2539,11 @@
       "Session 2 - Masks and Markers",
       "Mercier Assassination",
       "Mercier Frame-Up",
-      "Alain Mercier",
       "Mercier Genetic Findings"
     ],
     "backlinks": [
       "Alain-Mercier",
       "Session-1-Official-Business",
-      "Timeline",
       "Timeline"
     ],
     "keyLinks": [
@@ -1336,7 +2584,7 @@
       "[[Judith Dumont (Carla)]]",
       "[[Keith Morris]]"
     ],
-    "excerpt": "# Miasma ## Overview Miasma is described in the transcript as a relatively low-key jump destination one jump from [[Jardin]]. [[Judith Dumont (Carla)]] considered it as a possible escape destination and hoped [[Keith Morris]] could help with plans to get there. ## Session 1 Notes - Directly jumping "
+    "excerpt": "# Miasma ## Contents - [Overview](#overview) - [Session 1 Notes](#session-1-notes) ## Overview Miasma is described in the transcript as a relatively low-key jump destination one jump from [[Jardin]]. [[Judith Dumont (Carla)]] considered it as a possible escape destination and hoped [[Keith Morris]] "
   },
   {
     "id": "3:Mobile-Data-Tube",
@@ -1372,13 +2620,11 @@
       "Cass-Pien-Kolb",
       "Dr-Luc-Moreau",
       "Emma-Colbert-Laura",
+      "Hall-des-Futurs-Choisis",
       "Inspector-Marc-Valois",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
       "Mercier-Genetic-Findings",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Timeline",
       "Zoy-Damon"
@@ -1389,7 +2635,71 @@
       "[[Dr. Luc Moreau]]",
       "[[Inspector Marc Valois]]"
     ],
-    "excerpt": "# Mobile Data Tube ## Overview The mobile data tube is a cigar-sized metal cylinder recovered from a bathroom drain inside the [[Hall des Futurs Choisis]] during [[Session 2 - Masks and Markers]]. [[Dr. Luc Moreau]] placed a data stick into the tube, typed a warning message on an arm computer, put t"
+    "excerpt": "# Mobile Data Tube ## Contents - [Overview](#overview) - [Payload](#payload) - [Capabilities](#capabilities) - [Party Handling](#party-handling) - [Open Questions](#open-questions) ## Overview The mobile data tube is a cigar-sized metal cylinder recovered from a bathroom drain inside the [[Hall des "
+  },
+  {
+    "id": "3:Nadia-Giroux",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Nadia-Giroux",
+    "title": "Nadia Giroux",
+    "category": "npc",
+    "summary": "Investigative Journalist at Arcosphere Rousseau.",
+    "tags": [
+      "npc",
+      "media",
+      "press"
+    ],
+    "aliases": [
+      "Giroux"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Social Solidarity",
+      "Arcosphere Rousseau"
+    ],
+    "backlinks": [
+      "Arcosphere-Rousseau"
+    ],
+    "keyLinks": [
+      "[[Arcosphere Rousseau]]"
+    ],
+    "excerpt": "# Nadia Giroux *Investigative Journalist* ## Overview Nadia Giroux is an investigative journalist working out of the Rousseau Arcology, known for exposing corruption and embarrassing powerful people who assumed their arrangements were private. She receives anonymous threats frequently and ignores th"
+  },
+  {
+    "id": "3:Nadine-Pelletier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Nadine-Pelletier",
+    "title": "Nadine Pelletier",
+    "category": "npc",
+    "summary": "Passenger Services Director at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "transstar"
+    ],
+    "aliases": [
+      "Nadine Pelletier"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Nadine Pelletier *Passenger Services Director* ## Overview Nadine Pelletier is [[Transstar]]'s Passenger Services Director and the public face of the line's luxury travel, overseeing the arrival of VIPs, Party officials, and wealthy travelers at the Jardin Orbital Terminal. Charismatic and media-s"
   },
   {
     "id": "3:Nico-Gay",
@@ -1432,6 +2742,71 @@
     "excerpt": "# Nico Gay ## Overview Nico Gay is the son of Sarah Gay and a mid-tier smuggler contact of [[Emma Colbert (Laura)]]. The transcript describes him as oddly loyal to Emma, provided she does not ask him to betray family or front crew. He gave Emma background on [[Marcel Delphine]] and the [[Jardin Synd"
   },
   {
+    "id": "3:Philippe-Laurent",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Philippe-Laurent",
+    "title": "Philippe Laurent",
+    "category": "npc",
+    "summary": "Fleet Maintenance Director at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "engineering"
+    ],
+    "aliases": [
+      "Philippe Laurent"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Philippe Laurent *Fleet Maintenance Director* ## Overview Philippe Laurent is [[Transstar]]'s Fleet Maintenance Director, responsible for keeping over four hundred vessels running across the region. Famous for his obsession with preventative maintenance — \"Ships don't fail. Managers fail.\" — he ho"
+  },
+  {
+    "id": "3:Pierre-Gauthier",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Pierre-Gauthier",
+    "title": "Pierre Gauthier",
+    "category": "npc",
+    "summary": "Student Activist at Quartier Danton.",
+    "tags": [
+      "npc",
+      "activist",
+      "politics"
+    ],
+    "aliases": [
+      "Gauthier"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Quartier Danton",
+      "Social Solidarity"
+    ],
+    "backlinks": [
+      "Quartier-Danton"
+    ],
+    "keyLinks": [
+      "[[Quartier Danton]]",
+      "[[Social Solidarity]]"
+    ],
+    "excerpt": "# Pierre Gauthier *Student Activist* ## Overview Pierre Gauthier is a student activist and rising political figure in [[Quartier Danton]], closely watched by [[Social Solidarity]]. In a district built around the University of Jardin and the Party academies, a charismatic organizer who draws crowds i"
+  },
+  {
     "id": "3:Port-Sainte-Jeanne-Downport",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -1447,11 +2822,82 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
-    "backlinks": [],
+    "links": [
+      "Director Luc Beaumont",
+      "Commander Sophie Durand",
+      "Étienne Marchand",
+      "Captain Victor Mendes"
+    ],
+    "backlinks": [
+      "Captain-Victor-Mendes",
+      "Commander-Sophie-Durand",
+      "Director-Luc-Beaumont",
+      "Etienne-Marchand"
+    ],
     "keyLinks": [],
-    "parent": "Jardin",
     "excerpt": "# Port Sainte-Jeanne Downport *\"Gateway to the Frontier.\"* **Location:** Western Nouvelle Sainte-Jeanne **Type:** Class A Starport Downport **Administrative Authority:** Port Authority of Jardin **Operational Control:** Transstar Port Services **Security:** Port Security Directorate, Customs Bureau,"
+  },
+  {
+    "id": "3:Professor-Emile-Laurent",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Professor-Emile-Laurent",
+    "title": "Professor Émile Laurent",
+    "category": "npc",
+    "summary": "Political Theorist at Quartier Danton.",
+    "tags": [
+      "npc",
+      "academic",
+      "media"
+    ],
+    "aliases": [
+      "Emile Laurent"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Quartier Danton"
+    ],
+    "backlinks": [
+      "Quartier-Danton"
+    ],
+    "keyLinks": [
+      "[[Quartier Danton]]"
+    ],
+    "excerpt": "# Professor Émile Laurent *Political Theorist* ## Overview Professor Émile Laurent is a political theorist and public intellectual based in [[Quartier Danton]], the capital's academic and congressional quarter. He appears frequently on state broadcasts, where his commentary lends scholarly weight to"
+  },
+  {
+    "id": "3:Professor-Lucien-Morel",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Professor-Lucien-Morel",
+    "title": "Professor Lucien Morel",
+    "category": "npc",
+    "summary": "Chief Ecological Systems Analyst at Les Jardins Fermés.",
+    "tags": [
+      "npc",
+      "scientist",
+      "academic"
+    ],
+    "aliases": [
+      "Lucien Morel"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Les Jardins Fermés"
+    ],
+    "backlinks": [
+      "Les-Jardins-Ferm-s"
+    ],
+    "keyLinks": [
+      "[[Les Jardins Fermés]]"
+    ],
+    "excerpt": "# Professor Lucien Morel *Chief Ecological Systems Analyst* ## Overview Professor Lucien Morel is Chief Ecological Systems Analyst at [[Les Jardins Fermés]], where he developed several of the ecosystem-modeling theories the Gardens rely on. He believes that entire planetary biospheres can eventually"
   },
   {
     "id": "3:Quartier-Danton",
@@ -1469,11 +2915,19 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
-    "backlinks": [],
+    "links": [
+      "Professor Émile Laurent",
+      "Juliette Mercier",
+      "Alain Mercier",
+      "Pierre Gauthier"
+    ],
+    "backlinks": [
+      "Juliette-Mercier",
+      "Pierre-Gauthier",
+      "Professor-Emile-Laurent"
+    ],
     "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Quartier Danton # Danton Quarter *\"Ideas Shape History.\"* **Location:** Central Nouvelle Sainte-Jeanne **Type:** Political and Academic District **Administrative Authority:** Municipal Government of Nouvelle Sainte-Jeanne **Status:** Active **Population:** 2.4 Million **Primary Functions:** - Part"
+    "excerpt": "# Quartier Danton *Danton Quarter* *\"Ideas Shape History.\"* **Location:** Central Nouvelle Sainte-Jeanne **Type:** Political and Academic District **Administrative Authority:** Municipal Government of Nouvelle Sainte-Jeanne **Status:** Active **Population:** 2.4 Million **Primary Functions:** - Part"
   },
   {
     "id": "3:Quartier-Sainte-Libert",
@@ -1491,11 +2945,55 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
-    "backlinks": [],
+    "links": [
+      "Marcel Delphine",
+      "Colette Moreau",
+      "Lucien Roche",
+      "Inspector Adrien Martin"
+    ],
+    "backlinks": [
+      "Colette-Moreau",
+      "Inspector-Adrien-Martin",
+      "Lucien-Roche",
+      "Lucin",
+      "Session-2-Masks-and-Markers"
+    ],
     "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Quartier Sainte-Liberté # Saint Liberty Quarter *\"Everyone Belongs Somewhere.\"* **Location:** Lower Eastern Rousseau Arcology and Adjacent Surface Districts **Type:** Mixed Residential and Commercial District **Administrative Authority:** Municipal Administration of Nouvelle Sainte-Jeanne **Actual"
+    "excerpt": "# Quartier Sainte-Liberté *Saint Liberty Quarter* *\"Everyone Belongs Somewhere.\"* **Location:** Lower Eastern Rousseau Arcology and Adjacent Surface Districts **Type:** Mixed Residential and Commercial District **Administrative Authority:** Municipal Administration of Nouvelle Sainte-Jeanne **Actual"
+  },
+  {
+    "id": "3:Sarah-Chen",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Sarah-Chen",
+    "title": "Sarah Chen",
+    "category": "npc",
+    "summary": "Route Intelligence Analyst at Transstar.",
+    "tags": [
+      "npc",
+      "corporate",
+      "intelligence"
+    ],
+    "aliases": [
+      "Chen"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar",
+      "SolSec"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar]]",
+      "[[SolSec]]"
+    ],
+    "excerpt": "# Sarah Chen *Route Intelligence Analyst* ## Overview Sarah Chen is a Route Intelligence Analyst for [[Transstar]], tracking shipping patterns, economic trends, passenger flows, and frontier development from the company's regional data center. She often knows a recession is coming before local gover"
   },
   {
     "id": "3:Secure-Burner-Comms",
@@ -1563,34 +3061,22 @@
       "Marcel Delphine",
       "Jardin Syndicate",
       "Identity Veils",
-      "Hall des Futurs Choisis",
-      "Alain Mercier",
       "Ciernan Seanislav (Peter)",
       "Elena Verona",
-      "Emma Colbert (Laura)",
-      "0-31 Saichi Maru (Annette)",
-      "Marcel Delphine",
-      "Jardin Syndicate",
       "Zoy (Damon)",
-      "Identity Veils",
       "Transstar Sector Exchange",
       "Mercier Assassination",
       "Mercier Frame-Up",
       "False News Broadcast",
-      "Identity Veils",
       "Mercier's Locked Pad",
       "Friday Party Congress Hearing",
       "Sunken Ship-Boat",
       "Nico Gay",
-      "0-31 Saichi Maru (Annette)",
       "Cass Pien (Kolb)",
-      "Ciernan Seanislav (Peter)",
       "Dan Araujo (Josh)",
-      "Emma Colbert (Laura)",
       "Judith Dumont (Carla)",
       "Varian Svazz (Allen)",
-      "Victor Mendes (Steinbach)",
-      "Zoy (Damon)"
+      "Victor Mendes (Steinbach)"
     ],
     "backlinks": [
       "Alain-Mercier",
@@ -1642,56 +3128,20 @@
       "Mobile Data Tube",
       "Dr. Luc Moreau",
       "Lucin",
-      "Les Jardins Fermes",
+      "Les Jardins Fermés",
       "Chief Helene Marchand",
-      "0-31 Saichi Maru (Annette)",
-      "Identity Veils",
-      "Hall des Futurs Choisis",
-      "Social Solidarity",
-      "SolSec",
       "Emma Colbert (Laura)",
-      "Inspector Marc Valois",
-      "Dr. Luc Moreau",
-      "Mobile Data Tube",
       "Zoy (Damon)",
       "Cass Pien (Kolb)",
       "Varian Svazz (Allen)",
-      "Quartier-Sainte-Liberte",
-      "Lucin",
-      "Les Jardins Fermes",
-      "Chief Helene Marchand",
-      "0-31 Saichi Maru (Annette)",
-      "Cass Pien (Kolb)",
-      "Dr. Luc Moreau",
-      "Mobile Data Tube",
+      "Quartier Sainte-Liberté",
       "Ciernan Seanislav (Peter)",
       "Secure Burner Comms",
       "Dan Araujo (Josh)",
-      "Lucin",
-      "Emma Colbert (Laura)",
-      "Inspector Marc Valois",
       "Judith Dumont (Carla)",
-      "Varian Svazz (Allen)",
       "Victor Mendes (Steinbach)",
-      "SolSec",
-      "Zoy (Damon)",
       "Mercier Genetic Findings",
-      "Mobile Data Tube",
-      "Dr. Luc Moreau",
-      "Inspector Marc Valois",
-      "Lucin",
-      "Chief Helene Marchand",
-      "Identity Veils",
-      "Transstar Sector Exchange",
-      "0-31 Saichi Maru (Annette)",
-      "Cass Pien (Kolb)",
-      "Ciernan Seanislav (Peter)",
-      "Dan Araujo (Josh)",
-      "Emma Colbert (Laura)",
-      "Judith Dumont (Carla)",
-      "Varian Svazz (Allen)",
-      "Victor Mendes (Steinbach)",
-      "Zoy (Damon)"
+      "Transstar Sector Exchange"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
@@ -1699,9 +3149,9 @@
       "Chief-Helene-Marchand",
       "Dr-Luc-Moreau",
       "Identity-Veils",
-      "Identity-Veils",
       "Inspector-Marc-Valois",
       "Jardin-Syndicate",
+      "Les-Jardins-Ferm-s",
       "Lucin",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
@@ -1711,7 +3161,7 @@
       "Secure-Burner-Comms",
       "Social-Solidarity",
       "SolSec",
-      "SolSec"
+      "Transstar-Sector-Exchange"
     ],
     "keyLinks": [
       "[[Mercier Genetic Findings]]",
@@ -1720,6 +3170,37 @@
       "[[Lucin]]"
     ],
     "excerpt": "# Session 2 - Masks and Markers **Transcript Source:** `transcript_2026-07-14T13_30_07.150Z.json` ## Synopsis The group wakes in Emma's warehouse with practical problems: [[0-31 Saichi Maru (Annette)]] needs a heavy charge, the [[Identity Veils]] have little time left, and the party still needs evid"
+  },
+  {
+    "id": "3:Sister-Celeste-Moreau",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Sister-Celeste-Moreau",
+    "title": "Sister Celeste Moreau",
+    "category": "npc",
+    "summary": "Community Organizer at Arcosphere Rousseau.",
+    "tags": [
+      "npc",
+      "civic",
+      "charity"
+    ],
+    "aliases": [
+      "Celeste Moreau"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Arcosphere Rousseau"
+    ],
+    "backlinks": [
+      "Arcosphere-Rousseau"
+    ],
+    "keyLinks": [
+      "[[Arcosphere Rousseau]]"
+    ],
+    "excerpt": "# Sister Celeste Moreau *Community Organizer* ## Overview Sister Celeste Moreau runs charitable programs throughout the lower districts of the Rousseau Arcology and is widely respected by the residents she serves. Where the state measures citizens by genetic and demographic value, her work reaches t"
   },
   {
     "id": "3:Social-Solidarity",
@@ -1744,24 +3225,35 @@
       "SolSec",
       "Session 2 - Masks and Markers",
       "Inspector Marc Valois",
-      "SolSec",
       "Hall des Futurs Choisis",
-      "Alain Mercier"
+      "Alain Mercier",
+      "Leo Duprey",
+      "Director-General Camille Fournier",
+      "Inspector-General Marc Villeneuve"
     ],
     "backlinks": [
+      "Agent-Luc-Deschamps",
+      "Commissioner-Elise-Martin",
+      "Director-General-Camille-Fournier",
+      "Director-Luc-Beaumont",
       "Elena-Verona",
       "Emma-Colbert-Laura",
+      "Hall-des-Futurs-Choisis",
+      "Home-Guard",
+      "Inspector-Adrien-Martin",
+      "Inspector-General-Marc-Villeneuve",
       "Inspector-Marc-Valois",
+      "Leo-Duprey",
       "Mercier-Assassination",
+      "Nadia-Giroux",
+      "Pierre-Gauthier",
       "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "SolSec",
       "SolSec",
       "Timeline"
     ],
     "keyLinks": [],
-    "excerpt": "# Ministère de la Solidarité Sociale # Ministry of Social Solidarity *\"Harmony Through Responsibility\"* **Designation:** Ministry of Social Solidarity | **Type:** Government Ministry | **Founded:** 705 | **Status:** Active | **Authority:** Supreme Presidency of Jardin Social Solidarity Emblem ![Mini"
+    "excerpt": "# Ministère de la Solidarité Sociale *Ministry of Social Solidarity* *\"Harmony Through Responsibility\"* **Designation:** Ministry of Social Solidarity | **Type:** Government Ministry | **Founded:** 705 | **Status:** Active | **Authority:** Supreme Presidency of Jardin Social Solidarity Emblem ![Mini"
   },
   {
     "id": "3:SolSec",
@@ -1789,20 +3281,19 @@
       "Inspector Marc Valois",
       "Mercier Assassination",
       "Hall des Futurs Choisis",
-      "Social Solidarity",
-      "Session 1 - Official Business",
-      "Session 2 - Masks and Markers"
+      "Session 1 - Official Business"
     ],
     "backlinks": [
+      "Agent-Luc-Deschamps",
+      "Amelia-Torres",
       "Emma-Colbert-Laura",
+      "Etienne-Moreau",
+      "Hall-des-Futurs-Choisis",
       "Inspector-Marc-Valois",
       "Marcel-Delphine",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
+      "Sarah-Chen",
       "Session-2-Masks-and-Markers",
       "Social-Solidarity",
-      "Social-Solidarity",
-      "Timeline",
       "Timeline",
       "Victor-Mendes-Steinbach"
     ],
@@ -1884,9 +3375,6 @@
       "Transstar Sector Exchange",
       "Sunken Ship-Boat",
       "Miasma",
-      "0-31 Saichi Maru (Annette)",
-      "Identity Veils",
-      "Hall des Futurs Choisis",
       "Social Solidarity",
       "SolSec",
       "Emma Colbert (Laura)",
@@ -1896,14 +3384,8 @@
       "Mercier Genetic Findings",
       "Secure Burner Comms",
       "Lucin",
-      "Transstar Sector Exchange",
-      "Les Jardins Fermes",
-      "Chief Helene Marchand",
-      "Marcel Delphine",
-      "Identity Veils",
-      "SolSec",
-      "Transstar Sector Exchange",
-      "Mercier's Locked Pad"
+      "Les Jardins Fermés",
+      "Chief Helene Marchand"
     ],
     "backlinks": [],
     "keyLinks": [
@@ -1911,27 +3393,6 @@
       "[[Session 2 - Masks and Markers]]"
     ],
     "excerpt": "# Timeline ## 143-1105 - Official Business ### Summons to the Hall The player characters are summoned to the [[Hall des Futurs Choisis]] in Nouvelle Sainte-Jeanne for official genetic, military, financial, or AI-status review. Their military IDs allow many of them to enter armed, but the grouping is"
-  },
-  {
-    "id": "3:Transstar",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Transstar",
-    "title": "Transstar",
-    "category": "organization",
-    "summary": "",
-    "tags": [
-      "organization"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": "# Transstar *The Merchant Line of the Solomani Cause* **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party ![Corporation logo](/wiki/media/transstar.jpg) | Field | Value | | ------------------ | ---------------------------------- | | Design"
   },
   {
     "id": "3:Transstar-Sector-Exchange",
@@ -1949,22 +3410,76 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
+    "links": [
+      "Antoine Mercier",
+      "Commissioner Isabelle Fournier",
+      "Lucien Voss",
+      "Mara Kovalenko",
+      "Mercier Frame-Up",
+      "Identity Veils",
+      "Session 2 - Masks and Markers",
+      "Lucin"
+    ],
     "backlinks": [
+      "Antoine-Mercier",
+      "Commissioner-Isabelle-Fournier",
       "Emma-Colbert-Laura",
       "Jardin",
       "Jardin-Syndicate",
+      "Lucien-Voss",
       "Lucin",
+      "Mara-Kovalenko",
       "Nico-Gay",
       "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
-      "Timeline",
-      "Timeline",
       "Timeline"
     ],
     "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Secteur d'Échange Transstar # Transstar Sector Exchange *\"The Market Never Sleeps.\"* **Location:** Grand Axis District, Nouvelle Sainte-Jeanne, Jardin **Type:** Special Economic Zone **Administrative Authority:** Transstar Economic Directorate **Status:** Semi-Autonomous Economic District **Popula"
+    "excerpt": "# Transstar Sector Exchange *Secteur d'Échange Transstar* *\"The Market Never Sleeps.\"* **Location:** Grand Axis District, Nouvelle Sainte-Jeanne, Jardin **Type:** Special Economic Zone **Administrative Authority:** Transstar Economic Directorate **Status:** Semi-Autonomous Economic District **Popula"
+  },
+  {
+    "id": "3:Transstar",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar",
+    "title": "Transstar",
+    "category": "organization",
+    "summary": "",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Étienne Moreau",
+      "Claire Bouchard",
+      "Captain Victor Mendes",
+      "Nadine Pelletier",
+      "Luc Girard",
+      "Sarah Chen",
+      "Armand Rousselet",
+      "Elena Kovacs",
+      "Philippe Laurent",
+      "Amelia Torres"
+    ],
+    "backlinks": [
+      "Amelia-Torres",
+      "Antoine-Mercier",
+      "Armand-Rousselet",
+      "Captain-Victor-Mendes",
+      "Claire-Bouchard",
+      "Elena-Kovacs",
+      "Etienne-Moreau",
+      "Luc-Girard",
+      "Nadine-Pelletier",
+      "Philippe-Laurent",
+      "Sarah-Chen"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Transstar *The Merchant Line of the Solomani Cause* **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party ![Corporation logo](/wiki/media/transstar.jpg) | Field | Value | | ------------------ | ---------------------------------- | | Design"
   },
   {
     "id": "3:Varian-Svazz-Allen",
@@ -1990,8 +3505,6 @@
       "0-31-Saichi-Maru-Annette",
       "Campaign",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
@@ -2019,10 +3532,10 @@
       "SolSec"
     ],
     "backlinks": [
+      "Arcosphere-Rousseau",
       "Campaign",
       "Elena-Verona",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
@@ -2059,9 +3572,6 @@
       "False-News-Broadcast",
       "Mercier-Frame-Up",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Timeline"
     ],

@@ -12,7 +12,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[Lucin]]"
-  - "[[Les Jardins Fermes]]"
+  - "[[Les Jardins Fermés]]"
 aliases:
   - Helene Marchand
   - Chief Marchand

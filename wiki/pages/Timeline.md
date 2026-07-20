@@ -84,7 +84,7 @@ The supply team acquires food, medical supplies, water and hygiene goods, batter
 
 ### Lucin's Delivery
 
-The party completes Lucin's errand, picking up a crate from Dome 2 of [[Les Jardins Fermes]] and delivering it to [[Chief Helene Marchand]]'s secured residence. The crate contains a corgi. The group keeps Lucin's trike.
+The party completes Lucin's errand, picking up a crate from Dome 2 of [[Les Jardins Fermés]] and delivering it to [[Chief Helene Marchand]]'s secured residence. The crate contains a corgi. The group keeps Lucin's trike.
 
 ### Genetic Marker Revelation
 
