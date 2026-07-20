@@ -32,7 +32,13 @@
       "Dan-Araujo-Josh",
       "Identity-Veils",
       "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline",
       "Timeline",
       "Varian-Svazz-Allen"
     ],
@@ -60,6 +66,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Fort Robespierre Naval Annex",
       "Fort Robespierre Naval Annex"
     ],
     "backlinks": [
@@ -124,6 +131,9 @@
     "links": [
       "SolSec",
       "Customs & Immigration Checkpoint Harmony",
+      "Social Solidarity",
+      "Customs & Immigration Checkpoint Harmony",
+      "SolSec",
       "Social Solidarity"
     ],
     "backlinks": [
@@ -165,6 +175,7 @@
     "backlinks": [
       "Campaign",
       "Dr-Sophie-Delacroix",
+      "Dr-Sophie-Delacroix",
       "False-News-Broadcast",
       "Friday-Party-Congress-Hearing",
       "Hall-des-Futurs-Choisis",
@@ -173,12 +184,17 @@
       "Judith-Dumont-Carla",
       "Le-Palais-de-Continuit",
       "Leo-Duprey",
+      "Leo-Duprey",
       "Marcel-Delphine",
+      "Marcel-Delphine",
+      "Mercier-Assassination",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
       "Mercier-Genetic-Findings",
       "Merciers-Locked-Pad",
+      "Merciers-Locked-Pad",
       "Quartier-Danton",
+      "Session-1-Official-Business",
       "Session-1-Official-Business",
       "Social-Solidarity",
       "Timeline",
@@ -209,6 +225,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "SolSec",
       "Transstar",
       "SolSec"
     ],
@@ -244,7 +262,8 @@
     "playerText": "",
     "links": [
       "Transstar",
-      "Transstar Sector Exchange"
+      "Transstar Sector Exchange",
+      "Transstar"
     ],
     "backlinks": [
       "Transstar-Sector-Exchange"
@@ -295,6 +314,7 @@
       "Victor-Mendes-Steinbach"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Arcosphère Rousseau *Rousseau Arcology* **Location:** Central Nouvelle Sainte-Jeanne, Jardin **Type:** Urban Arcology, Residential Megastructure, Commercial Hub **Administrative Authority:** Arcology Administration Directorate **Governor:** Adrien Pelletier **Population:** 1.8 Billion Permanent Re"
   },
   {
@@ -318,6 +338,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
       "Transstar"
     ],
     "backlinks": [
@@ -391,6 +412,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Port Sainte-Jeanne Downport",
+      "Transstar",
       "Port Sainte-Jeanne Downport",
       "Transstar"
     ],
@@ -466,6 +489,9 @@
       "Friday-Party-Congress-Hearing",
       "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Sunken-Ship-Boat",
       "Sunken-Ship-Boat"
     ],
     "keyLinks": [],
@@ -505,6 +531,8 @@
       "Les-Jardins-Ferm-s",
       "Lucin",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Timeline"
     ],
     "keyLinks": [
@@ -539,6 +567,8 @@
       "Campaign",
       "Mercier-Assassination",
       "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
@@ -565,6 +595,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
       "Transstar"
     ],
     "backlinks": [
@@ -598,6 +629,8 @@
     "playerText": "",
     "links": [
       "Quartier Sainte-Liberté",
+      "Jardin Syndicate",
+      "Quartier Sainte-Liberté",
       "Jardin Syndicate"
     ],
     "backlinks": [
@@ -630,6 +663,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Fort Robespierre Naval Annex",
       "Fort Robespierre Naval Annex"
     ],
     "backlinks": [
@@ -661,6 +695,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Fort Robespierre Naval Annex",
       "Fort Robespierre Naval Annex"
     ],
     "backlinks": [
@@ -692,6 +727,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Port Sainte-Jeanne Downport",
+      "Jardin Syndicate",
       "Port Sainte-Jeanne Downport",
       "Jardin Syndicate"
     ],
@@ -726,7 +763,9 @@
     "playerText": "",
     "links": [
       "Social Solidarity",
-      "Customs & Immigration Checkpoint Harmony"
+      "Customs & Immigration Checkpoint Harmony",
+      "Customs & Immigration Checkpoint Harmony",
+      "Social Solidarity"
     ],
     "backlinks": [
       "Customs-Immigration-Checkpoint-Harmony"
@@ -758,6 +797,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar Sector Exchange",
       "Transstar Sector Exchange"
     ],
     "backlinks": [
@@ -791,10 +831,14 @@
     ],
     "backlinks": [
       "Director-Elise-Fournier",
+      "Director-Elise-Fournier",
       "Dr-Amelie-Rousseau",
+      "Dr-Amelie-Rousseau",
+      "Mentor-Jean-Mercier",
       "Mentor-Jean-Mercier"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Crèche District 14 *\"Every Child, A Future.\"* **Location:** Eastern Nouvelle Sainte-Jeanne **Type:** State Child Development Arcology **Administrative Authority:** Directorate of Child Development **Status:** Active **Population:** 1.2 Million Children **Staff:** 180,000 Educators, Medical Personn"
   },
   {
@@ -821,11 +865,16 @@
     ],
     "backlinks": [
       "Agent-Luc-Deschamps",
+      "Agent-Luc-Deschamps",
+      "Commissioner-Elise-Martin",
       "Commissioner-Elise-Martin",
       "Director-Simone-Laurent",
+      "Director-Simone-Laurent",
+      "Inspector-Gabriel-Rousseau",
       "Inspector-Gabriel-Rousseau"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Customs & Immigration Checkpoint Harmony *Poste d'Harmonie Frontalière* *\"Every Arrival Matters.\"* **Location:** Port Sainte-Jeanne Downport **Type:** Customs and Immigration Processing Complex **Administrative Authority:** Directorate of Citizen Integrity **Operational Control:** Ministry of Soci"
   },
   {
@@ -855,6 +904,7 @@
       "0-31-Saichi-Maru-Annette",
       "Campaign",
       "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
@@ -882,6 +932,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Crèche District 14",
       "Crèche District 14"
     ],
     "backlinks": [
@@ -913,6 +964,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Social Solidarity",
+      "Leo Duprey",
       "Social Solidarity",
       "Leo Duprey"
     ],
@@ -947,7 +1000,8 @@
     "playerText": "",
     "links": [
       "Port Sainte-Jeanne Downport",
-      "Social Solidarity"
+      "Social Solidarity",
+      "Port Sainte-Jeanne Downport"
     ],
     "backlinks": [
       "Port-Sainte-Jeanne-Downport"
@@ -978,6 +1032,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Customs & Immigration Checkpoint Harmony",
       "Customs & Immigration Checkpoint Harmony"
     ],
     "backlinks": [
@@ -1009,6 +1064,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Crèche District 14",
       "Crèche District 14"
     ],
     "backlinks": [
@@ -1040,6 +1096,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Les Jardins Fermés",
       "Les Jardins Fermés"
     ],
     "backlinks": [
@@ -1071,6 +1128,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Les Jardins Fermés",
       "Les Jardins Fermés"
     ],
     "backlinks": [
@@ -1113,6 +1171,9 @@
       "Hall-des-Futurs-Choisis",
       "Mobile-Data-Tube",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Timeline"
     ],
     "keyLinks": [
@@ -1143,6 +1204,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Les Jardins Fermés",
+      "Leo Duprey",
+      "Alain Mercier",
       "Les Jardins Fermés",
       "Leo Duprey",
       "Alain Mercier"
@@ -1178,6 +1242,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
       "Transstar"
     ],
     "backlinks": [
@@ -1254,6 +1319,7 @@
       "Mercier Assassination",
       "Marcel Delphine",
       "Nico Gay",
+      "Marcel Delphine",
       "Jardin Syndicate",
       "Transstar Sector Exchange",
       "Hall des Futurs Choisis",
@@ -1270,6 +1336,10 @@
       "Mercier-Frame-Up",
       "Nico-Gay",
       "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "SolSec",
       "Timeline",
@@ -1300,7 +1370,8 @@
     "playerText": "",
     "links": [
       "Port Sainte-Jeanne Downport",
-      "Chief Helene Marchand"
+      "Chief Helene Marchand",
+      "Port Sainte-Jeanne Downport"
     ],
     "backlinks": [
       "Port-Sainte-Jeanne-Downport"
@@ -1331,6 +1402,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "SolSec",
       "Transstar",
       "SolSec"
     ],
@@ -1405,13 +1478,18 @@
     ],
     "backlinks": [
       "Admiral-Henri-Duval",
+      "Admiral-Henri-Duval",
+      "Colonel-Victor-Almeida",
       "Colonel-Victor-Almeida",
       "Commander-Lucien-Marchand",
+      "Commander-Lucien-Marchand",
+      "General-Claire-Moreau",
       "General-Claire-Moreau",
       "Home-Guard",
       "Jardin"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Fort Robespierre Naval Annex *\"Vigilance, Duty, Victory.\"* **Location:** Southern Coastal Military Zone, Jardin **Type:** Naval Installation and Military Training Complex **Administrative Authority:** Confederation Navy **Operational Control:** Jardin Naval Command **Status:** Active Military Faci"
   },
   {
@@ -1474,6 +1552,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Fort Robespierre Naval Annex",
       "Fort Robespierre Naval Annex"
     ],
     "backlinks": [
@@ -1506,6 +1585,7 @@
       "Home Guard",
       "Social Solidarity",
       "Identity Veils",
+      "Social Solidarity",
       "Inspector Marc Valois",
       "SolSec",
       "Dr. Luc Moreau",
@@ -1521,16 +1601,21 @@
       "Inspector-Marc-Valois",
       "Le-Palais-de-Continuit",
       "Marcel-Delphine",
+      "Marcel-Delphine",
       "Mercier-Assassination",
       "Mobile-Data-Tube",
       "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Social-Solidarity",
       "SolSec",
       "Timeline",
+      "Timeline",
       "Zoy-Damon"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Hall des Futurs Choisis *Hall of Chosen Futures* **Location:** Government District, Nouvelle Sainte-Jeanne, Jardin **Type:** Ministry Complex, Civic Registry, Genetic Administration Center **Population:** Approximately 120,000 employees and visitors daily **Administrative Authority:** Ministry of "
   },
   {
@@ -1553,6 +1638,7 @@
     "playerText": "",
     "links": [
       "Mercier Assassination",
+      "Social Solidarity",
       "Social Solidarity",
       "Fort Robespierre Naval Annex"
     ],
@@ -1597,7 +1683,8 @@
       "Session 2 - Masks and Markers",
       "Chief Helene Marchand",
       "Mercier Frame-Up",
-      "Session 1 - Official Business"
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
@@ -1609,7 +1696,13 @@
       "Jardin-Syndicate",
       "Marcel-Delphine",
       "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Timeline",
+      "Timeline",
       "Timeline",
       "Transstar-Sector-Exchange"
     ],
@@ -1642,6 +1735,9 @@
     "links": [
       "Social Solidarity",
       "Quartier Sainte-Liberté",
+      "Jardin Syndicate",
+      "Quartier Sainte-Liberté",
+      "Social Solidarity",
       "Jardin Syndicate"
     ],
     "backlinks": [
@@ -1676,7 +1772,8 @@
     "playerText": "",
     "links": [
       "Customs & Immigration Checkpoint Harmony",
-      "Identity Veils"
+      "Identity Veils",
+      "Customs & Immigration Checkpoint Harmony"
     ],
     "backlinks": [
       "Customs-Immigration-Checkpoint-Harmony"
@@ -1707,6 +1804,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Social Solidarity",
       "Social Solidarity"
     ],
     "backlinks": [
@@ -1757,6 +1855,9 @@
       "Mercier-Frame-Up",
       "Merciers-Locked-Pad",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Social-Solidarity",
       "SolSec",
       "Timeline"
@@ -1790,7 +1891,8 @@
     "playerText": "",
     "links": [
       "Jardin Syndicate",
-      "Arcosphere Rousseau"
+      "Arcosphere Rousseau",
+      "Jardin Syndicate"
     ],
     "backlinks": [
       "Arcosphere-Rousseau"
@@ -1802,67 +1904,13 @@
     "excerpt": "# Jacques Martin *Business Executive* ## Overview Jacques Martin officially owns several logistics companies operating out of the Rousseau Arcology. Unofficially, he is widely rumored to maintain extensive connections within the [[Jardin Syndicate]], the kind of ties that turn a shipping firm into a"
   },
   {
-    "id": "3:Jardin-Syndicate",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Jardin-Syndicate",
-    "title": "Jardin Syndicate",
-    "category": "organization",
-    "summary": "The **Jardin Syndicate** is one of the largest and most influential",
-    "tags": [
-      "organization"
-    ],
-    "aliases": [
-      "Syndicat Jardin"
-    ],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Session 1 - Official Business",
-      "Marcel Delphine",
-      "Alain Mercier",
-      "Mercier Frame-Up",
-      "Arcosphere Rousseau",
-      "Identity Veils",
-      "Session 2 - Masks and Markers",
-      "Lucin",
-      "Transstar Sector Exchange"
-    ],
-    "backlinks": [
-      "Alain-Mercier",
-      "Cass-Pien-Kolb",
-      "Colette-Moreau",
-      "Commander-Sophie-Durand",
-      "Emma-Colbert-Laura",
-      "False-News-Broadcast",
-      "Friday-Party-Congress-Hearing",
-      "Inspector-Adrien-Martin",
-      "Jacques-Martin",
-      "Lucin",
-      "Marcel-Delphine",
-      "Mercier-Assassination",
-      "Mercier-Frame-Up",
-      "Nico-Gay",
-      "Session-1-Official-Business",
-      "Sunken-Ship-Boat",
-      "Timeline",
-      "Zoy-Damon"
-    ],
-    "keyLinks": [
-      "[[Marcel Delphine]]"
-    ],
-    "excerpt": "# Syndicat Jardin *Jardin Syndicate* **Type:** Interstellar Criminal Organization **Area of Operations:** Jardin Subsector and neighboring regions on both sides of the Solomani-Imperial border **Primary Activities:** * Human trafficking * Refugee exploitation * Identity fraud * Smuggling * Money lau"
-  },
-  {
     "id": "3:Jardin",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
     "slug": "Jardin",
     "title": "Jardin",
     "category": "location",
-    "summary": "",
+    "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
     "tags": [
       "location",
       "world"
@@ -1888,6 +1936,70 @@
       "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
     ],
     "excerpt": "# Jardin ![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png) *Capital World of the Jardin Subsector* **UWP:** A5679BC-D **Allegiance:** SoCf (Solomani Confederation) **Trade Codes:** Hi, Cp, Pr, Pz, Ht **Subsector:** Jardin **Tech Level:** 13 ## Contents - [Overview](#overview) - [Major Cities](#major"
+  },
+  {
+    "id": "3:Jardin-Syndicate",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Jardin-Syndicate",
+    "title": "Jardin Syndicate",
+    "category": "organization",
+    "summary": "The **Jardin Syndicate** is one of the largest and most influential criminal organizations operating within the Jardin Subsector. Originally founded on Jardin itself, the Syndicate has expanded across dozens of worlds, establishing networks that span both Confederation and Imperial territory.",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [
+      "Syndicat Jardin"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 1 - Official Business",
+      "Marcel Delphine",
+      "Alain Mercier",
+      "Mercier Frame-Up",
+      "Arcosphere Rousseau",
+      "Identity Veils",
+      "Session 2 - Masks and Markers",
+      "Lucin",
+      "Marcel Delphine",
+      "Transstar Sector Exchange",
+      "Marcel Delphine"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Cass-Pien-Kolb",
+      "Colette-Moreau",
+      "Colette-Moreau",
+      "Commander-Sophie-Durand",
+      "Commander-Sophie-Durand",
+      "Emma-Colbert-Laura",
+      "False-News-Broadcast",
+      "Friday-Party-Congress-Hearing",
+      "Inspector-Adrien-Martin",
+      "Inspector-Adrien-Martin",
+      "Jacques-Martin",
+      "Jacques-Martin",
+      "Lucin",
+      "Marcel-Delphine",
+      "Marcel-Delphine",
+      "Marcel-Delphine",
+      "Mercier-Assassination",
+      "Mercier-Assassination",
+      "Mercier-Frame-Up",
+      "Nico-Gay",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Sunken-Ship-Boat",
+      "Timeline",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Marcel Delphine]]"
+    ],
+    "excerpt": "# Syndicat Jardin *Jardin Syndicate* **Type:** Interstellar Criminal Organization **Area of Operations:** Jardin Subsector and neighboring regions on both sides of the Solomani-Imperial border **Primary Activities:** * Human trafficking * Refugee exploitation * Identity fraud * Smuggling * Money lau"
   },
   {
     "id": "3:Judith-Dumont-Carla",
@@ -1919,6 +2031,7 @@
       "Keith-Morris",
       "Miasma",
       "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
@@ -1945,6 +2058,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Quartier Danton",
       "Quartier Danton"
     ],
     "backlinks": [
@@ -1982,6 +2096,7 @@
       "Jardin",
       "Judith-Dumont-Carla",
       "Miasma",
+      "Sunken-Ship-Boat",
       "Sunken-Ship-Boat"
     ],
     "keyLinks": [
@@ -2015,9 +2130,11 @@
     "backlinks": [
       "Campaign",
       "Jardin",
+      "Leo-Duprey",
       "Leo-Duprey"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Le Palais de Continuité *The Palace of Continuity* **Location:** Nouvelle Sainte-Jeanne, Jardin **Type:** Seat of Government, Executive Complex, National Symbol **Population:** Approximately 35,000 permanent staff **Security Level:** Extreme **Primary Authority:** Office of the Supreme Presidency "
   },
   {
@@ -2045,11 +2162,15 @@
     "links": [
       "Le Palais de Continuité",
       "Alain Mercier",
+      "Le Palais de Continuité",
+      "Alain Mercier",
       "Social Solidarity"
     ],
     "backlinks": [
       "Campaign",
       "Director-General-Camille-Fournier",
+      "Director-General-Camille-Fournier",
+      "Dr-Sophie-Delacroix",
       "Dr-Sophie-Delacroix",
       "Le-Palais-de-Continuit",
       "Marcel-Delphine",
@@ -2091,15 +2212,21 @@
     "backlinks": [
       "Dan-Araujo-Josh",
       "Dr-Gabriel-Laurent",
+      "Dr-Gabriel-Laurent",
       "Dr-Isabelle-Fournier",
+      "Dr-Isabelle-Fournier",
+      "Dr-Sophie-Delacroix",
       "Dr-Sophie-Delacroix",
       "Judith-Dumont-Carla",
       "Lucin",
       "Professor-Lucien-Morel",
+      "Professor-Lucien-Morel",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Timeline"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Les Jardins Fermés *The Closed Gardens* **Location:** Eastern Scientific District, Nouvelle Sainte-Jeanne, Jardin **Type:** Scientific Research Complex, Botanical Preserve, Agricultural Development Arcology **Administrative Authority:** Ministry of Genetics **Director-General:** Dr. Sophie Delacro"
   },
   {
@@ -2123,6 +2250,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
       "Transstar"
     ],
     "backlinks": [
@@ -2155,6 +2283,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Quartier Sainte-Liberté",
       "Quartier Sainte-Liberté"
     ],
     "backlinks": [
@@ -2186,6 +2315,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar Sector Exchange",
       "Transstar Sector Exchange"
     ],
     "backlinks": [
@@ -2235,6 +2365,9 @@
       "Les-Jardins-Ferm-s",
       "Merciers-Locked-Pad",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Sunken-Ship-Boat",
       "Timeline",
       "Transstar-Sector-Exchange"
@@ -2267,6 +2400,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar Sector Exchange",
       "Transstar Sector Exchange"
     ],
     "backlinks": [
@@ -2300,7 +2434,11 @@
       "Jardin Syndicate",
       "Alain Mercier",
       "Identity Veils",
+      "Jardin Syndicate",
       "Leo Duprey",
+      "Alain Mercier",
+      "Jardin Syndicate",
+      "Hall des Futurs Choisis",
       "SolSec",
       "Rousseau Arcology",
       "Citizens Aid Cooperative",
@@ -2312,7 +2450,10 @@
       "Campaign",
       "Cass-Pien-Kolb",
       "Emma-Colbert-Laura",
+      "Emma-Colbert-Laura",
       "Identity-Veils",
+      "Jardin-Syndicate",
+      "Jardin-Syndicate",
       "Jardin-Syndicate",
       "Judith-Dumont-Carla",
       "Lucin",
@@ -2321,6 +2462,9 @@
       "Nico-Gay",
       "Quartier-Sainte-Libert",
       "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Timeline",
       "Timeline"
     ],
     "keyLinks": [],
@@ -2347,6 +2491,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Crèche District 14",
       "Crèche District 14"
     ],
     "backlinks": [
@@ -2386,9 +2531,11 @@
       "Jardin Syndicate",
       "Session 2 - Masks and Markers",
       "Mercier Frame-Up",
+      "Alain Mercier",
       "Elena Verona",
       "Social Solidarity",
       "Home Guard",
+      "Jardin Syndicate",
       "Mercier Genetic Findings",
       "Mobile Data Tube"
     ],
@@ -2407,6 +2554,8 @@
       "Inspector-Marc-Valois",
       "Marcel-Delphine",
       "Merciers-Locked-Pad",
+      "Merciers-Locked-Pad",
+      "Session-1-Official-Business",
       "Session-1-Official-Business",
       "Social-Solidarity",
       "SolSec",
@@ -2461,6 +2610,8 @@
       "Jardin-Syndicate",
       "Mercier-Assassination",
       "Merciers-Locked-Pad",
+      "Merciers-Locked-Pad",
+      "Session-1-Official-Business",
       "Session-1-Official-Business",
       "Timeline",
       "Transstar-Sector-Exchange"
@@ -2478,7 +2629,7 @@
     "slug": "Mercier-Genetic-Findings",
     "title": "Mercier Genetic Findings",
     "category": "event",
-    "summary": "Recovered research data suggests decades of genetic-marker tests tied",
+    "summary": "Recovered research data suggests decades of genetic-marker tests tied to psionic-like abilities and alien or non-Solomani markers.",
     "tags": [
       "event",
       "clue",
@@ -2509,6 +2660,7 @@
       "Inspector-Marc-Valois",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
+      "Merciers-Locked-Pad",
       "Merciers-Locked-Pad",
       "Mobile-Data-Tube",
       "Session-2-Masks-and-Markers",
@@ -2552,12 +2704,18 @@
       "Mercier Frame-Up",
       "Leo Duprey",
       "Lucin",
-      "Inspector Marc Valois"
+      "Inspector Marc Valois",
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Alain Mercier",
+      "Mercier Genetic Findings",
+      "Social Solidarity"
     ],
     "backlinks": [
       "Alain-Mercier",
       "Session-1-Official-Business",
       "Sunken-Ship-Boat",
+      "Timeline",
       "Timeline"
     ],
     "keyLinks": [
@@ -2643,6 +2801,9 @@
       "Mercier-Frame-Up",
       "Mercier-Genetic-Findings",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Timeline",
       "Zoy-Damon"
     ],
@@ -2707,6 +2868,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
       "Transstar"
     ],
     "backlinks": [
@@ -2779,6 +2941,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
       "Transstar"
     ],
     "backlinks": [
@@ -2811,6 +2974,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Quartier Danton",
+      "Social Solidarity",
       "Quartier Danton",
       "Social Solidarity"
     ],
@@ -2847,12 +3012,19 @@
     ],
     "backlinks": [
       "Captain-Victor-Mendes",
+      "Captain-Victor-Mendes",
+      "Commander-Sophie-Durand",
       "Commander-Sophie-Durand",
       "Director-Luc-Beaumont",
+      "Director-Luc-Beaumont",
       "Etienne-Marchand",
+      "Etienne-Marchand",
+      "Sunken-Ship-Boat",
+      "Sunken-Ship-Boat",
       "Sunken-Ship-Boat"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Port Sainte-Jeanne Downport *\"Gateway to the Frontier.\"* **Location:** Western Nouvelle Sainte-Jeanne **Type:** Class A Starport Downport **Administrative Authority:** Port Authority of Jardin **Operational Control:** Transstar Port Services **Security:** Port Security Directorate, Customs Bureau,"
   },
   {
@@ -2876,6 +3048,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Quartier Danton",
       "Quartier Danton"
     ],
     "backlinks": [
@@ -2907,6 +3080,7 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Les Jardins Fermés",
       "Les Jardins Fermés"
     ],
     "backlinks": [
@@ -2941,10 +3115,14 @@
     ],
     "backlinks": [
       "Juliette-Mercier",
+      "Juliette-Mercier",
       "Pierre-Gauthier",
+      "Pierre-Gauthier",
+      "Professor-Emile-Laurent",
       "Professor-Emile-Laurent"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Quartier Danton *Danton Quarter* *\"Ideas Shape History.\"* **Location:** Central Nouvelle Sainte-Jeanne **Type:** Political and Academic District **Administrative Authority:** Municipal Government of Nouvelle Sainte-Jeanne **Status:** Active **Population:** 2.4 Million **Primary Functions:** - Part"
   },
   {
@@ -2971,12 +3149,16 @@
     ],
     "backlinks": [
       "Colette-Moreau",
+      "Colette-Moreau",
       "Inspector-Adrien-Martin",
+      "Inspector-Adrien-Martin",
+      "Lucien-Roche",
       "Lucien-Roche",
       "Lucin",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
+    "parent": "Jardin",
     "excerpt": "# Quartier Sainte-Liberté *Saint Liberty Quarter* *\"Everyone Belongs Somewhere.\"* **Location:** Lower Eastern Rousseau Arcology and Adjacent Surface Districts **Type:** Mixed Residential and Commercial District **Administrative Authority:** Municipal Administration of Nouvelle Sainte-Jeanne **Actual"
   },
   {
@@ -3000,6 +3182,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "SolSec",
       "Transstar",
       "SolSec"
     ],
@@ -3052,24 +3236,19 @@
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
     "slug": "Session-1-Official-Business",
-    "title": "Session 1 - Official Business",
+    "title": "Session 1 Official Business",
     "category": "game",
-    "summary": "Opening session: the group is framed for Alain Mercier's assassination and rescued by Marcel Delphine.",
-    "tags": [
-      "session",
-      "game",
-      "session-1"
-    ],
-    "aliases": [
-      "Game 1",
-      "Chapter 1 Game 1",
-      "Stars g1"
-    ],
-    "visibility": "players",
+    "summary": "",
+    "tags": [],
+    "aliases": [],
+    "visibility": "gm",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
     "links": [
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Marcel Delphine",
       "Hall des Futurs Choisis",
       "Alain Mercier",
       "Social Solidarity",
@@ -3079,22 +3258,34 @@
       "Marcel Delphine",
       "Jardin Syndicate",
       "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Alain Mercier",
       "Ciernan Seanislav (Peter)",
       "Elena Verona",
+      "Emma Colbert (Laura)",
+      "0-31 Saichi Maru (Annette)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
       "Zoy (Damon)",
+      "Identity Veils",
       "Transstar Sector Exchange",
       "Mercier Assassination",
       "Mercier Frame-Up",
       "False News Broadcast",
+      "Identity Veils",
       "Mercier's Locked Pad",
       "Friday Party Congress Hearing",
       "Sunken Ship-Boat",
       "Nico Gay",
+      "0-31 Saichi Maru (Annette)",
       "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
       "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
       "Judith Dumont (Carla)",
       "Varian Svazz (Allen)",
-      "Victor Mendes (Steinbach)"
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)"
     ],
     "backlinks": [
       "Alain-Mercier",
@@ -3108,12 +3299,8 @@
       "SolSec",
       "Sunken-Ship-Boat"
     ],
-    "keyLinks": [
-      "[[Mercier Assassination]]",
-      "[[Mercier Frame-Up]]",
-      "[[Marcel Delphine]]"
-    ],
-    "excerpt": "# Session 1 - Official Business **Transcript Source:** `Stars g1.md` ## Synopsis The group is summoned to the [[Hall des Futurs Choisis]] for official review and finds itself assembled in an unusually armed, suspiciously connected cluster. A broadcast announces that Minister [[Alain Mercier]] will r"
+    "keyLinks": [],
+    "excerpt": "--- category: game type: game name: Session 1 - Official Business summary: Opening session: the group is framed for Alain Mercier's assassination and rescued by Marcel Delphine. tags: - session - game - session-1 visibility: players approvalStatus: approved knownToPlayers: true keyLinks: - \"[[Mercie"
   },
   {
     "id": "3:Session-2-Masks-and-Markers",
@@ -3148,24 +3335,61 @@
       "Lucin",
       "Les Jardins Fermés",
       "Chief Helene Marchand",
+      "0-31 Saichi Maru (Annette)",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "SolSec",
       "Emma Colbert (Laura)",
+      "Inspector Marc Valois",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
       "Zoy (Damon)",
       "Cass Pien (Kolb)",
       "Varian Svazz (Allen)",
       "Quartier Sainte-Liberté",
+      "Lucin",
+      "Les Jardins Fermés",
+      "Chief Helene Marchand",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
       "Ciernan Seanislav (Peter)",
       "Secure Burner Comms",
       "Dan Araujo (Josh)",
+      "Lucin",
+      "Emma Colbert (Laura)",
+      "Inspector Marc Valois",
       "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
       "Victor Mendes (Steinbach)",
+      "SolSec",
+      "Zoy (Damon)",
       "Mercier Genetic Findings",
-      "Transstar Sector Exchange"
+      "Mobile Data Tube",
+      "Dr. Luc Moreau",
+      "Inspector Marc Valois",
+      "Lucin",
+      "Chief Helene Marchand",
+      "Identity Veils",
+      "Transstar Sector Exchange",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Alain-Mercier",
       "Chief-Helene-Marchand",
       "Dr-Luc-Moreau",
+      "Identity-Veils",
       "Identity-Veils",
       "Inspector-Marc-Valois",
       "Jardin-Syndicate",
@@ -3178,6 +3402,7 @@
       "Mobile-Data-Tube",
       "Secure-Burner-Comms",
       "Social-Solidarity",
+      "SolSec",
       "SolSec",
       "Transstar-Sector-Exchange"
     ],
@@ -3243,6 +3468,7 @@
       "SolSec",
       "Session 2 - Masks and Markers",
       "Inspector Marc Valois",
+      "SolSec",
       "Hall des Futurs Choisis",
       "Alain Mercier",
       "Leo Duprey",
@@ -3251,23 +3477,34 @@
     ],
     "backlinks": [
       "Agent-Luc-Deschamps",
+      "Agent-Luc-Deschamps",
       "Commissioner-Elise-Martin",
+      "Commissioner-Elise-Martin",
+      "Director-General-Camille-Fournier",
       "Director-General-Camille-Fournier",
       "Director-Luc-Beaumont",
       "Elena-Verona",
       "Emma-Colbert-Laura",
       "Hall-des-Futurs-Choisis",
+      "Hall-des-Futurs-Choisis",
+      "Home-Guard",
       "Home-Guard",
       "Inspector-Adrien-Martin",
+      "Inspector-Adrien-Martin",
+      "Inspector-General-Marc-Villeneuve",
       "Inspector-General-Marc-Villeneuve",
       "Inspector-Marc-Valois",
       "Leo-Duprey",
       "Mercier-Assassination",
       "Merciers-Locked-Pad",
+      "Merciers-Locked-Pad",
       "Nadia-Giroux",
+      "Pierre-Gauthier",
       "Pierre-Gauthier",
       "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
+      "SolSec",
       "SolSec",
       "Sunken-Ship-Boat",
       "Timeline"
@@ -3301,19 +3538,29 @@
       "Inspector Marc Valois",
       "Mercier Assassination",
       "Hall des Futurs Choisis",
-      "Session 1 - Official Business"
+      "Social Solidarity",
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers"
     ],
     "backlinks": [
       "Agent-Luc-Deschamps",
+      "Agent-Luc-Deschamps",
+      "Amelia-Torres",
       "Amelia-Torres",
       "Emma-Colbert-Laura",
+      "Etienne-Moreau",
       "Etienne-Moreau",
       "Hall-des-Futurs-Choisis",
       "Inspector-Marc-Valois",
       "Marcel-Delphine",
       "Sarah-Chen",
+      "Sarah-Chen",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Social-Solidarity",
+      "Social-Solidarity",
+      "Timeline",
       "Timeline",
       "Victor-Mendes-Steinbach"
     ],
@@ -3351,10 +3598,14 @@
       "Cass Pien (Kolb)",
       "Port Sainte-Jeanne Downport",
       "Keith Morris",
+      "Port Sainte-Jeanne Downport",
       "Social Solidarity",
       "Jardin Syndicate",
       "Lucin",
       "Mercier's Locked Pad",
+      "Cass Pien (Kolb)",
+      "Port Sainte-Jeanne Downport",
+      "Keith Morris",
       "Miasma",
       "Session 1 - Official Business"
     ],
@@ -3405,6 +3656,9 @@
       "Transstar Sector Exchange",
       "Sunken Ship-Boat",
       "Miasma",
+      "0-31 Saichi Maru (Annette)",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
       "Social Solidarity",
       "SolSec",
       "Emma Colbert (Laura)",
@@ -3414,8 +3668,14 @@
       "Mercier Genetic Findings",
       "Secure Burner Comms",
       "Lucin",
+      "Transstar Sector Exchange",
       "Les Jardins Fermés",
-      "Chief Helene Marchand"
+      "Chief Helene Marchand",
+      "Marcel Delphine",
+      "Identity Veils",
+      "SolSec",
+      "Transstar Sector Exchange",
+      "Mercier's Locked Pad"
     ],
     "backlinks": [],
     "keyLinks": [
@@ -3423,49 +3683,6 @@
       "[[Session 2 - Masks and Markers]]"
     ],
     "excerpt": "# Timeline ## 143-1105 - Official Business ### Summons to the Hall The player characters are summoned to the [[Hall des Futurs Choisis]] in Nouvelle Sainte-Jeanne for official genetic, military, financial, or AI-status review. Their military IDs allow many of them to enter armed, but the grouping is"
-  },
-  {
-    "id": "3:Transstar-Sector-Exchange",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Transstar-Sector-Exchange",
-    "title": "Transstar Sector Exchange",
-    "category": "location",
-    "summary": "",
-    "tags": [
-      "location"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Antoine Mercier",
-      "Commissioner Isabelle Fournier",
-      "Lucien Voss",
-      "Mara Kovalenko",
-      "Mercier Frame-Up",
-      "Identity Veils",
-      "Session 2 - Masks and Markers",
-      "Lucin"
-    ],
-    "backlinks": [
-      "Antoine-Mercier",
-      "Commissioner-Isabelle-Fournier",
-      "Emma-Colbert-Laura",
-      "Jardin",
-      "Jardin-Syndicate",
-      "Lucien-Voss",
-      "Lucin",
-      "Mara-Kovalenko",
-      "Nico-Gay",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Timeline"
-    ],
-    "keyLinks": [],
-    "excerpt": "# Transstar Sector Exchange *Secteur d'Échange Transstar* *\"The Market Never Sleeps.\"* **Location:** Grand Axis District, Nouvelle Sainte-Jeanne, Jardin **Type:** Special Economic Zone **Administrative Authority:** Transstar Economic Directorate **Status:** Semi-Autonomous Economic District **Popula"
   },
   {
     "id": "3:Transstar",
@@ -3497,19 +3714,79 @@
     ],
     "backlinks": [
       "Amelia-Torres",
+      "Amelia-Torres",
+      "Antoine-Mercier",
       "Antoine-Mercier",
       "Armand-Rousselet",
+      "Armand-Rousselet",
+      "Captain-Victor-Mendes",
       "Captain-Victor-Mendes",
       "Claire-Bouchard",
+      "Claire-Bouchard",
+      "Elena-Kovacs",
       "Elena-Kovacs",
       "Etienne-Moreau",
+      "Etienne-Moreau",
+      "Luc-Girard",
       "Luc-Girard",
       "Nadine-Pelletier",
+      "Nadine-Pelletier",
       "Philippe-Laurent",
+      "Philippe-Laurent",
+      "Sarah-Chen",
       "Sarah-Chen"
     ],
     "keyLinks": [],
     "excerpt": "# Transstar *The Merchant Line of the Solomani Cause* **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party ![Corporation logo](/wiki/media/transstar.jpg) | Field | Value | | ------------------ | ---------------------------------- | | Design"
+  },
+  {
+    "id": "3:Transstar-Sector-Exchange",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar-Sector-Exchange",
+    "title": "Transstar Sector Exchange",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Antoine Mercier",
+      "Commissioner Isabelle Fournier",
+      "Lucien Voss",
+      "Mara Kovalenko",
+      "Mercier Frame-Up",
+      "Identity Veils",
+      "Session 2 - Masks and Markers",
+      "Lucin"
+    ],
+    "backlinks": [
+      "Antoine-Mercier",
+      "Commissioner-Isabelle-Fournier",
+      "Commissioner-Isabelle-Fournier",
+      "Emma-Colbert-Laura",
+      "Jardin",
+      "Jardin-Syndicate",
+      "Lucien-Voss",
+      "Lucien-Voss",
+      "Lucin",
+      "Mara-Kovalenko",
+      "Mara-Kovalenko",
+      "Nico-Gay",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Timeline",
+      "Timeline",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "parent": "Jardin",
+    "excerpt": "# Transstar Sector Exchange *Secteur d'Échange Transstar* *\"The Market Never Sleeps.\"* **Location:** Grand Axis District, Nouvelle Sainte-Jeanne, Jardin **Type:** Special Economic Zone **Administrative Authority:** Transstar Economic Directorate **Status:** Semi-Autonomous Economic District **Popula"
   },
   {
     "id": "3:Varian-Svazz-Allen",
@@ -3535,6 +3812,8 @@
       "0-31-Saichi-Maru-Annette",
       "Campaign",
       "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
@@ -3566,6 +3845,7 @@
       "Campaign",
       "Elena-Verona",
       "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers"
     ],
     "keyLinks": [],
@@ -3602,6 +3882,9 @@
       "False-News-Broadcast",
       "Mercier-Frame-Up",
       "Session-1-Official-Business",
+      "Session-1-Official-Business",
+      "Session-2-Masks-and-Markers",
+      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Timeline"
     ],
