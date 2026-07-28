@@ -11,6 +11,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas
+cover: wiki/media/Transstar-Logo.png
 ---
 
 # Transstar
@@ -19,7 +20,7 @@ lastEditedBy: patricthomas
 
 **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party
 
-![Corporation logo](/wiki/media/transstar.jpg)
+![Transstar logo](/wiki/media/Transstar-Logo.png)
 
 | Field              | Value                              |
 | ------------------ | ---------------------------------- |

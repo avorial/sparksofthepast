@@ -581,14 +581,17 @@
     "slug": "Claire-Bouchard",
     "title": "Claire Bouchard",
     "category": "npc",
-    "summary": "Highport Operations Manager at Transstar.",
+    "summary": "Transstar Highport Operations Manager who processed the party after their employment tests.",
     "tags": [
       "npc",
       "corporate",
-      "transstar"
+      "transstar",
+      "session-3"
     ],
     "aliases": [
-      "Bouchard"
+      "Bouchard",
+      "Claire Beauchard",
+      "Claire Burchard"
     ],
     "visibility": "players",
     "approvalStatus": "approved",
@@ -596,16 +599,23 @@
     "playerText": "",
     "links": [
       "Transstar",
-      "Transstar"
+      "Session 3 - Transstar Day",
+      "Transstar",
+      "Transstar Sector Exchange",
+      "Aquatic Salvage Project",
+      "Transstar Employment Contract",
+      "Transstar",
+      "Transstar Employment Contract",
+      "Aquatic Salvage Project",
+      "Session 3 - Transstar Day"
     ],
-    "backlinks": [
-      "Transstar"
-    ],
+    "backlinks": [],
     "keyLinks": [
       "[[Transstar]]",
-      "[[Transstar]]"
+      "[[Transstar Employment Contract]]",
+      "[[Aquatic Salvage Project]]"
     ],
-    "excerpt": "# Claire Bouchard *Highport Operations Manager* ## Overview Claire Bouchard manages Highport operations for [[Transstar]] at Port Sainte-Jeanne, coordinating thousands of arrivals and departures every week. She has a reputation for absolute efficiency: nothing surprises her, nothing delays her, and "
+    "excerpt": "# Claire Bouchard *Highport Operations Manager* ## Overview Claire Bouchard manages Highport operations for [[Transstar]] at Port Sainte-Jeanne, coordinating thousands of arrivals and departures every week. She has a reputation for absolute efficiency: nothing surprises her, nothing delays her, and nothing intimidates her. She can reroute half a sector's shi"
   },
   {
     "id": "3:Colette-Moreau",
@@ -3710,7 +3720,11 @@
       "Armand Rousselet",
       "Elena Kovacs",
       "Philippe Laurent",
-      "Amelia Torres"
+      "Amelia Torres",
+      "Session 3 - Transstar Day",
+      "Transstar Employment Contract",
+      "Aquatic Salvage Project",
+      "Transstar Peacekeepers"
     ],
     "backlinks": [
       "Amelia-Torres",
@@ -3737,7 +3751,8 @@
       "Sarah-Chen"
     ],
     "keyLinks": [],
-    "excerpt": "# Transstar *The Merchant Line of the Solomani Cause* **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party ![Corporation logo](/wiki/media/transstar.jpg) | Field | Value | | ------------------ | ---------------------------------- | | Design"
+    "excerpt": "# Transstar *The Merchant Line of the Solomani Cause* **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party ![Transstar logo](/wiki/media/Transstar-Logo.png) | Field | Value | | ------------------ | ---------------------------------- | | Designation | Transstar | | Nickname | The Party Line | | Type ",
+    "cover": "wiki/media/Transstar-Logo.png"
   },
   {
     "id": "3:Transstar-Sector-Exchange",
@@ -4277,6 +4292,324 @@
     "playerText": "",
     "links": [],
     "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:Aquatic-Salvage-Project",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Aquatic-Salvage-Project",
+    "title": "Aquatic Salvage Project",
+    "category": "event",
+    "summary": "First Transstar assignment given to the party after they become employees.",
+    "tags": [
+      "event",
+      "transstar",
+      "session-3"
+    ],
+    "aliases": [
+      "Transstar Aquatic Salvage"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 3 - Transstar Day",
+      "Claire Bouchard",
+      "Dolphin Extremists",
+      "Sunken Ship-Boat"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Dolphin Extremists]]",
+      "[[Sunken Ship-Boat]]"
+    ],
+    "excerpt": "# Aquatic Salvage Project ## Overview The Aquatic Salvage Project is the party's first Transstar assignment after [[Session 3 - Transstar Day]]. [[Claire Bouchard]] assigns the group to the project during onboarding. ## Known Details - Work begins at 4 a.m. after orientation. - The project involves aquatic or underwater salvage. - Transstar expects the group"
+  },
+  {
+    "id": "3:Dolphin-Extremists",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Dolphin-Extremists",
+    "title": "Dolphin Extremists",
+    "category": "organization",
+    "summary": "Aquatic opposition group Transstar says is interfering with its salvage work.",
+    "tags": [
+      "organization",
+      "aquatic",
+      "transstar",
+      "session-3"
+    ],
+    "aliases": [
+      "Rogue Dolphin Extremists"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Aquatic Salvage Project",
+      "Claire Bouchard",
+      "Sunken Ship-Boat"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Aquatic Salvage Project]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Dolphin Extremists ## Overview Transstar describes the Dolphin Extremists as a rogue aquatic group interfering with the [[Aquatic Salvage Project]]. The party has not yet met them directly. ## Known From Session 3 During onboarding, [[Claire Bouchard]] explains that Transstar needs military support because dolphin extremists are trying to stop the company'"
+  },
+  {
+    "id": "3:La-Porte-Fiel",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "La-Porte-Fiel",
+    "title": "La Porte Fiel",
+    "category": "location",
+    "summary": "Sainte-Liberte drug den where the party found Lucin and arranged the Valois evidence drop.",
+    "tags": [
+      "location",
+      "underworld",
+      "session-3"
+    ],
+    "aliases": [
+      "The Wallet"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Quartier-Sainte-Liberte",
+      "Lucin",
+      "Session 3 - Transstar Day",
+      "Inspector Marc Valois",
+      "Mercier's Locked Pad",
+      "Lucin",
+      "Mercier's Locked Pad",
+      "Inspector Marc Valois",
+      "Session 3 - Transstar Day"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Lucin]]",
+      "[[Quartier-Sainte-Liberte]]"
+    ],
+    "parent": "Quartier-Sainte-Liberte",
+    "excerpt": "# La Porte Fiel ## Overview La Porte Fiel is a club or drug den in [[Quartier-Sainte-Liberte]]. The party found [[Lucin]] there during [[Session 3 - Transstar Day]] after spotting another trike like the one Lucin had given them. ## Description The entrance is watched by a heavily cybered bouncer. Inside, the room is dominated by bass-heavy music, flashing li"
+  },
+  {
+    "id": "3:Reena-Kessler",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Reena-Kessler",
+    "title": "Reena Kessler",
+    "category": "npc",
+    "summary": "Transstar gate employee who issued work-seeker stamps at the Sector Exchange.",
+    "tags": [
+      "npc",
+      "transstar",
+      "session-3"
+    ],
+    "aliases": [
+      "Rena Kessler"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar Sector Exchange",
+      "Session 3 - Transstar Day",
+      "Transstar Sector Exchange",
+      "Transstar Employment Contract",
+      "Session 3 - Transstar Day"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Transstar Sector Exchange]]",
+      "[[Transstar]]"
+    ],
+    "excerpt": "# Reena Kessler ## Overview Reena Kessler works an entry booth at the [[Transstar Sector Exchange]]. During [[Session 3 - Transstar Day]], she greeted the first party members entering the Exchange and asked whether they were there to shop or seek work. ## Session 3 Reena issued three-day holographic Transstar work-seeker stamps. She explained that visitors c"
+  },
+  {
+    "id": "3:Session-3-Transstar-Day",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Session-3-Transstar-Day",
+    "title": "Session 3 - Transstar Day",
+    "category": "game",
+    "summary": "The party sends Mercier evidence to Valois through Lucin, flees a tracked data pad, and takes Transstar jobs to survive the failing identity veils.",
+    "tags": [
+      "session",
+      "game",
+      "session-3"
+    ],
+    "aliases": [
+      "Game 3",
+      "Chapter 1 Game 3"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Identity Veils",
+      "Inspector Marc Valois",
+      "Lucin",
+      "Transstar Sector Exchange",
+      "Mobile Data Tube",
+      "La Porte Fiel",
+      "Mercier's Locked Pad",
+      "Reena Kessler",
+      "Claire Bouchard",
+      "Aquatic Salvage Project",
+      "Identity Veils",
+      "Marcel Delphine",
+      "Dr. Luc Moreau",
+      "Inspector Marc Valois",
+      "Transstar Sector Exchange",
+      "La Porte Fiel",
+      "Mercier's Locked Pad",
+      "Reena Kessler",
+      "Transstar Peacekeepers",
+      "Claire Bouchard",
+      "Aquatic Salvage Project",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)",
+      "Lucin",
+      "La Porte Fiel",
+      "Inspector Marc Valois",
+      "Mercier's Locked Pad",
+      "Transstar Sector Exchange",
+      "Reena Kessler",
+      "Claire Bouchard",
+      "Transstar Employment Contract",
+      "Aquatic Salvage Project",
+      "Dolphin Extremists"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Lucin]]",
+      "[[Inspector Marc Valois]]",
+      "[[Transstar Sector Exchange]]",
+      "[[Transstar Employment Contract]]",
+      "[[Aquatic Salvage Project]]"
+    ],
+    "excerpt": "# Session 3 - Transstar Day **Transcript Source:** `transcript_2026-07-28T13_25_40.538Z.json` **Caption File:** `wiki/transcripts/Session-3-Transstar-Day.srt` ## Synopsis With the [[Identity Veils]] almost expired, the group chooses a path that is neither full surrender nor full Syndicate employment. They send the recovered Mercier evidence to [[Inspector Ma"
+  },
+  {
+    "id": "3:Transstar-Employment-Contract",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar-Employment-Contract",
+    "title": "Transstar Employment Contract",
+    "category": "lore",
+    "summary": "Corporate employment arrangement that gives the party temporary protection but starts a thirty-day clock.",
+    "tags": [
+      "lore",
+      "transstar",
+      "session-3"
+    ],
+    "aliases": [
+      "Transstar Contract",
+      "Transstar Employee Status"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 3 - Transstar Day",
+      "Transstar Sector Exchange",
+      "Identity Veils",
+      "Claire Bouchard",
+      "Reena Kessler",
+      "Transstar Peacekeepers",
+      "Aquatic Salvage Project",
+      "Session 3 - Transstar Day"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar Sector Exchange]]",
+      "[[Claire Bouchard]]"
+    ],
+    "excerpt": "# Transstar Employment Contract ## Overview The Transstar employment contract is the legal shield the party accepts in [[Session 3 - Transstar Day]]. As employees, they are protected from ordinary Jardin prosecution while inside the [[Transstar Sector Exchange]] or aboard a Transstar ship. ## Terms Learned - A three-day work-seeker stamp allows entry to seek"
+  },
+  {
+    "id": "3:Transstar-Peacekeepers",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar-Peacekeepers",
+    "title": "Transstar Peacekeepers",
+    "category": "organization",
+    "summary": "Corporate security force operating inside the Transstar Sector Exchange.",
+    "tags": [
+      "organization",
+      "transstar",
+      "security",
+      "session-3"
+    ],
+    "aliases": [
+      "Peacekeepers"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar Sector Exchange",
+      "Session 3 - Transstar Day",
+      "Identity Veils",
+      "Transstar",
+      "Transstar Sector Exchange",
+      "Transstar Employment Contract",
+      "Session 3 - Transstar Day"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[Transstar Sector Exchange]]"
+    ],
+    "excerpt": "# Transstar Peacekeepers ## Overview The Transstar Peacekeepers are the corporate police force seen inside the [[Transstar Sector Exchange]] during [[Session 3 - Transstar Day]]. Their uniforms differ from Jardin police and signal that the Exchange is governed by corporate law rather than normal planetary enforcement. ## Role Inside Exchange territory, the P"
+  },
+  {
+    "id": "3:media:wiki/media/Transstar-Logo.png",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Transstar-Logo.png",
+    "title": "Transstar logo",
+    "category": "media",
+    "summary": "Corporate logo for Transstar, Solomani Frontier Solutions.",
+    "tags": [
+      "Transstar",
+      "logo",
+      "corporation"
+    ],
+    "aliases": [
+      "Transstar-Logo.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar"
+    ],
+    "backlinks": [
+      "Transstar"
+    ],
     "keyLinks": [],
     "excerpt": ""
   }

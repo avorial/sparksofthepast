@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T16:56:12.619Z",
+  "generatedAt": "2026-07-28T15:36:10.213Z",
   "pages": [
     {
       "id": "character-0-31-Saichi-Maru-Annette",
@@ -398,21 +398,33 @@
       "tags": [
         "npc",
         "corporate",
-        "transstar"
+        "transstar",
+        "session-3"
       ],
       "links": [
         "organization-Transstar",
-        "organization-Transstar"
+        "game-Session-3-Transstar-Day",
+        "organization-Transstar",
+        "location-Transstar-Sector-Exchange",
+        "event-Aquatic-Salvage-Project",
+        "lore-Transstar-Employment-Contract",
+        "organization-Transstar",
+        "lore-Transstar-Employment-Contract",
+        "event-Aquatic-Salvage-Project",
+        "game-Session-3-Transstar-Day"
       ],
       "aliases": [
-        "Bouchard"
+        "Bouchard",
+        "Claire Beauchard",
+        "Claire Burchard"
       ],
-      "summary": "Highport Operations Manager at Transstar.",
+      "summary": "Transstar Highport Operations Manager who processed the party after their employment tests.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
         "[[Transstar]]",
-        "[[Transstar]]"
+        "[[Transstar Employment Contract]]",
+        "[[Aquatic Salvage Project]]"
       ]
     },
     {
@@ -2547,13 +2559,18 @@
         "npc-Armand-Rousselet",
         "npc-Elena-Kovacs",
         "npc-Philippe-Laurent",
-        "npc-Amelia-Torres"
+        "npc-Amelia-Torres",
+        "game-Session-3-Transstar-Day",
+        "lore-Transstar-Employment-Contract",
+        "event-Aquatic-Salvage-Project",
+        "organization-Transstar-Peacekeepers"
       ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Transstar-Logo.png"
     },
     {
       "id": "location-Transstar-Sector-Exchange",
@@ -2639,6 +2656,253 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "event-Aquatic-Salvage-Project",
+      "title": "Aquatic Salvage Project",
+      "path": "wiki/pages/Aquatic-Salvage-Project.md",
+      "type": "event",
+      "tags": [
+        "event",
+        "transstar",
+        "session-3"
+      ],
+      "links": [
+        "game-Session-3-Transstar-Day",
+        "npc-Claire-Bouchard",
+        "organization-Dolphin-Extremists",
+        "item-Sunken-Ship-Boat"
+      ],
+      "aliases": [
+        "Transstar Aquatic Salvage"
+      ],
+      "summary": "First Transstar assignment given to the party after they become employees.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Dolphin Extremists]]",
+        "[[Sunken Ship-Boat]]"
+      ]
+    },
+    {
+      "id": "organization-Dolphin-Extremists",
+      "title": "Dolphin Extremists",
+      "path": "wiki/pages/Dolphin-Extremists.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "aquatic",
+        "transstar",
+        "session-3"
+      ],
+      "links": [
+        "event-Aquatic-Salvage-Project",
+        "npc-Claire-Bouchard",
+        "item-Sunken-Ship-Boat"
+      ],
+      "aliases": [
+        "Rogue Dolphin Extremists"
+      ],
+      "summary": "Aquatic opposition group Transstar says is interfering with its salvage work.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Aquatic Salvage Project]]",
+        "[[Transstar]]"
+      ]
+    },
+    {
+      "id": "location-La-Porte-Fiel",
+      "title": "La Porte Fiel",
+      "path": "wiki/pages/La-Porte-Fiel.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "underworld",
+        "session-3"
+      ],
+      "links": [
+        "unresolved:quartier-sainte-liberte",
+        "npc-Lucin",
+        "game-Session-3-Transstar-Day",
+        "npc-Inspector-Marc-Valois",
+        "item-Merciers-Locked-Pad",
+        "npc-Lucin",
+        "item-Merciers-Locked-Pad",
+        "npc-Inspector-Marc-Valois",
+        "game-Session-3-Transstar-Day"
+      ],
+      "aliases": [
+        "The Wallet"
+      ],
+      "summary": "Sainte-Liberte drug den where the party found Lucin and arranged the Valois evidence drop.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Lucin]]",
+        "[[Quartier-Sainte-Liberte]]"
+      ],
+      "parent": "Quartier-Sainte-Liberte"
+    },
+    {
+      "id": "npc-Reena-Kessler",
+      "title": "Reena Kessler",
+      "path": "wiki/pages/Reena-Kessler.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "transstar",
+        "session-3"
+      ],
+      "links": [
+        "location-Transstar-Sector-Exchange",
+        "game-Session-3-Transstar-Day",
+        "location-Transstar-Sector-Exchange",
+        "lore-Transstar-Employment-Contract",
+        "game-Session-3-Transstar-Day"
+      ],
+      "aliases": [
+        "Rena Kessler"
+      ],
+      "summary": "Transstar gate employee who issued work-seeker stamps at the Sector Exchange.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar Sector Exchange]]",
+        "[[Transstar]]"
+      ]
+    },
+    {
+      "id": "game-Session-3-Transstar-Day",
+      "title": "Session 3 - Transstar Day",
+      "path": "wiki/pages/Session-3-Transstar-Day.md",
+      "type": "game",
+      "tags": [
+        "session",
+        "game",
+        "session-3"
+      ],
+      "links": [
+        "item-Identity-Veils",
+        "npc-Inspector-Marc-Valois",
+        "npc-Lucin",
+        "location-Transstar-Sector-Exchange",
+        "item-Mobile-Data-Tube",
+        "location-La-Porte-Fiel",
+        "item-Merciers-Locked-Pad",
+        "npc-Reena-Kessler",
+        "npc-Claire-Bouchard",
+        "event-Aquatic-Salvage-Project",
+        "item-Identity-Veils",
+        "npc-Marcel-Delphine",
+        "npc-Dr-Luc-Moreau",
+        "npc-Inspector-Marc-Valois",
+        "location-Transstar-Sector-Exchange",
+        "location-La-Porte-Fiel",
+        "item-Merciers-Locked-Pad",
+        "npc-Reena-Kessler",
+        "organization-Transstar-Peacekeepers",
+        "npc-Claire-Bouchard",
+        "event-Aquatic-Salvage-Project",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon",
+        "npc-Lucin",
+        "location-La-Porte-Fiel",
+        "npc-Inspector-Marc-Valois",
+        "item-Merciers-Locked-Pad",
+        "location-Transstar-Sector-Exchange",
+        "npc-Reena-Kessler",
+        "npc-Claire-Bouchard",
+        "lore-Transstar-Employment-Contract",
+        "event-Aquatic-Salvage-Project",
+        "organization-Dolphin-Extremists"
+      ],
+      "aliases": [
+        "Game 3",
+        "Chapter 1 Game 3"
+      ],
+      "summary": "The party sends Mercier evidence to Valois through Lucin, flees a tracked data pad, and takes Transstar jobs to survive the failing identity veils.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Lucin]]",
+        "[[Inspector Marc Valois]]",
+        "[[Transstar Sector Exchange]]",
+        "[[Transstar Employment Contract]]",
+        "[[Aquatic Salvage Project]]"
+      ]
+    },
+    {
+      "id": "lore-Transstar-Employment-Contract",
+      "title": "Transstar Employment Contract",
+      "path": "wiki/pages/Transstar-Employment-Contract.md",
+      "type": "lore",
+      "tags": [
+        "lore",
+        "transstar",
+        "session-3"
+      ],
+      "links": [
+        "game-Session-3-Transstar-Day",
+        "location-Transstar-Sector-Exchange",
+        "item-Identity-Veils",
+        "npc-Claire-Bouchard",
+        "npc-Reena-Kessler",
+        "organization-Transstar-Peacekeepers",
+        "event-Aquatic-Salvage-Project",
+        "game-Session-3-Transstar-Day"
+      ],
+      "aliases": [
+        "Transstar Contract",
+        "Transstar Employee Status"
+      ],
+      "summary": "Corporate employment arrangement that gives the party temporary protection but starts a thirty-day clock.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar Sector Exchange]]",
+        "[[Claire Bouchard]]"
+      ]
+    },
+    {
+      "id": "organization-Transstar-Peacekeepers",
+      "title": "Transstar Peacekeepers",
+      "path": "wiki/pages/Transstar-Peacekeepers.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "transstar",
+        "security",
+        "session-3"
+      ],
+      "links": [
+        "location-Transstar-Sector-Exchange",
+        "game-Session-3-Transstar-Day",
+        "item-Identity-Veils",
+        "organization-Transstar",
+        "location-Transstar-Sector-Exchange",
+        "lore-Transstar-Employment-Contract",
+        "game-Session-3-Transstar-Day"
+      ],
+      "aliases": [
+        "Peacekeepers"
+      ],
+      "summary": "Corporate security force operating inside the Transstar Sector Exchange.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Transstar]]",
+        "[[Transstar Sector Exchange]]"
+      ]
     }
   ]
 }
