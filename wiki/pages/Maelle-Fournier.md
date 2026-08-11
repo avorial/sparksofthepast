@@ -17,9 +17,10 @@ keyLinks:
 aliases:
   - Fournier
   - Maelle Fournier
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 eventDate: ""
 cover: wiki/media/Maelle-Fournier.png
+parent: Crew-of-TSS-Profondeur
 ---
 
 # Maëlle Fournier
