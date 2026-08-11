@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T13:44:06.662Z",
+  "generatedAt": "2026-08-11T13:44:29.009Z",
   "pages": [
     {
       "id": "character-0-31-Saichi-Maru-Annette",
@@ -2031,7 +2031,8 @@
       "approvalStatus": "approved",
       "keyLinks": [
         "[[TSS Profondeur]]"
-      ]
+      ],
+      "parent": "Crew-of-TSS-Profondeur"
     },
     {
       "id": "npc-Mara-Kovalenko",
