@@ -17,9 +17,10 @@ keyLinks:
   - "[[Undersea Suits]]"
 aliases:
   - Sabine
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 eventDate: ""
 cover: wiki/media/Sabine-Caron.png
+parent: Crew-of-TSS-Profondeur
 ---
 
 # Sabine Caron
