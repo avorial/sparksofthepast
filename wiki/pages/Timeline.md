@@ -98,3 +98,33 @@ The recovered data suggests Mercier was working with decades of genetic-marker r
 - Move to the [[Transstar Sector Exchange]] for safety and ammunition.
 - Compare the party's own genetic records against the recovered markers.
 - Continue attempts to open [[Mercier's Locked Pad]].
+
+## 145-1105 - Transstar Day
+
+### Transstar Shelter
+
+The party moves into the [[Transstar Sector Exchange]] before the [[Identity Veils]] fail. [[Emma Colbert (Laura)]] becomes a division-level executive, the group receives employee badges using their true faces, and [[Claire Bouchard]] assigns them to the [[Aquatic Salvage Project]].
+
+### Into the Hadal Deep
+
+The crew reports to Dock 6-2 and boards the [[TSS Profondeur]] under [[Étienne Valcourt]]. They train with [[Maëlle Fournier]], [[Rémi Beauchamp]], and [[Sabine Caron]] while traveling to [[Hadal Research Site]].
+
+### Hadal Rescue
+
+At Hadal, the party finds a sealed oxygenated chamber inside a damaged Transstar research facility. They build a temporary airlock, recover four starving survivors and ten dead Jardin Navy personnel, and salvage generators, data cubes, computer gear, and a Seafarer chip.
+
+### Mercier Double
+
+Only one survivor lives after transfer: an unidentified Jardin Navy officer who closely resembles [[Alain Mercier]]. The [[TSS Profondeur]] diverts to [[Undersea Base Elyon]], where medical staff stabilize him.
+
+### SolSec at Elyon
+
+Saichi spots a [[SolSec Operative at Elyon]] scanning the survivor. Emma recognizes the scan as a test for genetic identity, bone-growth history, or cloning. Victor and Dan delay communications with a salt-water battery sabotage, while Zoy and Ciernan's attempted conversation with the agent ends with a gun drawn and a warning to stay out of SolSec business.
+
+### Open Paths
+
+- Identify the [[Mercier Lookalike Survivor]].
+- Learn why Jardin Navy personnel were trapped inside a Transstar research facility.
+- Find out what the encrypted [[Jardinian Naval SOS]] really said.
+- Prevent SolSec or Jardin Navy from burying the Hadal rescue.
+- Continue the [[Aquatic Salvage Project]] without losing sight of the [[Mercier Frame-Up]].

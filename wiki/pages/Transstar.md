@@ -605,3 +605,9 @@ The corporation has no desire to rule.
 
 Its leadership is content to ensure that whoever does rule depends upon Transstar to keep the Confederation moving.
 :::
+
+## Session 4 - Undersea Salvage
+
+During [[Session 4 - Into the Hadal Deep]], Transstar's protection becomes concrete employment aboard the [[TSS Profondeur]]. The party's first assignment on the [[Aquatic Salvage Project]] sends them to [[Hadal Research Site]], a damaged undersea Transstar facility.
+
+The mission reveals a dangerous contradiction for Transstar: the sealed survivors at Hadal are Jardin Navy personnel, not Transstar staff. The party's rescue of the [[Mercier Lookalike Survivor]] also shows that Transstar-owned spaces such as [[Undersea Base Elyon]] are not free of [[SolSec]] activity.

@@ -45,6 +45,24 @@ Broker 2, Carouse 2, Deception 2, Electronics (Comms) 2, Persuade 2, Advocate 1,
 - Opened fire on a Home Guard guard, triggering the group's active escape.
 - Provided or had access to a safe warehouse with shower and stored food where the group could regroup.
 - Held or was trusted with [[Marcel Delphine]]'s one-use communicator.
+
+
+## Session 3 - Transstar Day
+
+- Argued for using [[Lucin]] to deliver the Mercier evidence to [[Inspector Marc Valois]] without exposing the party directly.
+- Entered the [[Transstar Sector Exchange]] with the first group and excelled on the executive employment track.
+- Became a Transstar division-level executive, allowing the party to stay together in her assigned suite.
+- Accepted the [[Aquatic Salvage Project]] assignment as the group's first corporate shelter and work cover.
+
+## Session 4 - Into the Hadal Deep
+
+- Reported aboard the [[TSS Profondeur]] as the party's executive presence.
+- Trained on communications and sensors, then discovered a hidden encrypted [[Jardinian Naval SOS]].
+- Recognized the signal as military-grade and connected it to living personnel at an attacked location.
+- Passed the SOS to [[Sabine Caron]] as an outside interception while keeping the source less obvious.
+- Understood the [[SolSec Operative at Elyon]]'s hand and bone-growth scan as a test for genetic identity, alteration, or cloning.
+- Urged the party away from poking, killing, or unnecessarily escalating around the survivor.
+
 - Contacted [[Nico Gay]], a smuggler contact, and learned more about [[Marcel Delphine]], the [[Jardin Syndicate]], and the [[Transstar Sector Exchange]] as a potential refuge.
 - Retained a recording of the "kill them all" warning/order.
 

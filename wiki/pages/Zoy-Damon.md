@@ -55,6 +55,20 @@ Astrogation 2, Recon 3, Stealth 3, Survival 2, Streetwise 2, Profession (Belter)
 - Carried the tube out covertly so Emma could disarm it and access the data chip.
 - Reviewed the recovered data with [[Emma Colbert (Laura)]] back at the warehouse, tying it to Mercier's genetic-marker research.
 
+
+## Session 3 - Transstar Day
+
+- Entered the [[Transstar Sector Exchange]] through confidence, confusion, and paperwork ambiguity rather than a normal stamp.
+- Remained a highly visible scapegoat from the false assassination broadcast while the group sought Transstar protection.
+- Joined the party's transition into Transstar employment before the identity veils failed.
+
+## Session 4 - Into the Hadal Deep
+
+- Took part in the first undersea shift aboard the [[TSS Profondeur]] and exterior-mission planning.
+- Helped track the SolSec problem after Saichi spotted the scan of the [[Mercier Lookalike Survivor]].
+- Intercepted the [[SolSec Operative at Elyon]] with Ciernan nearby.
+- Tried to open a conversation about shared interest in the truth, but the operative drew a gun on him and warned the party away from SolSec activity.
+
 - Contact: underworld connections
 - Contact: underworld connections
 - Contact: Imperial Starport Authority

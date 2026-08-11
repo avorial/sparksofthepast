@@ -55,6 +55,21 @@ Engineer (J-drive) 3, Mechanic 2, Investigate 2, Vacc Suit 2, Astrogation 1, Dip
 - Supported the Lucin delivery plan as a way to gain a vehicle and a possible underworld information channel.
 - Helped complete the daylight crate delivery from [[Les Jardins Fermés]] to [[Chief Helene Marchand]]'s secured residence.
 
+
+## Session 3 - Transstar Day
+
+- Entered the [[Transstar Sector Exchange]] with the first group seeking shelter before the identity veils failed.
+- Treated Transstar employment as a practical legal shield while still insisting the party had not truly become criminals.
+- Tested into Transstar work and prepared to turn technical competence into usefulness aboard the first assignment.
+
+## Session 4 - Into the Hadal Deep
+
+- Operated drone/sensor reconnaissance at [[Hadal Research Site]] and found a live power station feeding an interior load.
+- Identified that one sealed area might still have air filtration, computers, or life support running.
+- Helped support the temporary-airlock rescue plan and the transfer of survivors into rescue tubes.
+- Argued through the medical-pressure problem after the rescue and pushed toward the nearest viable Transstar undersea base.
+- Helped Victor sabotage [[Undersea Base Elyon]] communications by causing a salt-water battery problem.
+
 - Rival: Racial Incident
 
 ## Equipment & Benefits

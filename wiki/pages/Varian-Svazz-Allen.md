@@ -37,6 +37,20 @@ Pilot (Spacecraft) 3, Diplomat 2, Mechanic 2, Medic 2, Admin 1, Astrogation 1, E
 
 ## Connections
 
+
+## Session 3 - Transstar Day
+
+- Entered the [[Transstar Sector Exchange]] with the first group seeking legal cover.
+- Assessed the Transstar employment-test structure and tried to turn naval/spacer competence into a useful placement.
+- Helped the group transition from emergency fugitives to Transstar workers with a thirty-day decision window.
+
+## Session 4 - Into the Hadal Deep
+
+- Trained on [[TSS Profondeur]] piloting and command systems.
+- Piloted the submersible with exceptional precision during the approach to [[Hadal Research Site]].
+- Helped bring the Profondeur close enough to the Hadal stabilizing/power interface for operations.
+- Noticed that the surviving rescued Jardin Navy officer looked strikingly like [[Alain Mercier]].
+
 - Enemy: Betrayer, formerly an education ally or close clique member
 
 ## Session 1 - Official Business

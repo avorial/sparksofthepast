@@ -37,6 +37,21 @@ Astrogation 4, Leadership 3, Tactics (Naval) 2, Medic 2, Vacc Suit 2, Deception 
 
 ## Connections
 
+
+## Session 3 - Transstar Day
+
+- Helped frame the [[Transstar Sector Exchange]] as the party's best immediate refuge from Jardin law.
+- Used leadership and naval experience to support the employment-test process.
+- Entered Transstar work as part of the group's corporate legal shield.
+
+## Session 4 - Into the Hadal Deep
+
+- Applied naval tactics to understand the [[TSS Profondeur]]'s under-crewed state and suspicious converted rescue-pod setup.
+- Helped identify odd prior-crew traces and hidden shipboard irregularities.
+- Supported Dan's temporary-airlock plan at [[Hadal Research Site]].
+- Kept the improvised seal holding long enough for the team to recover the survivors.
+- Helped maneuver rescue tubes into place and later assisted the salt-water sabotage of Elyon's communications batteries.
+
 - Enemy: Racial Incident
 
 ## Session 1 - Official Business

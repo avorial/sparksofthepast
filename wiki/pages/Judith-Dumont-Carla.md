@@ -44,6 +44,17 @@ Gun Combat 4, Astrogation 2, Gun Combat (Energy) 2, Electronics 1, Electronics (
 - Tried to stabilize [[Alain Mercier]] after the assassination, but the wounds were too severe.
 - Pushed for escape and suggested using Mercier's biometrics or transport possibilities.
 - Spoke cautiously with [[Marcel Delphine]], making clear she would not commit the group to anything without time to think.
+
+
+## Session 3 - Transstar Day
+
+- Continued serving as part of the armed, cautious side of the group during the move from fugitives to Transstar employees.
+- Supported the decision to seek corporate cover before the [[Identity Veils]] failed completely.
+
+## Session 4 - Into the Hadal Deep
+
+- No distinct Judith actions are captured in the Session 4 transcript.
+
 - Contacted [[Keith Morris]] about reaching [[Miasma]] or otherwise getting off Jardin.
 - Learned that identities/passports are the immediate barrier to direct off-world travel.
 

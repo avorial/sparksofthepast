@@ -55,6 +55,22 @@ Gun Combat (Slug) 3, Heavy Weapons (Manportable) 2, Vacc Suit 2, Athletics (Endu
 - Met [[Lucin]] with Dan and the supply team, opening a path to ammunition through a Transstar broker.
 - Compared the recovered [[Mercier Genetic Findings]] to his own genetic papers. The identified markers do not appear in his records.
 
+
+## Session 3 - Transstar Day
+
+- Led the Lucin team back through Sainte-Liberte and helped negotiate the evidence handoff at [[La Porte Fiel]].
+- Directed the escape route after [[Mercier's Locked Pad]] activated its tracking signal.
+- Entered Transstar as a loader, accepting lower-status work as the price of immediate corporate protection.
+
+## Session 4 - Into the Hadal Deep
+
+- Introduced himself aboard the [[TSS Profondeur]] as a loader willing to help with repair, security, and whatever work kept the ship alive.
+- Trained in undersea suit procedures and exterior work with [[Sabine Caron]].
+- Helped reason through the temporary-airlock plan for the sealed Hadal habitat.
+- Entered the sealed chamber, reassured the survivors, and began triage after the rescue.
+- Privately flagged the [[Mercier Lookalike Survivor]] as evidence that needed to be logged and protected.
+- Backed up the attempted contact with the [[SolSec Operative at Elyon]].
+
 - Rival: Betrayer
 - Enemy: Pressik Voss, space pirate and reptilian rascal who seeks destruction for destruction's sake
 - Enemy: Pirates/Corsairs

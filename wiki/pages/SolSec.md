@@ -42,3 +42,9 @@ Emma believes her own SolSec connection may have been useful to the conspirators
 - SolSec identities and contacts may be dangerous to use while the group is framed.
 - Forged identities recorded by SolSec may not remain safe over multiple jumps.
 - Valois may be a possible ally or evidence channel, but any approach could be watched by planetary authorities.
+
+## Session 4 - Elyon Scan
+
+At [[Undersea Base Elyon]], Saichi observes a [[SolSec Operative at Elyon]] scanning the [[Mercier Lookalike Survivor]]. [[Emma Colbert (Laura)]] recognizes the method as a way to compare hand structure, bone-growth patterns, and genetic identity when someone may be altered, cloned, or otherwise duplicated.
+
+When Zoy and Ciernan attempt to speak with the operative, he draws on Zoy, identifies the party as enemies of the state, and warns them not to interfere with SolSec activity.

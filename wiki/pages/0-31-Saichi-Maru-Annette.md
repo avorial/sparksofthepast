@@ -232,6 +232,22 @@ notes:
 - Recharged from the police mech during the crowd distraction and left the mech unplugged.
 - Returned to the warehouse with enough power to keep operating for the next phase.
 
+
+## Session 3 - Transstar Day
+
+- Entered the [[Transstar Sector Exchange]] as tagged equipment/property while the party sought corporate shelter.
+- Accepted a restrainer/tag arrangement that powered down her weapons enough for Transstar entry.
+- Became part of Emma's Transstar signing package once Emma tested into executive status.
+
+## Session 4 - Into the Hadal Deep
+
+- Reported to Dock 6-2 with the rest of the crew and received a Transstar visual treatment suitable for a robot.
+- Confirmed that her gecko feet and robotic body could help with fast hull response before suited humans could deploy.
+- Was offered access to reactor-room charge plug-ins aboard the [[TSS Profondeur]].
+- Worked drone and exterior-watch duties during the Hadal mission.
+- Watched the [[Mercier Lookalike Survivor]]'s room from outside [[Undersea Base Elyon]] and spotted a [[SolSec Operative at Elyon]] taking scans.
+- Sent a security notice to the rest of the team after identifying the SolSec contact.
+
 - Unnamed Ally
 - Unnamed Contact
 

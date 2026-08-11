@@ -158,3 +158,7 @@ To supporters, he embodied the principle that scientific truth should guide publ
 To critics, he represented a dangerous willingness to question institutions that had maintained stability for centuries.
 
 His unfinished work continues to be the subject of speculation among historians, political analysts, and genetic researchers throughout the Solomani Confederation.
+
+## Session 4 - Lookalike Survivor
+
+During [[Session 4 - Into the Hadal Deep]], the party rescues an unidentified Jardin Navy officer from [[Hadal Research Site]] who looks strikingly like Alain Mercier. The survivor is stabilized at [[Undersea Base Elyon]] and becomes the subject of a [[SolSec Operative at Elyon|SolSec]] scan, raising the possibility of a twin, clone, altered double, or other genetic connection to Mercier.

@@ -208,6 +208,21 @@ Tactics (Naval) 3, Leadership 3, Stealth 2, Profession (Belter) 2, Gun Combat (S
 - Initially encouraged compliance after the [[Mercier Assassination]].
 - Joined the fight and escape once the situation turned lethal.
 - Asked [[Marcel Delphine]] why the [[Jardin Syndicate]] had rescued the group and what they wanted.
+
+
+## Session 3 - Transstar Day
+
+- Helped carry the plan to deliver the Mercier evidence through [[Lucin]] rather than approach SolSec directly.
+- Continued pushing for evidence that could clear the party after the [[Mercier Frame-Up]].
+- Entered Transstar employment as part of the group's legal-cover plan before the [[Identity Veils]] failed.
+
+## Session 4 - Into the Hadal Deep
+
+- Trained on the [[TSS Profondeur]] bridge and ship systems under [[Étienne Valcourt]].
+- Noted the Profondeur's under-crewed condition and suspicious prior-crew traces.
+- Joined the manned entry into the sealed Hadal habitat during the temporary-airlock rescue.
+- Helped recover survivors from [[Hadal Research Site]] and kept the Mercier-lookalike discovery in the party evidence channel.
+
 - Contacted allies afterward: a lover to recover belongings, smuggling contacts for escape options, a reporter/investigative contact, and someone who can listen at the [[Friday Party Congress Hearing]].
 - Learned of the [[Sunken Ship-Boat]] as a possible escape asset.
 
