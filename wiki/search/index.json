@@ -3973,6 +3973,7 @@
       "[[TSS Profondeur]]",
       "[[Relay Station 932]]"
     ],
+    "parent": "Crew-of-TSS-Profondeur",
     "excerpt": "# Rémi Beauchamp ![Rémi Beauchamp portrait](/wiki/media/Remi-Beauchamp.png) *Sonar / Sensors / Comms* ## Overview Rémi Beauchamp handles electrics, sonar, sensors, and communications aboard the [[TSS Profondeur]]. He is a former Jardin Navy naval-intelligence signals specialist. His job during the p"
   },
   {
@@ -4019,6 +4020,7 @@
       "[[TSS Profondeur]]",
       "[[Undersea Suits]]"
     ],
+    "parent": "Crew-of-TSS-Profondeur",
     "excerpt": "# Sabine Caron ![Sabine Caron portrait](/wiki/media/Sabine-Caron.png) *Security / Diving Operations* ## Overview Sabine Caron is the security and diving-operations lead aboard the [[TSS Profondeur]]. A former Jardin Navy marine and underwater security specialist, she carries paired sawed-off shotgun"
   },
   {
