@@ -20,9 +20,12 @@ aliases:
   - Remi Beauchamp
 lastEditedBy: Codex
 eventDate: ""
+cover: wiki/media/Remi-Beauchamp.png
 ---
 
 # Rémi Beauchamp
+
+![Rémi Beauchamp portrait](/wiki/media/Remi-Beauchamp.png)
 
 *Sonar / Sensors / Comms*
 

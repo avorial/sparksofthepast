@@ -20,9 +20,12 @@ aliases:
   - Valcourt
 lastEditedBy: Codex
 eventDate: ""
+cover: wiki/media/Etienne-Valcourt.png
 ---
 
 # Étienne Valcourt
+
+![Étienne Valcourt portrait](/wiki/media/Etienne-Valcourt.png)
 
 *Captain / Pilot*
 

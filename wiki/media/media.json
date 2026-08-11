@@ -53,5 +53,45 @@
       "logo",
       "corporation"
     ]
+  },
+  "wiki/media/Etienne-Valcourt.png": {
+    "alt": "Étienne Valcourt portrait",
+    "caption": "Captain and pilot of the TSS Profondeur.",
+    "tags": [
+      "Étienne Valcourt",
+      "Transstar",
+      "npc",
+      "portrait"
+    ]
+  },
+  "wiki/media/Maelle-Fournier.png": {
+    "alt": "Maëlle Fournier portrait",
+    "caption": "Engineer and damage-control specialist aboard the TSS Profondeur.",
+    "tags": [
+      "Maëlle Fournier",
+      "Transstar",
+      "npc",
+      "portrait"
+    ]
+  },
+  "wiki/media/Remi-Beauchamp.png": {
+    "alt": "Rémi Beauchamp portrait",
+    "caption": "Sonar, sensors, and communications specialist aboard the TSS Profondeur.",
+    "tags": [
+      "Rémi Beauchamp",
+      "Transstar",
+      "npc",
+      "portrait"
+    ]
+  },
+  "wiki/media/Sabine-Caron.png": {
+    "alt": "Sabine Caron portrait",
+    "caption": "Security and diving-operations lead aboard the TSS Profondeur.",
+    "tags": [
+      "Sabine Caron",
+      "Transstar",
+      "npc",
+      "portrait"
+    ]
   }
 }

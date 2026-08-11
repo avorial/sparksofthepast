@@ -19,9 +19,12 @@ aliases:
   - Sabine
 lastEditedBy: Codex
 eventDate: ""
+cover: wiki/media/Sabine-Caron.png
 ---
 
 # Sabine Caron
+
+![Sabine Caron portrait](/wiki/media/Sabine-Caron.png)
 
 *Security / Diving Operations*
 

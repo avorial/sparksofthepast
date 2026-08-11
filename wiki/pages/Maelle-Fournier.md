@@ -19,9 +19,12 @@ aliases:
   - Maelle Fournier
 lastEditedBy: Codex
 eventDate: ""
+cover: wiki/media/Maelle-Fournier.png
 ---
 
 # Maëlle Fournier
+
+![Maëlle Fournier portrait](/wiki/media/Maelle-Fournier.png)
 
 *Engineer / Damage Control*
 
