@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Étienne Valcourt
-summary: Captain and pilot of the TSS Profondeur; former Jardin Navy submersible-operations specialist.
+summary: Captain and pilot of the TSS Profondeur; former Jardin Navy
+  submersible-operations specialist.
 tags:
   - npc
   - transstar
@@ -18,9 +19,10 @@ keyLinks:
 aliases:
   - Captain Valcourt
   - Valcourt
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 eventDate: ""
 cover: wiki/media/Etienne-Valcourt.png
+parent: Crew-of-TSS-Profondeur
 ---
 
 # Étienne Valcourt
