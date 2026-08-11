@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Rémi Beauchamp
-summary: Sonar, sensors, electronics, and communications specialist aboard the TSS Profondeur.
+summary: Sonar, sensors, electronics, and communications specialist aboard the
+  TSS Profondeur.
 tags:
   - npc
   - transstar
@@ -18,9 +19,10 @@ keyLinks:
 aliases:
   - Beauchamp
   - Remi Beauchamp
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 eventDate: ""
 cover: wiki/media/Remi-Beauchamp.png
+parent: Crew-of-TSS-Profondeur
 ---
 
 # Rémi Beauchamp
