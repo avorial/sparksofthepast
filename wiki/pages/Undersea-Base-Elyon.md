@@ -20,9 +20,12 @@ aliases:
   - Undersea Base Allion
 lastEditedBy: Codex
 eventDate: ""
+cover: wiki/media/Hadal-Undersea-Map.png
 ---
 
 # Undersea Base Elyon
+
+![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png)
 
 ## Overview
 

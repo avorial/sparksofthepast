@@ -326,7 +326,8 @@
       "[[Hadal Research Site]]",
       "[[Undersea Extremists]]"
     ],
-    "excerpt": "# Aquatic Salvage Project ## Overview The Aquatic Salvage Project is the party's first Transstar assignment after [[Session 3 - Transstar Day]]. [[Claire Bouchard]] assigns the group to the project during onboarding, and [[Session 4 - Into the Hadal Deep]] begins with the group reporting to Dock 6-2 for duty aboard the"
+    "excerpt": "# Aquatic Salvage Project ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview The Aquatic Salvage Project is the party's first Transstar assignment after [[Session 3 - Transstar Day]]. [[Claire Bouchard]] assigns the group to the project during onboarding, and [[Session 4 - Into the Hadal D",
+    "cover": "wiki/media/Hadal-Undersea-Map.png"
   },
   {
     "id": "3:Arcosphere-Rousseau",
@@ -1665,7 +1666,8 @@
       "[[TSS Profondeur]]",
       "[[Mercier Lookalike Survivor]]"
     ],
-    "excerpt": "# Hadal Research Site ## Overview Hadal Research Site is a damaged Transstar undersea research facility assigned as the party's first salvage target aboard the [[TSS Profondeur]]. It was abandoned after an attack by [[Undersea Extremists]] several weeks before [[Session 4 - Into the Hadal Deep]]. ## Known Details - The"
+    "excerpt": "# Hadal Research Site ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Hadal Research Site is a damaged Transstar undersea research facility assigned as the party's first salvage target aboard the [[TSS Profondeur]]. It was abandoned after an attack by [[Undersea Extremists]] several wee",
+    "cover": "wiki/media/Hadal-Undersea-Map.png"
   },
   {
     "id": "3:Hall-des-Futurs-Choisis",
@@ -3379,7 +3381,8 @@
       "[[TSS Profondeur]]",
       "[[Undersea Base Elyon]]"
     ],
-    "excerpt": "# Relay Station 932 ## Overview Relay Station 932 is the undersea communications relay described during the [[TSS Profondeur]] briefing. It serves as a major communications hub, passing traffic between undersea ships, bases, and orbital systems. ## Session 4 The relay helps define the limits of communication during und"
+    "excerpt": "# Relay Station 932 ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Relay Station 932 is the undersea communications relay described during the [[TSS Profondeur]] briefing. It serves as a major communications hub, passing traffic between undersea ships, bases, and orbital systems. ## Se",
+    "cover": "wiki/media/Hadal-Undersea-Map.png"
   },
   {
     "id": "3:Remi-Beauchamp",
@@ -4172,7 +4175,8 @@
       "[[Étienne Valcourt]]",
       "[[Hadal Research Site]]"
     ],
-    "excerpt": "# TSS Profondeur ## Overview The TSS Profondeur is a Transstar salvage submersible assigned to the [[Aquatic Salvage Project]]. It was formerly a Jardin Navy vessel, damaged during prior service and later purchased or transferred to [[Transstar]] because full naval repair was not worth the expense. [[Étienne Valcourt]]"
+    "excerpt": "# TSS Profondeur ![TSS Profondeur logo](/wiki/media/TSS-Profondeur-Logo.png) ## Overview The TSS Profondeur is a Transstar salvage submersible assigned to the [[Aquatic Salvage Project]]. It was formerly a Jardin Navy vessel, damaged during prior service and later purchased or transferred to [[Transstar]] because full ",
+    "cover": "wiki/media/TSS-Profondeur-Logo.png"
   },
   {
     "id": "3:Timeline",
@@ -4539,7 +4543,8 @@
       "[[Mercier Lookalike Survivor]]",
       "[[SolSec Operative at Elyon]]"
     ],
-    "excerpt": "# Undersea Base Elyon ## Overview Undersea Base Elyon is a Transstar-owned underwater base near [[Hadal Research Site]]. It functions like a compact undersea industrial platform, with real meals, a bar, a full-size ship airlock, and enough dry-dock capacity to repair submersibles that cannot safely return to the coast."
+    "excerpt": "# Undersea Base Elyon ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Undersea Base Elyon is a Transstar-owned underwater base near [[Hadal Research Site]]. It functions like a compact undersea industrial platform, with real meals, a bar, a full-size ship airlock, and enough dry-dock ca",
+    "cover": "wiki/media/Hadal-Undersea-Map.png"
   },
   {
     "id": "3:Undersea-Extremists",

@@ -21,9 +21,12 @@ aliases:
   - Transstar Aquatic Salvage
 lastEditedBy: Codex
 eventDate: "145-1105"
+cover: wiki/media/Hadal-Undersea-Map.png
 ---
 
 # Aquatic Salvage Project
+
+![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png)
 
 ## Overview
 

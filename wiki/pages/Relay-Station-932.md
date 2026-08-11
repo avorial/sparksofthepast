@@ -18,9 +18,12 @@ aliases:
   - Relay 932
 lastEditedBy: Codex
 eventDate: ""
+cover: wiki/media/Hadal-Undersea-Map.png
 ---
 
 # Relay Station 932
+
+![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png)
 
 ## Overview
 

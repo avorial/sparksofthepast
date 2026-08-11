@@ -21,15 +21,22 @@ aliases:
   - The Profondeur
 lastEditedBy: Codex
 eventDate: ""
+cover: wiki/media/TSS-Profondeur-Logo.png
 ---
 
 # TSS Profondeur
+
+![TSS Profondeur logo](/wiki/media/TSS-Profondeur-Logo.png)
 
 ## Overview
 
 The TSS Profondeur is a Transstar salvage submersible assigned to the [[Aquatic Salvage Project]]. It was formerly a Jardin Navy vessel, damaged during prior service and later purchased or transferred to [[Transstar]] because full naval repair was not worth the expense.
 
 [[Étienne Valcourt]] commands the vessel. The senior crew includes [[Maëlle Fournier]] for engineering and damage control, [[Rémi Beauchamp]] for sonar, sensors, and communications, and [[Sabine Caron]] for security and diving operations.
+
+## Deck Plan
+
+![TSS Profondeur deck plan](/wiki/media/TSS-Profondeur-Deck-Plan.png)
 
 ## Known Details
 

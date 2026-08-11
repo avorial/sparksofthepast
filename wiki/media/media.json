@@ -93,5 +93,36 @@
       "npc",
       "portrait"
     ]
+  },
+  "wiki/media/TSS-Profondeur-Logo.png": {
+    "alt": "TSS Profondeur logo",
+    "caption": "Transstar Subsurface Operations badge for the TSS Profondeur.",
+    "tags": [
+      "TSS Profondeur",
+      "Transstar",
+      "logo",
+      "handout"
+    ]
+  },
+  "wiki/media/TSS-Profondeur-Deck-Plan.png": {
+    "alt": "TSS Profondeur deck plan",
+    "caption": "Upper and lower deck map of the TSS Profondeur.",
+    "tags": [
+      "TSS Profondeur",
+      "map",
+      "submarine",
+      "handout"
+    ]
+  },
+  "wiki/media/Hadal-Undersea-Map.png": {
+    "alt": "Hadal undersea operations map",
+    "caption": "Regional undersea map showing Hadal Research Site, Undersea Base Elyon, Relay Station 932, the Jardin Naval Base, and nearby hazards.",
+    "tags": [
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Relay Station 932",
+      "map",
+      "handout"
+    ]
   }
 }

@@ -20,9 +20,12 @@ aliases:
   - Hadal Site
 lastEditedBy: Codex
 eventDate: ""
+cover: wiki/media/Hadal-Undersea-Map.png
 ---
 
 # Hadal Research Site
+
+![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png)
 
 ## Overview
 
