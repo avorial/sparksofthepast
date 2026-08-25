@@ -4794,9 +4794,9 @@
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
     "slug": "Session-5-The-Oduya",
-    "title": "Session 5 The Oduya",
+    "title": "Session 5 - The Oduya",
     "category": "game",
-    "summary": "",
+    "summary": "Mercier returns through a clone body, the party raises the smuggling ship-boat Oduya, and the conspiracy points beyond Jardin.",
     "tags": [
       "session",
       "game",
@@ -4830,7 +4830,13 @@
       "Sunken-Ship-Boat",
       "Transponder-Swap-Box"
     ],
-    "keyLinks": [],
+    "keyLinks": [
+      "[[Alain Mercier]]",
+      "[[Clone Rebirth Program]]",
+      "[[Oduya]]",
+      "[[Transponder Swap Box]]",
+      "[[Prime Minister Bombing]]"
+    ],
     "excerpt": ""
   },
   {
