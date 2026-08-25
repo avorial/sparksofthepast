@@ -11,7 +11,7 @@ tags:
   - transstar
   - oduya
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[Alain Mercier]]"
@@ -23,7 +23,7 @@ aliases:
   - Game 5
   - Chapter 1 Game 5
   - The Oduya
-lastEditedBy: AI via MCP
+lastEditedBy: GM review via MCP
 eventDate: 145-1105
 ---
 
