@@ -2,7 +2,8 @@
 category: item
 type: item
 name: Sunken Ship-Boat
-summary: Earlier lead name for Oduya, the drowned smuggling ship-boat raised by the party in Session 5.
+summary: Earlier lead name for Oduya, the drowned smuggling ship-boat raised by
+  the party in Session 5.
 tags:
   - item
   - vehicle
@@ -10,7 +11,7 @@ tags:
   - session-1
   - session-5
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks:
   - "[[Cass Pien (Kolb)]]"
@@ -23,7 +24,7 @@ aliases:
   - Submerged Ship-Boat
   - The Drowned Boat
   - Oduya
-lastEditedBy: Codex
+lastEditedBy: AI via MCP
 ---
 
 # Sunken Ship-Boat
@@ -87,6 +88,38 @@ Known recovered assets:
 ## GM Notes
 
 The original pre-Session 5 version of this page treated the ship-boat as an uncertain escape lead. Session 5 established the working truth: the wreck is [[Oduya]], a forty-year-old smuggler craft with modular transponders, dead crew, illegal cargo, and enough remaining structure to become the party's first system craft.
+
+## GM Ship Quirks
+
+Oduya should feel like an old machine that has survived two lifetimes of hard use: roughly forty years of service before the sinking, then forty more years drowned under pressure, silt, salt, scavengers, and bad reactor seepage. Even after repair, it should not feel like a clean starter ship. It is useful, beloved if the party adopts it, and full of small problems that create choices.
+
+- **Salt-memory electronics.** Some control runs work only after warming, drying, or being tapped back into contact. During tense scenes, a non-critical display may show stale depth, a thirty-year-old course warning, or a false hull alarm until someone makes an Electronics or Engineer check.
+- **Ancient maintenance dialect.** Many labels, internal diagnostics, and wiring conventions predate current Jardin/Transstar standards. Repairs take longer unless the person working knows older Solomani smallcraft systems or has time to cross-reference the manuals.
+- **Silt in the bones.** Fine sea silt remains trapped behind panels, in ducts, and under deck plates. Hard acceleration, weapons fire, or atmospheric entry can shake loose abrasive grit that fouls fans, seals, bearings, and suit-lock tracks.
+- **Pressure-set frame.** The hull is not simply damaged; it has settled into the shape it held under decades of deep pressure. Some hatches bind when the craft is warm or pressurized, and over-aggressive repair can create new leaks by forcing old metal back into a shape it no longer wants.
+- **Reactor superstition.** The old leak is mostly contained, but every engineer who looks at the reactor finds one more reason to dislike it. It can be made safe enough, but never entirely reassuring without a major refit.
+- **Ghost-light circuits.** Some indicator lights and cabin strips glow faintly even when their panel says they are off. The cause is mineral contamination and bad grounds, but it can feel haunted in the dark.
+- **Patchwork atmosphere.** The life-support system can hold pressure, but smells of old brine, machine oil, sealant, hot dust, and whatever cargo soaked into the vents before the sinking. Filters clog faster than expected.
+- **Old smuggler modifications.** Hidden crawl spaces, false tanks, shielded wiring paths, and undocumented bypasses exist throughout the ship. They are useful, but some are unsafe or connected to controls no one has mapped yet.
+- **Temperamental transponder bay.** The [[Transponder Swap Box]] is valuable, but the ship's side of the system is corroded and picky. A rushed identity swap might work, partially work, or leave a suspicious handshake in traffic logs.
+- **Wrong acoustic signature.** Underwater, Oduya does not sound like a normal Navy craft, civilian sub, or fresh ship's boat. Old dents, patched plates, and worn machinery give it a recognizable acoustic fingerprint to anyone who has heard the wreck before.
+- **Corroded cargo scars.** Some compartments still carry chemical staining from illegal cargo. Scanners may flag residue even after cleaning, especially if authorities already suspect smuggling.
+- **Dead crew reminders.** A personal token, scratched checklist, last meal tray, or sealed suit locker turns up during later repairs. These should be unsettling rather than supernatural, and can humanize the dead smugglers.
+- **Manual-only habits.** Some automated systems fail gracefully into manual operation because the original smugglers preferred control over convenience. This rewards hands-on piloting and engineering, but punishes crews who expect modern automation.
+- **Old registration ghosts.** Some internal serial numbers do not match the hull, transponder modules, or removable Navy wrap. Every mismatch is a possible clue, legal problem, or bargaining chip.
+- **Dolphin-access fittings.** The old underwater drop work left odd external handholds, sensor pings, and cargo-interface marks intended for dolphin contacts. They are easy to miss unless someone specifically inspects how underwater cargo was transferred.
+
+Use these quirks as texture first and obstacles second. A quirk should usually cost time, attention, a tool, a spare part, a skill check, or a complication rather than simply disabling the ship.
+
+## Hidden Plot Threads
+
+If the party looks closely, Oduya can point at more than escape:
+
+1. **The captain's last client.** The logs include a corrupted delivery reference that does not match the Jardin Syndicate's usual bookkeeping. Recovering it points to a still-living client who paid for the final drop and may now be senior in politics, SolSec, the Navy, or Transstar.
+2. **The dolphin side of the deal.** The underwater transfer fittings and partial sonar logs suggest the dolphins were not just receivers; they may have warned Oduya too late, betrayed it, or tried to hide something after it sank.
+3. **The removable Navy wrap.** The false Navy marking was made with materials and patterning better than ordinary smugglers should have had. It may trace to a naval quartermaster, a black-budget deniable unit, or another ship that needed Oduya blamed for its movements.
+4. **The reactor leak was convenient.** Official salvage stopped because of the leak, but the leak may have been exaggerated, worsened, or deliberately left uncontained so nobody would inspect the wreck and cargo.
+5. **A transponder identity is still active.** One identity in the [[Transponder Swap Box]] may still be in use by another vessel, shell company, intelligence front, or long-running smuggling route. Broadcasting it could summon help, trigger an ambush, or reveal that someone has been keeping Oduya's ghost alive.
 :::
 
 ## Connected Pages
