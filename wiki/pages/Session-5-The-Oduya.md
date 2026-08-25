@@ -1,12 +1,14 @@
 ---
-category: session
-type: session
+category: game
+type: game
 name: Session 5 - The Oduya
 summary: Mercier returns through a clone body, the party raises the smuggling ship-boat Oduya, and the conspiracy points beyond Jardin.
 tags:
   - session
+  - game
   - session-5
-  - sparks
+  - transstar
+  - oduya
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
@@ -18,6 +20,8 @@ keyLinks:
   - "[[Prime Minister Bombing]]"
 aliases:
   - Game 5
+  - Chapter 1 Game 5
+  - The Oduya
 lastEditedBy: Codex
 eventDate: "145-1105"
 ---
