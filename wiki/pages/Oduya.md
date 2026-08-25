@@ -25,7 +25,9 @@ lastEditedBy: Codex
 
 ## Overview
 
-Oduya is the true name of the [[Sunken Ship-Boat]] raised by the party during [[Session 5 - The Oduya]]. It is a small craft capable of reaching orbit and other planets in the system, but it has no jump drive.
+Oduya is the true name of the [[Sunken Ship-Boat]] raised by the party during [[Session 5 - The Oduya]]. The two names refer to the same craft: "Sunken Ship-Boat" was the old lead, and Oduya is the identified vessel.
+
+It is a small craft capable of reaching orbit and other planets in the system, but it has no jump drive.
 
 The name means "openness." The craft had spent roughly forty years underwater before the party found it.
 

@@ -2,7 +2,7 @@
 category: item
 type: item
 name: Sunken Ship-Boat
-summary: A drowned smuggling ship-boat, now identified as Oduya, raised by the party in Session 5.
+summary: Earlier lead name for Oduya, the drowned smuggling ship-boat raised by the party in Session 5.
 tags:
   - item
   - vehicle
@@ -28,13 +28,15 @@ lastEditedBy: Codex
 
 # Sunken Ship-Boat
 
-*A dead hull in the water, and maybe a way out.*
+*The old lead name for [[Oduya]].*
 
 ## Overview
 
+The Sunken Ship-Boat is the same craft as [[Oduya]]. "Sunken Ship-Boat" was the party's earlier description before [[Session 5 - The Oduya]] identified the wreck by name.
+
 One of [[Cass Pien (Kolb)]]'s smuggling contacts reported a broken ship's boat sunk off the coast near [[Port Sainte-Jeanne Downport]]. A ship's boat is a small enclosed craft used to move people and cargo between orbit and a world surface. A working one could lift the party out of Jardin's identity trap.
 
-During [[Session 5 - The Oduya]], the party reached the wreck through the [[Aquatic Salvage Project]] and identified it as [[Oduya]], a smuggling ship-boat lost roughly forty years ago.
+During [[Session 5 - The Oduya]], the party reached the wreck through the [[Aquatic Salvage Project]] and identified it as [[Oduya]], a smuggling ship-boat lost roughly forty years ago. The main vehicle page is [[Oduya]]; this page exists to preserve the older lead name and explain how the mystery resolved.
 
 ## Why It Matters
 

@@ -41,6 +41,81 @@ Ship logs reveal that Oduya was a smuggling craft selling goods to the [[Jardin 
 
 The party also recovers cargo: ruined raw materials, destroyed rifles, illegal cybernetic weapons and implants, and a still-living valuable tree in hibernation. Emma identifies [[Anita Singh]] as a contact who can fence the cybernetics for repair services, and [[Sergey Sun]] as a contact who can help move Mercier off-world. By session end, the party has a repairable ship-boat, a way to get Mercier into orbit, and a path toward Mercier's house, computer, and whatever evidence waits beyond Jardin.
 
+## Scene Notes
+
+### SolSec Debrief
+
+- Zoy and Ciernan return from the SolSec confrontation and explain how quickly it escalated.
+- The group distinguishes between [[Inspector Marc Valois]], who received evidence through an air-gapped channel, and the unknown Elyon operative.
+- The party decides not to open a second SolSec relationship unless it has a clear reason and safer approach.
+
+### Medical Bay
+
+- Emma and Victor go to Mercier's room while Saichi keeps watch.
+- Emma deceives nearby medical staff by inventing a gas-leak problem elsewhere.
+- Victor wakes the patient, who immediately says not to kill him.
+- The patient says he is [[Alain Mercier]], not a lookalike.
+- Mercier explains that his current body was awakened after the public death of his original body.
+
+### Clone Law
+
+- Platinum 2 restoration is expensive and reserved for elites.
+- Clone bodies are grown ahead of time, kept in brain-dead hibernation, and checked for genetic drift.
+- Restored bodies retain the same biological age as the original; younger-body transfer is illegal.
+- SolSec can test clone status through growth history, bone and hand structure, genetic identity, and mitochondrial age patterns.
+- Publicly dead restored people cannot return to Jardin's surface and are supposed to leave by Navy ship.
+
+### Hadal Implications
+
+- Mercier's memory is about six weeks old.
+- He suspects his prior self found evidence after the last memory update.
+- Hadal contained political, naval, and senior corporate clone backups in separated areas.
+- The Hadal attack may have been aimed at deleting backups before killing originals.
+- The [[Prime Minister Bombing]] happens the same day the party learns this theory.
+
+### Valcourt and the Salvage Run
+
+- [[Etienne Valcourt]] is refueling, replacing air filters, removing unneeded research gear, handling paperwork, and recovering bounties for the rescue.
+- Emma privately pitches the diversion as a Transstar-interest problem and a legal route for Mercier.
+- Valcourt agrees to treat the trip as continued rescue operations and a search for Hadal attackers.
+
+### Saichi's Recon
+
+- Saichi walks twenty to thirty miles across the sea floor to the wreck.
+- She documents the exterior before the Profondeur arrives.
+- The ship's apparent Navy marking is a removable wrap, not permanent paint.
+- Sea growth suggests the wreck has been underwater for about forty years.
+- Inside are dead crew in intact vac suits, killed by violent trauma rather than suit breach.
+
+### Raising Oduya
+
+- The party boards in vac suits with repair kits, engineering tools, electronics tools, and harpoon guns.
+- Hull breaches are patched well enough for pressure.
+- Power is restored for only a few hours.
+- Water is pumped out, but oxygen is not restored until the craft surfaces.
+- Computers and sensors come online despite damaged displays.
+- The Profondeur leaves extra oxygen and pulls away as a decoy when an unresponsive small craft approaches.
+- The ship begins moving under its own power and is piloted to the surface for air.
+
+### Logs and Cargo
+
+- Oduya was a smuggling craft doing drops for the [[Jardin Syndicate]] and dolphin contacts.
+- A Navy patrol caught it during a drop and hit it with depth charges.
+- The captain died in a locker while holding the [[Transponder Swap Box]].
+- Cargo includes ruined raw materials, water-destroyed autorifles, illegal cybernetic weapons and implants, and a living tree in hibernation.
+- The cybernetics are valuable enough to fund repairs if sold through the right contact.
+
+## Character Notes
+
+- [[0-31 Saichi Maru (Annette)]] scouts the wreck, records the removable markings and dead crew, and recovers the transponder case from the captain.
+- [[Emma Colbert (Laura)]] clears the medical room, questions Mercier, persuades Valcourt, helps with Oduya systems, and identifies Anita Singh and Sergey Sun as useful contacts.
+- [[Victor Mendes (Steinbach)]] wakes Mercier, argues for cooperation, and turns the legal Navy-transfer problem into the Oduya plan.
+- [[Ciernan Seanislav (Peter)]] debriefs the SolSec threat, joins the wreck recovery, pushes for safety when the ship starts moving, and becomes very interested in the cybernetic cargo.
+- [[Zoy (Damon)]] explains the SolSec confrontation, warns against reckless escalation, and helps inspect and appraise the cybernetics.
+- [[Dan Araujo (Josh)]] helps patch Oduya, restore systems, get the craft moving, and make the recovery technically possible.
+- [[Cass Pien (Kolb)]] remains tied to the ship-boat thread through the original smuggling-contact lead and joins the practical recovery work.
+- [[Varian Svazz (Allen)]] and [[Judith Dumont (Carla)]] have no distinct individual spotlight captured in the transcript, but remain part of the party's Transstar cover and the Oduya/Mercier plan.
+
 ## Major Events
 
 1. The party debriefs the SolSec confrontation at [[Undersea Base Elyon]] and agrees to avoid escalating with unknown SolSec agents.
@@ -74,7 +149,6 @@ The party also recovers cargo: ruined raw materials, destroyed rifles, illegal c
 - [[Undersea Base Elyon]]
 - [[TSS Profondeur]]
 - [[Hadal Research Site]]
-- [[Sunken Ship-Boat]]
 - [[Oduya]]
 
 ## Organizations
@@ -93,7 +167,7 @@ The party also recovers cargo: ruined raw materials, destroyed rifles, illegal c
 - Mercier's current memory is about six weeks out of date, but he can still provide access to his house and computer.
 - Hadal may have been attacked to destroy clone backups before another high-ranking assassination.
 - The Prime Minister's home was bombed on the same day Mercier explains this possibility.
-- The sunken ship-boat is the smuggling craft [[Oduya]], not a clean Navy vessel.
+- The old sunken ship-boat lead and [[Oduya]] are the same craft; Oduya is not a clean Navy vessel.
 - Oduya has a modular transponder system with Solomani, Imperium, and Aslan identities.
 - Oduya has no jump drive, but it can reach orbit and other planets in the system once repaired.
 
