@@ -248,6 +248,15 @@ notes:
 - Watched the [[Mercier Lookalike Survivor]]'s room from outside [[Undersea Base Elyon]] and spotted a [[SolSec Operative at Elyon]] taking scans.
 - Sent a security notice to the rest of the team after identifying the SolSec contact.
 
+## Session 5 - The Oduya
+
+- Maintained watch outside [[Alain Mercier]]'s medical room at [[Undersea Base Elyon]] while the group discussed the SolSec confrontation.
+- Accepted Emma's request to scout the [[Sunken Ship-Boat]] as a remote recon unit.
+- Walked roughly twenty to thirty miles along the sea floor to reach the wreck before the [[TSS Profondeur]] arrived.
+- Recorded exterior markings, hull condition, mummified crew in vac suits, and the suspicious removable Navy wrap.
+- Found the dead captain in a locker and recovered the [[Transponder Swap Box]] from his hands.
+- Documented the unusual transponder modules and helped the group identify [[Oduya]] as a smuggling craft rather than a clean Navy vessel.
+
 - Unnamed Ally
 - Unnamed Contact
 

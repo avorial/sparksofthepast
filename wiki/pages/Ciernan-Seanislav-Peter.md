@@ -71,6 +71,16 @@ Gun Combat (Slug) 3, Heavy Weapons (Manportable) 2, Vacc Suit 2, Athletics (Endu
 - Privately flagged the [[Mercier Lookalike Survivor]] as evidence that needed to be logged and protected.
 - Backed up the attempted contact with the [[SolSec Operative at Elyon]].
 
+## Session 5 - The Oduya
+
+- Debriefed the party on the SolSec confrontation and emphasized that the agent had drawn a gun on Zoy.
+- Opposed signing a long Transstar commitment, but supported a short-term mission if it led toward freedom and evidence.
+- Joined the [[Oduya]] recovery in a vac suit with harpoon gear, focusing on threats and security.
+- Helped bring sensors and monitors online inside the wreck while the ship began moving.
+- Reacted strongly to the ship moving before life support and safety were fully restored.
+- Showed intense interest in the illegal cybernetic weapons and implants recovered from Oduya's cargo.
+- Considered keeping at least one cybernetic implant, while Emma raised the question of genetic-purity consequences.
+
 - Rival: Betrayer
 - Enemy: Pressik Voss, space pirate and reptilian rascal who seeks destruction for destruction's sake
 - Enemy: Pirates/Corsairs

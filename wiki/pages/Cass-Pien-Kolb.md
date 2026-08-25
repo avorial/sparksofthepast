@@ -226,6 +226,13 @@ Tactics (Naval) 3, Leadership 3, Stealth 2, Profession (Belter) 2, Gun Combat (S
 - Contacted allies afterward: a lover to recover belongings, smuggling contacts for escape options, a reporter/investigative contact, and someone who can listen at the [[Friday Party Congress Hearing]].
 - Learned of the [[Sunken Ship-Boat]] as a possible escape asset.
 
+## Session 5 - The Oduya
+
+- Took part in the group's discussion about whether to continue Transstar work or prioritize acquiring a ship.
+- Participated in the [[Oduya]] salvage plan and vac-suit preparations.
+- Helped with the practical ship-recovery effort aboard the wreck while others handled Mercier, persuasion, and contacts.
+- Remained tied to the larger ship-boat thread because the original [[Sunken Ship-Boat]] lead came through Cass's smuggling contacts.
+
 ## Session 2 - Masks and Markers
 
 - Joined the Hall recon team and helped investigate the anxious Hall scientist, later identified as [[Dr. Luc Moreau]].

@@ -63,6 +63,16 @@ Broker 2, Carouse 2, Deception 2, Electronics (Comms) 2, Persuade 2, Advocate 1,
 - Understood the [[SolSec Operative at Elyon]]'s hand and bone-growth scan as a test for genetic identity, alteration, or cloning.
 - Urged the party away from poking, killing, or unnecessarily escalating around the survivor.
 
+## Session 5 - The Oduya
+
+- Went with [[Victor Mendes (Steinbach)]] into [[Alain Mercier]]'s medical room at [[Undersea Base Elyon]].
+- Used deception to clear nearby medical staff without creating an obvious security incident.
+- Tried to access Mercier's medical chart and listened closely as he explained the [[Clone Rebirth Program]].
+- Pressed Mercier on whether Hadal's destruction could have targeted clone backups before a future assassination.
+- Persuaded Captain [[Etienne Valcourt]] to divert the [[TSS Profondeur]] toward the [[Sunken Ship-Boat]] under Transstar rescue/evidence cover.
+- Helped with vac-suit checks, computer work, and piloting support during the recovery of [[Oduya]].
+- Identified [[Anita Singh]] as a contact to fence illegal cybernetics into repair services and [[Sergey Sun]] as a contact to help move Mercier.
+
 - Contacted [[Nico Gay]], a smuggler contact, and learned more about [[Marcel Delphine]], the [[Jardin Syndicate]], and the [[Transstar Sector Exchange]] as a potential refuge.
 - Retained a recording of the "kill them all" warning/order.
 

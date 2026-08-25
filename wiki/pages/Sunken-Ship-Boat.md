@@ -2,79 +2,98 @@
 category: item
 type: item
 name: Sunken Ship-Boat
-summary: A drowned, pre-registration ship's boat that could carry the party past Jardin's identity controls — if they can raise it.
+summary: A drowned smuggling ship-boat, now identified as Oduya, raised by the party in Session 5.
 tags:
   - item
   - vehicle
   - escape
   - session-1
+  - session-5
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[Cass Pien (Kolb)]]"
+  - "[[Oduya]]"
+  - "[[Transponder Swap Box]]"
   - "[[Port Sainte-Jeanne Downport]]"
   - "[[Miasma]]"
 aliases:
   - Broken Ship-Boat
   - Submerged Ship-Boat
   - The Drowned Boat
+  - Oduya
 lastEditedBy: Codex
 ---
 
 # Sunken Ship-Boat
 
-*A dead hull in the shallows, and maybe a way out*
+*A dead hull in the water, and maybe a way out.*
 
 ## Overview
 
-One of [[Cass Pien (Kolb)]]'s smuggling contacts reported a broken ship's boat lying sunk beneath the water off the coast near [[Port Sainte-Jeanne Downport]]. A ship's boat is a small enclosed craft — the kind a starship carries to move crew and cargo between orbit and the surface — and a sound one could, in principle, lift the party clean off Jardin's plate and out to a waiting ship or a quieter departure point.
+One of [[Cass Pien (Kolb)]]'s smuggling contacts reported a broken ship's boat sunk off the coast near [[Port Sainte-Jeanne Downport]]. A ship's boat is a small enclosed craft used to move people and cargo between orbit and a world surface. A working one could lift the party out of Jardin's identity trap.
 
-The catch is in every word of the report. It is *broken*, it is *sunk*, and it belongs to no one the party can simply ask. It is not a plan so much as the raw material of one.
+During [[Session 5 - The Oduya]], the party reached the wreck through the [[Aquatic Salvage Project]] and identified it as [[Oduya]], a smuggling ship-boat lost roughly forty years ago.
 
 ## Why It Matters
 
-Jardin's whole trap is identity. As [[Keith Morris]] warned, leaving directly means passing heavy passport and genetic scans, and the party's papers will not survive them. A ship's boat that predates the current registration regime is the rare hull whose transponder was never bound to the modern citizen registry — a craft the downport's systems do not already know how to challenge. That is exactly the gap the party needs, and it is why a drowned wreck is worth this much trouble.
+Jardin's whole trap is identity. As [[Keith Morris]] warned, leaving directly means passing heavy passport and genetic scans, and the party's papers will not survive them. A ship's boat with changeable or outdated registration is exactly the kind of gap the group needs.
 
-## What It Would Take
+Game 5 makes the wreck more valuable than a simple unregistered craft. [[0-31 Saichi Maru (Annette)]] recovered a [[Transponder Swap Box]] from Oduya's dead captain, giving the ship multiple broadcast identities for system-scale movement.
 
-Raising and reviving the boat is a small campaign of its own:
+Oduya also gives the party a possible way to move restored [[Alain Mercier]] off-world without making him return to Jardin's surface, which he says would violate the law governing public deaths and clone restoration.
 
-- **Reach it.** The wreck sits below safe free-diving depth. The party needs a boat, a submersible, or diving gear and someone who can use it — none of which they currently have.
-- **Assess the hull.** Salt water and time are unkind to seals, avionics, and power cells. The airframe may be sound while the systems are ruined, or the reverse.
-- **Raise or repair in place.** Either float it to a hidden slip or patch it enough to limp it up under its own power. Both are loud, slow, and hard to hide near a working downport.
-- **Power and certify.** It will need charged cells, a drive check, and a life-support pass before anyone trusts it to leave atmosphere.
+## What It Took
+
+Raising and reviving the boat is now in progress:
+
+- **Reached.** The party used the [[TSS Profondeur]] and Transstar cover to reach the wreck.
+- **Assessed.** Saichi documented removable markings, dead crew, hull damage, and suspicious cargo.
+- **Patched.** The party sealed major breaches, drained water, restored partial power, and got Oduya moving.
+- **Needs repair.** The patch job is enough for short movement, but not yet reliable for atmosphere, reentry, or long-term operations.
+- **Needs funding.** Illegal cybernetic cargo may fund repairs through [[Anita Singh]].
+
+## Session 5 - The Oduya
+
+The party raises Oduya enough to move it and learns it sank after a Navy patrol caught it making an underwater drop for the [[Jardin Syndicate]] and dolphin contacts. The patrol used depth charges, damaging the craft and fatally injuring the crew. Official recovery appears to have stopped once a reactor leak made the site unattractive.
+
+Known recovered assets:
+
+- [[Oduya]]
+- [[Transponder Swap Box]]
+- Illegal cybernetic weapons and implants.
+- A living tree in hibernation.
+- Logs proving the craft was used for smuggling.
 
 ## Complications
 
-- The waters near the downport are watched. [[Port Sainte-Jeanne Downport]] security — including investigators like Commander Sophie Durand — treats unregistered salvage as smuggling by default.
-- Salvage rights are a fiction here: whoever raises it owns it only until someone stronger notices.
-- Cass's contact knows where it is. So, therefore, might anyone that contact has ever owed a favor.
+- The waters near the downport are watched, and port security treats unregistered salvage as smuggling by default.
+- Salvage rights are fragile: whoever raises the craft owns it only until someone stronger notices.
+- The ship is a smuggling craft, not a clean Navy vessel.
+- The recovered transponders may carry old enemies, old crimes, or bad registrations.
+- The party needs Oduya to help [[Alain Mercier]] before SolSec, the Navy, or the conspiracy acts.
 
 ## Limits
 
-- The ship-boat's condition is unconfirmed until someone actually reaches it.
-- The group does not yet have the naval transport or diving capability to get there.
-- Whether it can reach orbit on its own, or only ferry the party to a less-guarded departure point, is unknown until it is inspected.
+- Oduya has no jump drive.
+- Oduya can reach orbit and other planets in the system once repaired.
+- The current hull work is improvised and not yet safe for high-stress launch or reentry.
+- The ship's cargo and transponder identities are useful but legally dangerous.
 
 :::gm
-## GM Truth
+## GM Notes
 
-The boat is a Confederation-era ship's boat lost roughly forty years ago, and the reason it is off the registry is the reason it sank: it belonged to a smuggler named **Perrin Oduya** who tried to do exactly what the party now wants — slip off Jardin without clean papers. He nearly made it. A [[Social Solidarity]] patrol boat holed his craft in the shallows during the run; Oduya drowned in the cabin, and the wreck was quietly written off rather than recovered, because raising it would have meant admitting the state kills people over travel papers. It has sat forgotten ever since — a mirror of the party's own plan, and a warning about how it can end.
-
-Seeds for the referee to place as needed:
-
-- **The hull is better than it looks.** The airframe and drive are salvageable; it is the seals, cells, and avionics that are dead. A competent engineer (Emma, Ciernan, or a hired hand) can bring it back — call it a real chunk of downtime and money, not a single roll. The boat's original transponder is inert and, crucially, unbound to the modern registry: reflashed with a forged-but-old ident, it can pass as a legacy craft the downport's systems don't expect to interrogate.
-- **Oduya is still aboard.** His remains, and a waterlogged personal locker, are in the cabin. The locker holds a working **registry-era ident spoofer** — obsolete for daily use, but exactly the tool for making the boat itself look legitimate — plus a data slug of old smuggling routes off Jardin, at least one of which still isn't watched.
-- **Someone else is circling.** Cass's contact sold the location twice. The [[Jardin Syndicate]] (or [[Lucin]]'s network) also knows roughly where it lies and is waiting to see if anyone is fool enough to do the expensive salvage work first — after which they intend to simply take it. This is the natural pressure clock on the whole enterprise.
-- **The patrol log survives.** Fort Robespierre or Social Solidarity archives still hold the report of the "accident" that sank Oduya. Recovering the boat and the log together is enough to prove the state drowns its own citizens over exit controls — a propaganda weapon in its own right, connected to the same rot the [[Mercier's Locked Pad]] exposes.
-- **It can reach orbit — barely.** Fully restored, the boat can make a single hard climb to a waiting ship or a high-orbit transfer, once. It is not a starship and cannot jump; it is a one-shot key out of Jardin's gravity well and its scanners, and using it spends it.
+The original pre-Session 5 version of this page treated the ship-boat as an uncertain escape lead. Session 5 established the working truth: the wreck is [[Oduya]], a forty-year-old smuggler craft with modular transponders, dead crew, illegal cargo, and enough remaining structure to become the party's first system craft.
 :::
 
 ## Connected Pages
 
 - [[Cass Pien (Kolb)]]
+- [[Oduya]]
+- [[Transponder Swap Box]]
 - [[Port Sainte-Jeanne Downport]]
 - [[Keith Morris]]
 - [[Miasma]]
 - [[Session 1 - Official Business]]
+- [[Session 5 - The Oduya]]

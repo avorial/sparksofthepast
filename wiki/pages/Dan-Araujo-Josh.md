@@ -70,6 +70,14 @@ Engineer (J-drive) 3, Mechanic 2, Investigate 2, Vacc Suit 2, Astrogation 1, Dip
 - Argued through the medical-pressure problem after the rescue and pushed toward the nearest viable Transstar undersea base.
 - Helped Victor sabotage [[Undersea Base Elyon]] communications by causing a salt-water battery problem.
 
+## Session 5 - The Oduya
+
+- Joined the [[Oduya]] recovery and became one of the key technical hands inside the wreck.
+- Helped patch hull breaches, seal major holes, and make the craft capable of holding pressure.
+- Worked with others to restore power, pump out water, and bring basic systems back online.
+- Helped get Oduya moving despite limited fuel, damaged systems, and no reliable life support yet.
+- Contributed to cargo recovery and the practical plan to turn illegal cybernetics into ship repairs.
+
 - Rival: Racial Incident
 
 ## Equipment & Benefits

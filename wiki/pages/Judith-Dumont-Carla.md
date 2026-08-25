@@ -55,6 +55,11 @@ Gun Combat 4, Astrogation 2, Gun Combat (Energy) 2, Electronics 1, Electronics (
 
 - No distinct Judith actions are captured in the Session 4 transcript.
 
+## Session 5 - The Oduya
+
+- No distinct individual spotlight is captured in the Game 5 transcript.
+- Remains connected to the party's Transstar cover, the restored [[Alain Mercier]] problem, and the recovery of [[Oduya]] as the group's route toward orbit.
+
 - Contacted [[Keith Morris]] about reaching [[Miasma]] or otherwise getting off Jardin.
 - Learned that identities/passports are the immediate barrier to direct off-world travel.
 

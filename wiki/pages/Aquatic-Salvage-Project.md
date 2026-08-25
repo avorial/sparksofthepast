@@ -8,6 +8,7 @@ tags:
   - transstar
   - session-3
   - session-4
+  - session-5
   - undersea
 visibility: players
 approvalStatus: approved
@@ -16,6 +17,7 @@ keyLinks:
   - "[[Transstar]]"
   - "[[TSS Profondeur]]"
   - "[[Hadal Research Site]]"
+  - "[[Oduya]]"
   - "[[Undersea Extremists]]"
 aliases:
   - Transstar Aquatic Salvage
@@ -47,6 +49,12 @@ The party surveys Hadal, finds a live power load, and discovers a sealed chamber
 
 The rescue turns the project from simple salvage into a conspiracy lead. Hadal was a Transstar site, but the people found there were Jardin Navy.
 
+## Session 5 Results
+
+After the Hadal rescue, the party uses the project, the [[TSS Profondeur]], and Emma's Transstar authority to divert toward the [[Sunken Ship-Boat]]. [[Etienne Valcourt]] agrees to frame the run as continued rescue and evidence-hunting work.
+
+The party raises the wreck, identifies it as [[Oduya]], and recovers illegal cybernetics, a valuable hibernating tree, ship logs, and a [[Transponder Swap Box]]. The find turns the salvage project into the party's possible route to orbit and the next stage of the [[Mercier Frame-Up]] investigation.
+
 ## Relevance
 
 The project may connect to earlier leads about the [[Sunken Ship-Boat]], hidden military operations, and the [[Mercier Assassination]]. Emma's executive role and the party's shipboard training give them a way to investigate while serving Transstar's needs.
@@ -57,3 +65,4 @@ The project may connect to earlier leads about the [[Sunken Ship-Boat]], hidden 
 - Why were Jardin Navy personnel trapped there?
 - What did the attackers know about the Mercier lookalike?
 - Can the party use the assignment to find or repair the sunken ship-boat?
+- Can Transstar cover hide the party's work on [[Oduya]] long enough to move [[Alain Mercier]] off-world?

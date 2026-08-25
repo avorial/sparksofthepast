@@ -52,6 +52,16 @@ Astrogation 4, Leadership 3, Tactics (Naval) 2, Medic 2, Vacc Suit 2, Deception 
 - Kept the improvised seal holding long enough for the team to recover the survivors.
 - Helped maneuver rescue tubes into place and later assisted the salt-water sabotage of Elyon's communications batteries.
 
+## Session 5 - The Oduya
+
+- Went with [[Emma Colbert (Laura)]] to question the rescued survivor at [[Undersea Base Elyon]].
+- Woke the survivor and stayed calm when the man recognized him from the assassination footage.
+- Helped establish that the survivor was [[Alain Mercier]] restored through the [[Clone Rebirth Program]], not a simple lookalike.
+- Persuaded Mercier that the party wanted to clear its name and had also been targeted by the same conspiracy.
+- Helped turn Mercier's legal need for a Navy/off-world transfer into the plan to recover the [[Sunken Ship-Boat]].
+- Took part in the [[Oduya]] recovery, including vac-suit preparation, engineering support, and systems work.
+- Helped consider how to fund the ship's repairs from recovered contraband.
+
 - Enemy: Racial Incident
 
 ## Session 1 - Official Business

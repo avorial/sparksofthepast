@@ -128,3 +128,33 @@ Saichi spots a [[SolSec Operative at Elyon]] scanning the survivor. Emma recogni
 - Find out what the encrypted [[Jardinian Naval SOS]] really said.
 - Prevent SolSec or Jardin Navy from burying the Hadal rescue.
 - Continue the [[Aquatic Salvage Project]] without losing sight of the [[Mercier Frame-Up]].
+
+## 145-1105 - The Oduya
+
+### Mercier Restored
+
+At [[Undersea Base Elyon]], [[Emma Colbert (Laura)]] and [[Victor Mendes (Steinbach)]] question the rescued Hadal survivor. He identifies himself as [[Alain Mercier]], restored through the [[Clone Rebirth Program]]. His memory is about six weeks old, but he can provide access to his house and computer if the party keeps him safe and gets him legally off-world.
+
+### Clone Backup Theory
+
+Mercier explains that Platinum 2 officials and comparable elites maintain prepared clone bodies. Restored people whose deaths were public cannot return to Jardin's surface and must leave by Navy ship. He suspects [[Hadal Research Site]] may have been attacked to destroy clone backups before a future assassination.
+
+### Prime Minister Bombing
+
+News reports the [[Prime Minister Bombing|Prime Minister's home bombing]] by suspected separatists. The timing makes the destroyed Hadal clone backups feel less like aftermath and more like preparation.
+
+### Oduya Raised
+
+The party uses the [[TSS Profondeur]] to reach the [[Sunken Ship-Boat]], raises it enough to move, and learns the craft's true name is [[Oduya]]. It is a forty-year-old smuggler ship-boat, not a clean Navy vessel.
+
+### Cargo and Transponders
+
+Saichi finds a [[Transponder Swap Box]] held by Oduya's dead captain. The party recovers illegal cybernetics, a valuable living tree in hibernation, and enough salvage value to fund repairs through [[Anita Singh]]. [[Sergey Sun]] becomes the likely channel for moving Mercier off-world.
+
+### Open Paths
+
+- Repair [[Oduya]] into a reliable orbital and system craft.
+- Move [[Alain Mercier]] off-world and collect his house/computer access codes.
+- Investigate the [[Prime Minister Bombing]] and whether Hadal destroyed the Prime Minister's clone backup.
+- Activate the pad recovered with Oduya's dead captain.
+- Visit Mercier's house during the coming Transstar work window.

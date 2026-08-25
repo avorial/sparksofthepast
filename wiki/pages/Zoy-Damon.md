@@ -69,6 +69,15 @@ Astrogation 2, Recon 3, Stealth 3, Survival 2, Streetwise 2, Profession (Belter)
 - Intercepted the [[SolSec Operative at Elyon]] with Ciernan nearby.
 - Tried to open a conversation about shared interest in the truth, but the operative drew a gun on him and warned the party away from SolSec activity.
 
+## Session 5 - The Oduya
+
+- Debriefed the group after the [[SolSec Operative at Elyon]] drew a gun on him.
+- Argued that the party should avoid threatening SolSec agents and should be careful about opening a second SolSec channel.
+- Suggested Emma might be able to gather intelligence from the operative one-on-one, though the group did not pursue it.
+- Helped frame the question of whether to continue short-term Transstar work while rejecting a two-year commitment.
+- Took part in the [[Oduya]] recovery and cargo inspection.
+- Helped examine and value the illegal cybernetics, becoming visibly uneasy when Ciernan handled or coveted them.
+
 - Contact: underworld connections
 - Contact: underworld connections
 - Contact: Imperial Starport Authority

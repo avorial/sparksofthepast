@@ -25,7 +25,7 @@ allegiance: ""
 **Birthplace:** Nouvelle Sainte-Jeanne, Jardin
 **Occupation:** Minister of Genetics, Government of Jardin
 **Political Affiliation:** Solomani Party (Technocratic Reform Bloc)
-**Status:** Deceased (1105)
+**Status:** Publicly deceased (1105); restored clone body recovered at Hadal.
 
 ---
 
@@ -162,3 +162,11 @@ His unfinished work continues to be the subject of speculation among historians,
 ## Session 4 - Lookalike Survivor
 
 During [[Session 4 - Into the Hadal Deep]], the party rescues an unidentified Jardin Navy officer from [[Hadal Research Site]] who looks strikingly like Alain Mercier. The survivor is stabilized at [[Undersea Base Elyon]] and becomes the subject of a [[SolSec Operative at Elyon|SolSec]] scan, raising the possibility of a twin, clone, altered double, or other genetic connection to Mercier.
+
+## Session 5 - Clone Rebirth
+
+During [[Session 5 - The Oduya]], the survivor wakes and identifies himself as Alain Mercier. He explains that high-status people with Platinum 2 security can maintain prepared clone bodies through the [[Clone Rebirth Program]]. If the original dies, an engram transfer wakes the prepared body.
+
+Mercier's restored memory is about six weeks old, so he does not know exactly what his prior self found immediately before the public assassination. He suspects that the attack on [[Hadal Research Site]] destroyed political, naval, and Transstar clone backups before a future assassination. The same day, the [[Prime Minister Bombing]] makes that warning urgent.
+
+Mercier cannot legally return to Jardin's surface after a public death. He offers the party access codes to his house and computer if they keep him safe and get him to an off-world or Navy transfer.

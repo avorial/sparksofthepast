@@ -43,7 +43,14 @@ Valcourt introduces the Profondeur and its senior crew, assigns the party into t
 
 In the crew mess, Valcourt points out the contradiction: Hadal was a Transstar research facility, yet every corpse and the lone survivor recovered from the sealed room wore Jardin Navy uniforms.
 
+## Session 5
+
+Valcourt refuels and re-equips the [[TSS Profondeur]] at [[Undersea Base Elyon]] after the Hadal rescue. [[Emma Colbert (Laura)]] privately briefs him on the legal problem surrounding restored [[Alain Mercier]] and persuades him to divert toward the [[Sunken Ship-Boat]].
+
+Valcourt agrees to frame the run as continued rescue and evidence-hunting work. During the recovery of [[Oduya]], he keeps the Profondeur moving and acts as a decoy when an unidentified small craft approaches the salvage site.
+
 ## Open Questions
 
 - How much does Valcourt know about previous Transstar rescue operations?
 - Is he quietly helping the party investigate, or simply protecting his ship?
+- How much risk will he accept now that the party has used his ship to raise [[Oduya]]?

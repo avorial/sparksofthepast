@@ -51,6 +51,11 @@ Pilot (Spacecraft) 3, Diplomat 2, Mechanic 2, Medic 2, Admin 1, Astrogation 1, E
 - Helped bring the Profondeur close enough to the Hadal stabilizing/power interface for operations.
 - Noticed that the surviving rescued Jardin Navy officer looked strikingly like [[Alain Mercier]].
 
+## Session 5 - The Oduya
+
+- No distinct individual spotlight is captured in the Game 5 transcript.
+- Remains part of the party's Transstar cover and the wider effort to protect restored [[Alain Mercier]], recover [[Oduya]], and find evidence that can clear the group.
+
 - Enemy: Betrayer, formerly an education ally or close clique member
 
 ## Session 1 - Official Business

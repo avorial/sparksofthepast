@@ -9,13 +9,16 @@ visibility: gm
 approvalStatus: approved
 knownToPlayers: false
 keyLinks:
+  - "[[Session 5 - The Oduya]]"
   - "[[Session 4 - Into the Hadal Deep]]"
+  - "[[Oduya]]"
+  - "[[Clone Rebirth Program]]"
   - "[[TSS Profondeur]]"
   - "[[Crew of TSS Profondeur]]"
   - "[[Aquatic Salvage Project]]"
-  - "[[Étienne Valcourt]]"
-  - "[[Ma?lle Fournier]]"
-  - "[[R?mi Beauchamp]]"
+  - "[[Etienne Valcourt]]"
+  - "[[Maelle Fournier]]"
+  - "[[Remi Beauchamp]]"
   - "[[Sabine Caron]]"
 aliases: []
 lastEditedBy: Codex
@@ -37,7 +40,9 @@ The year is **1105 Imperial**, on the Solomani world of **Jardin**. The Travelle
 
 The crew is hiding under [[Transstar]] employment after the [[Mercier Frame-Up]]. Their current cover is the [[Aquatic Salvage Project]], an undersea assignment aboard the [[TSS Profondeur]].
 
-During [[Session 4 - Into the Hadal Deep]], the party rescued a Jardin Navy survivor from [[Hadal Research Site]] who looks strikingly like [[Alain Mercier]]. The survivor is now at [[Undersea Base Elyon]], and [[SolSec]] has already taken interest.
+During [[Session 5 - The Oduya]], the Hadal survivor identified himself as [[Alain Mercier]] restored through the [[Clone Rebirth Program]]. He cannot legally return to Jardin's surface, but he will provide access codes to his house and computer if the party can keep him safe and move him off-world.
+
+The party raised the old [[Sunken Ship-Boat]], now identified as [[Oduya]], and recovered a [[Transponder Swap Box]] that may let the ship-boat operate under multiple identities. The same day, the [[Prime Minister Bombing]] suggested that Hadal's destruction may have removed clone backups before another high-ranking assassination.
 
 ---
 
@@ -61,9 +66,9 @@ During [[Session 4 - Into the Hadal Deep]], the party rescued a Jardin Navy surv
 
 The party's first Transstar assignment places them aboard the [[TSS Profondeur]] with a small, experienced crew.
 
-* [[Étienne Valcourt]] - captain and pilot of the Profondeur.
-* [[Ma?lle Fournier]] - engineer and damage-control specialist.
-* [[R?mi Beauchamp]] - sonar, sensors, electronics, and communications specialist.
+* [[Etienne Valcourt]] - captain and pilot of the Profondeur.
+* [[Maelle Fournier]] - engineer and damage-control specialist.
+* [[Remi Beauchamp]] - sonar, sensors, electronics, and communications specialist.
 * [[Sabine Caron]] - security and diving-operations lead.
 * [[Crew of TSS Profondeur]] - crew group page.
 
@@ -78,7 +83,12 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Undersea Base Elyon]]
 * [[Relay Station 932]]
 * [[Jardinian Naval SOS]]
-* [[Mercier Lookalike Survivor]]
+* [[Alain Mercier]]
+* [[Clone Rebirth Program]]
+* [[Oduya]]
+* [[Sunken Ship-Boat]]
+* [[Transponder Swap Box]]
+* [[Prime Minister Bombing]]
 * [[Undersea Extremists]]
 * [[Undersea Suits]]
 
@@ -90,6 +100,7 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Session 2 - Masks and Markers]]
 * [[Session 3 - Transstar Day]]
 * [[Session 4 - Into the Hadal Deep]]
+* [[Session 5 - The Oduya]]
 
 ---
 
@@ -99,6 +110,7 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Adrien Pelletier]] - Governor of Rousseau at Arcosphere Rousseau.
 * [[Agent Luc Deschamps]] - SolSec Liaison Officer at Customs & Immigration Checkpoint Harmony.
 * [[Alain Mercier]]
+* [[Anita Singh]] - Emma Colbert's logistics and starport-labor contact, useful for fencing Oduya cargo into repair work.
 * [[Amelia Torres]] - Special Projects Coordinator at Transstar.
 * [[Antoine Mercier]] - Executive Director, Solomani Front Operations at Transstar Sector Exchange.
 * [[Armand Rousselet]] - Senior Customs Liaison at Transstar.
@@ -144,7 +156,7 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Mara Kovalenko]] - Director of Foreign Trade Relations at Transstar Sector Exchange.
 * [[Marcel Delphine]]
 * [[Mentor Jean Mercier]] - Senior Creche Mentor at Crèche District 14.
-* [[Mercier Lookalike Survivor]] - Unidentified Jardin Navy survivor rescued from Hadal who closely resembles assassinated minister Alain Mercier.
+* [[Mercier Lookalike Survivor]] - Initial identification for the Hadal survivor before he woke and named himself as Alain Mercier.
 * [[Nadia Giroux]] - Investigative Journalist at Arcosphere Rousseau.
 * [[Nadine Pelletier]] - Passenger Services Director at Transstar.
 * [[Nico Gay]] - Emma Colbert's smuggler contact; a mid-tier smuggler loyal to Emma within limits.
@@ -158,6 +170,7 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Sarah Chen]] - Route Intelligence Analyst at Transstar.
 * [[Sister Celeste Moreau]] - Community Organizer at Arcosphere Rousseau.
 * [[SolSec Operative at Elyon]] - Unidentified SolSec agent who scans the Mercier lookalike survivor at Undersea Base Elyon.
+* [[Sergey Sun]] - Emma Colbert's smuggling contact, useful for moving restricted people such as restored Mercier.
 
 ---
 

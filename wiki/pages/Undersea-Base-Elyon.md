@@ -8,12 +8,15 @@ tags:
   - undersea
   - transstar
   - session-4
+  - session-5
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[TSS Profondeur]]"
   - "[[Mercier Lookalike Survivor]]"
+  - "[[Alain Mercier]]"
+  - "[[Clone Rebirth Program]]"
   - "[[SolSec Operative at Elyon]]"
 aliases:
   - Elyon
@@ -44,3 +47,9 @@ Undersea Base Elyon is a Transstar-owned underwater base near [[Hadal Research S
 The [[TSS Profondeur]] diverts to Elyon after the Hadal rescue. Medical staff stabilize the [[Mercier Lookalike Survivor]], while Valcourt gathers the party to discuss the disturbing fact that a full Jardin Navy group was found trapped inside a Transstar facility.
 
 Saichi later sees a [[SolSec Operative at Elyon]] enter the survivor's room and take a hand and bone-growth scan.
+
+## Session 5
+
+The party remains at Elyon after the SolSec confrontation. [[Emma Colbert (Laura)]] and [[Victor Mendes (Steinbach)]] enter the survivor's medical room and question him after he wakes.
+
+The survivor identifies himself as [[Alain Mercier]] restored through the [[Clone Rebirth Program]]. Elyon therefore becomes the place where the party learns that the Hadal rescue was not a simple lookalike mystery, but a direct continuation of the Mercier assassination.
