@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T13:48:09.736Z",
+  "generatedAt": "2026-08-25T13:53:07.202Z",
   "pages": [
     {
       "id": "character-0-31-Saichi-Maru-Annette",
@@ -227,19 +227,17 @@
       ]
     },
     {
-      "id": "event-Aquatic-Salvage-Project",
+      "id": "npc-Aquatic-Salvage-Project",
       "title": "Aquatic Salvage Project",
       "path": "wiki/pages/Aquatic-Salvage-Project.md",
-      "type": "event",
-      "tags": [
-        "event",
-        "transstar",
-        "session-3",
-        "session-4",
-        "session-5",
-        "undersea"
-      ],
+      "type": "npc",
+      "tags": [],
       "links": [
+        "organization-Transstar",
+        "vehicle-TSS-Profondeur",
+        "location-Hadal-Research-Site",
+        "item-Sunken-Ship-Boat",
+        "organization-Undersea-Extremists",
         "game-Session-3-Transstar-Day",
         "npc-Claire-Bouchard",
         "game-Session-4-Into-the-Hadal-Deep",
@@ -260,19 +258,11 @@
         "item-Sunken-Ship-Boat",
         "npc-Alain-Mercier"
       ],
-      "aliases": [
-        "Transstar Aquatic Salvage"
-      ],
-      "summary": "First Transstar assignment: undersea salvage aboard the TSS Profondeur, beginning with Hadal Research Site.",
-      "visibility": "players",
+      "aliases": [],
+      "summary": "",
+      "visibility": "gm",
       "approvalStatus": "approved",
-      "keyLinks": [
-        "[[Transstar]]",
-        "[[TSS Profondeur]]",
-        "[[Hadal Research Site]]",
-        "[[Oduya]]",
-        "[[Undersea Extremists]]"
-      ]
+      "keyLinks": []
     },
     {
       "id": "location-Arcosphere-Rousseau",
@@ -297,7 +287,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "npc-Armand-Rousselet",
@@ -337,7 +328,7 @@
         "location-Hall-des-Futurs-Choisis",
         "organization-Transstar",
         "event-Mercier-Frame-Up",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "vehicle-TSS-Profondeur",
         "game-Session-5-The-Oduya",
         "npc-Alain-Mercier",
@@ -363,7 +354,7 @@
         "npc-Crew-of-TSS-Profondeur",
         "vehicle-TSS-Profondeur",
         "npc-Crew-of-TSS-Profondeur",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "location-Hadal-Research-Site",
         "location-Undersea-Base-Elyon",
         "location-Relay-Station-932",
@@ -445,7 +436,8 @@
         "npc-Sarah-Chen",
         "npc-Sister-Celeste-Moreau",
         "npc-SolSec-Operative-at-Elyon",
-        "npc-Sergey-Sun"
+        "npc-Sergey-Sun",
+        "unresolved:table-rules"
       ],
       "aliases": [],
       "summary": "Main campaign hub and directory for Sparks From the Past.",
@@ -618,11 +610,11 @@
         "game-Session-3-Transstar-Day",
         "organization-Transstar",
         "location-Transstar-Sector-Exchange",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "lore-Transstar-Employment-Contract",
         "organization-Transstar",
         "lore-Transstar-Employment-Contract",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "game-Session-3-Transstar-Day"
       ],
       "aliases": [
@@ -842,7 +834,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "npc-Crew-of-TSS-Profondeur",
@@ -856,7 +849,7 @@
       ],
       "links": [
         "vehicle-TSS-Profondeur",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "npc-Etienne-Valcourt",
         "npc-Maelle-Fournier",
         "npc-Remi-Beauchamp",
@@ -897,7 +890,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "character-Dan-Araujo-Josh",
@@ -1038,7 +1032,7 @@
         "session-4"
       ],
       "links": [
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "game-Session-4-Into-the-Hadal-Deep",
         "organization-Undersea-Extremists",
         "npc-Claire-Bouchard",
@@ -1257,7 +1251,7 @@
         "npc-Lucin",
         "npc-Inspector-Marc-Valois",
         "location-Transstar-Sector-Exchange",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "vehicle-TSS-Profondeur",
         "clue-Jardinian-Naval-SOS",
         "npc-Sabine-Caron",
@@ -1371,13 +1365,14 @@
         "Captain Valcourt",
         "Valcourt"
       ],
-      "summary": "Captain and pilot of the TSS Profondeur; former Jardin Navy",
+      "summary": "Captain and pilot of the TSS Profondeur; former Jardin Navy submersible-operations specialist.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
         "[[TSS Profondeur]]",
         "[[Aquatic Salvage Project]]"
-      ]
+      ],
+      "parent": "Crew-of-TSS-Profondeur"
     },
     {
       "id": "event-False-News-Broadcast",
@@ -1425,7 +1420,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "event-Friday-Party-Congress-Hearing",
@@ -1536,7 +1532,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "organization-Home-Guard",
@@ -1736,6 +1733,32 @@
       ]
     },
     {
+      "id": "location-Jardin",
+      "title": "Jardin",
+      "path": "wiki/pages/Jardin.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "world"
+      ],
+      "links": [
+        "location-Le-Palais-de-Continuit",
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Transstar-Sector-Exchange",
+        "location-Arcosphere-Rousseau",
+        "organization-Home-Guard",
+        "event-Mercier-Frame-Up",
+        "npc-Keith-Morris"
+      ],
+      "aliases": [],
+      "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
+      ]
+    },
+    {
       "id": "organization-Jardin-Navy",
       "title": "Jardin Navy",
       "path": "wiki/pages/Jardin-Navy.md",
@@ -1791,36 +1814,12 @@
       "aliases": [
         "Syndicat Jardin"
       ],
-      "summary": "The **Jardin Syndicate** is one of the largest and most influential",
+      "summary": "The **Jardin Syndicate** is one of the largest and most influential criminal organizations operating within the Jardin Subsector. Originally founded on Jardin itself, the Syndicate has expanded across dozens of worlds, establishing networks that span both Confederation and Imperial territory.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
         "[[Marcel Delphine]]"
       ]
-    },
-    {
-      "id": "location-Jardin",
-      "title": "Jardin",
-      "path": "wiki/pages/Jardin.md",
-      "type": "location",
-      "tags": [
-        "location",
-        "world"
-      ],
-      "links": [
-        "location-Le-Palais-de-Continuit",
-        "location-Fort-Robespierre-Naval-Annex",
-        "location-Transstar-Sector-Exchange",
-        "location-Arcosphere-Rousseau",
-        "organization-Home-Guard",
-        "event-Mercier-Frame-Up",
-        "npc-Keith-Morris"
-      ],
-      "aliases": [],
-      "summary": ">",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
     },
     {
       "id": "clue-Jardinian-Naval-SOS",
@@ -1936,6 +1935,7 @@
         "session-3"
       ],
       "links": [
+        "unresolved:quartier-sainte-liberte",
         "npc-Lucin",
         "game-Session-3-Transstar-Day",
         "npc-Inspector-Marc-Valois",
@@ -1954,7 +1954,8 @@
       "keyLinks": [
         "[[Lucin]]",
         "[[Quartier-Sainte-Liberte]]"
-      ]
+      ],
+      "parent": "Quartier-Sainte-Liberte"
     },
     {
       "id": "location-Le-Palais-de-Continuit",
@@ -1974,7 +1975,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "npc-Leo-Duprey",
@@ -2028,7 +2030,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "npc-Luc-Girard",
@@ -2160,7 +2163,8 @@
       "approvalStatus": "approved",
       "keyLinks": [
         "[[TSS Profondeur]]"
-      ]
+      ],
+      "parent": "Crew-of-TSS-Profondeur"
     },
     {
       "id": "npc-Mara-Kovalenko",
@@ -2207,7 +2211,9 @@
         "organization-Jardin-Syndicate",
         "location-Hall-des-Futurs-Choisis",
         "organization-SolSec",
-        "location-Arcosphere-Rousseau"
+        "location-Arcosphere-Rousseau",
+        "unresolved:citizens-aid-cooperative",
+        "unresolved:the-floating-court"
       ],
       "aliases": [],
       "summary": "",
@@ -2334,7 +2340,7 @@
         "Psionic Marker Research",
         "Research Note 117A"
       ],
-      "summary": "Recovered research data suggests decades of genetic-marker tests tied",
+      "summary": "Recovered research data suggests decades of genetic-marker tests tied to psionic-like abilities and alien or non-Solomani markers.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
@@ -2662,7 +2668,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "event-Prime-Minister-Bombing",
@@ -2758,7 +2765,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "location-Quartier-Sainte-Libert",
@@ -2778,7 +2786,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "npc-Reena-Kessler",
@@ -2855,13 +2864,14 @@
         "Beauchamp",
         "Remi Beauchamp"
       ],
-      "summary": "Sonar, sensors, electronics, and communications specialist aboard the",
+      "summary": "Sonar, sensors, electronics, and communications specialist aboard the TSS Profondeur.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
         "[[TSS Profondeur]]",
         "[[Relay Station 932]]"
-      ]
+      ],
+      "parent": "Crew-of-TSS-Profondeur"
     },
     {
       "id": "npc-Sabine-Caron",
@@ -2889,7 +2899,8 @@
       "keyLinks": [
         "[[TSS Profondeur]]",
         "[[Undersea Suits]]"
-      ]
+      ],
+      "parent": "Crew-of-TSS-Profondeur"
     },
     {
       "id": "npc-Sarah-Chen",
@@ -3130,7 +3141,7 @@
         "item-Merciers-Locked-Pad",
         "npc-Reena-Kessler",
         "npc-Claire-Bouchard",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "item-Identity-Veils",
         "npc-Marcel-Delphine",
         "npc-Dr-Luc-Moreau",
@@ -3141,7 +3152,7 @@
         "npc-Reena-Kessler",
         "organization-Transstar-Peacekeepers",
         "npc-Claire-Bouchard",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "character-0-31-Saichi-Maru-Annette",
         "character-Cass-Pien-Kolb",
         "character-Ciernan-Seanislav-Peter",
@@ -3159,7 +3170,7 @@
         "npc-Reena-Kessler",
         "npc-Claire-Bouchard",
         "lore-Transstar-Employment-Contract",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "organization-Undersea-Extremists"
       ],
       "aliases": [
@@ -3190,7 +3201,7 @@
         "hadal"
       ],
       "links": [
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "vehicle-TSS-Profondeur",
         "npc-Etienne-Valcourt",
         "npc-Maelle-Fournier",
@@ -3201,7 +3212,7 @@
         "npc-Alain-Mercier",
         "location-Undersea-Base-Elyon",
         "organization-SolSec",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "vehicle-TSS-Profondeur",
         "npc-Etienne-Valcourt",
         "npc-Maelle-Fournier",
@@ -3256,7 +3267,7 @@
     },
     {
       "id": "game-Session-5-The-Oduya",
-      "title": "Session 5 - The Oduya",
+      "title": "Session 5 The Oduya",
       "path": "wiki/pages/Session-5-The-Oduya.md",
       "type": "game",
       "tags": [
@@ -3266,81 +3277,16 @@
         "transstar",
         "oduya"
       ],
-      "links": [
-        "location-Undersea-Base-Elyon",
-        "npc-SolSec-Operative-at-Elyon",
-        "character-Zoy-Damon",
-        "character-Ciernan-Seanislav-Peter",
-        "character-Emma-Colbert-Laura",
-        "character-Victor-Mendes-Steinbach",
-        "npc-Alain-Mercier",
-        "lore-Clone-Rebirth-Program",
-        "location-Hadal-Research-Site",
-        "item-Sunken-Ship-Boat",
-        "npc-Etienne-Valcourt",
-        "vehicle-TSS-Profondeur",
-        "character-0-31-Saichi-Maru-Annette",
-        "item-Sunken-Ship-Boat",
-        "organization-Jardin-Syndicate",
-        "item-Transponder-Swap-Box",
-        "npc-Anita-Singh",
-        "npc-Sergey-Sun",
-        "npc-Inspector-Marc-Valois",
-        "npc-Alain-Mercier",
-        "event-Prime-Minister-Bombing",
-        "npc-Etienne-Valcourt",
-        "organization-Jardin-Syndicate",
-        "item-Transponder-Swap-Box",
-        "character-0-31-Saichi-Maru-Annette",
-        "character-Emma-Colbert-Laura",
-        "character-Victor-Mendes-Steinbach",
-        "character-Ciernan-Seanislav-Peter",
-        "character-Zoy-Damon",
-        "character-Dan-Araujo-Josh",
-        "character-Cass-Pien-Kolb",
-        "character-Varian-Svazz-Allen",
-        "character-Judith-Dumont-Carla",
-        "location-Undersea-Base-Elyon",
-        "npc-Alain-Mercier",
-        "lore-Clone-Rebirth-Program",
-        "item-Sunken-Ship-Boat",
-        "item-Transponder-Swap-Box",
-        "npc-Alain-Mercier",
-        "npc-Etienne-Valcourt",
-        "npc-Anita-Singh",
-        "npc-Sergey-Sun",
-        "npc-SolSec-Operative-at-Elyon",
-        "location-Undersea-Base-Elyon",
-        "vehicle-TSS-Profondeur",
-        "location-Hadal-Research-Site",
-        "item-Sunken-Ship-Boat",
-        "organization-Transstar",
-        "organization-Jardin-Navy",
-        "organization-SolSec",
-        "organization-Jardin-Syndicate",
-        "organization-Undersea-Extremists",
-        "npc-Alain-Mercier",
-        "event-Prime-Minister-Bombing",
-        "item-Sunken-Ship-Boat",
-        "item-Transponder-Swap-Box",
-        "item-Sunken-Ship-Boat",
-        "item-Transponder-Swap-Box"
-      ],
+      "links": [],
       "aliases": [
         "Game 5",
         "Chapter 1 Game 5",
         "The Oduya"
       ],
-      "summary": "Mercier returns through a clone body, the party raises the smuggling ship-boat Oduya, and the conspiracy points beyond Jardin.",
+      "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": [
-        "[[Alain Mercier]]",
-        "[[Clone Rebirth Program]]",
-        "[[Oduya]]",
-        "[[Transponder Swap Box]]",
-        "[[Prime Minister Bombing]]"
-      ]
+      "keyLinks": []
     },
     {
       "id": "npc-Sister-Celeste-Moreau",
@@ -3394,39 +3340,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-SolSec-Operative-at-Elyon",
-      "title": "SolSec Operative at Elyon",
-      "path": "wiki/pages/SolSec-Operative-at-Elyon.md",
-      "type": "npc",
-      "tags": [
-        "npc",
-        "solsec",
-        "session-4",
-        "session-5"
-      ],
-      "links": [
-        "location-Undersea-Base-Elyon",
-        "game-Session-4-Into-the-Hadal-Deep",
-        "npc-Mercier-Lookalike-Survivor",
-        "npc-Alain-Mercier",
-        "npc-Alain-Mercier",
-        "lore-Clone-Rebirth-Program",
-        "npc-Inspector-Marc-Valois"
-      ],
-      "aliases": [
-        "Elyon SolSec Agent"
-      ],
-      "summary": "Unidentified SolSec agent who scans the Mercier lookalike survivor at Undersea Base Elyon.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [
-        "[[SolSec]]",
-        "[[Undersea Base Elyon]]",
-        "[[Mercier Lookalike Survivor]]",
-        "[[Clone Rebirth Program]]"
-      ]
-    },
-    {
       "id": "organization-SolSec",
       "title": "SolSec",
       "path": "wiki/pages/SolSec.md",
@@ -3463,6 +3376,39 @@
       ]
     },
     {
+      "id": "npc-SolSec-Operative-at-Elyon",
+      "title": "SolSec Operative at Elyon",
+      "path": "wiki/pages/SolSec-Operative-at-Elyon.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "solsec",
+        "session-4",
+        "session-5"
+      ],
+      "links": [
+        "location-Undersea-Base-Elyon",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-Alain-Mercier",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "npc-Inspector-Marc-Valois"
+      ],
+      "aliases": [
+        "Elyon SolSec Agent"
+      ],
+      "summary": "Unidentified SolSec agent who scans the Mercier lookalike survivor at Undersea Base Elyon.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[SolSec]]",
+        "[[Undersea Base Elyon]]",
+        "[[Mercier Lookalike Survivor]]",
+        "[[Clone Rebirth Program]]"
+      ]
+    },
+    {
       "id": "item-Sunken-Ship-Boat",
       "title": "Sunken Ship-Boat",
       "path": "wiki/pages/Sunken-Ship-Boat.md",
@@ -3481,7 +3427,7 @@
         "character-Cass-Pien-Kolb",
         "location-Port-Sainte-Jeanne-Downport",
         "game-Session-5-The-Oduya",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "item-Sunken-Ship-Boat",
         "item-Sunken-Ship-Boat",
         "npc-Keith-Morris",
@@ -3535,7 +3481,7 @@
         "session-5"
       ],
       "links": [
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "organization-Transstar",
         "npc-Etienne-Valcourt",
         "npc-Maelle-Fournier",
@@ -3612,7 +3558,7 @@
         "item-Identity-Veils",
         "character-Emma-Colbert-Laura",
         "npc-Claire-Bouchard",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "vehicle-TSS-Profondeur",
         "npc-Etienne-Valcourt",
         "npc-Maelle-Fournier",
@@ -3625,7 +3571,7 @@
         "npc-SolSec-Operative-at-Elyon",
         "npc-Mercier-Lookalike-Survivor",
         "clue-Jardinian-Naval-SOS",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "event-Mercier-Frame-Up",
         "location-Undersea-Base-Elyon",
         "character-Emma-Colbert-Laura",
@@ -3684,6 +3630,39 @@
       ]
     },
     {
+      "id": "organization-Transstar",
+      "title": "Transstar",
+      "path": "wiki/pages/Transstar.md",
+      "type": "organization",
+      "tags": [
+        "organization"
+      ],
+      "links": [
+        "npc-Etienne-Moreau",
+        "npc-Claire-Bouchard",
+        "npc-Captain-Victor-Mendes",
+        "npc-Nadine-Pelletier",
+        "npc-Luc-Girard",
+        "npc-Sarah-Chen",
+        "npc-Armand-Rousselet",
+        "npc-Elena-Kovacs",
+        "npc-Philippe-Laurent",
+        "npc-Amelia-Torres",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "vehicle-TSS-Profondeur",
+        "npc-Aquatic-Salvage-Project",
+        "location-Hadal-Research-Site",
+        "npc-Mercier-Lookalike-Survivor",
+        "location-Undersea-Base-Elyon",
+        "organization-SolSec"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
       "id": "lore-Transstar-Employment-Contract",
       "title": "Transstar Employment Contract",
       "path": "wiki/pages/Transstar-Employment-Contract.md",
@@ -3700,7 +3679,7 @@
         "npc-Claire-Bouchard",
         "npc-Reena-Kessler",
         "organization-Transstar-Peacekeepers",
-        "event-Aquatic-Salvage-Project",
+        "npc-Aquatic-Salvage-Project",
         "game-Session-3-Transstar-Day"
       ],
       "aliases": [
@@ -3769,40 +3748,8 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "organization-Transstar",
-      "title": "Transstar",
-      "path": "wiki/pages/Transstar.md",
-      "type": "organization",
-      "tags": [
-        "organization"
-      ],
-      "links": [
-        "npc-Etienne-Moreau",
-        "npc-Claire-Bouchard",
-        "npc-Captain-Victor-Mendes",
-        "npc-Nadine-Pelletier",
-        "npc-Luc-Girard",
-        "npc-Sarah-Chen",
-        "npc-Armand-Rousselet",
-        "npc-Elena-Kovacs",
-        "npc-Philippe-Laurent",
-        "npc-Amelia-Torres",
-        "game-Session-4-Into-the-Hadal-Deep",
-        "vehicle-TSS-Profondeur",
-        "event-Aquatic-Salvage-Project",
-        "location-Hadal-Research-Site",
-        "npc-Mercier-Lookalike-Survivor",
-        "location-Undersea-Base-Elyon",
-        "organization-SolSec"
-      ],
-      "aliases": [],
-      "summary": "",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Jardin"
     },
     {
       "id": "location-Undersea-Base-Elyon",
