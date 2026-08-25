@@ -11,7 +11,7 @@ tags:
   - session-1
   - session-5
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[Cass Pien (Kolb)]]"
@@ -24,7 +24,7 @@ aliases:
   - Submerged Ship-Boat
   - The Drowned Boat
   - Oduya
-lastEditedBy: AI via MCP
+lastEditedBy: GM review via MCP
 ---
 
 # Sunken Ship-Boat
