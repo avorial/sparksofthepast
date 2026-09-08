@@ -4,7 +4,7 @@ type: game
 name: Session 1 Official Business
 summary: ""
 tags: []
-visibility: gm
+visibility: players
 approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
