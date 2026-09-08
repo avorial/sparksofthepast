@@ -10,6 +10,7 @@ tags:
   - undersea
   - session-4
   - session-5
+  - session-6
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
@@ -62,9 +63,16 @@ After refueling and replacing spent rescue gear at [[Undersea Base Elyon]], Capt
 
 The Profondeur delivers the party to [[Oduya]], leaves them oxygen supplies, and briefly acts as a decoy when a small unresponsive craft approaches the salvage site.
 
+## Session 6
+
+During [[Session 6 - Ghosts in the Bloodline]], the party plans to keep using the Profondeur and the [[Aquatic Salvage Project]] as corporate cover. After opening [[Mercier's Locked Pad]] and recovering [[Mercier Evidence Cache]], the group realizes restored [[Alain Mercier]] is still vulnerable at [[Undersea Base Elyon]].
+
+[[Emma Colbert (Laura)]] uses her Transstar executive authority to hide Mercier aboard the Profondeur as cargo, maintenance-related personnel, or another administrative fiction. The next session is expected to return to Profondeur work, with Captain [[Etienne Valcourt]] likely to ask difficult questions about the hidden passenger and the party's repaired ship-boat.
+
 ## Open Questions
 
 - Why are previous rescue logs scrubbed?
 - Who authorized the hidden weapons?
 - Why was the Profondeur's experienced crew split off so soon before a dangerous Hadal mission?
 - Did anyone track the Profondeur's diversion to Oduya?
+- Can the party keep restored Mercier hidden aboard without exposing him to Transstar, SolSec, or Social Solidarity?

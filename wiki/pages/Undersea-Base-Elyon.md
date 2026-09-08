@@ -9,6 +9,7 @@ tags:
   - transstar
   - session-4
   - session-5
+  - session-6
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
@@ -53,3 +54,9 @@ Saichi later sees a [[SolSec Operative at Elyon]] enter the survivor's room and 
 The party remains at Elyon after the SolSec confrontation. [[Emma Colbert (Laura)]] and [[Victor Mendes (Steinbach)]] enter the survivor's medical room and question him after he wakes.
 
 The survivor identifies himself as [[Alain Mercier]] restored through the [[Clone Rebirth Program]]. Elyon therefore becomes the place where the party learns that the Hadal rescue was not a simple lookalike mystery, but a direct continuation of the Mercier assassination.
+
+## Session 6
+
+During [[Session 6 - Ghosts in the Bloodline]], Elyon remains dangerous because restored [[Alain Mercier]] is still there while the party opens his pad and recovers his hidden proof elsewhere. The earlier scan by the [[SolSec Operative at Elyon]] means data about Mercier may already be moving through government channels.
+
+By the end of the session, the party decides Mercier should not be left unguarded at the base. Emma plans to hide him aboard the [[TSS Profondeur]] under a cargo, maintenance, or personnel-cover explanation.

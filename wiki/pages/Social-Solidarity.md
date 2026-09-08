@@ -66,6 +66,21 @@ To foreign observers it resembles a mixture of:
 
 To most citizens of Jardin, however, Social Solidarity is simply part of daily life.
 
+## Session 6 - Suspected Psyker Faction
+
+During [[Session 6 - Ghosts in the Bloodline]], the party opens [[Mercier's Locked Pad]] and recovers [[Mercier Evidence Cache]]. Mercier's research points toward a hidden subset of Social Solidarity running or protecting a [[Psychic Clone Conspiracy]].
+
+The suspected faction may be:
+
+* Creating psykers by hard-cloning known psionic subjects into children.
+* Using those psykers to alter elite genetics over years.
+* Preparing blackmail against officials whose families depend on genetic legitimacy.
+* Blocking future challenges by compromising political and military bloodlines.
+
+This does not prove that the whole Ministry knows or approves. It does make Social Solidarity the central institutional suspect in Mercier's death, the frame-up, and the Providence lead.
+
+Mercier sent [[Camille Dufour]], an encrypted-identity SolSec agent, to [[Providence]] to confront or interrogate a Social Solidarity executive while he presented his Senate evidence.
+
 Its officers assist with:
 
 * Citizenship updates

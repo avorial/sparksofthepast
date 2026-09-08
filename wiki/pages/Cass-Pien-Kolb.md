@@ -233,6 +233,19 @@ Tactics (Naval) 3, Leadership 3, Stealth 2, Profession (Belter) 2, Gun Combat (S
 - Helped with the practical ship-recovery effort aboard the wreck while others handled Mercier, persuasion, and contacts.
 - Remained tied to the larger ship-boat thread because the original [[Sunken Ship-Boat]] lead came through Cass's smuggling contacts.
 
+## Session 6 - Ghosts in the Bloodline
+
+- Revealed that he has both an influential Solomani Party ally and the crusading journalist [[Roman Juma]] available as pressure/disclosure contacts.
+- Helped shape the plan to use those contacts as a dead-man switch instead of sending Roman to steal evidence from Mercier's home.
+- Accepted the check-in/duress-code plan: if he fails to respond or sends the wrong signal, the data goes out.
+- Joined the [[Mercier Penthouse]] away team.
+- Followed Saichi low out of the elevator while she went high along the walls/ceiling.
+- Engaged apparent [[Home Guard]] attackers with a laser pistol after a weapon-sheet issue was corrected.
+- Dropped one attacker and later kept firing rather than spend the turn taking cover.
+- Took light shotgun damage through his carapace armor.
+- Helped secure the Home Guard bodies, comms, and cuffs after the fight.
+- Benefited from Dan's first aid after the penthouse battle.
+
 ## Session 2 - Masks and Markers
 
 - Joined the Hall recon team and helped investigate the anxious Hall scientist, later identified as [[Dr. Luc Moreau]].

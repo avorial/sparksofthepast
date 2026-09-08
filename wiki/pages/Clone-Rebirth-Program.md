@@ -59,3 +59,11 @@ Mercier suspects the Hadal attack may have been a preparation step. If conspirat
 - Was the [[Prime Minister Bombing]] possible because a backup had already been destroyed?
 - Did Mercier's prior self hide final evidence before death?
 - Who outside official channels has access to younger-body or illegal clone-transfer technology?
+
+## Session 6 - Wider Clone Implications
+
+[[Session 6 - Ghosts in the Bloodline]] reveals a second, more covert clone use. Mercier's research suggests that a subset of [[Social Solidarity]] or an adjacent faction has been hard-cloning known psykers into children. The success rate is not perfect, but roughly one in six such clones may become a psyker.
+
+This appears separate from the official Platinum 2 continuity system, but it makes the [[Clone Rebirth Program]] more politically dangerous: cloning is not only preserving elites after death, it may also be creating the psionic tools used to alter elite bloodlines and blackmail officials.
+
+The party should treat official clone infrastructure, illegal psyker-clone work, and the Hadal attack as connected but not identical until more proof is found.

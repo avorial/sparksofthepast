@@ -50,3 +50,9 @@ For ordinary travel, ships broadcast identity constantly. This box gives the par
 - Any identity may have its own history, debts, enemies, or watchlist flags.
 - Using an Imperium or Aslan transponder inside Solomani-controlled space could attract dangerous attention.
 - The hardware is delicate and old; mishandling could damage the modules.
+
+## Session 6 - Ghost Transponder Quirk
+
+During [[Session 6 - Ghosts in the Bloodline]], the party learns that Oduya/Volante's transponder system has been hacked beyond simple module swapping. Because it has been modified for permanently linked transponders, a user can also attempt to code an identity on the fly with Electronics (Computers).
+
+This gives +1 success to attempts to disguise the ship's identity, but it is risky. The system builds from registrations it has previously scanned, so it might broadcast a real ship's sister profile or another identity with unknown legal trouble attached.

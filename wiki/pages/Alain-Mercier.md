@@ -170,3 +170,15 @@ During [[Session 5 - The Oduya]], the survivor wakes and identifies himself as A
 Mercier's restored memory is about six weeks old, so he does not know exactly what his prior self found immediately before the public assassination. He suspects that the attack on [[Hadal Research Site]] destroyed political, naval, and Transstar clone backups before a future assassination. The same day, the [[Prime Minister Bombing]] makes that warning urgent.
 
 Mercier cannot legally return to Jardin's surface after a public death. He offers the party access codes to his house and computer if they keep him safe and get him to an off-world or Navy transfer.
+
+## Session 6 - Ghosts in the Bloodline
+
+During [[Session 6 - Ghosts in the Bloodline]], Mercier's code opens [[Mercier's Locked Pad]] in the party's Transstar apartment. The pad confirms that his final work connected the earlier [[Mercier Genetic Findings]] to a hidden [[Psychic Clone Conspiracy]].
+
+The party learns that Mercier had identified active genetic alteration among elite families rather than simple inherited impurity. A chancellor's son failed elite genetic sequencing despite ideal Solomani parentage, and Mercier later preserved physical comparison samples tied to the President of Jardin's child to prove that changes were occurring over time.
+
+Mercier bought a ticket to [[Providence]] for [[Camille Dufour]], an encrypted-identity SolSec agent. His plan appears to have been a pincer move: Camille would confront or interrogate a Social Solidarity executive on Providence while Mercier presented his findings to the Senate.
+
+The party uses Mercier's personal code to enter [[Mercier Penthouse]], fights apparent [[Home Guard]] personnel who are already searching the residence, and recovers [[Mercier Evidence Cache]] from a hidden compartment behind the television.
+
+By session end, Mercier remains physically vulnerable at [[Undersea Base Elyon]]. The party plans to hide him aboard the [[TSS Profondeur]] under Emma's Transstar authority while Oduya/Volante is repaired.

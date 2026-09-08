@@ -47,3 +47,17 @@ Because the state expects its citizens to help defend the Perfection System, the
 - Several were killed or incapacitated when the attempted containment turned into a firefight.
 - Their gear included liberator handguns, helmets, flak vests, phones, and earpieces.
 
+## Session 6 Notes
+
+During [[Session 6 - Ghosts in the Bloodline]], apparent Home Guard police are already inside [[Mercier Penthouse]] when the party arrives to recover evidence. They are tossing the residence and immediately open fire when the elevator doors reveal the away team.
+
+Known details:
+
+- They carry shotguns and wear protective suits or armor.
+- One attacker nearly kills [[Victor Mendes (Steinbach)]] with a shotgun blast.
+- [[0-31 Saichi Maru (Annette)]] absorbs another shotgun hit through her robot body.
+- [[Cass Pien (Kolb)]] takes a lighter hit through carapace armor.
+- The away team kills or leaves all attackers bleeding out, then secures comms and cuffs.
+
+It is not confirmed whether these were legitimate Home Guard personnel, compromised Home Guard, or impostors using Home Guard appearance and gear.
+

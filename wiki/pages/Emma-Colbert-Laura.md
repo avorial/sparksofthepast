@@ -73,6 +73,18 @@ Broker 2, Carouse 2, Deception 2, Electronics (Comms) 2, Persuade 2, Advocate 1,
 - Helped with vac-suit checks, computer work, and piloting support during the recovery of [[Oduya]].
 - Identified [[Anita Singh]] as a contact to fence illegal cybernetics into repair services and [[Sergey Sun]] as a contact to help move Mercier.
 
+## Session 6 - Ghosts in the Bloodline
+
+- Helped solve Oduya/Volante's ownership problem by using paperwork and contact cover rather than putting the ship under exposed party identities.
+- Negotiated the salvage-for-repair arrangement that made [[Oduya]] orbit-worthy in about two days.
+- Chose the Transstar apartment as the safer place to open [[Mercier's Locked Pad]].
+- Took notes from Mercier's research topics and suggested photographing pad contents instead of transferring files directly.
+- Used [[Mark Duncan]], a compartmentalized travel-clearance contact, to identify the passenger from Mercier's Providence ticket.
+- Learned that the passenger was [[Camille Dufour]], an encrypted-identity SolSec agent sent to [[Providence]].
+- Helped frame Roman Juma and Cass's political ally as disclosure channels rather than sending them to steal evidence personally.
+- Argued that staying under Transstar's protection lets the party keep investigating without losing its legal/corporate shield.
+- Proposed using her executive authority to assign crew to "maintenance" near Mercier or hide him aboard the [[TSS Profondeur]].
+
 - Contacted [[Nico Gay]], a smuggler contact, and learned more about [[Marcel Delphine]], the [[Jardin Syndicate]], and the [[Transstar Sector Exchange]] as a potential refuge.
 - Retained a recording of the "kill them all" warning/order.
 

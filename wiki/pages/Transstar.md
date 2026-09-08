@@ -611,3 +611,16 @@ Its leadership is content to ensure that whoever does rule depends upon Transsta
 During [[Session 4 - Into the Hadal Deep]], Transstar's protection becomes concrete employment aboard the [[TSS Profondeur]]. The party's first assignment on the [[Aquatic Salvage Project]] sends them to [[Hadal Research Site]], a damaged undersea Transstar facility.
 
 The mission reveals a dangerous contradiction for Transstar: the sealed survivors at Hadal are Jardin Navy personnel, not Transstar staff. The party's rescue of the [[Mercier Lookalike Survivor]] also shows that Transstar-owned spaces such as [[Undersea Base Elyon]] are not free of [[SolSec]] activity.
+
+## Session 6 - Cover and Leverage
+
+During [[Session 6 - Ghosts in the Bloodline]], the party chooses to keep using Transstar as shelter rather than immediately run. The group recognizes that abandoning their jobs early would make them persona non grata and remove the corporate protection currently keeping ordinary law enforcement away.
+
+Transstar cover provides:
+
+* A secure apartment where the party can open [[Mercier's Locked Pad]].
+* Uniforms and IDs that allow movement without immediate detention if the party does not act openly criminal.
+* A plausible way for [[Emma Colbert (Laura)]] to hide restored [[Alain Mercier]] aboard the [[TSS Profondeur]].
+* Repair channels for [[0-31 Saichi Maru (Annette)]] after the penthouse fight.
+
+The cover also creates future obligations. [[Oduya]] may sit at a repair dock during the remaining Transstar month, costing about Cr2,000 per day, and deeper reliance on Transstar could make it harder to leave cleanly.

@@ -57,6 +57,18 @@ Ciernan compared the notes to his own genetic papers. He does not have the ident
 
 The data may explain why Mercier was killed. It may also give the party a possible explanation for the impossible behavior of the bullets during the assassination: the conspiracy may involve psionic, genetic, or exotic biological technology rather than simple remote weapon control.
 
+## Session 6 - Confirmed Direction
+
+[[Session 6 - Ghosts in the Bloodline]] confirms that the recovered marker research was pointing toward a larger [[Psychic Clone Conspiracy]]. [[Mercier's Locked Pad]] and [[Mercier Evidence Cache]] show that Mercier believed elites were being actively changed over time, not merely born with suspect markers.
+
+Key additions:
+
+- Alterations can evade quick scans and routine blood tests.
+- Full sequencing for elite social, political, military, or educational gates can reveal the problem.
+- The changes may be introduced through a slow psionic process affecting marrow, blood, and cell replacement.
+- Mercier believed the goal was blackmail or future control of high-status families.
+- Physical samples from the cache now give the party testable proof.
+
 ## Open Questions
 
 - Do any of the player characters have these markers?

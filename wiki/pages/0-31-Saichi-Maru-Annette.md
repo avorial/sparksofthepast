@@ -257,6 +257,18 @@ notes:
 - Found the dead captain in a locker and recovered the [[Transponder Swap Box]] from his hands.
 - Documented the unusual transponder modules and helped the group identify [[Oduya]] as a smuggling craft rather than a clean Navy vessel.
 
+## Session 6 - Ghosts in the Bloodline
+
+- Was assigned as the party's heavy gun/security presence for the [[Mercier Penthouse]] away team.
+- Used gecko grippers to climb out of the elevator and fight from the ceiling/walls so enemy fire would target her armor instead of the humans.
+- Took shotgun fire from apparent [[Home Guard]] personnel and absorbed much of it through her robot chassis, but suffered serious damage.
+- Killed or disabled the final penthouse attacker with her laser rifle.
+- Dropped from the ceiling after the fight, warned the group that backup could be coming, and helped secure enemy comms and cuffs.
+- Contributed to the Recon search that found the secret door behind Mercier's television.
+- Helped recover [[Mercier Evidence Cache]], including physical genetic samples and suspect photos tied to the [[Psychic Clone Conspiracy]].
+- Leaked hydraulic fluid after the fight and was temporarily patched by [[Dan Araujo (Josh)]].
+- Received more complete repair through Transstar channels, leaving her with visible Transstar-branded repair plates/logo elements.
+
 - Unnamed Ally
 - Unnamed Contact
 

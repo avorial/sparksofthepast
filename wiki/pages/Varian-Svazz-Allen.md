@@ -56,6 +56,16 @@ Pilot (Spacecraft) 3, Diplomat 2, Mechanic 2, Medic 2, Admin 1, Astrogation 1, E
 - No distinct individual spotlight is captured in the Game 5 transcript.
 - Remains part of the party's Transstar cover and the wider effort to protect restored [[Alain Mercier]], recover [[Oduya]], and find evidence that can clear the group.
 
+## Session 6 - Ghosts in the Bloodline
+
+- Was assigned as Oduya/Volante's pilot in the Foundry ship setup.
+- Was identified as capable of flying the battered [[Oduya]] sub-orbitally to the repair site once enough patching was done.
+- Remained back from the [[Mercier Penthouse]] away team while others kept the team smaller and less conspicuous.
+- Downloaded or supported the idea of downloading ship technical manuals and study material for future repair/operations time.
+- Performed the major surgery on [[Victor Mendes (Steinbach)]] after the penthouse firefight.
+- With leadership support and Zoy's assistance, removed pellets and restored Victor from severe physical-stat damage to functional condition.
+- Supported the decision to keep working under [[Transstar]] cover while the party still has protection and time.
+
 - Enemy: Betrayer, formerly an education ally or close clique member
 
 ## Session 1 - Official Business

@@ -62,6 +62,19 @@ Astrogation 4, Leadership 3, Tactics (Naval) 2, Medic 2, Vacc Suit 2, Deception 
 - Took part in the [[Oduya]] recovery, including vac-suit preparation, engineering support, and systems work.
 - Helped consider how to fund the ship's repairs from recovered contraband.
 
+## Session 6 - Ghosts in the Bloodline
+
+- Helped diagnose [[Oduya]] after raising it and received the detailed list of permanent quirks and repair problems.
+- Raised the legal question of whether Transstar could claim the ship if the party brought it to a Transstar dock while employed there.
+- Was assigned as engineer for Oduya/Volante in the Foundry ship setup.
+- Joined [[0-31 Saichi Maru (Annette)]], [[Cass Pien (Kolb)]], and [[Dan Araujo (Josh)]] on the [[Mercier Penthouse]] away team.
+- Took a 21-damage shotgun blast from an apparent [[Home Guard]] attacker and dropped unconscious after losing all Endurance in one hit.
+- Was saved by Dan's immediate first aid, waking with a breath while still badly wounded.
+- Pulled Dan aside and returned fire with a Liberator pistol, wounding an attacker in the neck/chest gap near the vest.
+- Helped find [[Mercier Evidence Cache]] with a strong Recon result despite being badly injured.
+- Returned to the Transstar apartment with 17 points of physical-stat damage and required surgery.
+- Survived improvised dining-room-table surgery after [[Varian Svazz (Allen)]] operated with help from Zoy and leadership support.
+
 - Enemy: Racial Incident
 
 ## Session 1 - Official Business

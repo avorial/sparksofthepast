@@ -2,11 +2,12 @@
 category: item
 type: item
 name: Mercier's Locked Pad
-summary: Locked tablet recovered from Alain Mercier's body; one wrong attempt used, four before it wipes.
+summary: Tablet recovered from Alain Mercier's body, opened in Session 6 with his clone-provided code and tied to a government AI account.
 tags:
   - item
   - clue
   - session-1
+  - session-6
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
@@ -15,9 +16,13 @@ keyLinks:
   - "[[Mercier Assassination]]"
   - "[[Mercier Genetic Findings]]"
   - "[[Social Solidarity]]"
+  - "[[Camille Dufour]]"
+  - "[[Providence]]"
+  - "[[Psychic Clone Conspiracy]]"
 aliases:
   - Mercier's Tablet
   - Minister's Pad
+  - Senator Mercier's Pad
 lastEditedBy: Codex
 ---
 
@@ -27,7 +32,9 @@ lastEditedBy: Codex
 
 ## Overview
 
-Mercier's locked pad was recovered from [[Alain Mercier]] after his assassination. It is roughly Kindle-sized and password protected, and it is almost certainly the reason he was killed with it still on his body — the killers wanted him silenced, not searched.
+Mercier's locked pad was recovered from [[Alain Mercier]] after his assassination. It is roughly Kindle-sized and password protected, and it is almost certainly the reason he was killed with it still on his body: the killers wanted him silenced, not searched.
+
+During [[Session 6 - Ghosts in the Bloodline]], the party opens the pad using the code provided by restored Mercier. The pad authenticates as Senator Mercier and becomes the main bridge between the earlier [[Mercier Genetic Findings]], the [[Clone Rebirth Program]], and the [[Psychic Clone Conspiracy]].
 
 ## The Lock
 
@@ -39,16 +46,54 @@ That single burned attempt makes the pad as dangerous as it is valuable. Whoever
 
 - The pad was on Mercier's body when he was killed.
 - An early hack attempt failed and burned one of the five tries.
-- Four attempts remain before the pad wipes itself.
-- Its contents are unknown to the party.
-- At the end of [[Session 2 - Masks and Markers]], the group still intends to revisit the pad, but has not opened it.
+- Four attempts remained before the pad wiped itself.
+- Restored Mercier later provided the correct access code.
+- The pad is now open to the party as of [[Session 6 - Ghosts in the Bloodline]].
 
 ## Importance
 
-The pad is widely assumed to hold the evidence Mercier meant to present at the [[Friday Party Congress Hearing]] — the genetic findings the official record has since worked so hard to corrupt and bury. What is actually on it goes further than anyone at the table yet knows.
+The pad holds the evidence Mercier meant to present at the [[Friday Party Congress Hearing]]: proof that elite Jardinian genetics are being actively altered and that the alteration may be tied to a hidden psyker faction inside or near [[Social Solidarity]].
+
+## Session 6 - Opened Files
+
+When opened, the pad presents itself as a government AI-linked account:
+
+- It greets the user as Senator Mercier.
+- It appears to connect to a government AI with siloed account spaces for political figures.
+- Anyone with the correct code can theoretically access it for a limited period.
+- Looking at files may create timestamps, but the AI cannot tell the user is not Mercier's restored clone.
+- Once the system records Mercier's clone as leaving planet/airspace, the senatorial account will seal permanently.
+
+The last major files or records viewed by the party are:
+
+- A used off-world ticket to [[Providence]].
+- A committee speech draft.
+- Research topics/notes on the genetic alteration program.
+
+## Providence Ticket
+
+The Providence ticket was not used by Mercier himself. Mercier bought it for someone else. [[Emma Colbert (Laura)]] uses [[Mark Duncan]] to identify the traveler as [[Camille Dufour]], an encrypted-identity SolSec agent.
+
+Camille appears to have been Mercier's trusted courier/interrogator, sent to Providence to confront a head or executive of [[Social Solidarity]] while Mercier presented the same findings at the Senate.
+
+## Research Topics
+
+The research topics explain how Mercier moved from genetic anomaly to conspiracy:
+
+- A chancellor's son failed high-level genetic sequencing despite ideal parentage.
+- Mercier realized people were being actively changed over time.
+- Routine blood tests and quick scans do not catch the changes.
+- Full sequencing for elite status gates does catch them.
+- Mercier believed the program was preparing blackmail against officials and military leaders whose families depend on genetic legitimacy.
+- Mercier connected the changes to a psyker-creation program that hard-clones known psykers.
+- The resulting psykers can alter another person's body over time through a new psionic micromanipulation ability.
+
+The pad points directly to the physical proof later recovered from [[Mercier Evidence Cache]].
 
 :::gm
-## GM Truth — What the Pad Contains
+## GM Prep Notes - Partly Confirmed in Session 6
+
+Session 6 confirmed the broad direction below, but the live transcript supersedes exact phrasing where the table discovered different specifics.
 
 The pad is Mercier's private working file, kept off every official system precisely because of what it proves. Cracking it reveals, in roughly this order:
 
@@ -74,3 +119,8 @@ The pad is Mercier's private working file, kept off every official system precis
 - [[Alain Mercier]]
 - [[Mercier Genetic Findings]]
 - [[Social Solidarity]]
+- [[Session 6 - Ghosts in the Bloodline]]
+- [[Camille Dufour]]
+- [[Providence]]
+- [[Mercier Evidence Cache]]
+- [[Psychic Clone Conspiracy]]

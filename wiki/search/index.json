@@ -36,32 +36,34 @@
       "Sunken Ship-Boat",
       "TSS Profondeur",
       "Transponder Swap Box",
-      "Oduya"
+      "Oduya",
+      "Mercier Penthouse",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Psychic Clone Conspiracy",
+      "Dan Araujo (Josh)"
     ],
     "backlinks": [
       "Campaign",
       "Dan-Araujo-Josh",
+      "Home-Guard",
       "Identity-Veils",
+      "Mercier-Penthouse",
       "Oduya",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Sunken-Ship-Boat",
       "Timeline",
-      "Timeline",
       "Transponder-Swap-Box",
-      "Varian-Svazz-Allen"
+      "Transstar",
+      "Varian-Svazz-Allen",
+      "Victor-Mendes-Steinbach"
     ],
-    "keyLinks": [],
-    "excerpt": "# 0-31 Saichi Maru (Annette) *Security Walker Robot* **Designation:** 0-31 Saichi Maru | **Type:** Size 5 walker robot | **TL:** 12+ | **Status:** Active | **Owner:** Annette ![0-31 Saichi Maru portrait](/wiki/media/Saichi-Maru-HEAD.png) | Field | Value | | ----- | ----- | | Designation | 0-31 Saich"
+    "keyLinks": []
   },
   {
     "id": "3:Admiral-Henri-Duval",
@@ -93,8 +95,7 @@
     ],
     "keyLinks": [
       "[[Fort Robespierre Naval Annex]]"
-    ],
-    "excerpt": "# Admiral Henri Duval *Commander, Jardin Naval Command* ## Overview Admiral Henri Duval commands Jardin Naval Command from the [[Fort Robespierre Naval Annex]] and is the senior naval officer assigned to the system. A strong advocate for expanding naval power across the Solomani Front, he sits at th"
+    ]
   },
   {
     "id": "3:Adrien-Pelletier",
@@ -125,8 +126,7 @@
     ],
     "keyLinks": [
       "[[Arcosphere Rousseau]]"
-    ],
-    "excerpt": "# Adrien Pelletier *Governor of Rousseau* ## Overview Adrien Pelletier governs the Arcosphère Rousseau, the largest single structure on Jardin and home to nearly two billion permanent residents. A dedicated administrator, he genuinely believes the arcology is a working model of humanity's future and"
+    ]
   },
   {
     "id": "3:Agent-Luc-Deschamps",
@@ -164,8 +164,7 @@
       "[[Customs & Immigration Checkpoint Harmony]]",
       "[[SolSec]]",
       "[[Social Solidarity]]"
-    ],
-    "excerpt": "# Agent Luc Deschamps *SolSec Liaison Officer* ## Overview Agent Luc Deschamps is the [[SolSec]] liaison officer at [[Customs & Immigration Checkpoint Harmony]], officially responsible for interagency coordination and unofficially responsible for a good deal more. As the Solomani security service's "
+    ]
   },
   {
     "id": "3:Alain-Mercier",
@@ -199,18 +198,27 @@
       "Session 5 - The Oduya",
       "Clone Rebirth Program",
       "Hadal Research Site",
-      "Prime Minister Bombing"
+      "Prime Minister Bombing",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Mercier Genetic Findings",
+      "Psychic Clone Conspiracy",
+      "Providence",
+      "Camille Dufour",
+      "Mercier Penthouse",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Undersea Base Elyon",
+      "TSS Profondeur"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Aquatic-Salvage-Project",
+      "Camille-Dufour",
       "Campaign",
-      "Campaign",
-      "Campaign",
-      "Campaign",
+      "Ciernan-Seanislav-Peter",
       "Clone-Rebirth-Program",
       "Crew-of-TSS-Profondeur",
-      "Dr-Sophie-Delacroix",
       "Dr-Sophie-Delacroix",
       "Emma-Colbert-Laura",
       "Etienne-Valcourt",
@@ -220,54 +228,40 @@
       "Inspector-Marc-Valois",
       "Jardin-Syndicate",
       "Judith-Dumont-Carla",
-      "Judith-Dumont-Carla",
       "Le-Palais-de-Continuit",
       "Leo-Duprey",
-      "Leo-Duprey",
       "Marcel-Delphine",
-      "Marcel-Delphine",
+      "Mark-Duncan",
       "Mercier-Assassination",
-      "Mercier-Assassination",
+      "Mercier-Evidence-Cache",
       "Mercier-Frame-Up",
       "Mercier-Genetic-Findings",
       "Mercier-Lookalike-Survivor",
-      "Mercier-Lookalike-Survivor",
-      "Mercier-Lookalike-Survivor",
-      "Merciers-Locked-Pad",
+      "Mercier-Penthouse",
       "Merciers-Locked-Pad",
       "Oduya",
       "Prime-Minister-Bombing",
+      "Providence",
+      "Psychic-Clone-Conspiracy",
       "Quartier-Danton",
       "Sergey-Sun",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Social-Solidarity",
+      "SolSec",
       "SolSec-Operative-at-Elyon",
-      "SolSec-Operative-at-Elyon",
-      "Sunken-Ship-Boat",
       "Sunken-Ship-Boat",
       "TSS-Profondeur",
       "Timeline",
-      "Timeline",
-      "Timeline",
-      "Timeline",
+      "Transstar",
       "Undersea-Base-Elyon",
-      "Varian-Svazz-Allen",
-      "Varian-Svazz-Allen",
       "Varian-Svazz-Allen",
       "Victor-Mendes-Steinbach",
       "Zoy-Damon"
     ],
-    "keyLinks": [],
-    "excerpt": "# Alain Mercier ## Basic Information **Full Name:** Alain Étienne Mercier **Species:** Human (Solomani) **Citizenship:** Solomani Confederation (Jardin) **Birth Year:** 1061 **Birthplace:** Nouvelle Sainte-Jeanne, Jardin **Occupation:** Minister of Genetics, Government of Jardin **Political Affiliat"
+    "keyLinks": []
   },
   {
     "id": "3:Amelia-Torres",
@@ -303,8 +297,7 @@
       "[[Transstar]]",
       "[[Transstar]]",
       "[[SolSec]]"
-    ],
-    "excerpt": "# Amelia Torres *Special Projects Coordinator* ## Overview Amelia Torres is [[Transstar]]'s Special Projects Coordinator, officially overseeing strategic transportation initiatives that no one can quite define. She appears whenever [[SolSec]] becomes involved, Party officials travel, or sensitive ca"
+    ]
   },
   {
     "id": "3:Anita-Singh",
@@ -333,15 +326,13 @@
       "Campaign",
       "Emma-Colbert-Laura",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
       "Sunken-Ship-Boat",
       "Timeline"
     ],
     "keyLinks": [
       "[[Emma Colbert (Laura)]]",
       "[[Oduya]]"
-    ],
-    "excerpt": "# Anita Singh ## Overview Anita Singh is one of [[Emma Colbert (Laura)]]'s contacts. She is a sharp-witted entrepreneur whose logistics consortium quietly controls warehousing, orbital freight handling, and labor contracts across several Confederation starports. ## Session 5 During [[Session 5 - The"
+    ]
   },
   {
     "id": "3:Antoine-Mercier",
@@ -375,8 +366,7 @@
     "keyLinks": [
       "[[Transstar Sector Exchange]]",
       "[[Transstar]]"
-    ],
-    "excerpt": "# Antoine Mercier *Executive Director, Solomani Front Operations* ## Overview Antoine Mercier is Executive Director of Solomani Front Operations for [[Transstar]] and the most powerful Transstar executive on Jardin. He is frequently rumored to wield more real influence than several planetary ministe"
+    ]
   },
   {
     "id": "3:Aquatic-Salvage-Project",
@@ -384,20 +374,24 @@
     "campaignName": "Sparks of the Past",
     "slug": "Aquatic-Salvage-Project",
     "title": "Aquatic Salvage Project",
-    "category": "npc",
-    "summary": "",
-    "tags": [],
-    "aliases": [],
-    "visibility": "gm",
+    "category": "event",
+    "summary": "First Transstar assignment: undersea salvage aboard the TSS Profondeur, beginning with Hadal Research Site.",
+    "tags": [
+      "event",
+      "transstar",
+      "session-3",
+      "session-4",
+      "session-5",
+      "undersea"
+    ],
+    "aliases": [
+      "Transstar Aquatic Salvage"
+    ],
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
     "links": [
-      "Transstar",
-      "TSS Profondeur",
-      "Hadal Research Site",
-      "Oduya",
-      "Undersea Extremists",
       "Session 3 - Transstar Day",
       "Claire Bouchard",
       "Session 4 - Into the Hadal Deep",
@@ -420,26 +414,25 @@
     ],
     "backlinks": [
       "Campaign",
-      "Campaign",
-      "Claire-Bouchard",
       "Claire-Bouchard",
       "Crew-of-TSS-Profondeur",
       "Dolphin-Extremists",
       "Emma-Colbert-Laura",
       "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
-      "Session-4-Into-the-Hadal-Deep",
       "Session-4-Into-the-Hadal-Deep",
       "Sunken-Ship-Boat",
       "TSS-Profondeur",
       "Timeline",
-      "Timeline",
       "Transstar",
       "Transstar-Employment-Contract"
     ],
-    "keyLinks": [],
-    "excerpt": "--- category: event type: event name: Aquatic Salvage Project summary: First Transstar assignment: undersea salvage aboard the TSS Profondeur, beginning with Hadal Research Site. tags: - event - transstar - session-3 - session-4 - session-5 - undersea visibility: players approvalStatus: approved kno"
+    "keyLinks": [
+      "[[Transstar]]",
+      "[[TSS Profondeur]]",
+      "[[Hadal Research Site]]",
+      "[[Oduya]]",
+      "[[Undersea Extremists]]"
+    ]
   },
   {
     "id": "3:Arcosphere-Rousseau",
@@ -474,15 +467,12 @@
       "Jardin",
       "Jardin-Syndicate",
       "Marcel-Delphine",
-      "Marcel-Delphine",
       "Nadia-Giroux",
       "Sister-Celeste-Moreau",
       "Timeline",
       "Victor-Mendes-Steinbach"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Arcosphère Rousseau *Rousseau Arcology* **Location:** Central Nouvelle Sainte-Jeanne, Jardin **Type:** Urban Arcology, Residential Megastructure, Commercial Hub **Administrative Authority:** Arcology Administration Directorate **Governor:** Adrien Pelletier **Population:** 1.8 Billion Permanent Re"
+    "keyLinks": []
   },
   {
     "id": "3:Armand-Rousselet",
@@ -515,8 +505,58 @@
     "keyLinks": [
       "[[Transstar]]",
       "[[Transstar]]"
+    ]
+  },
+  {
+    "id": "3:Camille-Dufour",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Camille-Dufour",
+    "title": "Camille Dufour",
+    "category": "npc",
+    "summary": "Encrypted-identity SolSec agent sent by Mercier to Providence shortly before his public assassination.",
+    "tags": [
+      "npc",
+      "solsec",
+      "session-6",
+      "providence"
     ],
-    "excerpt": "# Armand Rousselet *Senior Customs Liaison* ## Overview Armand Rousselet is [[Transstar]]'s Senior Customs Liaison, working the seam between the company and Jardin's customs authorities. Thirty years of finding legal solutions to impossible problems have earned him the hatred of many smugglers and t"
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier's Locked Pad",
+      "Session 6 - Ghosts in the Bloodline",
+      "Providence",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Alain Mercier",
+      "Providence",
+      "Session 6 - Ghosts in the Bloodline",
+      "Providence",
+      "Alain Mercier",
+      "SolSec",
+      "Social Solidarity"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Campaign",
+      "Emma-Colbert-Laura",
+      "Mark-Duncan",
+      "Merciers-Locked-Pad",
+      "Providence",
+      "Psychic-Clone-Conspiracy",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Social-Solidarity",
+      "SolSec"
+    ],
+    "keyLinks": [
+      "[[Providence]]",
+      "[[Alain Mercier]]",
+      "[[Mark Duncan]]"
+    ]
   },
   {
     "id": "3:Campaign",
@@ -544,10 +584,17 @@
       "Session 5 - The Oduya",
       "Alain Mercier",
       "Clone Rebirth Program",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Psychic Clone Conspiracy",
+      "Mercier Evidence Cache",
+      "Mercier Penthouse",
       "Sunken Ship-Boat",
       "Oduya",
       "Transponder Swap Box",
-      "Prime Minister Bombing",
+      "TSS Profondeur",
+      "Camille Dufour",
+      "Providence",
       "0-31 Saichi Maru (Annette)",
       "Cass Pien (Kolb)",
       "Ciernan Seanislav (Peter)",
@@ -572,6 +619,12 @@
       "Jardinian Naval SOS",
       "Alain Mercier",
       "Clone Rebirth Program",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Mercier Penthouse",
+      "Psychic Clone Conspiracy",
+      "Providence",
+      "Camille Dufour",
       "Oduya",
       "Sunken Ship-Boat",
       "Transponder Swap Box",
@@ -583,6 +636,7 @@
       "Session 3 - Transstar Day",
       "Session 4 - Into the Hadal Deep",
       "Session 5 - The Oduya",
+      "Session 6 - Ghosts in the Bloodline",
       "Admiral Henri Duval",
       "Adrien Pelletier",
       "Agent Luc Deschamps",
@@ -602,6 +656,7 @@
       "Commissioner Elise Martin",
       "Commissioner Isabelle Fournier",
       "Crew of TSS Profondeur",
+      "Camille Dufour",
       "Director Elise Fournier",
       "Director Luc Beaumont",
       "Director Simone Laurent",
@@ -629,6 +684,7 @@
       "Lucien Roche",
       "Lucien Voss",
       "Lucin",
+      "Mark Duncan",
       "Maëlle Fournier",
       "Mara Kovalenko",
       "Marcel Delphine",
@@ -643,6 +699,7 @@
       "Professor Lucien Morel",
       "Reena Kessler",
       "Rémi Beauchamp",
+      "Roman Juma",
       "Sabine Caron",
       "Sarah Chen",
       "Sister Celeste Moreau",
@@ -652,7 +709,11 @@
     ],
     "backlinks": [],
     "keyLinks": [
+      "[[Session 6 - Ghosts in the Bloodline]]",
       "[[Session 5 - The Oduya]]",
+      "[[Psychic Clone Conspiracy]]",
+      "[[Mercier Evidence Cache]]",
+      "[[Providence]]",
       "[[Session 4 - Into the Hadal Deep]]",
       "[[Oduya]]",
       "[[Clone Rebirth Program]]",
@@ -663,8 +724,7 @@
       "[[Maelle Fournier]]",
       "[[Remi Beauchamp]]",
       "[[Sabine Caron]]"
-    ],
-    "excerpt": "# Sparks From the Past Welcome to the campaign hub for **Sparks From the Past**. This wiki contains the campaign setting, session notes, player characters, NPCs, locations, handouts, and world lore. If it has happened in the game, it belongs here. --- ## Campaign Overview The year is **1105 Imperial"
+    ]
   },
   {
     "id": "3:Captain-Victor-Mendes",
@@ -701,8 +761,7 @@
     "keyLinks": [
       "[[Port Sainte-Jeanne Downport]]",
       "[[Transstar]]"
-    ],
-    "excerpt": "# Captain Victor Mendes *Senior Transstar Freight Captain* ## Overview Captain Victor Mendes is a respected merchant captain known throughout the [[Port Sainte-Jeanne Downport]] community and a senior freight captain for [[Transstar]]. A former Confederation Navy petty officer, he now commands the f"
+    ]
   },
   {
     "id": "3:Carlos",
@@ -733,8 +792,7 @@
     ],
     "keyLinks": [
       "[[Cass Pien (Kolb)]]"
-    ],
-    "excerpt": "# Carlos ## Overview Carlos is an old shipboard acquaintance mentioned when [[Cass Pien (Kolb)]] and another veteran recognized each other from service aboard the Venture. He used to run a poker game and is remembered as a cheat and poor bluffer, though still \"loyal to the party\" in the joking recol"
+    ]
   },
   {
     "id": "3:Cass-Pien-Kolb",
@@ -766,6 +824,9 @@
       "Sunken Ship-Boat",
       "Oduya",
       "Sunken Ship-Boat",
+      "Roman Juma",
+      "Mercier Penthouse",
+      "Home Guard",
       "Dr. Luc Moreau",
       "Zoy (Damon)",
       "Mobile Data Tube"
@@ -773,19 +834,22 @@
     "backlinks": [
       "Campaign",
       "Carlos",
+      "Dan-Araujo-Josh",
       "Friday-Party-Congress-Hearing",
+      "Home-Guard",
+      "Mercier-Evidence-Cache",
+      "Mercier-Penthouse",
+      "Roman-Juma",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat"
+      "Victor-Mendes-Steinbach"
     ],
-    "keyLinks": [],
-    "excerpt": "# Cass Pien (Kolb) ![Cass Pien portrait](/wiki/media/Cass-Pien.png) *Solomani Racial • Confederation Navy: Flight* **Hits:** 27 **Armour:** Ceramic Carapace, Protection 10; Protection 16 vs lasers, flame throwers, and fire-based attacks **Cash:** Cr27,250 **Ship Shares:** 3 ```traveller-sheet header"
+    "keyLinks": []
   },
   {
     "id": "3:Chief-Helene-Marchand",
@@ -822,15 +886,12 @@
       "Lucin",
       "Prime-Minister-Bombing",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Timeline"
     ],
     "keyLinks": [
       "[[Lucin]]",
       "[[Les Jardins Fermés]]"
-    ],
-    "excerpt": "# Chief Helene Marchand ## Overview Chief Helene Marchand is identified by a gold plaque as Chief of Staff of the President. During [[Session 2 - Masks and Markers]], the group delivered Lucin's crate to a secured residence bearing her name. ## Session 2 The group arrived at Marchand's address on Lu"
+    ]
   },
   {
     "id": "3:Ciernan-Seanislav-Peter",
@@ -859,22 +920,22 @@
       "Sabine Caron",
       "Mercier Lookalike Survivor",
       "SolSec Operative at Elyon",
-      "Oduya"
+      "Oduya",
+      "Oduya",
+      "Alain Mercier",
+      "Providence"
     ],
     "backlinks": [
       "Campaign",
       "Mercier-Assassination",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya"
+      "Session-6-Ghosts-in-the-Bloodline"
     ],
-    "keyLinks": [],
-    "excerpt": "# Ciernan Seanislav (Peter) ![Ciernan Seanislav portrait](/wiki/media/Ciernan-Seanislav.png) *Solomani Racial • Merchant: Merchant Marine* **Player:** Peter **Age:** 30 **Species:** Solomani Racial **Gender:** Unknown **UPP:** STR 11, DEX 8, END 12, INT 6, EDU 8, SOC 8 **Hits:** 31 **Armour:** Cloth"
+    "keyLinks": []
   },
   {
     "id": "3:Claire-Bouchard",
@@ -916,8 +977,6 @@
       "Campaign",
       "Dolphin-Extremists",
       "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
       "Timeline",
       "Transstar",
       "Transstar-Employment-Contract"
@@ -926,8 +985,7 @@
       "[[Transstar]]",
       "[[Transstar Employment Contract]]",
       "[[Aquatic Salvage Project]]"
-    ],
-    "excerpt": "# Claire Bouchard *Highport Operations Manager* ## Overview Claire Bouchard manages Highport operations for [[Transstar]] at Port Sainte-Jeanne, coordinating thousands of arrivals and departures every week. She has a reputation for absolute efficiency: nothing surprises her, nothing delays her, and "
+    ]
   },
   {
     "id": "3:Clone-Rebirth-Program",
@@ -958,15 +1016,19 @@
       "Hadal Research Site",
       "SolSec",
       "SolSec Operative at Elyon",
-      "Prime Minister Bombing"
+      "Prime Minister Bombing",
+      "Session 6 - Ghosts in the Bloodline",
+      "Social Solidarity",
+      "Clone Rebirth Program"
     ],
     "backlinks": [
       "Alain-Mercier",
       "Campaign",
-      "Campaign",
+      "Clone-Rebirth-Program",
       "Emma-Colbert-Laura",
       "Mercier-Lookalike-Survivor",
-      "Session-5-The-Oduya",
+      "Merciers-Locked-Pad",
+      "Psychic-Clone-Conspiracy",
       "Session-5-The-Oduya",
       "SolSec-Operative-at-Elyon",
       "Timeline",
@@ -977,8 +1039,7 @@
       "[[Alain Mercier]]",
       "[[Hadal Research Site]]",
       "[[SolSec]]"
-    ],
-    "excerpt": "# Clone Rebirth Program ## Overview The Clone Rebirth Program is an elite Jardinian continuity system used by people with Platinum 2-level security or comparable political, naval, corporate, or government rank. [[Alain Mercier]] describes it during [[Session 5 - The Oduya]] after waking in the body "
+    ]
   },
   {
     "id": "3:Colette-Moreau",
@@ -1013,8 +1074,7 @@
     "keyLinks": [
       "[[Quartier Sainte-Liberté]]",
       "[[Jardin Syndicate]]"
-    ],
-    "excerpt": "# Colette Moreau *President, Liberty Merchants Association* ## Overview Colette Moreau presides over the Liberty Merchants Association and is one of the most influential civilian leaders in [[Quartier Sainte-Liberté]], the capital's neon-lit entertainment and data-market district. She speaks for the"
+    ]
   },
   {
     "id": "3:Colonel-Victor-Almeida",
@@ -1046,8 +1106,7 @@
     ],
     "keyLinks": [
       "[[Fort Robespierre Naval Annex]]"
-    ],
-    "excerpt": "# Colonel Victor Almeida *Commandant, Mech Combat Academy* ## Overview Colonel Victor Almeida is Commandant of the Mech Combat Academy at the [[Fort Robespierre Naval Annex]] and one of the Confederation's foremost experts on walker warfare. A hero among mech pilots, he trains the crews who operate "
+    ]
   },
   {
     "id": "3:Commander-Lucien-Marchand",
@@ -1079,8 +1138,7 @@
     ],
     "keyLinks": [
       "[[Fort Robespierre Naval Annex]]"
-    ],
-    "excerpt": "# Commander Lucien Marchand *Director, Orbital Transfer Operations* ## Overview Commander Lucien Marchand directs Orbital Transfer Operations at the [[Fort Robespierre Naval Annex]], controlling military movement between Jardin's surface and orbit. Few officers shape daily operations more, because n"
+    ]
   },
   {
     "id": "3:Commander-Sophie-Durand",
@@ -1115,8 +1173,7 @@
     "keyLinks": [
       "[[Port Sainte-Jeanne Downport]]",
       "[[Jardin Syndicate]]"
-    ],
-    "excerpt": "# Commander Sophie Durand *Port Security Directorate* ## Overview Commander Sophie Durand of the Port Security Directorate is a veteran investigator known for her relentless pursuit of organized crime at [[Port Sainte-Jeanne Downport]]. The downport is the [[Jardin Syndicate]]'s favorite seam — wher"
+    ]
   },
   {
     "id": "3:Commissioner-Elise-Martin",
@@ -1151,8 +1208,7 @@
     "keyLinks": [
       "[[Customs & Immigration Checkpoint Harmony]]",
       "[[Social Solidarity]]"
-    ],
-    "excerpt": "# Commissioner Elise Martin *Directorate of Citizen Integrity* ## Overview Commissioner Elise Martin coordinates [[Social Solidarity]] operations within [[Customs & Immigration Checkpoint Harmony]] through its Directorate of Citizen Integrity. Where the customs officers watch cargo and papers, Marti"
+    ]
   },
   {
     "id": "3:Commissioner-Isabelle-Fournier",
@@ -1184,8 +1240,7 @@
     ],
     "keyLinks": [
       "[[Transstar Sector Exchange]]"
-    ],
-    "excerpt": "# Commissioner Isabelle Fournier *Chief Commissioner, Exchange Security Bureau* ## Overview Commissioner Isabelle Fournier heads the Exchange Security Bureau, the corporate police force of the [[Transstar Sector Exchange]]. She is respected, feared, and — according to official statements — incorrupt"
+    ]
   },
   {
     "id": "3:Cr-che-District-14",
@@ -1210,15 +1265,10 @@
     ],
     "backlinks": [
       "Director-Elise-Fournier",
-      "Director-Elise-Fournier",
       "Dr-Amelie-Rousseau",
-      "Dr-Amelie-Rousseau",
-      "Mentor-Jean-Mercier",
       "Mentor-Jean-Mercier"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Crèche District 14 *\"Every Child, A Future.\"* **Location:** Eastern Nouvelle Sainte-Jeanne **Type:** State Child Development Arcology **Administrative Authority:** Directorate of Child Development **Status:** Active **Population:** 1.2 Million Children **Staff:** 180,000 Educators, Medical Personn"
+    "keyLinks": []
   },
   {
     "id": "3:Crew-of-TSS-Profondeur",
@@ -1252,8 +1302,6 @@
       "Oduya"
     ],
     "backlinks": [
-      "Campaign",
-      "Campaign",
       "Campaign"
     ],
     "keyLinks": [
@@ -1262,8 +1310,7 @@
       "[[Maelle Fournier]]",
       "[[Remi Beauchamp]]",
       "[[Sabine Caron]]"
-    ],
-    "excerpt": "# Crew of TSS Profondeur ## Public Face The crew of the [[TSS Profondeur]] is the small Transstar team assigned to run the party's first [[Aquatic Salvage Project]] shift. They are experienced, practical, and used to undersea operations, but the vessel is notably under-crewed after experienced hands"
+    ]
   },
   {
     "id": "3:Customs-Immigration-Checkpoint-Harmony",
@@ -1289,17 +1336,11 @@
     ],
     "backlinks": [
       "Agent-Luc-Deschamps",
-      "Agent-Luc-Deschamps",
-      "Commissioner-Elise-Martin",
       "Commissioner-Elise-Martin",
       "Director-Simone-Laurent",
-      "Director-Simone-Laurent",
-      "Inspector-Gabriel-Rousseau",
       "Inspector-Gabriel-Rousseau"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Customs & Immigration Checkpoint Harmony *Poste d'Harmonie Frontalière* *\"Every Arrival Matters.\"* **Location:** Port Sainte-Jeanne Downport **Type:** Customs and Immigration Processing Complex **Administrative Authority:** Directorate of Citizen Integrity **Operational Control:** Ministry of Soci"
+    "keyLinks": []
   },
   {
     "id": "3:Dan-Araujo-Josh",
@@ -1326,20 +1367,26 @@
       "Transstar Sector Exchange",
       "Hadal Research Site",
       "Undersea Base Elyon",
-      "Oduya"
+      "Oduya",
+      "Mercier's Locked Pad",
+      "Mercier Penthouse",
+      "Victor Mendes (Steinbach)",
+      "Cass Pien (Kolb)",
+      "0-31 Saichi Maru (Annette)"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Campaign",
+      "Mercier-Penthouse",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya"
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Victor-Mendes-Steinbach"
     ],
-    "keyLinks": [],
-    "excerpt": "# Dan Araujo (Josh) ![Dan Araujo portrait](/wiki/media/Dan-Araujo.png) *Solomani Racial • Confederation Navy: Technical* **Player:** Josh **Age:** 34 **Species:** Solomani Racial **Gender:** Male **UPP:** STR 7, DEX 12, END 8, INT 14, EDU 12, SOC 12 **Hits:** 25 **Armour:** Cloth (TL10), Protection "
+    "keyLinks": []
   },
   {
     "id": "3:Director-Elise-Fournier",
@@ -1372,8 +1419,7 @@
     ],
     "keyLinks": [
       "[[Crèche District 14]]"
-    ],
-    "excerpt": "# Director Elise Fournier *Administrator of District 14* ## Overview Director Elise Fournier administers [[Crèche District 14]], one of the state creche districts where Jardin raises children communally under the Perfection System. Widely respected and known across the world as \"the Mother of a Mill"
+    ]
   },
   {
     "id": "3:Director-General-Camille-Fournier",
@@ -1403,13 +1449,13 @@
     ],
     "backlinks": [
       "Campaign",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Social-Solidarity"
     ],
     "keyLinks": [
       "[[Social Solidarity]]",
       "[[Leo Duprey]]"
-    ],
-    "excerpt": "# Director-General Camille Fournier *Head of the Ministry of Social Solidarity* ## Overview Director-General Camille Fournier is the current head of the Ministry of [[Social Solidarity]], Jardin's internal security and social-management apparatus. A career administrator and loyal supporter of the Pe"
+    ]
   },
   {
     "id": "3:Director-Luc-Beaumont",
@@ -1442,8 +1488,7 @@
     ],
     "keyLinks": [
       "[[Port Sainte-Jeanne Downport]]"
-    ],
-    "excerpt": "# Director Luc Beaumont *Port Authority Director* ## Overview Director Luc Beaumont runs the Port Authority at [[Port Sainte-Jeanne Downport]], overseeing the largest transportation facility on Jardin. Pragmatic and politically skilled, he keeps cargo, passengers, and naval traffic moving through th"
+    ]
   },
   {
     "id": "3:Director-Simone-Laurent",
@@ -1475,8 +1520,7 @@
     ],
     "keyLinks": [
       "[[Customs & Immigration Checkpoint Harmony]]"
-    ],
-    "excerpt": "# Director Simone Laurent *Chief Administrator, Checkpoint Harmony* ## Overview Director Simone Laurent is Chief Administrator of [[Customs & Immigration Checkpoint Harmony]], responsible for its overall operation and known for exceptional efficiency. The checkpoint is where arrivals are sorted, ass"
+    ]
   },
   {
     "id": "3:Dolphin-Extremists",
@@ -1513,8 +1557,7 @@
       "[[Aquatic Salvage Project]]",
       "[[Undersea Extremists]]",
       "[[Hadal Research Site]]"
-    ],
-    "excerpt": "# Dolphin Extremists ## Overview Transstar first describes the opposition to the [[Aquatic Salvage Project]] as rogue dolphin extremists. In [[Session 4 - Into the Hadal Deep]], the briefing clarifies that the threat is broader and better tracked as [[Undersea Extremists]]: humanoids and orcas using"
+    ]
   },
   {
     "id": "3:Dr-Amelie-Rousseau",
@@ -1546,8 +1589,7 @@
     ],
     "keyLinks": [
       "[[Crèche District 14]]"
-    ],
-    "excerpt": "# Dr. Amelie Rousseau *Chief Developmental Psychologist* ## Overview Dr. Amelie Rousseau is Chief Developmental Psychologist for [[Crèche District 14]], and her research shapes educational policy across Jardin. She studies how the state's communally raised children develop, and her findings feed dir"
+    ]
   },
   {
     "id": "3:Dr-Gabriel-Laurent",
@@ -1579,8 +1621,7 @@
     ],
     "keyLinks": [
       "[[Les Jardins Fermés]]"
-    ],
-    "excerpt": "# Dr. Gabriel Laurent *Director of Xenobiology* ## Overview Dr. Gabriel Laurent directs Xenobiology at [[Les Jardins Fermés]] and rarely appears in public. His work inside Dome Nine — the Xenobiological Annex — has generated considerable speculation, none of it confirmed. On a world already nervous "
+    ]
   },
   {
     "id": "3:Dr-Isabelle-Fournier",
@@ -1612,8 +1653,7 @@
     ],
     "keyLinks": [
       "[[Les Jardins Fermés]]"
-    ],
-    "excerpt": "# Dr. Isabelle Fournier *Director of Medical Botany* ## Overview Dr. Isabelle Fournier directs Medical Botany at [[Les Jardins Fermés]] and is responsible for multiple breakthrough therapies drawn from the Gardens' living pharmacopeia. Her medical achievements have made her a popular public figure, "
+    ]
   },
   {
     "id": "3:Dr-Luc-Moreau",
@@ -1648,9 +1688,6 @@
       "Hall-des-Futurs-Choisis",
       "Mobile-Data-Tube",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Timeline"
     ],
@@ -1658,8 +1695,7 @@
       "[[Hall des Futurs Choisis]]",
       "[[Mobile Data Tube]]",
       "[[Mercier Genetic Findings]]"
-    ],
-    "excerpt": "# Dr. Luc Moreau ## Overview Dr. Luc Moreau is a scientist or technical researcher at the [[Hall des Futurs Choisis]]. During [[Session 2 - Masks and Markers]], the party saw him leave a secured floor looking anxious and enter a public bathroom despite presumably having access to facilities on his o"
+    ]
   },
   {
     "id": "3:Dr-Sophie-Delacroix",
@@ -1697,8 +1733,7 @@
       "[[Les Jardins Fermés]]",
       "[[Leo Duprey]]",
       "[[Alain Mercier]]"
-    ],
-    "excerpt": "# Dr. Sophie Delacroix *Director-General of the Gardens* ## Overview Dr. Sophie Delacroix is Director-General of [[Les Jardins Fermés]], the sealed biological research complex the Ministry of Genetics runs at the heart of Jardin's Perfection System. Regarded as one of the leading scientific minds in"
+    ]
   },
   {
     "id": "3:Elena-Kovacs",
@@ -1731,8 +1766,7 @@
     "keyLinks": [
       "[[Transstar]]",
       "[[Transstar]]"
-    ],
-    "excerpt": "# Elena Kovacs *Taj Mahal Class Purser* ## Overview Elena Kovacs is a purser on [[Transstar]]'s Taj Mahal-class liner SS Nouvelle Aube, overseeing high-passage travel for billionaires, admirals, diplomats, and celebrities without breaking a sweat. She possesses enough overheard gossip to destabilize"
+    ]
   },
   {
     "id": "3:Elena-Verona",
@@ -1776,8 +1810,7 @@
     "keyLinks": [
       "[[Social Solidarity]]",
       "[[Mercier Assassination]]"
-    ],
-    "excerpt": "# Elena Verona ## Overview Elena Verona is a commissar of [[Social Solidarity]] who arrived at the [[Hall des Futurs Choisis]] after the [[Mercier Assassination]]. The transcript first presents her over the speakers as \"Elena Verona, Commissar of Social Solidarity,\" though later table speech also ca"
+    ]
   },
   {
     "id": "3:Emma-Colbert-Laura",
@@ -1816,6 +1849,12 @@
       "Oduya",
       "Anita Singh",
       "Sergey Sun",
+      "Oduya",
+      "Mercier's Locked Pad",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Providence",
+      "TSS Profondeur",
       "Nico Gay",
       "Marcel Delphine",
       "Jardin Syndicate",
@@ -1830,35 +1869,34 @@
     ],
     "backlinks": [
       "Anita-Singh",
+      "Camille-Dufour",
       "Campaign",
       "Etienne-Valcourt",
       "Inspector-Marc-Valois",
       "Jardinian-Naval-SOS",
+      "Mark-Duncan",
       "Mercier-Frame-Up",
       "Mercier-Lookalike-Survivor",
+      "Merciers-Locked-Pad",
       "Nico-Gay",
+      "Oduya",
+      "Providence",
       "Sergey-Sun",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
       "SolSec",
-      "SolSec",
+      "TSS-Profondeur",
       "Timeline",
-      "Timeline",
-      "Timeline",
+      "Transstar",
       "Undersea-Base-Elyon",
       "Victor-Mendes-Steinbach",
       "Zoy-Damon"
     ],
-    "keyLinks": [],
-    "excerpt": "# Emma Colbert (Laura) ![Emma Colbert portrait](/wiki/media/Emma-Colbert.jpg) *Solomani Racial • SolSec: Secret Agent* **Player:** Laura **Age:** 38 **Species:** Solomani Racial **Gender:** Female **UPP:** STR 7, DEX 10, END 9, INT 14, EDU 15, SOC 10 **Hits:** 24 **Armour:** Protec Suit; Cloth Trenc"
+    "keyLinks": []
   },
   {
     "id": "3:Etienne-Marchand",
@@ -1891,8 +1929,7 @@
     ],
     "keyLinks": [
       "[[Port Sainte-Jeanne Downport]]"
-    ],
-    "excerpt": "# Étienne Marchand *Customs Commissioner* ## Overview Étienne Marchand is Customs Commissioner at [[Port Sainte-Jeanne Downport]] — a nightmare for smugglers and a hero to accountants. He enforces the identity and cargo controls that make leaving Jardin directly so difficult, the very controls that "
+    ]
   },
   {
     "id": "3:Etienne-Moreau",
@@ -1928,8 +1965,7 @@
       "[[Transstar]]",
       "[[Transstar]]",
       "[[SolSec]]"
-    ],
-    "excerpt": "# Étienne Moreau *Regional Director, Jardin Subsector* ## Overview Étienne Moreau is [[Transstar]]'s Regional Director for the Jardin Subsector and the senior Transstar executive on the ground. Polished, intelligent, and politically connected, he views transportation as the nervous system of civiliz"
+    ]
   },
   {
     "id": "3:Etienne-Valcourt",
@@ -1938,7 +1974,7 @@
     "slug": "Etienne-Valcourt",
     "title": "Étienne Valcourt",
     "category": "npc",
-    "summary": "Captain and pilot of the TSS Profondeur; former Jardin Navy submersible-operations specialist.",
+    "summary": "Captain and pilot of the TSS Profondeur; former Jardin Navy",
     "tags": [
       "npc",
       "transstar",
@@ -1969,27 +2005,20 @@
     "backlinks": [
       "Aquatic-Salvage-Project",
       "Campaign",
-      "Campaign",
       "Cass-Pien-Kolb",
       "Crew-of-TSS-Profondeur",
       "Emma-Colbert-Laura",
       "Jardin-Navy",
       "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "TSS-Profondeur",
+      "Session-6-Ghosts-in-the-Bloodline",
       "TSS-Profondeur",
       "Timeline"
     ],
     "keyLinks": [
       "[[TSS Profondeur]]",
       "[[Aquatic Salvage Project]]"
-    ],
-    "parent": "Crew-of-TSS-Profondeur",
-    "excerpt": "# Étienne Valcourt ![Étienne Valcourt portrait](/wiki/media/Etienne-Valcourt.png) *Captain / Pilot* ## Overview Étienne Valcourt is the captain and pilot of the [[TSS Profondeur]]. He spent roughly twenty years in the Jardin Navy, specializing in submersible operations and platform work, before taki"
+    ]
   },
   {
     "id": "3:False-News-Broadcast",
@@ -2025,8 +2054,7 @@
     "keyLinks": [
       "[[Mercier Frame-Up]]",
       "[[Zoy (Damon)]]"
-    ],
-    "excerpt": "# False News Broadcast ## Overview Within hours of the [[Mercier Assassination]], public news reported a terrorist attack at the Hall of Continuity and claimed that Minister [[Alain Mercier]] had been killed by genetic \"half-breeds.\" The report showed fake footage of [[Zoy (Damon)]] throwing a grena"
+    ]
   },
   {
     "id": "3:Fort-Robespierre-Naval-Annex",
@@ -2052,21 +2080,15 @@
     ],
     "backlinks": [
       "Admiral-Henri-Duval",
-      "Admiral-Henri-Duval",
-      "Colonel-Victor-Almeida",
       "Colonel-Victor-Almeida",
       "Commander-Lucien-Marchand",
-      "Commander-Lucien-Marchand",
-      "General-Claire-Moreau",
       "General-Claire-Moreau",
       "Home-Guard",
       "Jardin",
       "Jardin-Navy",
       "Session-4-Into-the-Hadal-Deep"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Fort Robespierre Naval Annex *\"Vigilance, Duty, Victory.\"* **Location:** Southern Coastal Military Zone, Jardin **Type:** Naval Installation and Military Training Complex **Administrative Authority:** Confederation Navy **Operational Control:** Jardin Naval Command **Status:** Active Military Faci"
+    "keyLinks": []
   },
   {
     "id": "3:Friday-Party-Congress-Hearing",
@@ -2104,8 +2126,7 @@
     "keyLinks": [
       "[[Alain Mercier]]",
       "[[Mercier Frame-Up]]"
-    ],
-    "excerpt": "# Friday Party Congress Hearing ## Overview The Friday Party Congress hearing is expected two days after the [[Mercier Assassination]]. [[Alain Mercier]] had planned to reveal his findings there before he was killed. [[Cass Pien (Kolb)]] contacted a trusted ally to listen from inside the hearing and"
+    ]
   },
   {
     "id": "3:General-Claire-Moreau",
@@ -2137,8 +2158,7 @@
     ],
     "keyLinks": [
       "[[Fort Robespierre Naval Annex]]"
-    ],
-    "excerpt": "# General Claire Moreau *Commander, Marine Forces Jardin* ## Overview General Claire Moreau commands Marine Forces Jardin, responsible for all marine training and deployment operations run out of the [[Fort Robespierre Naval Annex]]. Widely respected by frontline personnel, she leads the ground and "
+    ]
   },
   {
     "id": "3:Hadal-Research-Site",
@@ -2171,12 +2191,9 @@
     ],
     "backlinks": [
       "Alain-Mercier",
-      "Alain-Mercier",
-      "Aquatic-Salvage-Project",
       "Aquatic-Salvage-Project",
       "Campaign",
       "Cass-Pien-Kolb",
-      "Clone-Rebirth-Program",
       "Clone-Rebirth-Program",
       "Crew-of-TSS-Profondeur",
       "Dan-Araujo-Josh",
@@ -2188,12 +2205,8 @@
       "Prime-Minister-Bombing",
       "Remi-Beauchamp",
       "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya",
       "Session-5-The-Oduya",
       "TSS-Profondeur",
-      "Timeline",
       "Timeline",
       "Transstar",
       "Undersea-Base-Elyon",
@@ -2205,8 +2218,7 @@
       "[[Aquatic Salvage Project]]",
       "[[TSS Profondeur]]",
       "[[Mercier Lookalike Survivor]]"
-    ],
-    "excerpt": "# Hadal Research Site ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Hadal Research Site is a damaged Transstar undersea research facility assigned as the party's first salvage target aboard the [[TSS Profondeur]]. It was abandoned after an attack by [[Undersea Extr"
+    ]
   },
   {
     "id": "3:Hall-des-Futurs-Choisis",
@@ -2247,22 +2259,16 @@
       "Inspector-Marc-Valois",
       "Le-Palais-de-Continuit",
       "Marcel-Delphine",
-      "Marcel-Delphine",
       "Mercier-Assassination",
       "Mobile-Data-Tube",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Social-Solidarity",
       "SolSec",
       "Timeline",
-      "Timeline",
       "Zoy-Damon"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Hall des Futurs Choisis *Hall of Chosen Futures* **Location:** Government District, Nouvelle Sainte-Jeanne, Jardin **Type:** Ministry Complex, Civic Registry, Genetic Administration Center **Population:** Approximately 120,000 employees and visitors daily **Administrative Authority:** Ministry of "
+    "keyLinks": []
   },
   {
     "id": "3:Home-Guard",
@@ -2286,20 +2292,30 @@
       "Mercier Assassination",
       "Social Solidarity",
       "Social Solidarity",
-      "Fort Robespierre Naval Annex"
+      "Fort Robespierre Naval Annex",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Penthouse",
+      "Victor Mendes (Steinbach)",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)"
     ],
     "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Cass-Pien-Kolb",
       "Hall-des-Futurs-Choisis",
       "Jardin",
       "Mercier-Assassination",
+      "Mercier-Penthouse",
       "Session-1-Official-Business",
-      "Timeline"
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Timeline",
+      "Victor-Mendes-Steinbach"
     ],
     "keyLinks": [
       "[[Mercier Assassination]]",
       "[[Social Solidarity]]"
-    ],
-    "excerpt": "# Home Guard *Jardin's internal defense reserve* ## Overview The Home Guard is a Jardin security force referenced as the expected defender against dissidents, rebel outbreaks, and revolutionaries. Veterans and retired military personnel may carry weapons with military IDs partly so they can support "
+    ]
   },
   {
     "id": "3:Identity-Veils",
@@ -2343,16 +2359,8 @@
       "Judith-Dumont-Carla",
       "Marcel-Delphine",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
-      "Timeline",
-      "Timeline",
-      "Timeline",
       "Timeline",
       "Transstar-Employment-Contract",
       "Transstar-Peacekeepers",
@@ -2361,8 +2369,7 @@
     "keyLinks": [
       "[[Marcel Delphine]]",
       "[[Jardin Syndicate]]"
-    ],
-    "excerpt": "# Identity Veils ## Overview The identity veils are electronic masks or overlays provided by [[Marcel Delphine]] after the group escaped the [[Mercier Assassination]]. Marcel described them as masks that prevent camera systems from registering the wearer's normal identity. ## Known Capabilities - Ea"
+    ]
   },
   {
     "id": "3:Inspector-Adrien-Martin",
@@ -2400,8 +2407,7 @@
       "[[Quartier Sainte-Liberté]]",
       "[[Social Solidarity]]",
       "[[Jardin Syndicate]]"
-    ],
-    "excerpt": "# Inspector Adrien Martin *Social Solidarity Liaison* ## Overview Inspector Adrien Martin is the [[Social Solidarity]] liaison for [[Quartier Sainte-Liberté]], responsible for maintaining relations between the district's organizations and the government. It is an extremely difficult job: he must kee"
+    ]
   },
   {
     "id": "3:Inspector-Gabriel-Rousseau",
@@ -2434,8 +2440,7 @@
     ],
     "keyLinks": [
       "[[Customs & Immigration Checkpoint Harmony]]"
-    ],
-    "excerpt": "# Inspector Gabriel Rousseau *Senior Customs Officer* ## Overview Inspector Gabriel Rousseau is a senior customs officer at [[Customs & Immigration Checkpoint Harmony]] and a legend among anti-smuggling investigators. He knows the tells of a forged identity and a doctored manifest the way other peop"
+    ]
   },
   {
     "id": "3:Inspector-General-Marc-Villeneuve",
@@ -2467,8 +2472,7 @@
     ],
     "keyLinks": [
       "[[Social Solidarity]]"
-    ],
-    "excerpt": "# Inspector-General Marc Villeneuve *Commander, Directorate of Social Stability* ## Overview Inspector-General Marc Villeneuve commands the Directorate of Social Stability within [[Social Solidarity]] and is widely feared by dissident organizations. His directorate is the hard edge of the ministry —"
+    ]
   },
   {
     "id": "3:Inspector-Marc-Valois",
@@ -2506,18 +2510,11 @@
     "backlinks": [
       "Campaign",
       "Emma-Colbert-Laura",
-      "Emma-Colbert-Laura",
       "Hall-des-Futurs-Choisis",
-      "La-Porte-Fiel",
       "La-Porte-Fiel",
       "Mercier-Frame-Up",
       "Merciers-Locked-Pad",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
       "Session-3-Transstar-Day",
       "Session-5-The-Oduya",
       "Social-Solidarity",
@@ -2529,8 +2526,7 @@
       "[[SolSec]]",
       "[[Social Solidarity]]",
       "[[Hall des Futurs Choisis]]"
-    ],
-    "excerpt": "# Inspector Marc Valois ## Overview Inspector Marc Valois is a [[SolSec]] investigator seen outside the [[Hall des Futurs Choisis]] during [[Session 2 - Masks and Markers]]. [[Emma Colbert (Laura)]] recognized him from prior SolSec circles, though he was not in her direct chain of command. Valois wo"
+    ]
   },
   {
     "id": "3:Jacques-Martin",
@@ -2564,42 +2560,7 @@
     "keyLinks": [
       "[[Arcosphere Rousseau]]",
       "[[Jardin Syndicate]]"
-    ],
-    "excerpt": "# Jacques Martin *Business Executive* ## Overview Jacques Martin officially owns several logistics companies operating out of the Rousseau Arcology. Unofficially, he is widely rumored to maintain extensive connections within the [[Jardin Syndicate]], the kind of ties that turn a shipping firm into a"
-  },
-  {
-    "id": "3:Jardin",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Jardin",
-    "title": "Jardin",
-    "category": "location",
-    "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
-    "tags": [
-      "location",
-      "world"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Le Palais de Continuité",
-      "Fort Robespierre Naval Annex",
-      "Transstar Sector Exchange",
-      "Arcosphere Rousseau",
-      "Home Guard",
-      "Mercier Frame-Up",
-      "Keith Morris"
-    ],
-    "backlinks": [
-      "Miasma"
-    ],
-    "keyLinks": [
-      "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
-    ],
-    "excerpt": "# Jardin ![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png) *Capital World of the Jardin Subsector* **UWP:** A5679BC-D **Allegiance:** SoCf (Solomani Confederation) **Trade Codes:** Hi, Cp, Pr, Pz, Ht **Subsector:** Jardin **Tech Level:** 13 ## Contents - [Overview](#overview) - [Major Cities](#major"
+    ]
   },
   {
     "id": "3:Jardin-Navy",
@@ -2633,14 +2594,14 @@
     ],
     "backlinks": [
       "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya"
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline"
     ],
     "keyLinks": [
       "[[Fort Robespierre Naval Annex]]",
       "[[Hadal Research Site]]",
       "[[Mercier Lookalike Survivor]]"
-    ],
-    "excerpt": "# Jardin Navy ## Overview The Jardin Navy is the planetary naval force operating from facilities such as [[Fort Robespierre Naval Annex]]. It becomes newly important in [[Session 4 - Into the Hadal Deep]] when the party finds Jardin Navy personnel trapped inside a Transstar undersea research facilit"
+    ]
   },
   {
     "id": "3:Jardin-Syndicate",
@@ -2649,7 +2610,7 @@
     "slug": "Jardin-Syndicate",
     "title": "Jardin Syndicate",
     "category": "organization",
-    "summary": "The **Jardin Syndicate** is one of the largest and most influential criminal organizations operating within the Jardin Subsector. Originally founded on Jardin itself, the Syndicate has expanded across dozens of worlds, establishing networks that span both Confederation and Imperial territory.",
+    "summary": "The **Jardin Syndicate** is one of the largest and most influential",
     "tags": [
       "organization"
     ],
@@ -2677,29 +2638,19 @@
       "Alain-Mercier",
       "Cass-Pien-Kolb",
       "Colette-Moreau",
-      "Colette-Moreau",
-      "Commander-Sophie-Durand",
       "Commander-Sophie-Durand",
       "Emma-Colbert-Laura",
       "False-News-Broadcast",
       "Friday-Party-Congress-Hearing",
       "Inspector-Adrien-Martin",
-      "Inspector-Adrien-Martin",
-      "Jacques-Martin",
       "Jacques-Martin",
       "Lucin",
       "Marcel-Delphine",
-      "Marcel-Delphine",
-      "Marcel-Delphine",
-      "Mercier-Assassination",
       "Mercier-Assassination",
       "Mercier-Frame-Up",
       "Nico-Gay",
       "Oduya",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
       "Session-5-The-Oduya",
       "Sunken-Ship-Boat",
       "Timeline",
@@ -2707,8 +2658,40 @@
     ],
     "keyLinks": [
       "[[Marcel Delphine]]"
+    ]
+  },
+  {
+    "id": "3:Jardin",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Jardin",
+    "title": "Jardin",
+    "category": "location",
+    "summary": ">",
+    "tags": [
+      "location",
+      "world"
     ],
-    "excerpt": "# Syndicat Jardin *Jardin Syndicate* **Type:** Interstellar Criminal Organization **Area of Operations:** Jardin Subsector and neighboring regions on both sides of the Solomani-Imperial border **Primary Activities:** * Human trafficking * Refugee exploitation * Identity fraud * Smuggling * Money lau"
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Le Palais de Continuité",
+      "Fort Robespierre Naval Annex",
+      "Transstar Sector Exchange",
+      "Arcosphere Rousseau",
+      "Home Guard",
+      "Mercier Frame-Up",
+      "Keith Morris"
+    ],
+    "backlinks": [
+      "Miasma"
+    ],
+    "keyLinks": [
+      "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
+    ]
   },
   {
     "id": "3:Jardinian-Naval-SOS",
@@ -2744,15 +2727,13 @@
       "Hadal-Research-Site",
       "Sabine-Caron",
       "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
       "Timeline"
     ],
     "keyLinks": [
       "[[Emma Colbert (Laura)]]",
       "[[Hadal Research Site]]",
       "[[Mercier Lookalike Survivor]]"
-    ],
-    "excerpt": "# Jardinian Naval SOS ## Overview The Jardinian Naval SOS is an encrypted distress signal discovered by [[Emma Colbert (Laura)]] while training on [[TSS Profondeur]] communications. The signal is hidden from ordinary Transstar systems and uses military encryption familiar to Emma from SolSec and Jar"
+    ]
   },
   {
     "id": "3:Judith-Dumont-Carla",
@@ -2776,6 +2757,11 @@
       "Identity Veils",
       "Alain Mercier",
       "Oduya",
+      "Transstar",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Alain Mercier",
+      "Keith Morris",
       "Keith Morris",
       "Miasma",
       "Les Jardins Fermés",
@@ -2788,13 +2774,12 @@
       "Miasma",
       "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya"
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline"
     ],
-    "keyLinks": [],
-    "excerpt": "# Judith Dumont (Carla) ![Judith Dumont portrait](/wiki/media/Judith-Dumont.png) *Solomani Racial • Bounty Hunter: Hunter* **Player:** Carla **Age:** 42 **Species:** Solomani Racial **Gender:** Female **UPP:** STR 11, DEX 10, END 12, INT 11, EDU 10, SOC 8 **Hits:** 33 **Armour:** Cloth (TL10), Prote"
+    "keyLinks": []
   },
   {
     "id": "3:Juliette-Mercier",
@@ -2826,8 +2811,7 @@
     ],
     "keyLinks": [
       "[[Quartier Danton]]"
-    ],
-    "excerpt": "# Juliette Mercier *Senior Editor, Jardin Today* ## Overview Juliette Mercier is a senior editor at Jardin Today, working out of the press district in [[Quartier Danton]], and is known for asking difficult questions. In the aftermath of Minister Mercier's assassination and the fabricated broadcast t"
+    ]
   },
   {
     "id": "3:Keith-Morris",
@@ -2857,14 +2841,12 @@
       "Jardin",
       "Judith-Dumont-Carla",
       "Miasma",
-      "Sunken-Ship-Boat",
       "Sunken-Ship-Boat"
     ],
     "keyLinks": [
       "[[Judith Dumont (Carla)]]",
       "[[Miasma]]"
-    ],
-    "excerpt": "# Keith Morris ## Overview Keith Morris is a corporate executive contact of [[Judith Dumont (Carla)]]. Judith hoped he could help the group get off Jardin and eventually reach [[Miasma]]. Morris explained that the immediate problem is not money for transport but identity control: the group lacks usa"
+    ]
   },
   {
     "id": "3:La-Porte-Fiel",
@@ -2899,16 +2881,12 @@
     ],
     "backlinks": [
       "Ciernan-Seanislav-Peter",
-      "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
       "Session-3-Transstar-Day"
     ],
     "keyLinks": [
       "[[Lucin]]",
       "[[Quartier-Sainte-Liberte]]"
-    ],
-    "parent": "Quartier-Sainte-Liberte",
-    "excerpt": "# La Porte Fiel ## Overview La Porte Fiel is a club or drug den in [[Quartier-Sainte-Liberte]]. The party found [[Lucin]] there during [[Session 3 - Transstar Day]] after spotting another trike like the one Lucin had given them. ## Description The entrance is watched by a heavily cybered bouncer. In"
+    ]
   },
   {
     "id": "3:Le-Palais-de-Continuit",
@@ -2934,12 +2912,9 @@
     ],
     "backlinks": [
       "Jardin",
-      "Leo-Duprey",
       "Leo-Duprey"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Le Palais de Continuité *The Palace of Continuity* **Location:** Nouvelle Sainte-Jeanne, Jardin **Type:** Seat of Government, Executive Complex, National Symbol **Population:** Approximately 35,000 permanent staff **Security Level:** Extreme **Primary Authority:** Office of the Supreme Presidency "
+    "keyLinks": []
   },
   {
     "id": "3:Leo-Duprey",
@@ -2973,8 +2948,6 @@
     "backlinks": [
       "Campaign",
       "Director-General-Camille-Fournier",
-      "Director-General-Camille-Fournier",
-      "Dr-Sophie-Delacroix",
       "Dr-Sophie-Delacroix",
       "Le-Palais-de-Continuit",
       "Marcel-Delphine",
@@ -2985,8 +2958,7 @@
       "[[Le Palais de Continuité]]",
       "[[Alain Mercier]]",
       "[[Social Solidarity]]"
-    ],
-    "excerpt": "# Leo Duprey *Supreme President of Jardin* ## Overview Leo Duprey is the Supreme President of Jardin and the current ruler of the world, governing from [[Le Palais de Continuité]]. A former Minister of Social Solidarity, he rose through the Party apparatus over several decades and is credited by sup"
+    ]
   },
   {
     "id": "3:Les-Jardins-Ferm-s",
@@ -3016,22 +2988,15 @@
     "backlinks": [
       "Dan-Araujo-Josh",
       "Dr-Gabriel-Laurent",
-      "Dr-Gabriel-Laurent",
       "Dr-Isabelle-Fournier",
-      "Dr-Isabelle-Fournier",
-      "Dr-Sophie-Delacroix",
       "Dr-Sophie-Delacroix",
       "Judith-Dumont-Carla",
       "Lucin",
       "Professor-Lucien-Morel",
-      "Professor-Lucien-Morel",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Timeline"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Les Jardins Fermés *The Closed Gardens* **Location:** Eastern Scientific District, Nouvelle Sainte-Jeanne, Jardin **Type:** Scientific Research Complex, Botanical Preserve, Agricultural Development Arcology **Administrative Authority:** Ministry of Genetics **Director-General:** Dr. Sophie Delacro"
+    "keyLinks": []
   },
   {
     "id": "3:Luc-Girard",
@@ -3064,8 +3029,7 @@
     "keyLinks": [
       "[[Transstar]]",
       "[[Transstar]]"
-    ],
-    "excerpt": "# Luc Girard *Labor Coordinator* ## Overview Luc Girard is [[Transstar]]'s Labor Coordinator, assigning thousands of dockworkers and logistics personnel across the Rousseau industrial levels. Officially he manages staffing; unofficially he can make careers appear or disappear, and his influence amon"
+    ]
   },
   {
     "id": "3:Lucien-Roche",
@@ -3097,8 +3061,7 @@
     ],
     "keyLinks": [
       "[[Quartier Sainte-Liberté]]"
-    ],
-    "excerpt": "# Lucien Roche *Information Broker* ## Overview Lucien Roche is an information broker in [[Quartier Sainte-Liberté]] who can acquire almost anything — for the right price. In a district whose data markets trade secrets the way other places trade goods, Roche is one of the names that gets whispered w"
+    ]
   },
   {
     "id": "3:Lucien-Voss",
@@ -3130,8 +3093,7 @@
     ],
     "keyLinks": [
       "[[Transstar Sector Exchange]]"
-    ],
-    "excerpt": "# Lucien Voss *Senior Freight Broker* ## Overview Lucien Voss is a senior freight broker and something of a legend along Broker's Row in the [[Transstar Sector Exchange]], capable of arranging transport to almost anywhere — for a price. For a party that needs to move cargo, people, or itself off Jar"
+    ]
   },
   {
     "id": "3:Lucin",
@@ -3173,14 +3135,9 @@
       "Jardin-Syndicate",
       "Judith-Dumont-Carla",
       "La-Porte-Fiel",
-      "La-Porte-Fiel",
       "Les-Jardins-Ferm-s",
       "Merciers-Locked-Pad",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-3-Transstar-Day",
       "Session-3-Transstar-Day",
       "Timeline",
       "Transstar-Sector-Exchange"
@@ -3189,8 +3146,7 @@
       "[[Quartier Sainte-Liberté]]",
       "[[Jardin Syndicate]]",
       "[[Chief Helene Marchand]]"
-    ],
-    "excerpt": "# Lucin ## Overview Lucin is an armored data broker encountered in [[Quartier Sainte-Liberté]] during [[Session 2 - Masks and Markers]]. He operated from a dark alley market where credits were exchanged for data chips. Lucin wore armor and had a cybernetic third arm emerging from his back. He was ca"
+    ]
   },
   {
     "id": "3:Maelle-Fournier",
@@ -3220,19 +3176,14 @@
     ],
     "backlinks": [
       "Campaign",
-      "Campaign",
       "Crew-of-TSS-Profondeur",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
       "Session-4-Into-the-Hadal-Deep",
       "TSS-Profondeur",
       "Timeline"
     ],
     "keyLinks": [
       "[[TSS Profondeur]]"
-    ],
-    "parent": "Crew-of-TSS-Profondeur",
-    "excerpt": "# Maëlle Fournier ![Maëlle Fournier portrait](/wiki/media/Maelle-Fournier.png) *Engineer / Damage Control* ## Overview Maëlle Fournier is the engineer and damage-control specialist aboard the [[TSS Profondeur]]. She is former Jardin Navy, experienced with the vessel's pipes, repairs, sensors, and co"
+    ]
   },
   {
     "id": "3:Mara-Kovalenko",
@@ -3264,8 +3215,7 @@
     ],
     "keyLinks": [
       "[[Transstar Sector Exchange]]"
-    ],
-    "excerpt": "# Mara Kovalenko *Director of Foreign Trade Relations* ## Overview Mara Kovalenko directs Foreign Trade Relations at the [[Transstar Sector Exchange]], managing its dealings with Imperial and Hive commercial interests. She holds one of the largest diplomatic contact networks in the subsector, the ki"
+    ]
   },
   {
     "id": "3:Marcel-Delphine",
@@ -3306,10 +3256,7 @@
       "Campaign",
       "Cass-Pien-Kolb",
       "Emma-Colbert-Laura",
-      "Emma-Colbert-Laura",
       "Identity-Veils",
-      "Jardin-Syndicate",
-      "Jardin-Syndicate",
       "Jardin-Syndicate",
       "Judith-Dumont-Carla",
       "Lucin",
@@ -3318,14 +3265,57 @@
       "Nico-Gay",
       "Quartier-Sainte-Libert",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-1-Official-Business",
       "Session-3-Transstar-Day",
-      "Timeline",
       "Timeline"
     ],
-    "keyLinks": [],
-    "excerpt": "# Marcel Delphine *The Shepherd of Lost Futures* **Designation:** Marcel Delphine | **Type:** NPC | **TL:** 14 | **Status:** Active | **Owner:** GM ![marcel-delphine.jpg](/wiki/media/marcel-delphine.jpg) | Field | Value | | ----------- | -------------------------- | | Designation | Marcel Delphine |"
+    "keyLinks": []
+  },
+  {
+    "id": "3:Mark-Duncan",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mark-Duncan",
+    "title": "Mark Duncan",
+    "category": "npc",
+    "summary": "Emma's compartmentalized travel-clearance contact who identified Camille Dufour from Mercier's Providence ticket.",
+    "tags": [
+      "npc",
+      "contact",
+      "session-6",
+      "transport"
+    ],
+    "aliases": [
+      "Marc Duncan"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Emma Colbert (Laura)",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Mercier's Locked Pad",
+      "Camille Dufour",
+      "Session 6 - Ghosts in the Bloodline",
+      "Emma Colbert (Laura)",
+      "Camille Dufour",
+      "Providence"
+    ],
+    "backlinks": [
+      "Camille-Dufour",
+      "Campaign",
+      "Emma-Colbert-Laura",
+      "Merciers-Locked-Pad",
+      "Providence",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "SolSec"
+    ],
+    "keyLinks": [
+      "[[Emma Colbert (Laura)]]",
+      "[[Camille Dufour]]",
+      "[[Providence]]"
+    ]
   },
   {
     "id": "3:Mentor-Jean-Mercier",
@@ -3357,8 +3347,7 @@
     ],
     "keyLinks": [
       "[[Crèche District 14]]"
-    ],
-    "excerpt": "# Mentor Jean Mercier *Senior Creche Mentor* ## Overview Mentor Jean Mercier is one of the oldest serving mentors in [[Crèche District 14]]; three generations of graduates have passed through his Maison. He represents the institutional memory of Jardin's creche system, a living link between the chil"
+    ]
   },
   {
     "id": "3:Mercier-Assassination",
@@ -3413,9 +3402,9 @@
       "Inspector-Marc-Valois",
       "Marcel-Delphine",
       "Merciers-Locked-Pad",
-      "Merciers-Locked-Pad",
+      "Psychic-Clone-Conspiracy",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Social-Solidarity",
       "SolSec",
       "Zoy-Damon"
@@ -3424,8 +3413,64 @@
       "[[Alain Mercier]]",
       "[[Hall des Futurs Choisis]]",
       "[[Mercier Frame-Up]]"
+    ]
+  },
+  {
+    "id": "3:Mercier-Evidence-Cache",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mercier-Evidence-Cache",
+    "title": "Mercier Evidence Cache",
+    "category": "item",
+    "summary": "Physical proof hidden in Mercier's penthouse: genetic samples, research notes, suspect photos, communicator, weapon, and credits.",
+    "tags": [
+      "item",
+      "clue",
+      "evidence",
+      "session-6",
+      "genetics"
     ],
-    "excerpt": "# Mercier Assassination ## Overview On 143-1105, Minister [[Alain Mercier]] was killed inside the [[Hall des Futurs Choisis]] shortly after the player characters were summoned there for official review. A news broadcast immediately beforehand reported that Mercier intended to reveal corruption in th"
+    "aliases": [
+      "Mercier's Evidence",
+      "Mercier Cache"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Penthouse",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Cass Pien (Kolb)",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Penthouse",
+      "Alain Mercier",
+      "Mercier's Locked Pad",
+      "Psychic Clone Conspiracy",
+      "Roman Juma"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Campaign",
+      "Judith-Dumont-Carla",
+      "Mercier-Genetic-Findings",
+      "Mercier-Penthouse",
+      "Merciers-Locked-Pad",
+      "Psychic-Clone-Conspiracy",
+      "Roman-Juma",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Social-Solidarity",
+      "TSS-Profondeur",
+      "Victor-Mendes-Steinbach"
+    ],
+    "keyLinks": [
+      "[[Mercier Penthouse]]",
+      "[[Alain Mercier]]",
+      "[[Psychic Clone Conspiracy]]",
+      "[[Mercier Genetic Findings]]"
+    ]
   },
   {
     "id": "3:Mercier-Frame-Up",
@@ -3472,19 +3517,16 @@
       "Jardin-Syndicate",
       "Mercier-Assassination",
       "Merciers-Locked-Pad",
-      "Merciers-Locked-Pad",
       "Prime-Minister-Bombing",
+      "Psychic-Clone-Conspiracy",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Timeline",
       "Timeline",
       "Transstar-Sector-Exchange"
     ],
     "keyLinks": [
       "[[Mercier Assassination]]",
       "[[False News Broadcast]]"
-    ],
-    "excerpt": "# Mercier Frame-Up ## Overview After [[Alain Mercier]] was killed, the official narrative rapidly reframed the event as a terrorist action by genetic \"half-breeds\" whose genetic identities were supposedly insecure. The news story included fabricated or edited footage, including a false image of [[Zo"
+    ]
   },
   {
     "id": "3:Mercier-Genetic-Findings",
@@ -3493,7 +3535,7 @@
     "slug": "Mercier-Genetic-Findings",
     "title": "Mercier Genetic Findings",
     "category": "event",
-    "summary": "Recovered research data suggests decades of genetic-marker tests tied to psionic-like abilities and alien or non-Solomani markers.",
+    "summary": "Recovered research data suggests decades of genetic-marker tests tied",
     "tags": [
       "event",
       "clue",
@@ -3513,7 +3555,11 @@
     "links": [
       "Mobile Data Tube",
       "Session 2 - Masks and Markers",
-      "Alain Mercier"
+      "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "Psychic Clone Conspiracy",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache"
     ],
     "backlinks": [
       "Alain-Mercier",
@@ -3525,8 +3571,8 @@
       "Mercier-Assassination",
       "Mercier-Frame-Up",
       "Merciers-Locked-Pad",
-      "Merciers-Locked-Pad",
       "Mobile-Data-Tube",
+      "Psychic-Clone-Conspiracy",
       "Session-2-Masks-and-Markers",
       "Timeline"
     ],
@@ -3534,8 +3580,7 @@
       "[[Alain Mercier]]",
       "[[Mobile Data Tube]]",
       "[[Mercier Assassination]]"
-    ],
-    "excerpt": "# Mercier Genetic Findings ## Overview The Mercier genetic findings are recovered research notes from the [[Mobile Data Tube]] intercepted in [[Session 2 - Masks and Markers]]. The data appears to be part of what [[Alain Mercier]] planned to reveal before his assassination. The notes describe roughl"
+    ]
   },
   {
     "id": "3:Mercier-Lookalike-Survivor",
@@ -3594,8 +3639,63 @@
       "[[Alain Mercier]]",
       "[[Hadal Research Site]]",
       "[[Undersea Base Elyon]]"
+    ]
+  },
+  {
+    "id": "3:Mercier-Penthouse",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Mercier-Penthouse",
+    "title": "Mercier Penthouse",
+    "category": "location",
+    "summary": "Alain Mercier's high-rise residence where the party fought apparent Home Guard and recovered his hidden evidence cache.",
+    "tags": [
+      "location",
+      "session-6",
+      "mercier",
+      "evidence"
     ],
-    "excerpt": "# Mercier Lookalike Survivor > This page records the party's initial identification of the Hadal survivor. As of [[Session 5 - The Oduya]], he is known to be [[Alain Mercier]] restored through the [[Clone Rebirth Program]]. ## Overview The Mercier Lookalike Survivor is the only living person recover"
+    "aliases": [
+      "Mercier's House",
+      "Mercier's Residence"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dan Araujo (Josh)",
+      "Victor Mendes (Steinbach)",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Mercier Evidence Cache",
+      "Home Guard",
+      "Psychic Clone Conspiracy"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Campaign",
+      "Cass-Pien-Kolb",
+      "Dan-Araujo-Josh",
+      "Home-Guard",
+      "Mercier-Evidence-Cache",
+      "Roman-Juma",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Varian-Svazz-Allen",
+      "Victor-Mendes-Steinbach"
+    ],
+    "keyLinks": [
+      "[[Alain Mercier]]",
+      "[[Mercier Evidence Cache]]",
+      "[[Home Guard]]"
+    ]
   },
   {
     "id": "3:Merciers-Locked-Pad",
@@ -3604,15 +3704,17 @@
     "slug": "Merciers-Locked-Pad",
     "title": "Mercier's Locked Pad",
     "category": "item",
-    "summary": "Locked tablet recovered from Alain Mercier's body; one wrong attempt used, four before it wipes.",
+    "summary": "Tablet recovered from Alain Mercier's body, opened in Session 6 with his clone-provided code and tied to a government AI account.",
     "tags": [
       "item",
       "clue",
-      "session-1"
+      "session-1",
+      "session-6"
     ],
     "aliases": [
       "Mercier's Tablet",
-      "Minister's Pad"
+      "Minister's Pad",
+      "Senator Mercier's Pad"
     ],
     "visibility": "players",
     "approvalStatus": "approved",
@@ -3620,8 +3722,19 @@
     "playerText": "",
     "links": [
       "Alain Mercier",
-      "Session 2 - Masks and Markers",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Genetic Findings",
+      "Clone Rebirth Program",
+      "Psychic Clone Conspiracy",
+      "Session 6 - Ghosts in the Bloodline",
       "Friday Party Congress Hearing",
+      "Social Solidarity",
+      "Providence",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Social Solidarity",
+      "Mercier Evidence Cache",
       "Social Solidarity",
       "Mercier Genetic Findings",
       "Mercier Assassination",
@@ -3633,27 +3746,45 @@
       "Mercier Frame-Up",
       "Alain Mercier",
       "Mercier Genetic Findings",
-      "Social Solidarity"
+      "Social Solidarity",
+      "Session 6 - Ghosts in the Bloodline",
+      "Camille Dufour",
+      "Providence",
+      "Mercier Evidence Cache",
+      "Psychic Clone Conspiracy"
     ],
     "backlinks": [
       "Alain-Mercier",
+      "Camille-Dufour",
+      "Campaign",
       "Ciernan-Seanislav-Peter",
+      "Dan-Araujo-Josh",
+      "Emma-Colbert-Laura",
+      "Judith-Dumont-Carla",
       "La-Porte-Fiel",
-      "La-Porte-Fiel",
+      "Mark-Duncan",
+      "Mercier-Evidence-Cache",
+      "Mercier-Genetic-Findings",
+      "Providence",
+      "Psychic-Clone-Conspiracy",
       "Session-1-Official-Business",
       "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Social-Solidarity",
+      "TSS-Profondeur",
       "Timeline",
-      "Timeline"
+      "Transstar",
+      "Zoy-Damon"
     ],
     "keyLinks": [
       "[[Alain Mercier]]",
       "[[Mercier Assassination]]",
       "[[Mercier Genetic Findings]]",
-      "[[Social Solidarity]]"
-    ],
-    "excerpt": "# Mercier's Locked Pad *The minister's last secret, one bad guess from ash* ## Overview Mercier's locked pad was recovered from [[Alain Mercier]] after his assassination. It is roughly Kindle-sized and password protected, and it is almost certainly the reason he was killed with it still on his body "
+      "[[Social Solidarity]]",
+      "[[Camille Dufour]]",
+      "[[Providence]]",
+      "[[Psychic Clone Conspiracy]]"
+    ]
   },
   {
     "id": "3:Miasma",
@@ -3687,8 +3818,7 @@
     "keyLinks": [
       "[[Judith Dumont (Carla)]]",
       "[[Keith Morris]]"
-    ],
-    "excerpt": "# Miasma ## Contents - [Overview](#overview) - [Session 1 Notes](#session-1-notes) ## Overview Miasma is described in the transcript as a relatively low-key jump destination one jump from [[Jardin]]. [[Judith Dumont (Carla)]] considered it as a possible escape destination and hoped [[Keith Morris]] "
+    ]
   },
   {
     "id": "3:Mobile-Data-Tube",
@@ -3730,9 +3860,6 @@
       "Mercier-Frame-Up",
       "Mercier-Genetic-Findings",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Timeline",
       "Zoy-Damon"
@@ -3742,8 +3869,7 @@
       "[[Hall des Futurs Choisis]]",
       "[[Dr. Luc Moreau]]",
       "[[Inspector Marc Valois]]"
-    ],
-    "excerpt": "# Mobile Data Tube ## Contents - [Overview](#overview) - [Payload](#payload) - [Capabilities](#capabilities) - [Party Handling](#party-handling) - [Open Questions](#open-questions) ## Overview The mobile data tube is a cigar-sized metal cylinder recovered from a bathroom drain inside the [[Hall des "
+    ]
   },
   {
     "id": "3:Nadia-Giroux",
@@ -3775,8 +3901,7 @@
     ],
     "keyLinks": [
       "[[Arcosphere Rousseau]]"
-    ],
-    "excerpt": "# Nadia Giroux *Investigative Journalist* ## Overview Nadia Giroux is an investigative journalist working out of the Rousseau Arcology, known for exposing corruption and embarrassing powerful people who assumed their arrangements were private. She receives anonymous threats frequently and ignores th"
+    ]
   },
   {
     "id": "3:Nadine-Pelletier",
@@ -3809,8 +3934,7 @@
     "keyLinks": [
       "[[Transstar]]",
       "[[Transstar]]"
-    ],
-    "excerpt": "# Nadine Pelletier *Passenger Services Director* ## Overview Nadine Pelletier is [[Transstar]]'s Passenger Services Director and the public face of the line's luxury travel, overseeing the arrival of VIPs, Party officials, and wealthy travelers at the Jardin Orbital Terminal. Charismatic and media-s"
+    ]
   },
   {
     "id": "3:Nico-Gay",
@@ -3850,8 +3974,7 @@
       "[[Emma Colbert (Laura)]]",
       "[[Jardin Syndicate]]",
       "[[Transstar Sector Exchange]]"
-    ],
-    "excerpt": "# Nico Gay ## Overview Nico Gay is the son of Sarah Gay and a mid-tier smuggler contact of [[Emma Colbert (Laura)]]. The transcript describes him as oddly loyal to Emma, provided she does not ask him to betray family or front crew. He gave Emma background on [[Marcel Delphine]] and the [[Jardin Synd"
+    ]
   },
   {
     "id": "3:Oduya",
@@ -3860,16 +3983,18 @@
     "slug": "Oduya",
     "title": "Oduya",
     "category": "vehicle",
-    "summary": "Forty-year-old smuggling ship-boat raised by the party after the Hadal rescue.",
+    "summary": "Old smuggling ship-boat raised by the party, repaired into orbit-worthy but unpleasant condition, and used operationally as Volante.",
     "tags": [
       "vehicle",
       "ship",
       "salvage",
-      "session-5"
+      "session-5",
+      "session-6"
     ],
     "aliases": [
       "The Oduya",
-      "Sunken Ship-Boat"
+      "Sunken Ship-Boat",
+      "Volante"
     ],
     "visibility": "players",
     "approvalStatus": "approved",
@@ -3878,19 +4003,23 @@
     "links": [
       "Sunken Ship-Boat",
       "Session 5 - The Oduya",
+      "Session 6 - Ghosts in the Bloodline",
       "0-31 Saichi Maru (Annette)",
       "TSS Profondeur",
       "Jardin Syndicate",
       "Transponder Swap Box",
-      "Alain Mercier"
+      "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "Varian Svazz (Allen)",
+      "Emma Colbert (Laura)",
+      "Victor Mendes (Steinbach)"
     ],
     "backlinks": [],
     "keyLinks": [
       "[[Sunken Ship-Boat]]",
       "[[Transponder Swap Box]]",
       "[[Jardin Syndicate]]"
-    ],
-    "excerpt": "# Oduya ## Overview Oduya is the true name of the [[Sunken Ship-Boat]] raised by the party during [[Session 5 - The Oduya]]. The two names refer to the same craft: \"Sunken Ship-Boat\" was the old lead, and Oduya is the identified vessel. It is a small craft capable of reaching orbit and other planets"
+    ]
   },
   {
     "id": "3:Philippe-Laurent",
@@ -3923,8 +4052,7 @@
     "keyLinks": [
       "[[Transstar]]",
       "[[Transstar]]"
-    ],
-    "excerpt": "# Philippe Laurent *Fleet Maintenance Director* ## Overview Philippe Laurent is [[Transstar]]'s Fleet Maintenance Director, responsible for keeping over four hundred vessels running across the region. Famous for his obsession with preventative maintenance — \"Ships don't fail. Managers fail.\" — he ho"
+    ]
   },
   {
     "id": "3:Pierre-Gauthier",
@@ -3959,8 +4087,7 @@
     "keyLinks": [
       "[[Quartier Danton]]",
       "[[Social Solidarity]]"
-    ],
-    "excerpt": "# Pierre Gauthier *Student Activist* ## Overview Pierre Gauthier is a student activist and rising political figure in [[Quartier Danton]], closely watched by [[Social Solidarity]]. In a district built around the University of Jardin and the Party academies, a charismatic organizer who draws crowds i"
+    ]
   },
   {
     "id": "3:Port-Sainte-Jeanne-Downport",
@@ -3986,19 +4113,12 @@
     ],
     "backlinks": [
       "Captain-Victor-Mendes",
-      "Captain-Victor-Mendes",
-      "Commander-Sophie-Durand",
       "Commander-Sophie-Durand",
       "Director-Luc-Beaumont",
-      "Director-Luc-Beaumont",
       "Etienne-Marchand",
-      "Etienne-Marchand",
-      "Sunken-Ship-Boat",
       "Sunken-Ship-Boat"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Port Sainte-Jeanne Downport *\"Gateway to the Frontier.\"* **Location:** Western Nouvelle Sainte-Jeanne **Type:** Class A Starport Downport **Administrative Authority:** Port Authority of Jardin **Operational Control:** Transstar Port Services **Security:** Port Security Directorate, Customs Bureau,"
+    "keyLinks": []
   },
   {
     "id": "3:Prime-Minister-Bombing",
@@ -4030,18 +4150,15 @@
     "backlinks": [
       "Alain-Mercier",
       "Campaign",
-      "Campaign",
       "Clone-Rebirth-Program",
+      "Psychic-Clone-Conspiracy",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Timeline",
       "Timeline"
     ],
     "keyLinks": [
       "[[Clone Rebirth Program]]",
       "[[Hadal Research Site]]"
-    ],
-    "excerpt": "# Prime Minister Bombing ## Overview During [[Session 5 - The Oduya]], news reports that the Prime Minister's home was bombed that morning. The broadcast describes the attack as suspected separatist terrorism and presumes the Prime Minister dead. The party recognizes the residence as the same place "
+    ]
   },
   {
     "id": "3:Professor-Emile-Laurent",
@@ -4073,8 +4190,7 @@
     ],
     "keyLinks": [
       "[[Quartier Danton]]"
-    ],
-    "excerpt": "# Professor Émile Laurent *Political Theorist* ## Overview Professor Émile Laurent is a political theorist and public intellectual based in [[Quartier Danton]], the capital's academic and congressional quarter. He appears frequently on state broadcasts, where his commentary lends scholarly weight to"
+    ]
   },
   {
     "id": "3:Professor-Lucien-Morel",
@@ -4106,8 +4222,129 @@
     ],
     "keyLinks": [
       "[[Les Jardins Fermés]]"
+    ]
+  },
+  {
+    "id": "3:Providence",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Providence",
+    "title": "Providence",
+    "category": "location",
+    "summary": "Inner Jardinian-system world where Mercier sent Camille Dufour to confront a Social Solidarity executive.",
+    "tags": [
+      "location",
+      "planet",
+      "session-6",
+      "social-solidarity"
     ],
-    "excerpt": "# Professor Lucien Morel *Chief Ecological Systems Analyst* ## Overview Professor Lucien Morel is Chief Ecological Systems Analyst at [[Les Jardins Fermés]], where he developed several of the ecosystem-modeling theories the Gardens rely on. He believes that entire planetary biospheres can eventually"
+    "aliases": [
+      "Provenance"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Mercier's Locked Pad",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Social Solidarity",
+      "Session 6 - Ghosts in the Bloodline",
+      "Camille Dufour",
+      "Mercier's Locked Pad",
+      "Psychic Clone Conspiracy",
+      "Social Solidarity"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Camille-Dufour",
+      "Campaign",
+      "Ciernan-Seanislav-Peter",
+      "Emma-Colbert-Laura",
+      "Mark-Duncan",
+      "Merciers-Locked-Pad",
+      "Psychic-Clone-Conspiracy",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Social-Solidarity",
+      "SolSec",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Camille Dufour]]",
+      "[[Social Solidarity]]",
+      "[[Psychic Clone Conspiracy]]"
+    ]
+  },
+  {
+    "id": "3:Psychic-Clone-Conspiracy",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Psychic-Clone-Conspiracy",
+    "title": "Psychic Clone Conspiracy",
+    "category": "lore",
+    "summary": "Suspected Social Solidarity faction using cloned psykers to alter elite genetics and create political blackmail.",
+    "tags": [
+      "lore",
+      "clue",
+      "psionics",
+      "genetics",
+      "social-solidarity",
+      "session-6"
+    ],
+    "aliases": [
+      "Genetic Blackmail Program",
+      "Social Solidarity Psyker Faction",
+      "Psyker Takeover Theory"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Mercier Genetic Findings",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Social Solidarity",
+      "Mercier Assassination",
+      "Mercier Genetic Findings",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Providence",
+      "Camille Dufour",
+      "Prime Minister Bombing",
+      "Session 6 - Ghosts in the Bloodline",
+      "Social Solidarity",
+      "Alain Mercier",
+      "Mercier Evidence Cache",
+      "Clone Rebirth Program",
+      "Providence"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Campaign",
+      "Mercier-Evidence-Cache",
+      "Mercier-Genetic-Findings",
+      "Mercier-Penthouse",
+      "Merciers-Locked-Pad",
+      "Providence",
+      "Roman-Juma",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Social-Solidarity",
+      "SolSec"
+    ],
+    "keyLinks": [
+      "[[Social Solidarity]]",
+      "[[Clone Rebirth Program]]",
+      "[[Mercier Genetic Findings]]",
+      "[[Mercier Evidence Cache]]"
+    ]
   },
   {
     "id": "3:Quartier-Danton",
@@ -4133,15 +4370,10 @@
     ],
     "backlinks": [
       "Juliette-Mercier",
-      "Juliette-Mercier",
       "Pierre-Gauthier",
-      "Pierre-Gauthier",
-      "Professor-Emile-Laurent",
       "Professor-Emile-Laurent"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Quartier Danton *Danton Quarter* *\"Ideas Shape History.\"* **Location:** Central Nouvelle Sainte-Jeanne **Type:** Political and Academic District **Administrative Authority:** Municipal Government of Nouvelle Sainte-Jeanne **Status:** Active **Population:** 2.4 Million **Primary Functions:** - Part"
+    "keyLinks": []
   },
   {
     "id": "3:Quartier-Sainte-Libert",
@@ -4167,17 +4399,12 @@
     ],
     "backlinks": [
       "Colette-Moreau",
-      "Colette-Moreau",
       "Inspector-Adrien-Martin",
-      "Inspector-Adrien-Martin",
-      "Lucien-Roche",
       "Lucien-Roche",
       "Lucin",
       "Session-2-Masks-and-Markers"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Quartier Sainte-Liberté *Saint Liberty Quarter* *\"Everyone Belongs Somewhere.\"* **Location:** Lower Eastern Rousseau Arcology and Adjacent Surface Districts **Type:** Mixed Residential and Commercial District **Administrative Authority:** Municipal Administration of Nouvelle Sainte-Jeanne **Actual"
+    "keyLinks": []
   },
   {
     "id": "3:Reena-Kessler",
@@ -4209,15 +4436,12 @@
     "backlinks": [
       "Campaign",
       "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
       "Transstar-Employment-Contract"
     ],
     "keyLinks": [
       "[[Transstar Sector Exchange]]",
       "[[Transstar]]"
-    ],
-    "excerpt": "# Reena Kessler ## Overview Reena Kessler works an entry booth at the [[Transstar Sector Exchange]]. During [[Session 3 - Transstar Day]], she greeted the first party members entering the Exchange and asked whether they were there to shop or seek work. ## Session 3 Reena issued three-day holographic"
+    ]
   },
   {
     "id": "3:Relay-Station-932",
@@ -4251,8 +4475,7 @@
     "keyLinks": [
       "[[TSS Profondeur]]",
       "[[Undersea Base Elyon]]"
-    ],
-    "excerpt": "# Relay Station 932 ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Relay Station 932 is the undersea communications relay described during the [[TSS Profondeur]] briefing. It serves as a major communications hub, passing traffic between undersea ships, bases, and or"
+    ]
   },
   {
     "id": "3:Remi-Beauchamp",
@@ -4261,7 +4484,7 @@
     "slug": "Remi-Beauchamp",
     "title": "Rémi Beauchamp",
     "category": "npc",
-    "summary": "Sonar, sensors, electronics, and communications specialist aboard the TSS Profondeur.",
+    "summary": "Sonar, sensors, electronics, and communications specialist aboard the",
     "tags": [
       "npc",
       "transstar",
@@ -4284,10 +4507,7 @@
     ],
     "backlinks": [
       "Campaign",
-      "Campaign",
       "Crew-of-TSS-Profondeur",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
       "Session-4-Into-the-Hadal-Deep",
       "TSS-Profondeur",
       "Timeline"
@@ -4295,9 +4515,47 @@
     "keyLinks": [
       "[[TSS Profondeur]]",
       "[[Relay Station 932]]"
+    ]
+  },
+  {
+    "id": "3:Roman-Juma",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Roman-Juma",
+    "title": "Roman Juma",
+    "category": "npc",
+    "summary": "Cass Pien's crusading journalist ally and planned dead-man-switch disclosure channel.",
+    "tags": [
+      "npc",
+      "journalist",
+      "contact",
+      "session-6"
     ],
-    "parent": "Crew-of-TSS-Profondeur",
-    "excerpt": "# Rémi Beauchamp ![Rémi Beauchamp portrait](/wiki/media/Remi-Beauchamp.png) *Sonar / Sensors / Comms* ## Overview Rémi Beauchamp handles electrics, sonar, sensors, and communications aboard the [[TSS Profondeur]]. He is a former Jardin Navy naval-intelligence signals specialist. His job during the p"
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Cass Pien (Kolb)",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Penthouse",
+      "Session 6 - Ghosts in the Bloodline",
+      "Cass Pien (Kolb)",
+      "Mercier Evidence Cache",
+      "Psychic Clone Conspiracy"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Cass-Pien-Kolb",
+      "Mercier-Evidence-Cache",
+      "Session-6-Ghosts-in-the-Bloodline"
+    ],
+    "keyLinks": [
+      "[[Cass Pien (Kolb)]]",
+      "[[Mercier Evidence Cache]]",
+      "[[Psychic Clone Conspiracy]]"
+    ]
   },
   {
     "id": "3:Sabine-Caron",
@@ -4328,13 +4586,10 @@
     ],
     "backlinks": [
       "Campaign",
-      "Campaign",
       "Ciernan-Seanislav-Peter",
       "Crew-of-TSS-Profondeur",
       "Emma-Colbert-Laura",
       "Jardinian-Naval-SOS",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
       "Session-4-Into-the-Hadal-Deep",
       "TSS-Profondeur",
       "Timeline",
@@ -4343,9 +4598,7 @@
     "keyLinks": [
       "[[TSS Profondeur]]",
       "[[Undersea Suits]]"
-    ],
-    "parent": "Crew-of-TSS-Profondeur",
-    "excerpt": "# Sabine Caron ![Sabine Caron portrait](/wiki/media/Sabine-Caron.png) *Security / Diving Operations* ## Overview Sabine Caron is the security and diving-operations lead aboard the [[TSS Profondeur]]. A former Jardin Navy marine and underwater security specialist, she carries paired sawed-off shotgun"
+    ]
   },
   {
     "id": "3:Sarah-Chen",
@@ -4381,8 +4634,7 @@
       "[[Transstar]]",
       "[[Transstar]]",
       "[[SolSec]]"
-    ],
-    "excerpt": "# Sarah Chen *Route Intelligence Analyst* ## Overview Sarah Chen is a Route Intelligence Analyst for [[Transstar]], tracking shipping patterns, economic trends, passenger flows, and frontier development from the company's regional data center. She often knows a recession is coming before local gover"
+    ]
   },
   {
     "id": "3:Secure-Burner-Comms",
@@ -4415,8 +4667,7 @@
     ],
     "keyLinks": [
       "[[Session 2 - Masks and Markers]]"
-    ],
-    "excerpt": "# Secure Burner Comms ## Overview The secure burner comms are modified cheap phones created by the supply team during [[Session 2 - Masks and Markers]]. The group bought several burners and parts, then modified them into local military-grade communicators. ## Capabilities - Each party member receive"
+    ]
   },
   {
     "id": "3:Sergey-Sun",
@@ -4449,14 +4700,12 @@
       "Campaign",
       "Emma-Colbert-Laura",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
       "Timeline"
     ],
     "keyLinks": [
       "[[Emma Colbert (Laura)]]",
       "[[Alain Mercier]]"
-    ],
-    "excerpt": "# Sergey Sun ## Overview Sergey Sun is one of [[Emma Colbert (Laura)]]'s contacts. He operates a loose smuggling network that moves restricted pharmaceutical goods, records, and occasionally people. ## Session 5 During [[Session 5 - The Oduya]], Emma identifies Sergey as the contact most suited to h"
+    ]
   },
   {
     "id": "3:Session-1-Official-Business",
@@ -4527,8 +4776,7 @@
       "SolSec",
       "Sunken-Ship-Boat"
     ],
-    "keyLinks": [],
-    "excerpt": "--- category: game type: game name: Session 1 - Official Business summary: Opening session: the group is framed for Alain Mercier's assassination and rescued by Marcel Delphine. tags: - session - game - session-1 visibility: players approvalStatus: approved knownToPlayers: true keyLinks: - \"[[Mercie"
+    "keyLinks": []
   },
   {
     "id": "3:Session-2-Masks-and-Markers",
@@ -4619,7 +4867,6 @@
       "Chief-Helene-Marchand",
       "Dr-Luc-Moreau",
       "Identity-Veils",
-      "Identity-Veils",
       "Inspector-Marc-Valois",
       "Jardin-Syndicate",
       "Les-Jardins-Ferm-s",
@@ -4627,11 +4874,9 @@
       "Mercier-Assassination",
       "Mercier-Frame-Up",
       "Mercier-Genetic-Findings",
-      "Merciers-Locked-Pad",
       "Mobile-Data-Tube",
       "Secure-Burner-Comms",
       "Social-Solidarity",
-      "SolSec",
       "SolSec",
       "Transstar-Sector-Exchange"
     ],
@@ -4640,8 +4885,7 @@
       "[[Mobile Data Tube]]",
       "[[Inspector Marc Valois]]",
       "[[Lucin]]"
-    ],
-    "excerpt": "# Session 2 - Masks and Markers **Transcript Source:** `transcript_2026-07-14T13_30_07.150Z.json` ## Synopsis The group wakes in Emma's warehouse with practical problems: [[0-31 Saichi Maru (Annette)]] needs a heavy charge, the [[Identity Veils]] have little time left, and the party still needs evid"
+    ]
   },
   {
     "id": "3:Session-3-Transstar-Day",
@@ -4710,14 +4954,9 @@
       "Aquatic-Salvage-Project",
       "Campaign",
       "Claire-Bouchard",
-      "Claire-Bouchard",
-      "La-Porte-Fiel",
       "La-Porte-Fiel",
       "Reena-Kessler",
-      "Reena-Kessler",
       "Transstar-Employment-Contract",
-      "Transstar-Employment-Contract",
-      "Transstar-Peacekeepers",
       "Transstar-Peacekeepers"
     ],
     "keyLinks": [
@@ -4726,8 +4965,7 @@
       "[[Transstar Sector Exchange]]",
       "[[Transstar Employment Contract]]",
       "[[Aquatic Salvage Project]]"
-    ],
-    "excerpt": "# Session 3 - Transstar Day **Transcript Source:** `transcript_2026-07-28T13_25_40.538Z.json` **Caption File:** `wiki/transcripts/Session-3-Transstar-Day.srt` ## Synopsis With the [[Identity Veils]] almost expired, the group chooses a path that is neither full surrender nor full Syndicate employment"
+    ]
   },
   {
     "id": "3:Session-4-Into-the-Hadal-Deep",
@@ -4818,8 +5056,7 @@
       "[[Hadal Research Site]]",
       "[[Undersea Base Elyon]]",
       "[[Mercier Lookalike Survivor]]"
-    ],
-    "excerpt": "# Session 4 - Into the Hadal Deep **Transcript Source:** `transcript_2026-08-11T13_10_25.568Z.json` **Caption File:** `wiki/transcripts/Session-4-Into-the-Hadal-Deep.srt` **In-World Date:** 145-1105, first Transstar workday. ## Synopsis The party reports for its first shift on the [[Aquatic Salvage "
+    ]
   },
   {
     "id": "3:Session-5-The-Oduya",
@@ -4828,7 +5065,7 @@
     "slug": "Session-5-The-Oduya",
     "title": "Session 5 - The Oduya",
     "category": "game",
-    "summary": "Mercier returns through a clone body, the party raises the smuggling ship-boat Oduya, and the conspiracy points beyond Jardin.",
+    "summary": "Mercier returns through a clone body, the party raises the smuggling",
     "tags": [
       "session",
       "game",
@@ -4909,15 +5146,12 @@
       "Alain-Mercier",
       "Anita-Singh",
       "Campaign",
-      "Campaign",
       "Clone-Rebirth-Program",
       "Crew-of-TSS-Profondeur",
       "Mercier-Lookalike-Survivor",
       "Oduya",
       "Prime-Minister-Bombing",
       "Sergey-Sun",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
       "Sunken-Ship-Boat",
       "Transponder-Swap-Box"
     ],
@@ -4927,8 +5161,130 @@
       "[[Oduya]]",
       "[[Transponder Swap Box]]",
       "[[Prime Minister Bombing]]"
+    ]
+  },
+  {
+    "id": "3:Session-6-Ghosts-in-the-Bloodline",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Session-6-Ghosts-in-the-Bloodline",
+    "title": "Session 6 - Ghosts in the Bloodline",
+    "category": "game",
+    "summary": "The party repairs the raised Oduya, opens Mercier's pad, uncovers the psychic clone conspiracy, raids Mercier's penthouse for proof, and hides restored Mercier aboard the Profondeur.",
+    "tags": [
+      "session",
+      "game",
+      "session-6",
+      "mercier",
+      "oduya",
+      "social-solidarity",
+      "psionics"
     ],
-    "excerpt": "# Session 5 - The Oduya **Transcript Source:** `transcript_2026-08-25T13_12_36.595Z.json` **Caption File:** `wiki/transcripts/Session-5-The-Oduya.srt` **In-World Date:** 145-1105, evening and night after the Hadal rescue. ## Synopsis The party regroups at [[Undersea Base Elyon]] after the failed att"
+    "aliases": [
+      "Game 6",
+      "Chapter 1 Game 6",
+      "Ghosts in the Bloodline"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Transstar",
+      "Oduya",
+      "Oduya",
+      "Emma Colbert (Laura)",
+      "Varian Svazz (Allen)",
+      "Mercier's Locked Pad",
+      "Alain Mercier",
+      "Providence",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Social Solidarity",
+      "Psychic Clone Conspiracy",
+      "Mercier Assassination",
+      "Cass Pien (Kolb)",
+      "Roman Juma",
+      "Mercier Penthouse",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dan Araujo (Josh)",
+      "Victor Mendes (Steinbach)",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "TSS Profondeur",
+      "Providence",
+      "Mercier Assassination",
+      "Providence",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Roman Juma",
+      "TSS Profondeur",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Roman Juma",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)",
+      "Varian Svazz (Allen)",
+      "Judith Dumont (Carla)",
+      "Ciernan Seanislav (Peter)",
+      "Alain Mercier",
+      "Camille Dufour",
+      "Mark Duncan",
+      "Roman Juma",
+      "Director-General Camille Fournier",
+      "Etienne Valcourt",
+      "Oduya",
+      "Transstar Sector Exchange",
+      "Mercier Penthouse",
+      "Undersea Base Elyon",
+      "TSS Profondeur",
+      "Providence",
+      "Transstar",
+      "Social Solidarity",
+      "SolSec",
+      "Home Guard",
+      "Jardin Navy",
+      "Director-General Camille Fournier",
+      "Camille Dufour"
+    ],
+    "backlinks": [
+      "Alain-Mercier",
+      "Camille-Dufour",
+      "Campaign",
+      "Clone-Rebirth-Program",
+      "Home-Guard",
+      "Mark-Duncan",
+      "Mercier-Evidence-Cache",
+      "Mercier-Genetic-Findings",
+      "Mercier-Penthouse",
+      "Merciers-Locked-Pad",
+      "Oduya",
+      "Providence",
+      "Psychic-Clone-Conspiracy",
+      "Roman-Juma",
+      "Social-Solidarity",
+      "SolSec",
+      "TSS-Profondeur",
+      "Transponder-Swap-Box",
+      "Transstar",
+      "Undersea-Base-Elyon"
+    ],
+    "keyLinks": [
+      "[[Oduya]]",
+      "[[Mercier's Locked Pad]]",
+      "[[Psychic Clone Conspiracy]]",
+      "[[Mercier Evidence Cache]]",
+      "[[Mercier Penthouse]]",
+      "[[Camille Dufour]]",
+      "[[Providence]]"
+    ]
   },
   {
     "id": "3:Sister-Celeste-Moreau",
@@ -4959,8 +5315,7 @@
     ],
     "keyLinks": [
       "[[Arcosphere Rousseau]]"
-    ],
-    "excerpt": "# Sister Celeste Moreau *Community Organizer* ## Overview Sister Celeste Moreau runs charitable programs throughout the lower districts of the Rousseau Arcology and is widely respected by the residents she serves. Where the state measures citizens by genetic and demographic value, her work reaches t"
+    ]
   },
   {
     "id": "3:Social-Solidarity",
@@ -4988,115 +5343,44 @@
       "SolSec",
       "Hall des Futurs Choisis",
       "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Psychic Clone Conspiracy",
+      "Camille Dufour",
+      "Providence",
       "Leo Duprey",
       "Director-General Camille Fournier",
       "Inspector-General Marc Villeneuve"
     ],
     "backlinks": [
       "Agent-Luc-Deschamps",
-      "Agent-Luc-Deschamps",
+      "Camille-Dufour",
+      "Clone-Rebirth-Program",
       "Commissioner-Elise-Martin",
-      "Commissioner-Elise-Martin",
-      "Director-General-Camille-Fournier",
       "Director-General-Camille-Fournier",
       "Director-Luc-Beaumont",
       "Elena-Verona",
       "Emma-Colbert-Laura",
       "Hall-des-Futurs-Choisis",
-      "Hall-des-Futurs-Choisis",
-      "Home-Guard",
       "Home-Guard",
       "Inspector-Adrien-Martin",
-      "Inspector-Adrien-Martin",
-      "Inspector-General-Marc-Villeneuve",
       "Inspector-General-Marc-Villeneuve",
       "Inspector-Marc-Valois",
       "Leo-Duprey",
       "Mercier-Assassination",
       "Merciers-Locked-Pad",
-      "Merciers-Locked-Pad",
       "Nadia-Giroux",
       "Pierre-Gauthier",
-      "Pierre-Gauthier",
+      "Providence",
+      "Psychic-Clone-Conspiracy",
       "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "SolSec",
+      "Session-6-Ghosts-in-the-Bloodline",
       "SolSec",
       "Timeline"
     ],
-    "keyLinks": [],
-    "excerpt": "# Ministère de la Solidarité Sociale *Ministry of Social Solidarity* *\"Harmony Through Responsibility\"* **Designation:** Ministry of Social Solidarity | **Type:** Government Ministry | **Founded:** 705 | **Status:** Active | **Authority:** Supreme Presidency of Jardin Social Solidarity Emblem ![Mini"
-  },
-  {
-    "id": "3:SolSec",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "SolSec",
-    "title": "SolSec",
-    "category": "organization",
-    "summary": "Solomani security service focused on terrorism and external threats; distinct from Jardin's Social Solidarity.",
-    "tags": [
-      "organization",
-      "security"
-    ],
-    "aliases": [
-      "Solomani Security"
-    ],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Social Solidarity",
-      "Emma Colbert (Laura)",
-      "Session 2 - Masks and Markers",
-      "Inspector Marc Valois",
-      "Mercier Assassination",
-      "Hall des Futurs Choisis",
-      "Social Solidarity",
-      "Session 1 - Official Business",
-      "Session 2 - Masks and Markers",
-      "Undersea Base Elyon",
-      "SolSec Operative at Elyon",
-      "Mercier Lookalike Survivor",
-      "Emma Colbert (Laura)"
-    ],
-    "backlinks": [
-      "Agent-Luc-Deschamps",
-      "Agent-Luc-Deschamps",
-      "Amelia-Torres",
-      "Amelia-Torres",
-      "Clone-Rebirth-Program",
-      "Emma-Colbert-Laura",
-      "Etienne-Moreau",
-      "Etienne-Moreau",
-      "Hall-des-Futurs-Choisis",
-      "Inspector-Marc-Valois",
-      "Marcel-Delphine",
-      "Sarah-Chen",
-      "Sarah-Chen",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya",
-      "Social-Solidarity",
-      "Social-Solidarity",
-      "Timeline",
-      "Timeline",
-      "Transstar",
-      "Undersea-Base-Elyon",
-      "Victor-Mendes-Steinbach"
-    ],
-    "keyLinks": [
-      "[[Emma Colbert (Laura)]]",
-      "[[Social Solidarity]]",
-      "[[Inspector Marc Valois]]"
-    ],
-    "excerpt": "# SolSec ## Overview SolSec is distinguished in the transcript from [[Social Solidarity]]. On Jardin, Social Solidarity functions as the local secret police and internal security arm, while SolSec handles terrorism and external threats. [[Emma Colbert (Laura)]] has a SolSec background as a secret ag"
+    "keyLinks": []
   },
   {
     "id": "3:SolSec-Operative-at-Elyon",
@@ -5138,11 +5422,9 @@
       "Mercier-Lookalike-Survivor",
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
       "SolSec",
       "Timeline",
       "Undersea-Base-Elyon",
-      "Zoy-Damon",
       "Zoy-Damon"
     ],
     "keyLinks": [
@@ -5150,8 +5432,75 @@
       "[[Undersea Base Elyon]]",
       "[[Mercier Lookalike Survivor]]",
       "[[Clone Rebirth Program]]"
+    ]
+  },
+  {
+    "id": "3:SolSec",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "SolSec",
+    "title": "SolSec",
+    "category": "organization",
+    "summary": "Solomani security service focused on terrorism and external threats; distinct from Jardin's Social Solidarity.",
+    "tags": [
+      "organization",
+      "security"
     ],
-    "excerpt": "# SolSec Operative at Elyon ## Overview The SolSec Operative at Elyon is an unidentified agent seen inside [[Undersea Base Elyon]] during [[Session 4 - Into the Hadal Deep]]. Saichi spots him entering the [[Mercier Lookalike Survivor]]'s room late at night. ## Session 4 The operative scans the survi"
+    "aliases": [
+      "Solomani Security"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Social Solidarity",
+      "Emma Colbert (Laura)",
+      "Session 2 - Masks and Markers",
+      "Inspector Marc Valois",
+      "Mercier Assassination",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers",
+      "Undersea Base Elyon",
+      "SolSec Operative at Elyon",
+      "Mercier Lookalike Survivor",
+      "Emma Colbert (Laura)",
+      "Session 6 - Ghosts in the Bloodline",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Alain Mercier",
+      "Camille Dufour",
+      "Providence",
+      "Psychic Clone Conspiracy"
+    ],
+    "backlinks": [
+      "Agent-Luc-Deschamps",
+      "Amelia-Torres",
+      "Camille-Dufour",
+      "Clone-Rebirth-Program",
+      "Emma-Colbert-Laura",
+      "Etienne-Moreau",
+      "Hall-des-Futurs-Choisis",
+      "Inspector-Marc-Valois",
+      "Marcel-Delphine",
+      "Sarah-Chen",
+      "Session-2-Masks-and-Markers",
+      "Session-4-Into-the-Hadal-Deep",
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Social-Solidarity",
+      "Timeline",
+      "Transstar",
+      "Undersea-Base-Elyon",
+      "Victor-Mendes-Steinbach"
+    ],
+    "keyLinks": [
+      "[[Emma Colbert (Laura)]]",
+      "[[Social Solidarity]]",
+      "[[Inspector Marc Valois]]"
+    ]
   },
   {
     "id": "3:Sunken-Ship-Boat",
@@ -5160,7 +5509,7 @@
     "slug": "Sunken-Ship-Boat",
     "title": "Sunken Ship-Boat",
     "category": "item",
-    "summary": "Earlier lead name for Oduya, the drowned smuggling ship-boat raised by the party in Session 5.",
+    "summary": "Earlier lead name for Oduya, the drowned smuggling ship-boat raised by",
     "tags": [
       "item",
       "vehicle",
@@ -5212,57 +5561,29 @@
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
-      "0-31-Saichi-Maru-Annette",
       "Anita-Singh",
       "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
       "Campaign",
-      "Campaign",
-      "Campaign",
-      "Campaign",
-      "Cass-Pien-Kolb",
-      "Cass-Pien-Kolb",
       "Cass-Pien-Kolb",
       "Ciernan-Seanislav-Peter",
-      "Crew-of-TSS-Profondeur",
       "Crew-of-TSS-Profondeur",
       "Dan-Araujo-Josh",
       "Dolphin-Extremists",
       "Emma-Colbert-Laura",
-      "Emma-Colbert-Laura",
-      "Etienne-Valcourt",
-      "Etienne-Valcourt",
       "Etienne-Valcourt",
       "Judith-Dumont-Carla",
       "Oduya",
       "Sergey-Sun",
       "Session-1-Official-Business",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Sunken-Ship-Boat",
       "TSS-Profondeur",
-      "TSS-Profondeur",
-      "Timeline",
-      "Timeline",
-      "Timeline",
       "Timeline",
       "Transponder-Swap-Box",
+      "Transstar",
       "Undersea-Extremists",
       "Varian-Svazz-Allen",
-      "Victor-Mendes-Steinbach",
       "Victor-Mendes-Steinbach",
       "Zoy-Damon"
     ],
@@ -5272,95 +5593,7 @@
       "[[Transponder Swap Box]]",
       "[[Port Sainte-Jeanne Downport]]",
       "[[Miasma]]"
-    ],
-    "excerpt": "# Sunken Ship-Boat *The old lead name for [[Oduya]].* ## Overview The Sunken Ship-Boat is the same craft as [[Oduya]]. \"Sunken Ship-Boat\" was the party's earlier description before [[Session 5 - The Oduya]] identified the wreck by name. One of [[Cass Pien (Kolb)]]'s smuggling contacts reported a bro"
-  },
-  {
-    "id": "3:TSS-Profondeur",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "TSS-Profondeur",
-    "title": "TSS Profondeur",
-    "category": "vehicle",
-    "summary": "Refitted former Jardin Navy submersible used by Transstar for the Aquatic Salvage Project.",
-    "tags": [
-      "vehicle",
-      "ship",
-      "transstar",
-      "undersea",
-      "session-4",
-      "session-5"
-    ],
-    "aliases": [
-      "Profondeur",
-      "The Profondeur"
-    ],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Aquatic Salvage Project",
-      "Transstar",
-      "Étienne Valcourt",
-      "Maëlle Fournier",
-      "Rémi Beauchamp",
-      "Sabine Caron",
-      "Hadal Research Site",
-      "Undersea Base Elyon",
-      "Undersea Base Elyon",
-      "Etienne Valcourt",
-      "Sunken Ship-Boat",
-      "Alain Mercier",
-      "Oduya"
-    ],
-    "backlinks": [
-      "0-31-Saichi-Maru-Annette",
-      "0-31-Saichi-Maru-Annette",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Campaign",
-      "Campaign",
-      "Campaign",
-      "Cass-Pien-Kolb",
-      "Ciernan-Seanislav-Peter",
-      "Crew-of-TSS-Profondeur",
-      "Emma-Colbert-Laura",
-      "Emma-Colbert-Laura",
-      "Etienne-Valcourt",
-      "Etienne-Valcourt",
-      "Hadal-Research-Site",
-      "Jardinian-Naval-SOS",
-      "Maelle-Fournier",
-      "Oduya",
-      "Relay-Station-932",
-      "Remi-Beauchamp",
-      "Sabine-Caron",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Sunken-Ship-Boat",
-      "Timeline",
-      "Timeline",
-      "Timeline",
-      "Transstar",
-      "Undersea-Base-Elyon",
-      "Undersea-Suits",
-      "Varian-Svazz-Allen",
-      "Victor-Mendes-Steinbach",
-      "Zoy-Damon"
-    ],
-    "keyLinks": [
-      "[[Aquatic Salvage Project]]",
-      "[[Étienne Valcourt]]",
-      "[[Hadal Research Site]]",
-      "[[Oduya]]"
-    ],
-    "excerpt": "# TSS Profondeur ![TSS Profondeur logo](/wiki/media/TSS-Profondeur-Logo.png) ## Overview The TSS Profondeur is a Transstar salvage submersible assigned to the [[Aquatic Salvage Project]]. It was formerly a Jardin Navy vessel, damaged during prior service and later purchased or transferred to [[Trans"
+    ]
   },
   {
     "id": "3:Timeline",
@@ -5457,8 +5690,7 @@
     "keyLinks": [
       "[[Session 1 - Official Business]]",
       "[[Session 2 - Masks and Markers]]"
-    ],
-    "excerpt": "# Timeline ## 143-1105 - Official Business ### Summons to the Hall The player characters are summoned to the [[Hall des Futurs Choisis]] in Nouvelle Sainte-Jeanne for official genetic, military, financial, or AI-status review. Their military IDs allow many of them to enter armed, but the grouping is"
+    ]
   },
   {
     "id": "3:Transponder-Swap-Box",
@@ -5485,100 +5717,22 @@
     "links": [
       "0-31 Saichi Maru (Annette)",
       "Oduya",
-      "Session 5 - The Oduya"
+      "Session 5 - The Oduya",
+      "Session 6 - Ghosts in the Bloodline"
     ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Aquatic-Salvage-Project",
       "Campaign",
-      "Campaign",
       "Oduya",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
-      "Sunken-Ship-Boat",
       "Sunken-Ship-Boat",
       "Timeline"
     ],
     "keyLinks": [
       "[[Oduya]]",
       "[[Sunken Ship-Boat]]"
-    ],
-    "excerpt": "# Transponder Swap Box ## Overview The Transponder Swap Box is a metallic case recovered by [[0-31 Saichi Maru (Annette)]] from the dead captain of [[Oduya]] during [[Session 5 - The Oduya]]. The case contains multiple cylindrical transponder modules, each built from subtly different marked metals. "
-  },
-  {
-    "id": "3:Transstar",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Transstar",
-    "title": "Transstar",
-    "category": "organization",
-    "summary": "",
-    "tags": [
-      "organization"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Étienne Moreau",
-      "Claire Bouchard",
-      "Captain Victor Mendes",
-      "Nadine Pelletier",
-      "Luc Girard",
-      "Sarah Chen",
-      "Armand Rousselet",
-      "Elena Kovacs",
-      "Philippe Laurent",
-      "Amelia Torres",
-      "Session 4 - Into the Hadal Deep",
-      "TSS Profondeur",
-      "Aquatic Salvage Project",
-      "Hadal Research Site",
-      "Mercier Lookalike Survivor",
-      "Undersea Base Elyon",
-      "SolSec"
-    ],
-    "backlinks": [
-      "Amelia-Torres",
-      "Amelia-Torres",
-      "Antoine-Mercier",
-      "Antoine-Mercier",
-      "Aquatic-Salvage-Project",
-      "Armand-Rousselet",
-      "Armand-Rousselet",
-      "Campaign",
-      "Captain-Victor-Mendes",
-      "Captain-Victor-Mendes",
-      "Claire-Bouchard",
-      "Claire-Bouchard",
-      "Claire-Bouchard",
-      "Elena-Kovacs",
-      "Elena-Kovacs",
-      "Etienne-Moreau",
-      "Etienne-Moreau",
-      "Luc-Girard",
-      "Luc-Girard",
-      "Nadine-Pelletier",
-      "Nadine-Pelletier",
-      "Philippe-Laurent",
-      "Philippe-Laurent",
-      "Sarah-Chen",
-      "Sarah-Chen",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya",
-      "TSS-Profondeur",
-      "Transstar-Peacekeepers"
-    ],
-    "keyLinks": [],
-    "excerpt": "# Transstar *The Merchant Line of the Solomani Cause* **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party ![Transstar logo](/wiki/media/Transstar-Logo.png) | Field | Value | | ------------------ | ---------------------------------- | | Des"
+    ]
   },
   {
     "id": "3:Transstar-Employment-Contract",
@@ -5613,7 +5767,6 @@
     ],
     "backlinks": [
       "Claire-Bouchard",
-      "Claire-Bouchard",
       "Reena-Kessler",
       "Session-3-Transstar-Day",
       "Transstar-Peacekeepers"
@@ -5622,8 +5775,7 @@
       "[[Transstar]]",
       "[[Transstar Sector Exchange]]",
       "[[Claire Bouchard]]"
-    ],
-    "excerpt": "# Transstar Employment Contract ## Overview The Transstar employment contract is the legal shield the party accepts in [[Session 3 - Transstar Day]]. As employees, they are protected from ordinary Jardin prosecution while inside the [[Transstar Sector Exchange]] or aboard a Transstar ship. ## Terms "
+    ]
   },
   {
     "id": "3:Transstar-Peacekeepers",
@@ -5662,8 +5814,7 @@
     "keyLinks": [
       "[[Transstar]]",
       "[[Transstar Sector Exchange]]"
-    ],
-    "excerpt": "# Transstar Peacekeepers ## Overview The Transstar Peacekeepers are the corporate police force seen inside the [[Transstar Sector Exchange]] during [[Session 3 - Transstar Day]]. Their uniforms differ from Jardin police and signal that the Exchange is governed by corporate law rather than normal pla"
+    ]
   },
   {
     "id": "3:Transstar-Sector-Exchange",
@@ -5696,40 +5847,177 @@
       "Antoine-Mercier",
       "Claire-Bouchard",
       "Commissioner-Isabelle-Fournier",
-      "Commissioner-Isabelle-Fournier",
       "Dan-Araujo-Josh",
-      "Emma-Colbert-Laura",
       "Emma-Colbert-Laura",
       "Jardin",
       "Jardin-Syndicate",
       "Lucien-Voss",
-      "Lucien-Voss",
       "Lucin",
       "Mara-Kovalenko",
-      "Mara-Kovalenko",
       "Nico-Gay",
-      "Reena-Kessler",
       "Reena-Kessler",
       "Session-1-Official-Business",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
-      "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
-      "Timeline",
-      "Timeline",
-      "Timeline",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Timeline",
       "Transstar-Employment-Contract",
-      "Transstar-Peacekeepers",
       "Transstar-Peacekeepers",
       "Varian-Svazz-Allen",
       "Victor-Mendes-Steinbach",
       "Zoy-Damon"
     ],
-    "keyLinks": [],
-    "parent": "Jardin",
-    "excerpt": "# Transstar Sector Exchange *Secteur d'Échange Transstar* *\"The Market Never Sleeps.\"* **Location:** Grand Axis District, Nouvelle Sainte-Jeanne, Jardin **Type:** Special Economic Zone **Administrative Authority:** Transstar Economic Directorate **Status:** Semi-Autonomous Economic District **Popula"
+    "keyLinks": []
+  },
+  {
+    "id": "3:Transstar",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar",
+    "title": "Transstar",
+    "category": "organization",
+    "summary": "",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Étienne Moreau",
+      "Claire Bouchard",
+      "Captain Victor Mendes",
+      "Nadine Pelletier",
+      "Luc Girard",
+      "Sarah Chen",
+      "Armand Rousselet",
+      "Elena Kovacs",
+      "Philippe Laurent",
+      "Amelia Torres",
+      "Session 4 - Into the Hadal Deep",
+      "TSS Profondeur",
+      "Aquatic Salvage Project",
+      "Hadal Research Site",
+      "Mercier Lookalike Survivor",
+      "Undersea Base Elyon",
+      "SolSec",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Emma Colbert (Laura)",
+      "Alain Mercier",
+      "TSS Profondeur",
+      "0-31 Saichi Maru (Annette)",
+      "Oduya"
+    ],
+    "backlinks": [
+      "Amelia-Torres",
+      "Antoine-Mercier",
+      "Armand-Rousselet",
+      "Campaign",
+      "Captain-Victor-Mendes",
+      "Claire-Bouchard",
+      "Elena-Kovacs",
+      "Etienne-Moreau",
+      "Judith-Dumont-Carla",
+      "Luc-Girard",
+      "Nadine-Pelletier",
+      "Philippe-Laurent",
+      "Sarah-Chen",
+      "Session-4-Into-the-Hadal-Deep",
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "TSS-Profondeur",
+      "Transstar-Peacekeepers",
+      "Varian-Svazz-Allen"
+    ],
+    "keyLinks": []
+  },
+  {
+    "id": "3:TSS-Profondeur",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "TSS-Profondeur",
+    "title": "TSS Profondeur",
+    "category": "vehicle",
+    "summary": "Refitted former Jardin Navy submersible used by Transstar for the Aquatic Salvage Project.",
+    "tags": [
+      "vehicle",
+      "ship",
+      "transstar",
+      "undersea",
+      "session-4",
+      "session-5",
+      "session-6"
+    ],
+    "aliases": [
+      "Profondeur",
+      "The Profondeur"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Aquatic Salvage Project",
+      "Transstar",
+      "Étienne Valcourt",
+      "Maëlle Fournier",
+      "Rémi Beauchamp",
+      "Sabine Caron",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Undersea Base Elyon",
+      "Etienne Valcourt",
+      "Sunken Ship-Boat",
+      "Alain Mercier",
+      "Oduya",
+      "Session 6 - Ghosts in the Bloodline",
+      "Aquatic Salvage Project",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "Emma Colbert (Laura)",
+      "Etienne Valcourt"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Aquatic-Salvage-Project",
+      "Campaign",
+      "Cass-Pien-Kolb",
+      "Ciernan-Seanislav-Peter",
+      "Crew-of-TSS-Profondeur",
+      "Emma-Colbert-Laura",
+      "Etienne-Valcourt",
+      "Hadal-Research-Site",
+      "Jardinian-Naval-SOS",
+      "Maelle-Fournier",
+      "Oduya",
+      "Relay-Station-932",
+      "Remi-Beauchamp",
+      "Sabine-Caron",
+      "Session-4-Into-the-Hadal-Deep",
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Sunken-Ship-Boat",
+      "Timeline",
+      "Transstar",
+      "Undersea-Base-Elyon",
+      "Undersea-Suits",
+      "Varian-Svazz-Allen",
+      "Victor-Mendes-Steinbach",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Aquatic Salvage Project]]",
+      "[[Étienne Valcourt]]",
+      "[[Hadal Research Site]]",
+      "[[Oduya]]"
+    ]
   },
   {
     "id": "3:Undersea-Base-Elyon",
@@ -5744,7 +6032,8 @@
       "undersea",
       "transstar",
       "session-4",
-      "session-5"
+      "session-5",
+      "session-6"
     ],
     "aliases": [
       "Elyon",
@@ -5763,32 +6052,29 @@
       "Emma Colbert (Laura)",
       "Victor Mendes (Steinbach)",
       "Alain Mercier",
-      "Clone Rebirth Program"
+      "Clone Rebirth Program",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "SolSec Operative at Elyon",
+      "TSS Profondeur"
     ],
     "backlinks": [
-      "0-31-Saichi-Maru-Annette",
       "0-31-Saichi-Maru-Annette",
       "Alain-Mercier",
       "Campaign",
       "Dan-Araujo-Josh",
       "Emma-Colbert-Laura",
       "Etienne-Valcourt",
-      "Etienne-Valcourt",
       "Jardin-Navy",
       "Mercier-Lookalike-Survivor",
       "Remi-Beauchamp",
       "Sabine-Caron",
       "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
       "SolSec",
       "SolSec-Operative-at-Elyon",
       "TSS-Profondeur",
-      "TSS-Profondeur",
-      "Timeline",
       "Timeline",
       "Transstar",
       "Victor-Mendes-Steinbach"
@@ -5799,8 +6085,7 @@
       "[[Alain Mercier]]",
       "[[Clone Rebirth Program]]",
       "[[SolSec Operative at Elyon]]"
-    ],
-    "excerpt": "# Undersea Base Elyon ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Undersea Base Elyon is a Transstar-owned underwater base near [[Hadal Research Site]]. It functions like a compact undersea industrial platform, with real meals, a bar, a full-size ship airlock, an"
+    ]
   },
   {
     "id": "3:Undersea-Extremists",
@@ -5833,8 +6118,6 @@
     ],
     "backlinks": [
       "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
       "Campaign",
       "Dolphin-Extremists",
       "Hadal-Research-Site",
@@ -5846,8 +6129,7 @@
     "keyLinks": [
       "[[Aquatic Salvage Project]]",
       "[[Hadal Research Site]]"
-    ],
-    "excerpt": "# Undersea Extremists ## Overview The Undersea Extremists are the aquatic opposition Transstar blames for attacks on salvage and research operations. In Session 3 they were described loosely as [[Dolphin Extremists]], but the Session 4 briefing clarifies that the threat includes humanoids and orcas."
+    ]
   },
   {
     "id": "3:Undersea-Suits",
@@ -5883,8 +6165,7 @@
       "[[TSS Profondeur]]",
       "[[Sabine Caron]]",
       "[[Aquatic Salvage Project]]"
-    ],
-    "excerpt": "# Undersea Suits ## Overview Undersea suits are pressure-rated suits used by Transstar crews during deep salvage and underwater combat. They use familiar vac-suit procedures and skill, but they are not ordinary space suits: they are built to survive high external pressure rather than vacuum. ## Sess"
+    ]
   },
   {
     "id": "3:Varian-Svazz-Allen",
@@ -5909,6 +6190,10 @@
       "Alain Mercier",
       "Alain Mercier",
       "Oduya",
+      "Oduya",
+      "Mercier Penthouse",
+      "Victor Mendes (Steinbach)",
+      "Transstar",
       "Alain Mercier",
       "0-31 Saichi Maru (Annette)"
     ],
@@ -5916,16 +6201,17 @@
       "0-31-Saichi-Maru-Annette",
       "Campaign",
       "Mercier-Lookalike-Survivor",
+      "Oduya",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya"
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Victor-Mendes-Steinbach",
+      "Zoy-Damon"
     ],
-    "keyLinks": [],
-    "excerpt": "# Varian Svazz (Allen) ![Varian Svazz portrait](/wiki/media/Varian-Svaz.png) *Solomani Racial • Confederation Navy: Flight* **Player:** Allen **Age:** 34 **Species:** Solomani Racial **Gender:** Male **UPP:** STR 8, DEX 12, END 12, INT 11, EDU 14, SOC 7 **Hits:** 30 **Ship Shares:** 2 ## Profile Var"
+    "keyLinks": []
   },
   {
     "id": "3:Victor-Mendes-Steinbach",
@@ -5953,6 +6239,14 @@
       "Clone Rebirth Program",
       "Sunken Ship-Boat",
       "Oduya",
+      "Oduya",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dan Araujo (Josh)",
+      "Mercier Penthouse",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Varian Svazz (Allen)",
       "Elena Verona",
       "Arcosphere Rousseau",
       "SolSec"
@@ -5960,21 +6254,24 @@
     "backlinks": [
       "Arcosphere-Rousseau",
       "Campaign",
+      "Dan-Araujo-Josh",
       "Elena-Verona",
       "Emma-Colbert-Laura",
+      "Home-Guard",
       "Mercier-Lookalike-Survivor",
+      "Mercier-Penthouse",
+      "Oduya",
       "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Timeline",
-      "Undersea-Base-Elyon"
+      "Undersea-Base-Elyon",
+      "Varian-Svazz-Allen"
     ],
-    "keyLinks": [],
-    "excerpt": "# Victor Mendes (Steinbach) ![Victor Mendes portrait](/wiki/media/Victor-Mendes.png) *Solomani Mixed • Confederation Navy: Line Crew* **Player:** Steinbach **Age:** 34 **Species:** Solomani Mixed **Gender:** Male **UPP:** STR 8, DEX 9, END 9, INT 13, EDU 10, SOC 9 **Hits:** 26 **Ship Shares:** 5 ## "
+    "keyLinks": []
   },
   {
     "id": "3:Zoy-Damon",
@@ -6005,7 +6302,12 @@
       "Mercier Lookalike Survivor",
       "SolSec Operative at Elyon",
       "SolSec Operative at Elyon",
-      "Oduya"
+      "Oduya",
+      "Mercier's Locked Pad",
+      "Oduya",
+      "Varian Svazz (Allen)",
+      "Alain Mercier",
+      "Providence"
     ],
     "backlinks": [
       "Campaign",
@@ -6013,18 +6315,14 @@
       "False-News-Broadcast",
       "Mercier-Frame-Up",
       "Session-1-Official-Business",
-      "Session-1-Official-Business",
-      "Session-2-Masks-and-Markers",
-      "Session-2-Masks-and-Markers",
       "Session-2-Masks-and-Markers",
       "Session-3-Transstar-Day",
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
       "Timeline"
     ],
-    "keyLinks": [],
-    "excerpt": "# Zoy (Damon) ![Zoy portrait](/wiki/media/Zoy.png) *Uplifted Ape Chimp • Merchant: Free Trader* **Player:** Damon **Age:** 34 **Species:** Uplifted Ape Chimp **Gender:** Unknown **UPP:** STR 6, DEX 8, END 11, INT 11, EDU 10, SOC 4 **Hits:** 25 **Armour:** Cloth Trench Coat, Protection 7 **Cash:** Cr"
+    "keyLinks": []
   },
   {
     "id": "3:media:wiki/media/Alain-Mercier-Hall-of-Genetics-News.png",

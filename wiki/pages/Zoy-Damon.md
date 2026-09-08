@@ -78,6 +78,15 @@ Astrogation 2, Recon 3, Stealth 3, Survival 2, Streetwise 2, Profession (Belter)
 - Took part in the [[Oduya]] recovery and cargo inspection.
 - Helped examine and value the illegal cybernetics, becoming visibly uneasy when Ciernan handled or coveted them.
 
+## Session 6 - Ghosts in the Bloodline
+
+- Helped open [[Mercier's Locked Pad]] in the Transstar apartment, with the group gathered around the screen.
+- Contributed to understanding the pad's government AI access behavior after Dan's computer question/roll clarified the lockout rules.
+- Brought an independent salvager background angle to the question of [[Oduya]] salvage rights, though Jardin/Transstar legality required other skills.
+- Helped the group understand that stolen proof should not simply be handed to contacts without protection.
+- Assisted [[Varian Svazz (Allen)]] during Victor's improvised surgery, helping turn dining-room-table surgery from a dangerous improvisation into a successful recovery.
+- Remained part of the plan to keep Transstar cover while protecting [[Alain Mercier]] and preparing the [[Providence]] lead.
+
 - Contact: underworld connections
 - Contact: underworld connections
 - Contact: Imperial Starport Authority

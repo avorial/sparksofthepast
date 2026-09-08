@@ -81,6 +81,13 @@ Gun Combat (Slug) 3, Heavy Weapons (Manportable) 2, Vacc Suit 2, Athletics (Endu
 - Showed intense interest in the illegal cybernetic weapons and implants recovered from Oduya's cargo.
 - Considered keeping at least one cybernetic implant, while Emma raised the question of genetic-purity consequences.
 
+## Session 6 - Ghosts in the Bloodline
+
+- Was not present for the main Session 6 penthouse raid.
+- Remains tied to [[Oduya]] and the recovered cybernetics thread from Session 5.
+- The discussion of cybernetic implants continues to matter because identity systems and genetic/medical registration can expose wanted or altered people.
+- Remains one of the party's likely heavy-security options if the group must guard [[Alain Mercier]] or fly toward [[Providence]].
+
 - Rival: Betrayer
 - Enemy: Pressik Voss, space pirate and reptilian rascal who seeks destruction for destruction's sake
 - Enemy: Pirates/Corsairs

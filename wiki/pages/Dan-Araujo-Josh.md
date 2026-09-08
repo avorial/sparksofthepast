@@ -78,6 +78,18 @@ Engineer (J-drive) 3, Mechanic 2, Investigate 2, Vacc Suit 2, Astrogation 1, Dip
 - Helped get Oduya moving despite limited fuel, damaged systems, and no reliable life support yet.
 - Contributed to cargo recovery and the practical plan to turn illegal cybernetics into ship repairs.
 
+## Session 6 - Ghosts in the Bloodline
+
+- Asked technical questions about how [[Mercier's Locked Pad]] access worked and whether one user would lock others out.
+- Made an unexpectedly strong computer roll, revealing that the pad links to a government AI account and can be used by anyone with the correct code until Mercier's clone is registered off-planet.
+- Joined the [[Mercier Penthouse]] team because his Investigate skill could matter if no other strong investigator went.
+- Entered the penthouse with Saichi, Cass, and Victor and was caught in the Home Guard ambush.
+- Used immediate first aid on [[Victor Mendes (Steinbach)]] after the shotgun blast, stopping him from bleeding out and bringing him back to consciousness.
+- Tried to fight with a shotgun/slug attack; the shot missed but forced an attacker to duck.
+- Helped patch [[Cass Pien (Kolb)]] after the fight.
+- Used robotics/mechanics on [[0-31 Saichi Maru (Annette)]], stopping leaks but leaving rough improvised fixes.
+- Helped arrange more complete Transstar repair for Saichi afterward.
+
 - Rival: Racial Incident
 
 ## Equipment & Benefits

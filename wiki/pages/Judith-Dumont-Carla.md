@@ -60,6 +60,12 @@ Gun Combat 4, Astrogation 2, Gun Combat (Energy) 2, Electronics 1, Electronics (
 - No distinct individual spotlight is captured in the Game 5 transcript.
 - Remains connected to the party's Transstar cover, the restored [[Alain Mercier]] problem, and the recovery of [[Oduya]] as the group's route toward orbit.
 
+## Session 6 - Ghosts in the Bloodline
+
+- No distinct Judith spotlight is captured in the Session 6 transcript.
+- Remains part of the armed crew under [[Transstar]] cover while the party opens [[Mercier's Locked Pad]], recovers [[Mercier Evidence Cache]], and prepares to protect restored [[Alain Mercier]].
+- Stays connected to the group's escape and off-world options through the earlier [[Keith Morris]] contact thread.
+
 - Contacted [[Keith Morris]] about reaching [[Miasma]] or otherwise getting off Jardin.
 - Learned that identities/passports are the immediate barrier to direct off-world travel.
 

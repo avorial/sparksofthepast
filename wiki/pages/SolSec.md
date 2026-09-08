@@ -48,3 +48,9 @@ Emma believes her own SolSec connection may have been useful to the conspirators
 At [[Undersea Base Elyon]], Saichi observes a [[SolSec Operative at Elyon]] scanning the [[Mercier Lookalike Survivor]]. [[Emma Colbert (Laura)]] recognizes the method as a way to compare hand structure, bone-growth patterns, and genetic identity when someone may be altered, cloned, or otherwise duplicated.
 
 When Zoy and Ciernan attempt to speak with the operative, he draws on Zoy, identifies the party as enemies of the state, and warns them not to interfere with SolSec activity.
+
+## Session 6 - Camille Dufour
+
+During [[Session 6 - Ghosts in the Bloodline]], [[Emma Colbert (Laura)]] uses [[Mark Duncan]] to identify the passenger on [[Alain Mercier]]'s Providence ticket. The passenger is [[Camille Dufour]], an encrypted-identity SolSec agent.
+
+Camille appears to have been working with or for Mercier, secretly traveling to [[Providence]] to confront a Social Solidarity executive while Mercier prepared to present his Senate evidence. This suggests SolSec may contain potential allies against the [[Psychic Clone Conspiracy]], but the earlier Elyon confrontation shows those channels are dangerous and possibly divided.

@@ -9,7 +9,11 @@ visibility: gm
 approvalStatus: approved
 knownToPlayers: false
 keyLinks:
+  - "[[Session 6 - Ghosts in the Bloodline]]"
   - "[[Session 5 - The Oduya]]"
+  - "[[Psychic Clone Conspiracy]]"
+  - "[[Mercier Evidence Cache]]"
+  - "[[Providence]]"
   - "[[Session 4 - Into the Hadal Deep]]"
   - "[[Oduya]]"
   - "[[Clone Rebirth Program]]"
@@ -40,9 +44,11 @@ The year is **1105 Imperial**, on the Solomani world of **Jardin**. The Travelle
 
 The crew is hiding under [[Transstar]] employment after the [[Mercier Frame-Up]]. Their current cover is the [[Aquatic Salvage Project]], an undersea assignment aboard the [[TSS Profondeur]].
 
-During [[Session 5 - The Oduya]], the Hadal survivor identified himself as [[Alain Mercier]] restored through the [[Clone Rebirth Program]]. He cannot legally return to Jardin's surface, but he will provide access codes to his house and computer if the party can keep him safe and move him off-world.
+During [[Session 5 - The Oduya]], the Hadal survivor identified himself as [[Alain Mercier]] restored through the [[Clone Rebirth Program]]. He cannot legally return to Jardin's surface, but he provided access codes to his house and computer after the party agreed to keep him safe and move him off-world.
 
-The party raised the old [[Sunken Ship-Boat]], now identified as [[Oduya]], and recovered a [[Transponder Swap Box]] that may let the ship-boat operate under multiple identities. The same day, the [[Prime Minister Bombing]] suggested that Hadal's destruction may have removed clone backups before another high-ranking assassination.
+During [[Session 6 - Ghosts in the Bloodline]], the party opened [[Mercier's Locked Pad]], confirmed the [[Psychic Clone Conspiracy]], and recovered [[Mercier Evidence Cache]] from [[Mercier Penthouse]]. The evidence points toward a hidden Social Solidarity-linked faction that can create psykers through cloning and use them to alter elite bloodlines over years.
+
+The party raised the old [[Sunken Ship-Boat]], now identified as [[Oduya]] and used operationally as Volante, and recovered a [[Transponder Swap Box]] that may let the ship-boat operate under multiple identities. Oduya is being repaired into orbit-worthy but unpleasant condition while the party prepares to keep Mercier hidden aboard the [[TSS Profondeur]] and follow [[Camille Dufour]]'s trail to [[Providence]].
 
 ---
 
@@ -85,6 +91,12 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Jardinian Naval SOS]]
 * [[Alain Mercier]]
 * [[Clone Rebirth Program]]
+* [[Mercier's Locked Pad]]
+* [[Mercier Evidence Cache]]
+* [[Mercier Penthouse]]
+* [[Psychic Clone Conspiracy]]
+* [[Providence]]
+* [[Camille Dufour]]
 * [[Oduya]] - formerly tracked as the [[Sunken Ship-Boat]] lead.
 * [[Transponder Swap Box]]
 * [[Prime Minister Bombing]]
@@ -100,6 +112,7 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Session 3 - Transstar Day]]
 * [[Session 4 - Into the Hadal Deep]]
 * [[Session 5 - The Oduya]]
+* [[Session 6 - Ghosts in the Bloodline]]
 
 ---
 
@@ -124,6 +137,7 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Commissioner Elise Martin]] - Directorate of Citizen Integrity at Customs & Immigration Checkpoint Harmony.
 * [[Commissioner Isabelle Fournier]] - Chief Commissioner, Exchange Security Bureau at Transstar Sector Exchange.
 * [[Crew of TSS Profondeur]]
+* [[Camille Dufour]] - Encrypted-identity SolSec agent sent by Mercier to Providence before the assassination.
 * [[Director Elise Fournier]] - Administrator of District 14 at Crèche District 14.
 * [[Director Luc Beaumont]] - Port Authority Director at Port Sainte-Jeanne Downport.
 * [[Director Simone Laurent]] - Chief Administrator, Checkpoint Harmony at Customs & Immigration Checkpoint Harmony.
@@ -151,6 +165,7 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Lucien Roche]] - Information Broker at Quartier Sainte-Liberté.
 * [[Lucien Voss]] - Senior Freight Broker at Transstar Sector Exchange.
 * [[Lucin]] - Armored Sainte-Liberte data broker who gave the group a trike in exchange for a daylight delivery.
+* [[Mark Duncan]] - Emma's compartmentalized travel-clearance contact who identified Camille Dufour.
 * [[Maëlle Fournier]] - Engineer and damage-control specialist aboard the TSS Profondeur.
 * [[Mara Kovalenko]] - Director of Foreign Trade Relations at Transstar Sector Exchange.
 * [[Marcel Delphine]]
@@ -165,6 +180,7 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 * [[Professor Lucien Morel]] - Chief Ecological Systems Analyst at Les Jardins Fermés.
 * [[Reena Kessler]] - Transstar gate employee who issued work-seeker stamps at the Sector Exchange.
 * [[Rémi Beauchamp]] - Sonar, sensors, electronics, and communications specialist aboard the TSS Profondeur.
+* [[Roman Juma]] - Cass Pien's crusading journalist ally and planned dead-man-switch disclosure channel.
 * [[Sabine Caron]] - Security and diving-operations lead aboard the TSS Profondeur.
 * [[Sarah Chen]] - Route Intelligence Analyst at Transstar.
 * [[Sister Celeste Moreau]] - Community Organizer at Arcosphere Rousseau.
