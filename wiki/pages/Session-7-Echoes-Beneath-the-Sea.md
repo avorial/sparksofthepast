@@ -24,7 +24,7 @@ aliases:
   - Game 7
   - Chapter 1 Game 7
   - Echoes Beneath the Sea
-lastEditedBy: GM review via MCP
+lastEditedBy: patricthomas
 ---
 
 # Session 7 - Echoes Beneath the Sea
