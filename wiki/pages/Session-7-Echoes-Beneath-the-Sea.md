@@ -2,14 +2,29 @@
 category: game
 type: game
 name: Session 7 - Echoes Beneath the Sea
-summary: Sent into the Crushed Trench to prove their value to Transstar, the crew discovers a hidden clone community, learns the cost of rebirth, and stages a demolition to protect its inhabitants.
-tags: [game, session-7, clones, transstar, crushed-trench]
+summary: Sent into the Crushed Trench to prove their value to Transstar, the
+  crew discovers a hidden clone community, learns the cost of rebirth, and
+  stages a demolition to protect its inhabitants.
+tags:
+  - game
+  - session-7
+  - clones
+  - transstar
+  - crushed-trench
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
-aliases: [Game 7, Chapter 1 Game 7, Echoes Beneath the Sea]
-keyLinks: ["[[Crushed Trench]]", "[[Hidden Clone Community]]", "[[Francis Adams]]", "[[Clone Rebirth Program]]", "[[TSS Profondeur]]"]
-lastEditedBy: Codex
+keyLinks:
+  - "[[Crushed Trench]]"
+  - "[[Hidden Clone Community]]"
+  - "[[Francis Adams]]"
+  - "[[Clone Rebirth Program]]"
+  - "[[TSS Profondeur]]"
+aliases:
+  - Game 7
+  - Chapter 1 Game 7
+  - Echoes Beneath the Sea
+lastEditedBy: AI via MCP
 ---
 
 # Session 7 - Echoes Beneath the Sea
