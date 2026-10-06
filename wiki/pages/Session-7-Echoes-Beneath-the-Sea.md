@@ -12,7 +12,7 @@ tags:
   - transstar
   - crushed-trench
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[Crushed Trench]]"
@@ -24,7 +24,7 @@ aliases:
   - Game 7
   - Chapter 1 Game 7
   - Echoes Beneath the Sea
-lastEditedBy: AI via MCP
+lastEditedBy: GM review via MCP
 ---
 
 # Session 7 - Echoes Beneath the Sea
