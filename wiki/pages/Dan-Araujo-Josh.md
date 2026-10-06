@@ -15,6 +15,16 @@ lastEditedBy: patricthomas via GM review
 
 # Dan Araujo (Josh)
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+- Piloted the [[Deep-Trench Minisub]] with Cass's leadership assistance; scraped a wall and raised sediment, then successfully evaded a patrol instead of ramming it.
+- Operated the scouting drone in the middle cave and identified an air pocket and clean, trafficked walls.
+- Contributed a successful science check identifying treated rock around the airlock.
+- Explored the [[Hidden Clone Community]] and debated the crew's loyalty, purpose, and response to the residents.
+- No completed major hull repair or deliberate collision with a patrol is recorded.
+
 ![Dan Araujo portrait](/wiki/media/Dan-Araujo.png)
 
 *Solomani Racial • Confederation Navy: Technical*

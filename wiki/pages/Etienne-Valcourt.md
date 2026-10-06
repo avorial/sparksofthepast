@@ -17,6 +17,7 @@ keyLinks:
   - "[[TSS Profondeur]]"
   - "[[Aquatic Salvage Project]]"
 aliases:
+  - Etienne Valcourt
   - Captain Valcourt
   - Valcourt
 lastEditedBy: patricthomas
@@ -26,6 +27,12 @@ parent: Crew-of-TSS-Profondeur
 ---
 
 # Étienne Valcourt
+
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+Privately confronted the crew in Profondeur's mess about their rescued political clone, salvaged ship, and Home Guard fight. He sought a way to preserve their corporate cover by proving their value, assigning a [[Deep-Trench Minisub]] expedition to the [[Crushed Trench]]. The normal crew stayed aboard Profondeur as support. The returning party's cover story was accepted; no disclosure of the [[Hidden Clone Community]] is recorded.
 
 ![Étienne Valcourt portrait](/wiki/media/Etienne-Valcourt.png)
 

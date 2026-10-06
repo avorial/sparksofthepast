@@ -30,6 +30,14 @@ lastEditedBy: Codex
 
 # Sparks From the Past
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+The latest game is [[Session 7 - Echoes Beneath the Sea]]. Sent into the [[Crushed Trench]] to prove their corporate value, the crew discovered the [[Hidden Clone Community]], met [[Francis Adams]], and learned that reliable cloning depends on a dwindling resource from [[Krypton]]. They spared the city, bombed another cave, and returned to [[TSS Profondeur]] with an accepted cover story. The [[Deep-Trench Minisub]] was borrowed for this mission. Their next weekend and the [[Providence]] lead remain ahead.
+
+These discoveries distinguish civilian clones from two armed factions; Transstar does not know the city exists. See Game 7 for detailed scenes, character actions, genetic findings, and unresolved navigation-log concealment.
+
 Welcome to the campaign hub for **Sparks From the Past**. This wiki contains the campaign setting, session notes, player characters, NPCs, locations, handouts, and world lore. If it has happened in the game, it belongs here.
 
 ---

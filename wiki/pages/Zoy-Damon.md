@@ -15,6 +15,16 @@ lastEditedBy: patricthomas via GM review
 
 # Zoy (Damon)
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+- Scouted ahead stealthily after the minisub reached the air pocket and alerted the group to the mechanical airlock.
+- Located oxygen refilling equipment, emergency cylinders, coveralls, and a repair bay.
+- Used Streetwise to find spare work clothes for the group.
+- Explored the [[Hidden Clone Community]], where no uplifted apes were observed, and participated in its research.
+- The scout attribution follows Damon's named Streetwise action and the surrounding speaker context.
+
 ![Zoy portrait](/wiki/media/Zoy.png)
 
 *Uplifted Ape Chimp • Merchant: Free Trader*

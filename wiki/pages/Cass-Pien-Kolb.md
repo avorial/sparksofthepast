@@ -15,6 +15,16 @@ lastEditedBy: patricthomas
 
 # Cass Pien (Kolb)
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+- Encouraged Dan's initial piloting with leadership boons.
+- Recognized the airlock pressure hazard through Belter experience and coached the entire group through controlled suit venting and breathing.
+- Disguised his Transstar uniform successfully.
+- Spotted a younger counterpart of [[Judith Dumont (Carla)]] and informed the party without initially asserting a clone explanation.
+- Joined the [[Hidden Clone Community]] investigation and the decision to preserve the city.
+
 ![Cass Pien portrait](/wiki/media/Cass-Pien.png)
 
 *Solomani Racial • Confederation Navy: Flight*

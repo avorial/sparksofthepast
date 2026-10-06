@@ -25,6 +25,12 @@ eventDate: ""
 
 # Undersea Extremists
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+Game 7 distinguishes two armed factions: attackers seeking to damage [[Transstar]], and a group extracting valuable memories from rescued clones. The [[Hidden Clone Community]] is a separate civilian settlement whose residents pay rescuers without necessarily knowing their wider agenda. A patrol includes two dolphins and three humanoids on jet-powered skiffs. Returning attackers use H2O-atomizing devices for rapid descent. No faction leader or secure faction name is established.
+
 ## Overview
 
 The Undersea Extremists are the aquatic opposition Transstar blames for attacks on salvage and research operations. In Session 3 they were described loosely as [[Dolphin Extremists]], but the Session 4 briefing clarifies that the threat includes humanoids and orcas.

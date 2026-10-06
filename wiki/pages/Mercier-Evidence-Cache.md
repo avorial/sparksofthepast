@@ -2,7 +2,7 @@
 category: item
 type: item
 name: Mercier Evidence Cache
-summary: Physical proof hidden in Mercier's penthouse: genetic samples, research notes, suspect photos, communicator, weapon, and credits.
+summary: "Physical proof hidden in Mercier's penthouse: genetic samples, research notes, suspect photos, communicator, weapon, and credits."
 tags:
   - item
   - clue

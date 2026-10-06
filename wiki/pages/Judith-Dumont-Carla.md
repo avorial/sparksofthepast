@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Judith Dumont (Carla)
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+A younger, dark-haired clone counterpart was encountered in the [[Hidden Clone Community]], speaking with [[Francis Adams]]. She did not recognize Emma. This counterpart is separate from Judith's player character; the original Judith is not confirmed to have joined the expedition. Carla offered a table-level suggestion to target the largest separate cave during demolition while occupied with other work.
+
 ![Judith Dumont portrait](/wiki/media/Judith-Dumont.png)
 
 *Solomani Racial • Bounty Hunter: Hunter*

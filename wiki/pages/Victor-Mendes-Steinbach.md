@@ -15,6 +15,16 @@ lastEditedBy: patricthomas via GM review
 
 # Victor Mendes (Steinbach)
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+- Returned to work after surgery, still bandaged and uncomfortable; recovery did not make the preceding shotgun wound disappear from the story.
+- Operated minisub sensors, locating moving targets, identifying two dolphins and three skiff riders, and surveying the three caves.
+- Disguised his work uniform and helped research the [[Hidden Clone Community]].
+- Learned that Transstar did not know the civilian clone population existed.
+- Salvaged Emma's poor return deception by framing her account as an executive taking responsibility for her team. Profondeur accepted the explanation.
+
 ![Victor Mendes portrait](/wiki/media/Victor-Mendes.png)
 
 *Solomani Mixed • Confederation Navy: Line Crew*

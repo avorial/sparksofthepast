@@ -16,6 +16,12 @@ cover: wiki/media/Transstar-Logo.png
 
 # Transstar
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+Transstar knows enough of the party's weekend activity to demand a demonstration of value. [[Etienne Valcourt]] assigns investigation of the [[Crushed Trench]] to protect undersea laboratory and transport revenue. Research establishes that the corporation does not know the [[Hidden Clone Community]] exists; it assumes stolen clones could not survive transport and depth. The crew protects that secret, bombs a different cave, and returns with an accepted story. The civilians and two armed factions must not be treated as one organization.
+
 *The Merchant Line of the Solomani Cause*
 
 **Designation:** Transstar | **Type:** Corporation | **TL:** 14 | **Status:** Active | **Owner:** Solomani Party

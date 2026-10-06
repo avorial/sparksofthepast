@@ -23,6 +23,16 @@ lastEditedBy: Codex
 
 # Clone Rebirth Program
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+The crew discovers discarded and rescued backups living in the [[Hidden Clone Community]]. [[Francis Adams]] says reliable cloning uses an exhaustible resource found on a moon of [[Krypton]]; reduced-resource experiments produce tics, seizures, and other impairments. Around eight or nine major Solomani worlds reportedly have facilities.
+
+Library research finds a maximum lifespan of about twenty-five years after clone creation, and low-activity sleep without ordinary active dreaming. Ordinary genetic matching does not readily distinguish a clone; accelerated cellular aging and metabolism can reveal subtle differences. This refines earlier claims about identification rather than demonstrating that a routine scan alone proves clone status.
+
+Surplus backups may be destroyed and replaced as memories are refreshed, discussed as a seven-month cycle. Some rescued backups have originals still alive. Residents are not systematically testing their genetic purity. The party's theory linking reduced cloning material to [[Psychic Clone Conspiracy]] remains unconfirmed.
+
 ## Overview
 
 The Clone Rebirth Program is an elite Jardinian continuity system used by people with Platinum 2-level security or comparable political, naval, corporate, or government rank. [[Alain Mercier]] describes it during [[Session 5 - The Oduya]] after waking in the body recovered from [[Hadal Research Site]].

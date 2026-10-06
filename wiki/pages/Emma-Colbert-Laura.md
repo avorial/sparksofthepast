@@ -15,6 +15,18 @@ lastEditedBy: patricthomas
 
 # Emma Colbert (Laura)
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+- Maintained communications with [[TSS Profondeur]], reported patrol contact and hull concerns, and established a cave-edge repeater.
+- Investigated repurposed medical computers and decades of community records; disguised her uniform.
+- Approached [[Francis Adams]] alone and let him assume she was a rescued clone, learning about discarded backups, criminal support, and [[Krypton]]'s depleted cloning resource.
+- Downloaded a genetic listing to her brain computer; its comparison with Mercier's evidence is future work.
+- Proposed hiding or changing minisub navigation logs; successful completion is not recorded.
+- Used Explosives 0 to bomb a separate large cave entrance, preserving the [[Hidden Clone Community]].
+- Attempted the return cover story; Victor's intervention made the overall report believable.
+
 ![Emma Colbert portrait](/wiki/media/Emma-Colbert.jpg)
 
 *Solomani Racial • SolSec: Secret Agent*

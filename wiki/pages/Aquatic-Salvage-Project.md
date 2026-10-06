@@ -2,7 +2,7 @@
 category: event
 type: event
 name: Aquatic Salvage Project
-summary: First Transstar assignment: undersea salvage aboard the TSS Profondeur, beginning with Hadal Research Site.
+summary: "First Transstar assignment: undersea salvage aboard the TSS Profondeur, beginning with Hadal Research Site."
 tags:
   - event
   - transstar

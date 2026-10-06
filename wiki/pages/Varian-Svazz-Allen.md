@@ -15,6 +15,16 @@ lastEditedBy: patricthomas via GM review
 
 # Varian Svazz (Allen)
 
+## Session 7 - Echoes Beneath the Sea
+
+[[Session 7 - Echoes Beneath the Sea]]
+
+- Took over piloting after the initial descent and drone survey.
+- Maneuvered the [[Deep-Trench Minisub]] into the cave and held it with a manipulator arm for disembarkation.
+- Suffered two Endurance damage during pressure equalization, with nose and eye bleeding; his suit remained intact.
+- The GM expected rest to heal the blood-vessel injury, but completed recovery is not recorded.
+- Explored with the group and successfully piloted the escape after the separate-cave demolition.
+
 ![Varian Svazz portrait](/wiki/media/Varian-Svaz.png)
 
 *Solomani Racial • Confederation Navy: Flight*
