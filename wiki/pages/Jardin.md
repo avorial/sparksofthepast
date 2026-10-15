@@ -10,12 +10,12 @@ tags:
   - location
   - world
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks:
   - https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1
 aliases: []
-lastEditedBy: GM review via MCP
+lastEditedBy: AI via MCP
 uwp: "A5679BC-D "
 allegiance: ""
 tradeCodes: []
@@ -232,7 +232,7 @@ Jardin System
 
 17 destinations
 
-[Celestial Planet Parade Across a Distant Solar System Sky - backiee](https://images.openai.com/static-rsc-4/W_Il5HvkvKSKm1HpkZ4Wc6CAfzKfN3aWGNlGKq0927LB97ox2Cve6Pli4jDjsoOoTMnxJFDHdhmAK-cSxtBFNSzyw7FgRXZQCsf3LsfDcxSQARLNCE3bb07plnD-nuNTQZIkDpJh5mzeHumQoQJdY1sjwQOrI2YJP9TfPzSmDIc?purpose=inline)
+![Celestial Planet Parade Across a Distant Solar System Sky - backiee](https://images.openai.com/static-rsc-4/W_Il5HvkvKSKm1HpkZ4Wc6CAfzKfN3aWGNlGKq0927LB97ox2Cve6Pli4jDjsoOoTMnxJFDHdhmAK-cSxtBFNSzyw7FgRXZQCsf3LsfDcxSQARLNCE3bb07plnD-nuNTQZIkDpJh5mzeHumQoQJdY1sjwQOrI2YJP9TfPzSmDIc?purpose=inline)
 
 [backiee.com](https://backiee.com/wallpaper/celestial-planet-parade-across-a-distant-solar-system-sky/346917)
 
@@ -240,7 +240,7 @@ The locations below follow your system diagram, moving outward from the star.
 
 ## Inner system
 
-[Infrared Venusian Cloud Patterns Puzzle - False-Color | PuzzleFree – PuzzleFree](https://images.openai.com/static-rsc-4/ui9q0kPmiFzh_qwttkFuI5_COR_KQJlk9OPqNfahlaVA6YLnlg62jDuSQHnbK2pxHIm7bUb72QALz3oeYRWMjozXzQgwEq2iLQCIlPFvR6YpfXlPYEbBczj2BiuLbDa9UkUAf476eCOc75WXyNIqiTnapmbNx97jG-usDdwQOwc?purpose=inline)
+![Infrared Venusian Cloud Patterns Puzzle - False-Color | PuzzleFree – PuzzleFree](https://images.openai.com/static-rsc-4/ui9q0kPmiFzh_qwttkFuI5_COR_KQJlk9OPqNfahlaVA6YLnlg62jDuSQHnbK2pxHIm7bUb72QALz3oeYRWMjozXzQgwEq2iLQCIlPFvR6YpfXlPYEbBczj2BiuLbDa9UkUAf476eCOc75WXyNIqiTnapmbNx97jG-usDdwQOwc?purpose=inline)
 
 ## 1. Saint Concord
 
@@ -254,7 +254,7 @@ Inside, the Travellers find a small group of workers whose families believe them
 
 Complication: The station is failing, and rescuing the workers means exposing them to the company that claims ownership of their contracts.
 
-[Molten Veins Puzzle: Rocky Exoplanet with Magma Rivers | PuzzleFree.Game – PuzzleFree](https://images.openai.com/static-rsc-4/ZCZjK8r4HfPohrVIfVW4vNA6rUm_TdV1SMWtqZrbxSKYA_mRnDzXGMrNsCnRelF1RxHx8bAmNqoHznslPZybcBD1kfdVO8-QocMen_3h9HOr0MNite5ahXTtnGWfeODy_ev52TCqLatLSZIyYmt0rkWVda4NtA3rlwKqYqy7hWI?purpose=inline)
+![Molten Veins Puzzle: Rocky Exoplanet with Magma Rivers | PuzzleFree.Game – PuzzleFree](https://images.openai.com/static-rsc-4/ZCZjK8r4HfPohrVIfVW4vNA6rUm_TdV1SMWtqZrbxSKYA_mRnDzXGMrNsCnRelF1RxHx8bAmNqoHznslPZybcBD1kfdVO8-QocMen_3h9HOr0MNite5ahXTtnGWfeODy_ev52TCqLatLSZIyYmt0rkWVda4NtA3rlwKqYqy7hWI?purpose=inline)
 
 ## 2. North Meridian
 
@@ -270,7 +270,7 @@ Complication: Transstar's restrictions might actually be justified. A major extr
 
 Possible reward: Cr25,000 plus discounted industrial parts.
 
-[Exoplanet](https://images.openai.com/static-rsc-4/Pq8NM_bJr_p6bu-uGuwQxOO41udTz2nvjWMRR3RrpCvCJdLKrKREyKm2JCUwOhjz6f26_6SNoBOIQ9f5mtIj5aJiNDyKgS5UERGrItooWKtuJ5UrJA2c4pv-xlXnqXdQL7-ITohDh-mDoaVKnIWFJIPcHa45f2k6S8_VJ1TA2YUDP3ZK9XtCh5DGqaTs7__A?purpose=inline)
+![Exoplanet](https://images.openai.com/static-rsc-4/Pq8NM_bJr_p6bu-uGuwQxOO41udTz2nvjWMRR3RrpCvCJdLKrKREyKm2JCUwOhjz6f26_6SNoBOIQ9f5mtIj5aJiNDyKgS5UERGrItooWKtuJ5UrJA2c4pv-xlXnqXdQL7-ITohDh-mDoaVKnIWFJIPcHa45f2k6S8_VJ1TA2YUDP3ZK9XtCh5DGqaTs7__A?purpose=inline)
 
 ## 3. Verford
 
@@ -288,7 +288,7 @@ Complication: A very old industrial computer has continued fulfilling a producti
 
 ## The inhabited core
 
-[AI Generated Exoplanet Photos and Artwork | Deep Dream Generator](https://images.openai.com/static-rsc-4/GA_8_VQnGWklCYUm3F3l3AEbeR3DeoMETEoAfORw0eAu0PuEKJZNUjjBD_s_dpVj2mekHqw2U8u4FLK-LIq-xDgLtGk2aX-kCuxeIL0fUdeDNny6ayf-PpstSimarOcWb9oqsy1lmWgG47UuiMX2cGP6iq4UtFEKkCJB9rlBPx4?purpose=inline)
+![AI Generated Exoplanet Photos and Artwork | Deep Dream Generator](https://images.openai.com/static-rsc-4/GA_8_VQnGWklCYUm3F3l3AEbeR3DeoMETEoAfORw0eAu0PuEKJZNUjjBD_s_dpVj2mekHqw2U8u4FLK-LIq-xDgLtGk2aX-kCuxeIL0fUdeDNny6ayf-PpstSimarOcWb9oqsy1lmWgG47UuiMX2cGP6iq4UtFEKkCJB9rlBPx4?purpose=inline)
 
 ## 4. Providence
 
@@ -304,7 +304,7 @@ Complication: The family knows more about those alterations than they admit. The
 
 Main-plot connection: This can be a smaller investigation that runs alongside tonight's meeting with the SolSec director.
 
-[Ecumenópolis, la futura fusión de todas las grandes ciudades del mundo en una sola](https://images.openai.com/static-rsc-4/vga9K1Rv0QgB_Spi9FULhWXl2neyS5wotZzKG6jHkdQI7NPDcbGJt5ZJS6kHVyZKsQHkkKQ8LBoKoDlMThtc5UftVB1_LZ5ITzX277YFHtKzOaM9nQgmACHlyuvalsMA94l04K87igiVjAeyEkKlSy0BrgDocGtrN6qnvXMpDHE?purpose=inline)
+![Ecumenópolis, la futura fusión de todas las grandes ciudades del mundo en una sola](https://images.openai.com/static-rsc-4/vga9K1Rv0QgB_Spi9FULhWXl2neyS5wotZzKG6jHkdQI7NPDcbGJt5ZJS6kHVyZKsQHkkKQ8LBoKoDlMThtc5UftVB1_LZ5ITzX277YFHtKzOaM9nQgmACHlyuvalsMA94l04K87igiVjAeyEkKlSy0BrgDocGtrN6qnvXMpDHE?purpose=inline)
 
 ## 5. Jardin
 
@@ -320,7 +320,7 @@ Complication: The beneficiaries include families of legitimately deceased disast
 
 This is a local corruption story, not another clone investigation.
 
-[Overture to Exoplanets: What Can We Expect From the James Webb Space Telescope? – The Wire Science](https://images.openai.com/static-rsc-4/br2fmllimuAS3AoXJP7YnSqbGOuf3e_4hbhJuCb3VzWP8Z7wj9mjam5wWJLR99HrmFEgW_Ga6CkmRwwmgmlAizvU34GPSfNObX2A_v3yODycbdGNkxzsQw0u5yIY1QkQAPlz7chjFwYyDre3DA87pATUlpt5egc38ClLGERzDu4?purpose=inline)
+![Overture to Exoplanets: What Can We Expect From the James Webb Space Telescope? – The Wire Science](https://images.openai.com/static-rsc-4/br2fmllimuAS3AoXJP7YnSqbGOuf3e_4hbhJuCb3VzWP8Z7wj9mjam5wWJLR99HrmFEgW_Ga6CkmRwwmgmlAizvU34GPSfNObX2A_v3yODycbdGNkxzsQw0u5yIY1QkQAPlz7chjFwYyDre3DA87pATUlpt5egc38ClLGERzDu4?purpose=inline)
 
 ## 6. Casron
 
@@ -338,13 +338,13 @@ A good opportunity to explore how organised labour and the Solomani Party coexis
 
 ## Terra Nova and its moons
 
-[Planet Name Generator — 12 Types, Meanings & Exoplanets](https://images.openai.com/static-rsc-4/7d66YwEryph7hA_VzWxRIkOuccTM5brNOHtqkZ7tmu4kbHguU4s3m2ym2k5_qC6sqnGPGov-ggUmSDMpAoEww_Uw70n5yJGN22oF85Bxes3aovaooiFmnBq7cM6TVgPMGo_zArPQjv8nZUsnEvylsT_pwPuid4Qo4jhOLHhvJS8?purpose=inline)
+![Planet Name Generator — 12 Types, Meanings & Exoplanets](https://images.openai.com/static-rsc-4/7d66YwEryph7hA_VzWxRIkOuccTM5brNOHtqkZ7tmu4kbHguU4s3m2ym2k5_qC6sqnGPGov-ggUmSDMpAoEww_Uw70n5yJGN22oF85Bxes3aovaooiFmnBq7cM6TVgPMGo_zArPQjv8nZUsnEvylsT_pwPuid4Qo4jhOLHhvJS8?purpose=inline)
 
 [namegeneratorcloud.com](https://namegeneratorcloud.com/planet-name-generator/)
 
 Terra Nova is a major gas giant. I would make its moons a loosely connected network of commercial stations, marginal colonies, and isolated settlements. These can support several small adventures without requiring a larger campaign arc.
 
-[Futuristic Colony - Finished Projects - Blender Artists Community](https://images.openai.com/static-rsc-4/dIItKWasA_4XoXIILz-odAFVpH_Qqlq5ky2_0wbgyvr-OtZlQExb6h_le3B80rByopXS048rWNvIs_w4GSNRc7XoryW2XRu2J3bfoUijssdLNvxuqhio3BYeofvg-DB2xz7R1zsUzZsitROlwCWdfZBVAhjMV6yuSO5vl1R2tJE?purpose=inline)
+![Futuristic Colony - Finished Projects - Blender Artists Community](https://images.openai.com/static-rsc-4/dIItKWasA_4XoXIILz-odAFVpH_Qqlq5ky2_0wbgyvr-OtZlQExb6h_le3B80rByopXS048rWNvIs_w4GSNRc7XoryW2XRu2J3bfoUijssdLNvxuqhio3BYeofvg-DB2xz7R1zsUzZsitROlwCWdfZBVAhjMV6yuSO5vl1R2tJE?purpose=inline)
 
 7\. Delphi
 
@@ -358,7 +358,7 @@ The real purpose was to clear orbital traffic for an unregistered ship docking a
 
 Who was aboard, and why did someone need an entire shipping corridor emptied?
 
-[Alien Solar system planet on black background 3d rendering.](https://images.openai.com/static-rsc-4/j3MUPpSfjdfIYwZa00pXnxOBjzp7of4wIiNIIaHJ_7g5xTFpaYM4DtGd0Ev9WoTTvMC70Vl7fJmAUPXQHfDCTxCymnmpxs0I_Mw6Ir2s0yjUntkBpXm2s8RpNtfbfpdKsGSEQaKyHNBu5lODoP4neVZFINeiNYsNfLLmfr3kRnXDFGGuqjfQOFFXiyTp7_nl?purpose=inline)
+![Alien Solar system planet on black background 3d rendering.](https://images.openai.com/static-rsc-4/j3MUPpSfjdfIYwZa00pXnxOBjzp7of4wIiNIIaHJ_7g5xTFpaYM4DtGd0Ev9WoTTvMC70Vl7fJmAUPXQHfDCTxCymnmpxs0I_Mw6Ir2s0yjUntkBpXm2s8RpNtfbfpdKsGSEQaKyHNBu5lODoP4neVZFINeiNYsNfLLmfr3kRnXDFGGuqjfQOFFXiyTp7_nl?purpose=inline)
 
 8\. Selrais
 
@@ -372,7 +372,7 @@ Each offers the Travellers payment to retrieve the original deed from his abando
 
 The prospector forged all three claims. The property technically belongs to a small religious community that disappeared decades earlier.
 
-[La nueva fiebre del oro: La minería espacial y sus desafíos](https://images.openai.com/static-rsc-4/yFEyAmSlemb0z5O5PMRHoKwdxF4jLiy6zF2oUB7UHqkgLI9Jq6AE5UNHYCNs4s8YFDO-1UJjNbA6EyaE6QcQhrEOsbtmvQSA_hFitushiu8ffy-7l51K-2NTANR-QeGgQrLzoVJsKXj_4Yi0Vdw0Kc7Pria7I5a2Qq1Vhui1DMI?purpose=inline)
+![La nueva fiebre del oro: La minería espacial y sus desafíos](https://images.openai.com/static-rsc-4/yFEyAmSlemb0z5O5PMRHoKwdxF4jLiy6zF2oUB7UHqkgLI9Jq6AE5UNHYCNs4s8YFDO-1UJjNbA6EyaE6QcQhrEOsbtmvQSA_hFitushiu8ffy-7l51K-2NTANR-QeGgQrLzoVJsKXj_4Yi0Vdw0Kc7Pria7I5a2Qq1Vhui1DMI?purpose=inline)
 
 9\. Norilport
 
@@ -386,7 +386,7 @@ A freight broker offers Cr15,000 for their recovery before his employer discover
 
 The containers hold illegal animal embryos destined for a private zoological preserve. The animals are endangered Terran species, and the smugglers believe they're saving them.
 
-[Archives géologiques : un milliard d'années ont disparu - BBC News Afrique](https://images.openai.com/static-rsc-4/XnZqmnMFhjiKVqLE0sbrvJPfYrU1zhUxbVUI5VekGBzM0Q-sQmFfW4j_dMMDXEZ70ZmEQYikbCW1jElqWKVBHMzdVcehRwKgBD29O1PN7b1g-7v7ufXfqTiqYv2RrgyV9n6wYh9si_HM1onmRQpzgdFLuX2UF5giUEUXqfPLfHU?purpose=inline)
+![Archives géologiques : un milliard d'années ont disparu - BBC News Afrique](https://images.openai.com/static-rsc-4/XnZqmnMFhjiKVqLE0sbrvJPfYrU1zhUxbVUI5VekGBzM0Q-sQmFfW4j_dMMDXEZ70ZmEQYikbCW1jElqWKVBHMzdVcehRwKgBD29O1PN7b1g-7v7ufXfqTiqYv2RrgyV9n6wYh9si_HM1onmRQpzgdFLuX2UF5giUEUXqfPLfHU?purpose=inline)
 
 10\. Alilon
 
@@ -402,7 +402,7 @@ The source is an ancient automated emergency beacon embedded in a wrecked spacec
 
 Complication: Something valuable is still aboard, and the mining operation will soon destroy the wreck.
 
-[Woosung Kang - Destiny 2: Beyond Light](https://images.openai.com/static-rsc-4/xIXGigfLfTMN7ncTTRhjWkSb-gk69QROAHGMoPIZeK4TTfb4hM6samMsVF1-d_OQFIM1WpyGLswU2nlQJ4BvI4KP0cNCF_ROoGXyXrkVCAVLeHPEckmcD_Mz7XaEjNIFvN8S7ji4pdt-BeNTU3k5D4KVTj6fosEdroTGGzJqsKo?purpose=inline)
+![Woosung Kang - Destiny 2: Beyond Light](https://images.openai.com/static-rsc-4/xIXGigfLfTMN7ncTTRhjWkSb-gk69QROAHGMoPIZeK4TTfb4hM6samMsVF1-d_OQFIM1WpyGLswU2nlQJ4BvI4KP0cNCF_ROoGXyXrkVCAVLeHPEckmcD_Mz7XaEjNIFvN8S7ji4pdt-BeNTU3k5D4KVTj6fosEdroTGGzJqsKo?purpose=inline)
 
 11\. Redteland
 
@@ -420,7 +420,7 @@ Its citizens fear that official discovery will result in seizure of their entire
 
 Complication: The food is safe, but the seeds are patented property stolen from a research company.
 
-[Artist's depiction of a gas giant planet surrounded by three moons. The view is from the largest and farthest moon in the group Poster Print - Item # VARPSTMRC200017S - Posterazzi](https://images.openai.com/static-rsc-4/TnYg2Ykf8y_66A2Y9g0d4WeQBTJq0R1_E3UX5JO9WDYNrkyb5Sg7D9b877dOzPh3jO7NzDVHPSoSmLN_0pzcMHV-1lG0SyDr2x19Gb0Qa0XJGfOeDjbPOGJr6SpD-apjACvSpXHpOTaBIbis-KIol3ZZqkCa21M9YcmnR7NLPSA?purpose=inline)
+![Artist's depiction of a gas giant planet surrounded by three moons. The view is from the largest and farthest moon in the group Poster Print - Item # VARPSTMRC200017S - Posterazzi](https://images.openai.com/static-rsc-4/TnYg2Ykf8y_66A2Y9g0d4WeQBTJq0R1_E3UX5JO9WDYNrkyb5Sg7D9b877dOzPh3jO7NzDVHPSoSmLN_0pzcMHV-1lG0SyDr2x19Gb0Qa0XJGfOeDjbPOGJr6SpD-apjACvSpXHpOTaBIbis-KIol3ZZqkCa21M9YcmnR7NLPSA?purpose=inline)
 
 12\. Verisora
 
@@ -438,13 +438,13 @@ The base's automation has supported them for generations, but a recent system fa
 
 ## Free Arden and its moons
 
-[Jupiter - Gradebook Communications SIS](https://images.openai.com/static-rsc-4/iamfZABwLKWpbmXhbHruFZ-ul8ScT4a8WoLyILbbqD7BtGfE42fiBheyvtQglqzVQV2niBV-KRZ3VdJPBGC1YD7HACpa3xpMsVJW_RnpUW_GMkaMvbuja_p1IwyzJx_QKyfkApQ83KWCQEn5iaAkAw4hT3TFXbd5Wh8XCHK0M7M?purpose=inline)
+![Jupiter - Gradebook Communications SIS](https://images.openai.com/static-rsc-4/iamfZABwLKWpbmXhbHruFZ-ul8ScT4a8WoLyILbbqD7BtGfE42fiBheyvtQglqzVQV2niBV-KRZ3VdJPBGC1YD7HACpa3xpMsVJW_RnpUW_GMkaMvbuja_p1IwyzJx_QKyfkApQ83KWCQEn5iaAkAw4hT3TFXbd5Wh8XCHK0M7M?purpose=inline)
 
 [jupitered.com](https://jupitered.com/index.php)
 
 Free Arden is where I'd place more substantial corporate and clandestine operations. Its moons are distant enough from Jardin to make them useful for anyone who wants limited supervision.
 
-[Pixlio AI | AI Image Editor - Seedream 5.0 Pro, Seedream 5 Lite, Seedream 4.5, GPT Image 2, Nano Banana 2 & More](https://images.openai.com/static-rsc-4/B3Olbt9mhnTa2h1zL_n7jxcuihuym3Dof4IE8pe8cgRTrHDliSW2JFe5S87y13SQvd-gASEL7UlJGYnmTxB0qKUOS37CfilXgBL_sJGpEaDhQZ7i8CoED9SLHtHxPHe8A3dkK0JtfEAxTPZx5rv8ql9TOLIypnRBqoEXwWi1MvE?purpose=inline)
+![Pixlio AI | AI Image Editor - Seedream 5.0 Pro, Seedream 5 Lite, Seedream 4.5, GPT Image 2, Nano Banana 2 & More](https://images.openai.com/static-rsc-4/B3Olbt9mhnTa2h1zL_n7jxcuihuym3Dof4IE8pe8cgRTrHDliSW2JFe5S87y13SQvd-gASEL7UlJGYnmTxB0qKUOS37CfilXgBL_sJGpEaDhQZ7i8CoED9SLHtHxPHe8A3dkK0JtfEAxTPZx5rv8ql9TOLIypnRBqoEXwWi1MvE?purpose=inline)
 
 ## 13. Sanctuary
 
@@ -462,7 +462,7 @@ Complication: The document is genuine, and the company wants it destroyed. The p
 
 This is a good morally complicated adventure that has nothing to do with the cloning program.
 
-[BLACKTHORN INSTITUTE Organization in FRONTIERS OF DARKNESS | World Anvil](https://images.openai.com/static-rsc-4/ewnCUldT6g3f-COjRN--V9a15CNi_S_-ZarTNhZ9b-rJXIOEQA3cLC4LD9B1DOGxpya8g3KW2WQqO6hELxsTDgMkPr0oZ4sct-cOf2UM23l8JEUrrGlpnKUwyaSrjxLPTs9wQ5-tCvcPM0ItvubpAoa2iGXHIb7TwjOb2RlrthY?purpose=inline)
+![BLACKTHORN INSTITUTE Organization in FRONTIERS OF DARKNESS | World Anvil](https://images.openai.com/static-rsc-4/ewnCUldT6g3f-COjRN--V9a15CNi_S_-ZarTNhZ9b-rJXIOEQA3cLC4LD9B1DOGxpya8g3KW2WQqO6hELxsTDgMkPr0oZ4sct-cOf2UM23l8JEUrrGlpnKUwyaSrjxLPTs9wQ5-tCvcPM0ItvubpAoa2iGXHIb7TwjOb2RlrthY?purpose=inline)
 
 ## 14. Domirina
 
@@ -482,7 +482,7 @@ Main-plot connection: This is a natural entry point into the Domirina cloning op
 
 ## Outer system
 
-[WASP-69 b | NFT Exoplanet | Cryptoplanets](https://images.openai.com/static-rsc-4/UtoRIl4ewxOtX3I0giBuGGMv8WNsXKuFpbC_DYh1ESdWN9-GRYkAy1EAd-by0UF899guDpkBXGeEJ-yb78LgtBGCk-cAlz7-Gp4hs6ZM2HcGEGXnxYZ0mKsUs7Sv27aRKs9oqY9R_WpB2G8RgElLyQM0sz0aFhlQrct8KGJ-gDM?purpose=inline)
+![WASP-69 b | NFT Exoplanet | Cryptoplanets](https://images.openai.com/static-rsc-4/UtoRIl4ewxOtX3I0giBuGGMv8WNsXKuFpbC_DYh1ESdWN9-GRYkAy1EAd-by0UF899guDpkBXGeEJ-yb78LgtBGCk-cAlz7-Gp4hs6ZM2HcGEGXnxYZ0mKsUs7Sv27aRKs9oqY9R_WpB2G8RgElLyQM0sz0aFhlQrct8KGJ-gDM?purpose=inline)
 
 ## 15. Free Arden
 
@@ -498,7 +498,7 @@ Complication: The sabotage is being conducted by a third competitor that intends
 
 This can become an excellent spacecraft-focused session with dangerous atmospheric manoeuvres.
 
-[Epimetheus - NASA Science](https://images.openai.com/static-rsc-4/MJ5Xj19QWBnh7n1A6w5uAZNzEsSeSb1AjCPFsksE0QgeaQWu1-oxt5WAHKJBIlX4oC-kSmsMSMkC-QkAumLqsFZlWbspOmcMKxDLVpYD-j2prH8_q1YI0VOXnfPwXU12jb3w1dzAqhGvRPJg7zaHrFNjV-fDpnCZ93AhjNZU4OE?purpose=inline)
+![Epimetheus - NASA Science](https://images.openai.com/static-rsc-4/MJ5Xj19QWBnh7n1A6w5uAZNzEsSeSb1AjCPFsksE0QgeaQWu1-oxt5WAHKJBIlX4oC-kSmsMSMkC-QkAumLqsFZlWbspOmcMKxDLVpYD-j2prH8_q1YI0VOXnfPwXU12jb3w1dzAqhGvRPJg7zaHrFNjV-fDpnCZ93AhjNZU4OE?purpose=inline)
 
 ## 16. Calwick
 
@@ -516,7 +516,7 @@ Complication: One registration belongs to a ship that disappeared with a valuabl
 
 This could be a particularly good opportunity to introduce an old acquaintance of the Vaillante's former owners.
 
-[Discover the Beauty of a Light Pink Planet in Deep Space](https://images.openai.com/static-rsc-4/NX_VKZtJyI5MfPgoYfbPe0WVvAmAtEFnj7UlrrPUPfmeqES5ksV9GZEBYHLufmmTHkOtEnv4ZgEHEIrYkfxdNIciVmopCyFx8lAXqh9PlA-hjFZxU_zkxBu-56VWRazyb-QW9N20yOTZ-o9cfXl3kJ_-4hXHUov3YHwTfzwDEN8?purpose=inline)
+![Discover the Beauty of a Light Pink Planet in Deep Space](https://images.openai.com/static-rsc-4/NX_VKZtJyI5MfPgoYfbPe0WVvAmAtEFnj7UlrrPUPfmeqES5ksV9GZEBYHLufmmTHkOtEnv4ZgEHEIrYkfxdNIciVmopCyFx8lAXqh9PlA-hjFZxU_zkxBu-56VWRazyb-QW9N20yOTZ-o9cfXl3kJ_-4hXHUov3YHwTfzwDEN8?purpose=inline)
 
 ## 17. Terra Nova
 
