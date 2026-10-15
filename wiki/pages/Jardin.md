@@ -10,12 +10,12 @@ tags:
   - location
   - world
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: GM review via MCP
 uwp: "A5679BC-D "
 allegiance: ""
 tradeCodes: []
