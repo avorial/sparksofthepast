@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T16:44:45.827Z",
+  "generatedAt": "2026-10-15T16:46:40.909Z",
   "pages": [
     {
       "id": "character-0-31-Saichi-Maru-Annette",
@@ -12,6 +12,31 @@
         "robot"
       ],
       "links": [
+        "game-Session-2-Masks-and-Markers",
+        "location-Hall-des-Futurs-Choisis",
+        "event-Mercier-Assassination",
+        "character-Dan-Araujo-Josh",
+        "npc-Marcel-Delphine",
+        "item-Identity-Veils",
+        "character-Varian-Svazz-Allen",
+        "location-Transstar-Sector-Exchange",
+        "vehicle-TSS-Profondeur",
+        "npc-Mercier-Lookalike-Survivor",
+        "location-Undersea-Base-Elyon",
+        "npc-SolSec-Operative-at-Elyon",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "item-Sunken-Ship-Boat",
+        "vehicle-TSS-Profondeur",
+        "item-Transponder-Swap-Box",
+        "item-Sunken-Ship-Boat",
+        "location-Mercier-Penthouse",
+        "organization-Home-Guard",
+        "item-Mercier-Evidence-Cache",
+        "lore-Psychic-Clone-Conspiracy",
+        "character-Dan-Araujo-Josh"
+      ],
+      "playerLinks": [
         "game-Session-2-Masks-and-Markers",
         "location-Hall-des-Futurs-Choisis",
         "event-Mercier-Assassination",
@@ -58,6 +83,10 @@
         "location-Fort-Robespierre-Naval-Annex",
         "location-Fort-Robespierre-Naval-Annex"
       ],
+      "playerLinks": [
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Fort-Robespierre-Naval-Annex"
+      ],
       "aliases": [
         "Henri Duval"
       ],
@@ -81,6 +110,9 @@
       "links": [
         "location-Arcosphere-Rousseau"
       ],
+      "playerLinks": [
+        "location-Arcosphere-Rousseau"
+      ],
       "aliases": [
         "Governor Pelletier"
       ],
@@ -102,6 +134,14 @@
         "solsec"
       ],
       "links": [
+        "organization-SolSec",
+        "location-Customs-Immigration-Checkpoint-Harmony",
+        "organization-Social-Solidarity",
+        "location-Customs-Immigration-Checkpoint-Harmony",
+        "organization-SolSec",
+        "organization-Social-Solidarity"
+      ],
+      "playerLinks": [
         "organization-SolSec",
         "location-Customs-Immigration-Checkpoint-Harmony",
         "organization-Social-Solidarity",
@@ -158,6 +198,35 @@
         "location-Undersea-Base-Elyon",
         "vehicle-TSS-Profondeur"
       ],
+      "playerLinks": [
+        "game-Session-1-Official-Business",
+        "location-Hall-des-Futurs-Choisis",
+        "item-Merciers-Locked-Pad",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "game-Session-2-Masks-and-Markers",
+        "item-Mobile-Data-Tube",
+        "event-Mercier-Genetic-Findings",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "npc-SolSec-Operative-at-Elyon",
+        "game-Session-5-The-Oduya",
+        "lore-Clone-Rebirth-Program",
+        "location-Hadal-Research-Site",
+        "event-Prime-Minister-Bombing",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "item-Merciers-Locked-Pad",
+        "event-Mercier-Genetic-Findings",
+        "lore-Psychic-Clone-Conspiracy",
+        "location-Providence",
+        "npc-Camille-Dufour",
+        "location-Mercier-Penthouse",
+        "organization-Home-Guard",
+        "item-Mercier-Evidence-Cache",
+        "location-Undersea-Base-Elyon",
+        "vehicle-TSS-Profondeur"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -175,6 +244,12 @@
         "intelligence"
       ],
       "links": [
+        "organization-Transstar",
+        "organization-SolSec",
+        "organization-Transstar",
+        "organization-SolSec"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "organization-SolSec",
         "organization-Transstar",
@@ -207,6 +282,11 @@
         "game-Session-5-The-Oduya",
         "item-Sunken-Ship-Boat"
       ],
+      "playerLinks": [
+        "character-Emma-Colbert-Laura",
+        "game-Session-5-The-Oduya",
+        "item-Sunken-Ship-Boat"
+      ],
       "aliases": [],
       "summary": "Emma Colbert contact who can convert illegal cargo into ship repair services through logistics channels.",
       "visibility": "gm",
@@ -227,6 +307,11 @@
         "transstar"
       ],
       "links": [
+        "organization-Transstar",
+        "location-Transstar-Sector-Exchange",
+        "organization-Transstar"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "location-Transstar-Sector-Exchange",
         "organization-Transstar"
@@ -276,6 +361,27 @@
         "item-Sunken-Ship-Boat",
         "npc-Alain-Mercier"
       ],
+      "playerLinks": [
+        "game-Session-3-Transstar-Day",
+        "npc-Claire-Bouchard",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "vehicle-TSS-Profondeur",
+        "vehicle-TSS-Profondeur",
+        "location-Hadal-Research-Site",
+        "organization-Undersea-Extremists",
+        "organization-Undersea-Extremists",
+        "npc-Mercier-Lookalike-Survivor",
+        "vehicle-TSS-Profondeur",
+        "item-Sunken-Ship-Boat",
+        "npc-Etienne-Valcourt",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box",
+        "event-Mercier-Frame-Up",
+        "item-Sunken-Ship-Boat",
+        "event-Mercier-Assassination",
+        "item-Sunken-Ship-Boat",
+        "npc-Alain-Mercier"
+      ],
       "aliases": [
         "Transstar Aquatic Salvage"
       ],
@@ -288,7 +394,8 @@
         "[[Hadal Research Site]]",
         "[[Oduya]]",
         "[[Undersea Extremists]]"
-      ]
+      ],
+      "cover": "wiki/media/Hadal-Undersea-Map.png"
     },
     {
       "id": "location-Arcosphere-Rousseau",
@@ -299,6 +406,14 @@
         "location"
       ],
       "links": [
+        "npc-Adrien-Pelletier",
+        "npc-Nadia-Giroux",
+        "npc-Sister-Celeste-Moreau",
+        "npc-Jacques-Martin",
+        "event-Mercier-Assassination",
+        "character-Victor-Mendes-Steinbach"
+      ],
+      "playerLinks": [
         "npc-Adrien-Pelletier",
         "npc-Nadia-Giroux",
         "npc-Sister-Celeste-Moreau",
@@ -327,6 +442,10 @@
         "customs"
       ],
       "links": [
+        "organization-Transstar",
+        "organization-Transstar"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "organization-Transstar"
       ],
@@ -366,6 +485,20 @@
         "organization-SolSec",
         "organization-Social-Solidarity"
       ],
+      "playerLinks": [
+        "item-Merciers-Locked-Pad",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "location-Providence",
+        "character-Emma-Colbert-Laura",
+        "npc-Mark-Duncan",
+        "npc-Alain-Mercier",
+        "location-Providence",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "location-Providence",
+        "npc-Alain-Mercier",
+        "organization-SolSec",
+        "organization-Social-Solidarity"
+      ],
       "aliases": [],
       "summary": "Encrypted-identity SolSec agent sent by Mercier to Providence shortly before his public assassination.",
       "visibility": "players",
@@ -385,6 +518,148 @@
         "lore"
       ],
       "links": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "location-Crushed-Trench",
+        "location-Hidden-Clone-Community",
+        "npc-Francis-Adams",
+        "location-Krypton",
+        "vehicle-TSS-Profondeur",
+        "vehicle-Deep-Trench-Minisub",
+        "location-Providence",
+        "npc-Alain-Mercier",
+        "location-Hall-des-Futurs-Choisis",
+        "organization-Transstar",
+        "event-Mercier-Frame-Up",
+        "event-Aquatic-Salvage-Project",
+        "vehicle-TSS-Profondeur",
+        "game-Session-5-The-Oduya",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "item-Merciers-Locked-Pad",
+        "lore-Psychic-Clone-Conspiracy",
+        "item-Mercier-Evidence-Cache",
+        "location-Mercier-Penthouse",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box",
+        "vehicle-TSS-Profondeur",
+        "npc-Camille-Dufour",
+        "location-Providence",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon",
+        "vehicle-TSS-Profondeur",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "npc-Crew-of-TSS-Profondeur",
+        "vehicle-TSS-Profondeur",
+        "npc-Crew-of-TSS-Profondeur",
+        "event-Aquatic-Salvage-Project",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "location-Relay-Station-932",
+        "clue-Jardinian-Naval-SOS",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "item-Merciers-Locked-Pad",
+        "item-Mercier-Evidence-Cache",
+        "location-Mercier-Penthouse",
+        "lore-Psychic-Clone-Conspiracy",
+        "location-Providence",
+        "npc-Camille-Dufour",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box",
+        "event-Prime-Minister-Bombing",
+        "organization-Undersea-Extremists",
+        "item-Undersea-Suits",
+        "game-Session-1-Official-Business",
+        "game-Session-2-Masks-and-Markers",
+        "game-Session-3-Transstar-Day",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "game-Session-5-The-Oduya",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Admiral-Henri-Duval",
+        "npc-Adrien-Pelletier",
+        "npc-Agent-Luc-Deschamps",
+        "npc-Alain-Mercier",
+        "npc-Anita-Singh",
+        "npc-Amelia-Torres",
+        "npc-Antoine-Mercier",
+        "npc-Armand-Rousselet",
+        "npc-Captain-Victor-Mendes",
+        "npc-Carlos",
+        "npc-Chief-Helene-Marchand",
+        "npc-Claire-Bouchard",
+        "npc-Colette-Moreau",
+        "npc-Colonel-Victor-Almeida",
+        "npc-Commander-Lucien-Marchand",
+        "npc-Commander-Sophie-Durand",
+        "npc-Commissioner-Elise-Martin",
+        "npc-Commissioner-Isabelle-Fournier",
+        "npc-Crew-of-TSS-Profondeur",
+        "npc-Camille-Dufour",
+        "npc-Director-Elise-Fournier",
+        "npc-Director-Luc-Beaumont",
+        "npc-Director-Simone-Laurent",
+        "npc-Director-General-Camille-Fournier",
+        "npc-Dr-Amelie-Rousseau",
+        "npc-Dr-Gabriel-Laurent",
+        "npc-Dr-Isabelle-Fournier",
+        "npc-Dr-Luc-Moreau",
+        "npc-Dr-Sophie-Delacroix",
+        "npc-Elena-Kovacs",
+        "npc-Elena-Verona",
+        "npc-Etienne-Marchand",
+        "npc-Etienne-Moreau",
+        "npc-Etienne-Valcourt",
+        "npc-General-Claire-Moreau",
+        "npc-Inspector-Adrien-Martin",
+        "npc-Inspector-Gabriel-Rousseau",
+        "npc-Inspector-Marc-Valois",
+        "npc-Inspector-General-Marc-Villeneuve",
+        "npc-Jacques-Martin",
+        "npc-Juliette-Mercier",
+        "npc-Keith-Morris",
+        "npc-Leo-Duprey",
+        "npc-Luc-Girard",
+        "npc-Lucien-Roche",
+        "npc-Lucien-Voss",
+        "npc-Lucin",
+        "npc-Mark-Duncan",
+        "npc-Maelle-Fournier",
+        "npc-Mara-Kovalenko",
+        "npc-Marcel-Delphine",
+        "npc-Mentor-Jean-Mercier",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-Nadia-Giroux",
+        "npc-Nadine-Pelletier",
+        "npc-Nico-Gay",
+        "npc-Philippe-Laurent",
+        "npc-Pierre-Gauthier",
+        "npc-Professor-Emile-Laurent",
+        "npc-Professor-Lucien-Morel",
+        "npc-Reena-Kessler",
+        "npc-Remi-Beauchamp",
+        "npc-Roman-Juma",
+        "npc-Sabine-Caron",
+        "npc-Sarah-Chen",
+        "npc-Sister-Celeste-Moreau",
+        "npc-SolSec-Operative-at-Elyon",
+        "npc-Sergey-Sun",
+        "unresolved:table-rules"
+      ],
+      "playerLinks": [
         "game-Session-7-Echoes-Beneath-the-Sea",
         "game-Session-7-Echoes-Beneath-the-Sea",
         "location-Crushed-Trench",
@@ -565,6 +840,12 @@
         "location-Port-Sainte-Jeanne-Downport",
         "organization-Transstar"
       ],
+      "playerLinks": [
+        "location-Port-Sainte-Jeanne-Downport",
+        "organization-Transstar",
+        "location-Port-Sainte-Jeanne-Downport",
+        "organization-Transstar"
+      ],
       "aliases": [
         "Victor Mendes (freight captain)"
       ],
@@ -587,6 +868,10 @@
         "session-1"
       ],
       "links": [
+        "character-Cass-Pien-Kolb",
+        "game-Session-1-Official-Business"
+      ],
+      "playerLinks": [
         "character-Cass-Pien-Kolb",
         "game-Session-1-Official-Business"
       ],
@@ -632,6 +917,30 @@
         "character-Zoy-Damon",
         "item-Mobile-Data-Tube"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "character-Judith-Dumont-Carla",
+        "location-Hidden-Clone-Community",
+        "event-Mercier-Assassination",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "npc-Lucin",
+        "event-Mercier-Frame-Up",
+        "item-Identity-Veils",
+        "vehicle-TSS-Profondeur",
+        "npc-Etienne-Valcourt",
+        "location-Hadal-Research-Site",
+        "event-Friday-Party-Congress-Hearing",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "npc-Roman-Juma",
+        "location-Mercier-Penthouse",
+        "organization-Home-Guard",
+        "npc-Dr-Luc-Moreau",
+        "character-Zoy-Damon",
+        "item-Mobile-Data-Tube"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -649,6 +958,10 @@
         "session-2"
       ],
       "links": [
+        "game-Session-2-Masks-and-Markers",
+        "item-Identity-Veils"
+      ],
+      "playerLinks": [
         "game-Session-2-Masks-and-Markers",
         "item-Identity-Veils"
       ],
@@ -688,6 +1001,22 @@
         "npc-Alain-Mercier",
         "location-Providence"
       ],
+      "playerLinks": [
+        "character-Judith-Dumont-Carla",
+        "item-Secure-Burner-Comms",
+        "npc-Lucin",
+        "event-Mercier-Genetic-Findings",
+        "location-La-Porte-Fiel",
+        "item-Merciers-Locked-Pad",
+        "vehicle-TSS-Profondeur",
+        "npc-Sabine-Caron",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-SolSec-Operative-at-Elyon",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "npc-Alain-Mercier",
+        "location-Providence"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -706,6 +1035,18 @@
         "session-3"
       ],
       "links": [
+        "organization-Transstar",
+        "game-Session-3-Transstar-Day",
+        "organization-Transstar",
+        "location-Transstar-Sector-Exchange",
+        "event-Aquatic-Salvage-Project",
+        "lore-Transstar-Employment-Contract",
+        "organization-Transstar",
+        "lore-Transstar-Employment-Contract",
+        "event-Aquatic-Salvage-Project",
+        "game-Session-3-Transstar-Day"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "game-Session-3-Transstar-Day",
         "organization-Transstar",
@@ -759,6 +1100,23 @@
         "organization-Social-Solidarity",
         "lore-Clone-Rebirth-Program"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "location-Hidden-Clone-Community",
+        "npc-Francis-Adams",
+        "location-Krypton",
+        "lore-Psychic-Clone-Conspiracy",
+        "npc-Alain-Mercier",
+        "game-Session-5-The-Oduya",
+        "location-Hadal-Research-Site",
+        "location-Hadal-Research-Site",
+        "organization-SolSec",
+        "npc-SolSec-Operative-at-Elyon",
+        "event-Prime-Minister-Bombing",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "organization-Social-Solidarity",
+        "lore-Clone-Rebirth-Program"
+      ],
       "aliases": [
         "Platinum 2 Clone Program",
         "Engrammatic Transfer"
@@ -783,6 +1141,12 @@
         "business"
       ],
       "links": [
+        "location-Quartier-Sainte-Libert",
+        "organization-Jardin-Syndicate",
+        "location-Quartier-Sainte-Libert",
+        "organization-Jardin-Syndicate"
+      ],
+      "playerLinks": [
         "location-Quartier-Sainte-Libert",
         "organization-Jardin-Syndicate",
         "location-Quartier-Sainte-Libert",
@@ -813,6 +1177,10 @@
         "location-Fort-Robespierre-Naval-Annex",
         "location-Fort-Robespierre-Naval-Annex"
       ],
+      "playerLinks": [
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Fort-Robespierre-Naval-Annex"
+      ],
       "aliases": [
         "Victor Almeida"
       ],
@@ -837,6 +1205,10 @@
         "location-Fort-Robespierre-Naval-Annex",
         "location-Fort-Robespierre-Naval-Annex"
       ],
+      "playerLinks": [
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Fort-Robespierre-Naval-Annex"
+      ],
       "aliases": [
         "Lucien Marchand"
       ],
@@ -858,6 +1230,12 @@
         "law"
       ],
       "links": [
+        "location-Port-Sainte-Jeanne-Downport",
+        "organization-Jardin-Syndicate",
+        "location-Port-Sainte-Jeanne-Downport",
+        "organization-Jardin-Syndicate"
+      ],
+      "playerLinks": [
         "location-Port-Sainte-Jeanne-Downport",
         "organization-Jardin-Syndicate",
         "location-Port-Sainte-Jeanne-Downport",
@@ -890,6 +1268,12 @@
         "location-Customs-Immigration-Checkpoint-Harmony",
         "organization-Social-Solidarity"
       ],
+      "playerLinks": [
+        "organization-Social-Solidarity",
+        "location-Customs-Immigration-Checkpoint-Harmony",
+        "location-Customs-Immigration-Checkpoint-Harmony",
+        "organization-Social-Solidarity"
+      ],
       "aliases": [
         "Elise Martin"
       ],
@@ -912,6 +1296,10 @@
         "corporate"
       ],
       "links": [
+        "location-Transstar-Sector-Exchange",
+        "location-Transstar-Sector-Exchange"
+      ],
+      "playerLinks": [
         "location-Transstar-Sector-Exchange",
         "location-Transstar-Sector-Exchange"
       ],
@@ -938,6 +1326,11 @@
         "npc-Mentor-Jean-Mercier",
         "npc-Dr-Amelie-Rousseau"
       ],
+      "playerLinks": [
+        "npc-Director-Elise-Fournier",
+        "npc-Mentor-Jean-Mercier",
+        "npc-Dr-Amelie-Rousseau"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -956,6 +1349,19 @@
         "undersea"
       ],
       "links": [
+        "vehicle-TSS-Profondeur",
+        "event-Aquatic-Salvage-Project",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "location-Hadal-Research-Site",
+        "game-Session-5-The-Oduya",
+        "item-Sunken-Ship-Boat",
+        "npc-Alain-Mercier",
+        "item-Sunken-Ship-Boat"
+      ],
+      "playerLinks": [
         "vehicle-TSS-Profondeur",
         "event-Aquatic-Salvage-Project",
         "npc-Etienne-Valcourt",
@@ -997,6 +1403,14 @@
         "organization-Undersea-Extremists",
         "location-Relay-Station-932"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "vehicle-TSS-Profondeur",
+        "vehicle-Deep-Trench-Minisub",
+        "location-Hidden-Clone-Community",
+        "organization-Undersea-Extremists",
+        "location-Relay-Station-932"
+      ],
       "aliases": [
         "The Crushed Trench",
         "Crush Trench"
@@ -1020,6 +1434,12 @@
         "npc-Commissioner-Elise-Martin",
         "npc-Agent-Luc-Deschamps"
       ],
+      "playerLinks": [
+        "npc-Director-Simone-Laurent",
+        "npc-Inspector-Gabriel-Rousseau",
+        "npc-Commissioner-Elise-Martin",
+        "npc-Agent-Luc-Deschamps"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1036,6 +1456,25 @@
         "character"
       ],
       "links": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "vehicle-Deep-Trench-Minisub",
+        "location-Hidden-Clone-Community",
+        "event-Mercier-Assassination",
+        "character-0-31-Saichi-Maru-Annette",
+        "npc-Lucin",
+        "location-Les-Jardins-Ferm-s",
+        "npc-Chief-Helene-Marchand",
+        "location-Transstar-Sector-Exchange",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "item-Sunken-Ship-Boat",
+        "item-Merciers-Locked-Pad",
+        "location-Mercier-Penthouse",
+        "character-Victor-Mendes-Steinbach",
+        "character-Cass-Pien-Kolb",
+        "character-0-31-Saichi-Maru-Annette"
+      ],
+      "playerLinks": [
         "game-Session-7-Echoes-Beneath-the-Sea",
         "vehicle-Deep-Trench-Minisub",
         "location-Hidden-Clone-Community",
@@ -1080,6 +1519,16 @@
         "character-Cass-Pien-Kolb",
         "character-Varian-Svazz-Allen"
       ],
+      "playerLinks": [
+        "organization-Transstar",
+        "vehicle-TSS-Profondeur",
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "character-Dan-Araujo-Josh",
+        "character-Victor-Mendes-Steinbach",
+        "character-Emma-Colbert-Laura",
+        "character-Cass-Pien-Kolb",
+        "character-Varian-Svazz-Allen"
+      ],
       "aliases": [
         "Reinforced Minisub",
         "Travel Sub"
@@ -1100,6 +1549,10 @@
         "education"
       ],
       "links": [
+        "location-Cr-che-District-14",
+        "location-Cr-che-District-14"
+      ],
+      "playerLinks": [
         "location-Cr-che-District-14",
         "location-Cr-che-District-14"
       ],
@@ -1125,6 +1578,12 @@
         "security"
       ],
       "links": [
+        "organization-Social-Solidarity",
+        "npc-Leo-Duprey",
+        "organization-Social-Solidarity",
+        "npc-Leo-Duprey"
+      ],
+      "playerLinks": [
         "organization-Social-Solidarity",
         "npc-Leo-Duprey",
         "organization-Social-Solidarity",
@@ -1156,6 +1615,11 @@
         "organization-Social-Solidarity",
         "location-Port-Sainte-Jeanne-Downport"
       ],
+      "playerLinks": [
+        "location-Port-Sainte-Jeanne-Downport",
+        "organization-Social-Solidarity",
+        "location-Port-Sainte-Jeanne-Downport"
+      ],
       "aliases": [
         "Luc Beaumont"
       ],
@@ -1177,6 +1641,10 @@
         "customs"
       ],
       "links": [
+        "location-Customs-Immigration-Checkpoint-Harmony",
+        "location-Customs-Immigration-Checkpoint-Harmony"
+      ],
+      "playerLinks": [
         "location-Customs-Immigration-Checkpoint-Harmony",
         "location-Customs-Immigration-Checkpoint-Harmony"
       ],
@@ -1210,6 +1678,14 @@
         "location-Hadal-Research-Site",
         "item-Sunken-Ship-Boat"
       ],
+      "playerLinks": [
+        "event-Aquatic-Salvage-Project",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "organization-Undersea-Extremists",
+        "npc-Claire-Bouchard",
+        "location-Hadal-Research-Site",
+        "item-Sunken-Ship-Boat"
+      ],
       "aliases": [
         "Rogue Dolphin Extremists"
       ],
@@ -1233,6 +1709,10 @@
         "education"
       ],
       "links": [
+        "location-Cr-che-District-14",
+        "location-Cr-che-District-14"
+      ],
+      "playerLinks": [
         "location-Cr-che-District-14",
         "location-Cr-che-District-14"
       ],
@@ -1260,6 +1740,10 @@
         "location-Les-Jardins-Ferm-s",
         "location-Les-Jardins-Ferm-s"
       ],
+      "playerLinks": [
+        "location-Les-Jardins-Ferm-s",
+        "location-Les-Jardins-Ferm-s"
+      ],
       "aliases": [
         "Gabriel Laurent"
       ],
@@ -1284,6 +1768,10 @@
         "location-Les-Jardins-Ferm-s",
         "location-Les-Jardins-Ferm-s"
       ],
+      "playerLinks": [
+        "location-Les-Jardins-Ferm-s",
+        "location-Les-Jardins-Ferm-s"
+      ],
       "aliases": [
         "Isabelle Fournier (Medical Botany)"
       ],
@@ -1305,6 +1793,12 @@
         "session-2"
       ],
       "links": [
+        "location-Hall-des-Futurs-Choisis",
+        "game-Session-2-Masks-and-Markers",
+        "item-Mobile-Data-Tube",
+        "event-Mercier-Genetic-Findings"
+      ],
+      "playerLinks": [
         "location-Hall-des-Futurs-Choisis",
         "game-Session-2-Masks-and-Markers",
         "item-Mobile-Data-Tube",
@@ -1341,6 +1835,14 @@
         "npc-Leo-Duprey",
         "npc-Alain-Mercier"
       ],
+      "playerLinks": [
+        "location-Les-Jardins-Ferm-s",
+        "npc-Leo-Duprey",
+        "npc-Alain-Mercier",
+        "location-Les-Jardins-Ferm-s",
+        "npc-Leo-Duprey",
+        "npc-Alain-Mercier"
+      ],
       "aliases": [
         "Sophie Delacroix"
       ],
@@ -1367,6 +1869,10 @@
         "organization-Transstar",
         "organization-Transstar"
       ],
+      "playerLinks": [
+        "organization-Transstar",
+        "organization-Transstar"
+      ],
       "aliases": [
         "Kovacs"
       ],
@@ -1389,6 +1895,14 @@
         "session-1"
       ],
       "links": [
+        "organization-Social-Solidarity",
+        "location-Hall-des-Futurs-Choisis",
+        "event-Mercier-Assassination",
+        "character-Victor-Mendes-Steinbach",
+        "game-Session-1-Official-Business",
+        "event-Mercier-Frame-Up"
+      ],
+      "playerLinks": [
         "organization-Social-Solidarity",
         "location-Hall-des-Futurs-Choisis",
         "event-Mercier-Assassination",
@@ -1460,6 +1974,50 @@
         "item-Mobile-Data-Tube",
         "event-Mercier-Genetic-Findings"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "vehicle-TSS-Profondeur",
+        "npc-Francis-Adams",
+        "location-Krypton",
+        "location-Hidden-Clone-Community",
+        "event-Mercier-Assassination",
+        "npc-Marcel-Delphine",
+        "npc-Lucin",
+        "npc-Inspector-Marc-Valois",
+        "location-Transstar-Sector-Exchange",
+        "event-Aquatic-Salvage-Project",
+        "vehicle-TSS-Profondeur",
+        "clue-Jardinian-Naval-SOS",
+        "npc-Sabine-Caron",
+        "npc-SolSec-Operative-at-Elyon",
+        "character-Victor-Mendes-Steinbach",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "lore-Clone-Rebirth-Program",
+        "npc-Etienne-Valcourt",
+        "vehicle-TSS-Profondeur",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "npc-Anita-Singh",
+        "npc-Sergey-Sun",
+        "item-Sunken-Ship-Boat",
+        "item-Merciers-Locked-Pad",
+        "npc-Mark-Duncan",
+        "npc-Camille-Dufour",
+        "location-Providence",
+        "vehicle-TSS-Profondeur",
+        "npc-Nico-Gay",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "location-Transstar-Sector-Exchange",
+        "location-Hall-des-Futurs-Choisis",
+        "item-Identity-Veils",
+        "npc-Inspector-Marc-Valois",
+        "organization-Social-Solidarity",
+        "organization-SolSec",
+        "item-Mobile-Data-Tube",
+        "event-Mercier-Genetic-Findings"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1477,6 +2035,11 @@
         "customs"
       ],
       "links": [
+        "location-Port-Sainte-Jeanne-Downport",
+        "npc-Chief-Helene-Marchand",
+        "location-Port-Sainte-Jeanne-Downport"
+      ],
+      "playerLinks": [
         "location-Port-Sainte-Jeanne-Downport",
         "npc-Chief-Helene-Marchand",
         "location-Port-Sainte-Jeanne-Downport"
@@ -1502,6 +2065,12 @@
         "transstar"
       ],
       "links": [
+        "organization-Transstar",
+        "organization-SolSec",
+        "organization-Transstar",
+        "organization-SolSec"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "organization-SolSec",
         "organization-Transstar",
@@ -1547,6 +2116,22 @@
         "item-Sunken-Ship-Boat",
         "item-Sunken-Ship-Boat"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "vehicle-Deep-Trench-Minisub",
+        "location-Crushed-Trench",
+        "location-Hidden-Clone-Community",
+        "vehicle-TSS-Profondeur",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "vehicle-TSS-Profondeur",
+        "location-Undersea-Base-Elyon",
+        "character-Emma-Colbert-Laura",
+        "npc-Alain-Mercier",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat"
+      ],
       "aliases": [
         "Etienne Valcourt",
         "Captain Valcourt",
@@ -1559,7 +2144,8 @@
         "[[TSS Profondeur]]",
         "[[Aquatic Salvage Project]]"
       ],
-      "parent": "Crew-of-TSS-Profondeur"
+      "parent": "Crew-of-TSS-Profondeur",
+      "cover": "wiki/media/Etienne-Valcourt.png"
     },
     {
       "id": "event-False-News-Broadcast",
@@ -1572,6 +2158,13 @@
         "media"
       ],
       "links": [
+        "event-Mercier-Assassination",
+        "npc-Alain-Mercier",
+        "character-Zoy-Damon",
+        "npc-Elena-Verona",
+        "organization-Jardin-Syndicate"
+      ],
+      "playerLinks": [
         "event-Mercier-Assassination",
         "npc-Alain-Mercier",
         "character-Zoy-Damon",
@@ -1603,6 +2196,12 @@
         "npc-Colonel-Victor-Almeida",
         "npc-Commander-Lucien-Marchand"
       ],
+      "playerLinks": [
+        "npc-Admiral-Henri-Duval",
+        "npc-General-Claire-Moreau",
+        "npc-Colonel-Victor-Almeida",
+        "npc-Commander-Lucien-Marchand"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1628,6 +2227,14 @@
         "location-Krypton",
         "organization-Social-Solidarity"
       ],
+      "playerLinks": [
+        "character-Emma-Colbert-Laura",
+        "organization-SolSec",
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "location-Hidden-Clone-Community",
+        "location-Krypton",
+        "organization-Social-Solidarity"
+      ],
       "aliases": [],
       "summary": "Emma's former SolSec recruiter, presumed killed in a car explosion, encountered as a psychologist in the hidden clone community.",
       "visibility": "players",
@@ -1645,6 +2252,13 @@
         "politics"
       ],
       "links": [
+        "event-Mercier-Assassination",
+        "npc-Alain-Mercier",
+        "character-Cass-Pien-Kolb",
+        "event-Mercier-Frame-Up",
+        "organization-Jardin-Syndicate"
+      ],
+      "playerLinks": [
         "event-Mercier-Assassination",
         "npc-Alain-Mercier",
         "character-Cass-Pien-Kolb",
@@ -1677,6 +2291,10 @@
         "location-Fort-Robespierre-Naval-Annex",
         "location-Fort-Robespierre-Naval-Annex"
       ],
+      "playerLinks": [
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Fort-Robespierre-Naval-Annex"
+      ],
       "aliases": [
         "Claire Moreau"
       ],
@@ -1705,6 +2323,13 @@
         "npc-Mercier-Lookalike-Survivor",
         "clue-Jardinian-Naval-SOS"
       ],
+      "playerLinks": [
+        "vehicle-TSS-Profondeur",
+        "organization-Undersea-Extremists",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "npc-Mercier-Lookalike-Survivor",
+        "clue-Jardinian-Naval-SOS"
+      ],
       "aliases": [
         "Hadal",
         "Hadal Site"
@@ -1716,7 +2341,8 @@
         "[[Aquatic Salvage Project]]",
         "[[TSS Profondeur]]",
         "[[Mercier Lookalike Survivor]]"
-      ]
+      ],
+      "cover": "wiki/media/Hadal-Undersea-Map.png"
     },
     {
       "id": "location-Hall-des-Futurs-Choisis",
@@ -1727,6 +2353,19 @@
         "location"
       ],
       "links": [
+        "npc-Alain-Mercier",
+        "event-Mercier-Assassination",
+        "organization-Home-Guard",
+        "organization-Social-Solidarity",
+        "item-Identity-Veils",
+        "organization-Social-Solidarity",
+        "npc-Inspector-Marc-Valois",
+        "organization-SolSec",
+        "npc-Dr-Luc-Moreau",
+        "item-Mobile-Data-Tube",
+        "event-Mercier-Genetic-Findings"
+      ],
+      "playerLinks": [
         "npc-Alain-Mercier",
         "event-Mercier-Assassination",
         "organization-Home-Guard",
@@ -1765,6 +2404,15 @@
         "organization-Transstar",
         "organization-Social-Solidarity"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "location-Crushed-Trench",
+        "lore-Clone-Rebirth-Program",
+        "npc-Francis-Adams",
+        "character-Judith-Dumont-Carla",
+        "organization-Transstar",
+        "organization-Social-Solidarity"
+      ],
       "aliases": [
         "Clone City",
         "Undersea Clone Settlement"
@@ -1785,6 +2433,17 @@
         "session-1"
       ],
       "links": [
+        "event-Mercier-Assassination",
+        "organization-Social-Solidarity",
+        "organization-Social-Solidarity",
+        "location-Fort-Robespierre-Naval-Annex",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "location-Mercier-Penthouse",
+        "character-Victor-Mendes-Steinbach",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb"
+      ],
+      "playerLinks": [
         "event-Mercier-Assassination",
         "organization-Social-Solidarity",
         "organization-Social-Solidarity",
@@ -1824,6 +2483,16 @@
         "game-Session-1-Official-Business",
         "game-Session-2-Masks-and-Markers"
       ],
+      "playerLinks": [
+        "npc-Marcel-Delphine",
+        "event-Mercier-Assassination",
+        "character-0-31-Saichi-Maru-Annette",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Chief-Helene-Marchand",
+        "event-Mercier-Frame-Up",
+        "game-Session-1-Official-Business",
+        "game-Session-2-Masks-and-Markers"
+      ],
       "aliases": [
         "Electronic Veils",
         "Identity Masks"
@@ -1847,6 +2516,14 @@
         "government"
       ],
       "links": [
+        "organization-Social-Solidarity",
+        "location-Quartier-Sainte-Libert",
+        "organization-Jardin-Syndicate",
+        "location-Quartier-Sainte-Libert",
+        "organization-Social-Solidarity",
+        "organization-Jardin-Syndicate"
+      ],
+      "playerLinks": [
         "organization-Social-Solidarity",
         "location-Quartier-Sainte-Libert",
         "organization-Jardin-Syndicate",
@@ -1881,6 +2558,11 @@
         "item-Identity-Veils",
         "location-Customs-Immigration-Checkpoint-Harmony"
       ],
+      "playerLinks": [
+        "location-Customs-Immigration-Checkpoint-Harmony",
+        "item-Identity-Veils",
+        "location-Customs-Immigration-Checkpoint-Harmony"
+      ],
       "aliases": [
         "Gabriel Rousseau"
       ],
@@ -1905,6 +2587,10 @@
         "organization-Social-Solidarity",
         "organization-Social-Solidarity"
       ],
+      "playerLinks": [
+        "organization-Social-Solidarity",
+        "organization-Social-Solidarity"
+      ],
       "aliases": [
         "Marc Villeneuve"
       ],
@@ -1926,6 +2612,18 @@
         "session-2"
       ],
       "links": [
+        "organization-SolSec",
+        "location-Hall-des-Futurs-Choisis",
+        "game-Session-2-Masks-and-Markers",
+        "character-Emma-Colbert-Laura",
+        "npc-Alain-Mercier",
+        "organization-Social-Solidarity",
+        "event-Mercier-Assassination",
+        "event-Mercier-Frame-Up",
+        "event-Mercier-Genetic-Findings",
+        "item-Mobile-Data-Tube"
+      ],
+      "playerLinks": [
         "organization-SolSec",
         "location-Hall-des-Futurs-Choisis",
         "game-Session-2-Masks-and-Markers",
@@ -1965,6 +2663,11 @@
         "location-Arcosphere-Rousseau",
         "organization-Jardin-Syndicate"
       ],
+      "playerLinks": [
+        "organization-Jardin-Syndicate",
+        "location-Arcosphere-Rousseau",
+        "organization-Jardin-Syndicate"
+      ],
       "aliases": [
         "Martin"
       ],
@@ -1994,6 +2697,15 @@
         "event-Mercier-Frame-Up",
         "npc-Keith-Morris"
       ],
+      "playerLinks": [
+        "location-Le-Palais-de-Continuit",
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Transstar-Sector-Exchange",
+        "location-Arcosphere-Rousseau",
+        "organization-Home-Guard",
+        "event-Mercier-Frame-Up",
+        "npc-Keith-Morris"
+      ],
       "aliases": [],
       "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
       "visibility": "players",
@@ -2014,6 +2726,14 @@
         "session-4"
       ],
       "links": [
+        "location-Fort-Robespierre-Naval-Annex",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-Etienne-Valcourt"
+      ],
+      "playerLinks": [
         "location-Fort-Robespierre-Naval-Annex",
         "game-Session-4-Into-the-Hadal-Deep",
         "location-Hadal-Research-Site",
@@ -2055,6 +2775,19 @@
         "location-Transstar-Sector-Exchange",
         "npc-Marcel-Delphine"
       ],
+      "playerLinks": [
+        "game-Session-1-Official-Business",
+        "npc-Marcel-Delphine",
+        "npc-Alain-Mercier",
+        "event-Mercier-Frame-Up",
+        "location-Arcosphere-Rousseau",
+        "item-Identity-Veils",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Lucin",
+        "npc-Marcel-Delphine",
+        "location-Transstar-Sector-Exchange",
+        "npc-Marcel-Delphine"
+      ],
       "aliases": [
         "Syndicat Jardin"
       ],
@@ -2077,6 +2810,12 @@
         "session-4"
       ],
       "links": [
+        "character-Emma-Colbert-Laura",
+        "vehicle-TSS-Profondeur",
+        "npc-Sabine-Caron",
+        "location-Hadal-Research-Site"
+      ],
+      "playerLinks": [
         "character-Emma-Colbert-Laura",
         "vehicle-TSS-Profondeur",
         "npc-Sabine-Caron",
@@ -2122,6 +2861,25 @@
         "location-Les-Jardins-Ferm-s",
         "npc-Lucin"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "location-Hidden-Clone-Community",
+        "npc-Francis-Adams",
+        "npc-Alain-Mercier",
+        "npc-Marcel-Delphine",
+        "item-Identity-Veils",
+        "npc-Alain-Mercier",
+        "item-Sunken-Ship-Boat",
+        "organization-Transstar",
+        "item-Merciers-Locked-Pad",
+        "item-Mercier-Evidence-Cache",
+        "npc-Alain-Mercier",
+        "npc-Keith-Morris",
+        "npc-Keith-Morris",
+        "location-Miasma",
+        "location-Les-Jardins-Ferm-s",
+        "npc-Lucin"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2139,6 +2897,10 @@
         "press"
       ],
       "links": [
+        "location-Quartier-Danton",
+        "location-Quartier-Danton"
+      ],
+      "playerLinks": [
         "location-Quartier-Danton",
         "location-Quartier-Danton"
       ],
@@ -2167,6 +2929,11 @@
         "location-Miasma",
         "game-Session-1-Official-Business"
       ],
+      "playerLinks": [
+        "character-Judith-Dumont-Carla",
+        "location-Miasma",
+        "game-Session-1-Official-Business"
+      ],
       "aliases": [],
       "summary": "Corporate executive contact of Judith Dumont who advised that direct off-world escape from Jardin is blocked by identity controls.",
       "visibility": "players",
@@ -2190,6 +2957,11 @@
         "npc-Francis-Adams",
         "lore-Clone-Rebirth-Program"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "npc-Francis-Adams",
+        "lore-Clone-Rebirth-Program"
+      ],
       "aliases": [],
       "summary": "A world roughly four jumps north whose moon reportedly held the finite resource required for reliable cloning.",
       "visibility": "players",
@@ -2207,6 +2979,17 @@
         "session-3"
       ],
       "links": [
+        "unresolved:quartier-sainte-liberte",
+        "npc-Lucin",
+        "game-Session-3-Transstar-Day",
+        "npc-Inspector-Marc-Valois",
+        "item-Merciers-Locked-Pad",
+        "npc-Lucin",
+        "item-Merciers-Locked-Pad",
+        "npc-Inspector-Marc-Valois",
+        "game-Session-3-Transstar-Day"
+      ],
+      "playerLinks": [
         "unresolved:quartier-sainte-liberte",
         "npc-Lucin",
         "game-Session-3-Transstar-Day",
@@ -2243,6 +3026,12 @@
         "npc-Chief-Helene-Marchand",
         "npc-Alain-Mercier"
       ],
+      "playerLinks": [
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Leo-Duprey",
+        "npc-Chief-Helene-Marchand",
+        "npc-Alain-Mercier"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2261,6 +3050,13 @@
         "head-of-state"
       ],
       "links": [
+        "location-Le-Palais-de-Continuit",
+        "npc-Alain-Mercier",
+        "location-Le-Palais-de-Continuit",
+        "npc-Alain-Mercier",
+        "organization-Social-Solidarity"
+      ],
+      "playerLinks": [
         "location-Le-Palais-de-Continuit",
         "npc-Alain-Mercier",
         "location-Le-Palais-de-Continuit",
@@ -2298,6 +3094,12 @@
         "npc-Lucin",
         "npc-Chief-Helene-Marchand"
       ],
+      "playerLinks": [
+        "npc-Dr-Sophie-Delacroix",
+        "npc-Professor-Lucien-Morel",
+        "npc-Dr-Isabelle-Fournier",
+        "npc-Dr-Gabriel-Laurent"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2316,6 +3118,10 @@
         "labor"
       ],
       "links": [
+        "organization-Transstar",
+        "organization-Transstar"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "organization-Transstar"
       ],
@@ -2344,6 +3150,10 @@
         "location-Quartier-Sainte-Libert",
         "location-Quartier-Sainte-Libert"
       ],
+      "playerLinks": [
+        "location-Quartier-Sainte-Libert",
+        "location-Quartier-Sainte-Libert"
+      ],
       "aliases": [
         "Roche"
       ],
@@ -2365,6 +3175,10 @@
         "logistics"
       ],
       "links": [
+        "location-Transstar-Sector-Exchange",
+        "location-Transstar-Sector-Exchange"
+      ],
+      "playerLinks": [
         "location-Transstar-Sector-Exchange",
         "location-Transstar-Sector-Exchange"
       ],
@@ -2390,6 +3204,15 @@
         "session-2"
       ],
       "links": [
+        "location-Quartier-Sainte-Libert",
+        "game-Session-2-Masks-and-Markers",
+        "location-Transstar-Sector-Exchange",
+        "location-Les-Jardins-Ferm-s",
+        "npc-Chief-Helene-Marchand",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate"
+      ],
+      "playerLinks": [
         "location-Quartier-Sainte-Libert",
         "game-Session-2-Masks-and-Markers",
         "location-Transstar-Sector-Exchange",
@@ -2426,6 +3249,9 @@
       "links": [
         "vehicle-TSS-Profondeur"
       ],
+      "playerLinks": [
+        "vehicle-TSS-Profondeur"
+      ],
       "aliases": [
         "Fournier",
         "Maelle Fournier"
@@ -2436,7 +3262,8 @@
       "keyLinks": [
         "[[TSS Profondeur]]"
       ],
-      "parent": "Crew-of-TSS-Profondeur"
+      "parent": "Crew-of-TSS-Profondeur",
+      "cover": "wiki/media/Maelle-Fournier.png"
     },
     {
       "id": "npc-Mara-Kovalenko",
@@ -2449,6 +3276,10 @@
         "diplomatic"
       ],
       "links": [
+        "location-Transstar-Sector-Exchange",
+        "location-Transstar-Sector-Exchange"
+      ],
+      "playerLinks": [
         "location-Transstar-Sector-Exchange",
         "location-Transstar-Sector-Exchange"
       ],
@@ -2471,6 +3302,23 @@
         "npc"
       ],
       "links": [
+        "event-Mercier-Assassination",
+        "location-Hall-des-Futurs-Choisis",
+        "location-Arcosphere-Rousseau",
+        "organization-Jardin-Syndicate",
+        "npc-Alain-Mercier",
+        "item-Identity-Veils",
+        "organization-Jardin-Syndicate",
+        "npc-Leo-Duprey",
+        "npc-Alain-Mercier",
+        "organization-Jardin-Syndicate",
+        "location-Hall-des-Futurs-Choisis",
+        "organization-SolSec",
+        "location-Arcosphere-Rousseau",
+        "unresolved:citizens-aid-cooperative",
+        "unresolved:the-floating-court"
+      ],
+      "playerLinks": [
         "event-Mercier-Assassination",
         "location-Hall-des-Futurs-Choisis",
         "location-Arcosphere-Rousseau",
@@ -2515,6 +3363,17 @@
         "npc-Camille-Dufour",
         "location-Providence"
       ],
+      "playerLinks": [
+        "character-Emma-Colbert-Laura",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Alain-Mercier",
+        "item-Merciers-Locked-Pad",
+        "npc-Camille-Dufour",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "character-Emma-Colbert-Laura",
+        "npc-Camille-Dufour",
+        "location-Providence"
+      ],
       "aliases": [
         "Marc Duncan"
       ],
@@ -2541,6 +3400,10 @@
         "location-Cr-che-District-14",
         "location-Cr-che-District-14"
       ],
+      "playerLinks": [
+        "location-Cr-che-District-14",
+        "location-Cr-che-District-14"
+      ],
       "aliases": [
         "Jean Mercier"
       ],
@@ -2562,6 +3425,22 @@
         "assassination"
       ],
       "links": [
+        "npc-Alain-Mercier",
+        "location-Hall-des-Futurs-Choisis",
+        "character-Ciernan-Seanislav-Peter",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "game-Session-2-Masks-and-Markers",
+        "event-Mercier-Frame-Up",
+        "npc-Alain-Mercier",
+        "npc-Elena-Verona",
+        "organization-Social-Solidarity",
+        "organization-Home-Guard",
+        "organization-Jardin-Syndicate",
+        "event-Mercier-Genetic-Findings",
+        "item-Mobile-Data-Tube"
+      ],
+      "playerLinks": [
         "npc-Alain-Mercier",
         "location-Hall-des-Futurs-Choisis",
         "character-Ciernan-Seanislav-Peter",
@@ -2614,6 +3493,18 @@
         "lore-Psychic-Clone-Conspiracy",
         "npc-Roman-Juma"
       ],
+      "playerLinks": [
+        "location-Mercier-Penthouse",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Alain-Mercier",
+        "character-Cass-Pien-Kolb",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "location-Mercier-Penthouse",
+        "npc-Alain-Mercier",
+        "item-Merciers-Locked-Pad",
+        "lore-Psychic-Clone-Conspiracy",
+        "npc-Roman-Juma"
+      ],
       "aliases": [
         "Mercier's Evidence",
         "Mercier Cache"
@@ -2650,6 +3541,18 @@
         "npc-Elena-Verona",
         "event-Mercier-Genetic-Findings"
       ],
+      "playerLinks": [
+        "npc-Alain-Mercier",
+        "character-Zoy-Damon",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "character-Emma-Colbert-Laura",
+        "item-Mobile-Data-Tube",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Inspector-Marc-Valois",
+        "npc-Elena-Verona",
+        "event-Mercier-Genetic-Findings"
+      ],
       "aliases": [
         "Official Frame-Up",
         "Mercier False Story"
@@ -2674,6 +3577,15 @@
         "session-2"
       ],
       "links": [
+        "item-Mobile-Data-Tube",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Alain-Mercier",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "lore-Psychic-Clone-Conspiracy",
+        "item-Merciers-Locked-Pad",
+        "item-Mercier-Evidence-Cache"
+      ],
+      "playerLinks": [
         "item-Mobile-Data-Tube",
         "game-Session-2-Masks-and-Markers",
         "npc-Alain-Mercier",
@@ -2721,6 +3633,19 @@
         "character-Emma-Colbert-Laura",
         "npc-Alain-Mercier"
       ],
+      "playerLinks": [
+        "game-Session-5-The-Oduya",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "location-Hadal-Research-Site",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "character-Varian-Svazz-Allen",
+        "npc-SolSec-Operative-at-Elyon",
+        "character-Victor-Mendes-Steinbach",
+        "character-Emma-Colbert-Laura",
+        "npc-Alain-Mercier"
+      ],
       "aliases": [
         "Mercier Double",
         "Hadal Survivor",
@@ -2748,6 +3673,21 @@
         "evidence"
       ],
       "links": [
+        "npc-Alain-Mercier",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Dan-Araujo-Josh",
+        "character-Victor-Mendes-Steinbach",
+        "organization-Home-Guard",
+        "item-Mercier-Evidence-Cache",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Alain-Mercier",
+        "item-Mercier-Evidence-Cache",
+        "organization-Home-Guard",
+        "lore-Psychic-Clone-Conspiracy"
+      ],
+      "playerLinks": [
         "npc-Alain-Mercier",
         "game-Session-6-Ghosts-in-the-Bloodline",
         "character-0-31-Saichi-Maru-Annette",
@@ -2819,6 +3759,32 @@
         "item-Mercier-Evidence-Cache",
         "lore-Psychic-Clone-Conspiracy"
       ],
+      "playerLinks": [
+        "npc-Alain-Mercier",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "event-Mercier-Genetic-Findings",
+        "lore-Clone-Rebirth-Program",
+        "lore-Psychic-Clone-Conspiracy",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "event-Friday-Party-Congress-Hearing",
+        "organization-Social-Solidarity",
+        "location-Providence",
+        "character-Emma-Colbert-Laura",
+        "npc-Mark-Duncan",
+        "npc-Camille-Dufour",
+        "organization-Social-Solidarity",
+        "item-Mercier-Evidence-Cache",
+        "event-Mercier-Assassination",
+        "event-Mercier-Frame-Up",
+        "npc-Alain-Mercier",
+        "event-Mercier-Genetic-Findings",
+        "organization-Social-Solidarity",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Camille-Dufour",
+        "location-Providence",
+        "item-Mercier-Evidence-Cache",
+        "lore-Psychic-Clone-Conspiracy"
+      ],
       "aliases": [
         "Mercier's Tablet",
         "Minister's Pad",
@@ -2852,6 +3818,11 @@
         "character-Judith-Dumont-Carla",
         "npc-Keith-Morris"
       ],
+      "playerLinks": [
+        "location-Jardin",
+        "character-Judith-Dumont-Carla",
+        "npc-Keith-Morris"
+      ],
       "aliases": [],
       "summary": "A low-key destination one jump from Jardin, considered as a possible escape target.",
       "visibility": "players",
@@ -2873,6 +3844,12 @@
         "session-2"
       ],
       "links": [
+        "location-Hall-des-Futurs-Choisis",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Dr-Luc-Moreau",
+        "event-Mercier-Genetic-Findings"
+      ],
+      "playerLinks": [
         "location-Hall-des-Futurs-Choisis",
         "game-Session-2-Masks-and-Markers",
         "npc-Dr-Luc-Moreau",
@@ -2907,6 +3884,10 @@
         "organization-Social-Solidarity",
         "location-Arcosphere-Rousseau"
       ],
+      "playerLinks": [
+        "organization-Social-Solidarity",
+        "location-Arcosphere-Rousseau"
+      ],
       "aliases": [
         "Giroux"
       ],
@@ -2928,6 +3909,10 @@
         "transstar"
       ],
       "links": [
+        "organization-Transstar",
+        "organization-Transstar"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "organization-Transstar"
       ],
@@ -2954,6 +3939,13 @@
         "session-1"
       ],
       "links": [
+        "character-Emma-Colbert-Laura",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "game-Session-1-Official-Business",
+        "location-Transstar-Sector-Exchange"
+      ],
+      "playerLinks": [
         "character-Emma-Colbert-Laura",
         "npc-Marcel-Delphine",
         "organization-Jardin-Syndicate",
@@ -2999,6 +3991,20 @@
         "character-Emma-Colbert-Laura",
         "character-Victor-Mendes-Steinbach"
       ],
+      "playerLinks": [
+        "item-Sunken-Ship-Boat",
+        "game-Session-5-The-Oduya",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "character-0-31-Saichi-Maru-Annette",
+        "vehicle-TSS-Profondeur",
+        "organization-Jardin-Syndicate",
+        "item-Transponder-Swap-Box",
+        "npc-Alain-Mercier",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "character-Varian-Svazz-Allen",
+        "character-Emma-Colbert-Laura",
+        "character-Victor-Mendes-Steinbach"
+      ],
       "aliases": [
         "The Oduya",
         "Sunken Ship-Boat",
@@ -3024,6 +4030,10 @@
         "engineering"
       ],
       "links": [
+        "organization-Transstar",
+        "organization-Transstar"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "organization-Transstar"
       ],
@@ -3054,6 +4064,12 @@
         "location-Quartier-Danton",
         "organization-Social-Solidarity"
       ],
+      "playerLinks": [
+        "location-Quartier-Danton",
+        "organization-Social-Solidarity",
+        "location-Quartier-Danton",
+        "organization-Social-Solidarity"
+      ],
       "aliases": [
         "Gauthier"
       ],
@@ -3079,6 +4095,12 @@
         "npc-Etienne-Marchand",
         "npc-Captain-Victor-Mendes"
       ],
+      "playerLinks": [
+        "npc-Director-Luc-Beaumont",
+        "npc-Commander-Sophie-Durand",
+        "npc-Etienne-Marchand",
+        "npc-Captain-Victor-Mendes"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -3097,6 +4119,13 @@
         "session-5"
       ],
       "links": [
+        "game-Session-5-The-Oduya",
+        "npc-Chief-Helene-Marchand",
+        "npc-Alain-Mercier",
+        "location-Hadal-Research-Site",
+        "event-Mercier-Frame-Up"
+      ],
+      "playerLinks": [
         "game-Session-5-The-Oduya",
         "npc-Chief-Helene-Marchand",
         "npc-Alain-Mercier",
@@ -3128,6 +4157,10 @@
         "location-Quartier-Danton",
         "location-Quartier-Danton"
       ],
+      "playerLinks": [
+        "location-Quartier-Danton",
+        "location-Quartier-Danton"
+      ],
       "aliases": [
         "Emile Laurent"
       ],
@@ -3149,6 +4182,10 @@
         "academic"
       ],
       "links": [
+        "location-Les-Jardins-Ferm-s",
+        "location-Les-Jardins-Ferm-s"
+      ],
+      "playerLinks": [
         "location-Les-Jardins-Ferm-s",
         "location-Les-Jardins-Ferm-s"
       ],
@@ -3174,6 +4211,20 @@
         "social-solidarity"
       ],
       "links": [
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Alain-Mercier",
+        "item-Merciers-Locked-Pad",
+        "character-Emma-Colbert-Laura",
+        "npc-Mark-Duncan",
+        "npc-Camille-Dufour",
+        "organization-Social-Solidarity",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Camille-Dufour",
+        "item-Merciers-Locked-Pad",
+        "lore-Psychic-Clone-Conspiracy",
+        "organization-Social-Solidarity"
+      ],
+      "playerLinks": [
         "game-Session-6-Ghosts-in-the-Bloodline",
         "npc-Alain-Mercier",
         "item-Merciers-Locked-Pad",
@@ -3233,6 +4284,27 @@
         "lore-Clone-Rebirth-Program",
         "location-Providence"
       ],
+      "playerLinks": [
+        "event-Mercier-Assassination",
+        "event-Mercier-Frame-Up",
+        "event-Mercier-Genetic-Findings",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Alain-Mercier",
+        "organization-Social-Solidarity",
+        "event-Mercier-Assassination",
+        "event-Mercier-Genetic-Findings",
+        "item-Merciers-Locked-Pad",
+        "item-Mercier-Evidence-Cache",
+        "location-Providence",
+        "npc-Camille-Dufour",
+        "event-Prime-Minister-Bombing",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "organization-Social-Solidarity",
+        "npc-Alain-Mercier",
+        "item-Mercier-Evidence-Cache",
+        "lore-Clone-Rebirth-Program",
+        "location-Providence"
+      ],
       "aliases": [
         "Genetic Blackmail Program",
         "Social Solidarity Psyker Faction",
@@ -3262,6 +4334,12 @@
         "npc-Alain-Mercier",
         "npc-Pierre-Gauthier"
       ],
+      "playerLinks": [
+        "npc-Professor-Emile-Laurent",
+        "npc-Juliette-Mercier",
+        "npc-Alain-Mercier",
+        "npc-Pierre-Gauthier"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -3278,6 +4356,12 @@
         "location"
       ],
       "links": [
+        "npc-Marcel-Delphine",
+        "npc-Colette-Moreau",
+        "npc-Lucien-Roche",
+        "npc-Inspector-Adrien-Martin"
+      ],
+      "playerLinks": [
         "npc-Marcel-Delphine",
         "npc-Colette-Moreau",
         "npc-Lucien-Roche",
@@ -3301,6 +4385,13 @@
         "session-3"
       ],
       "links": [
+        "location-Transstar-Sector-Exchange",
+        "game-Session-3-Transstar-Day",
+        "location-Transstar-Sector-Exchange",
+        "lore-Transstar-Employment-Contract",
+        "game-Session-3-Transstar-Day"
+      ],
+      "playerLinks": [
         "location-Transstar-Sector-Exchange",
         "game-Session-3-Transstar-Day",
         "location-Transstar-Sector-Exchange",
@@ -3333,6 +4424,10 @@
         "vehicle-TSS-Profondeur",
         "npc-Mercier-Lookalike-Survivor"
       ],
+      "playerLinks": [
+        "vehicle-TSS-Profondeur",
+        "npc-Mercier-Lookalike-Survivor"
+      ],
       "aliases": [
         "Relay 932"
       ],
@@ -3342,7 +4437,8 @@
       "keyLinks": [
         "[[TSS Profondeur]]",
         "[[Undersea Base Elyon]]"
-      ]
+      ],
+      "cover": "wiki/media/Hadal-Undersea-Map.png"
     },
     {
       "id": "npc-Remi-Beauchamp",
@@ -3361,6 +4457,11 @@
         "location-Hadal-Research-Site",
         "location-Undersea-Base-Elyon"
       ],
+      "playerLinks": [
+        "vehicle-TSS-Profondeur",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon"
+      ],
       "aliases": [
         "Beauchamp",
         "Remi Beauchamp"
@@ -3372,7 +4473,8 @@
         "[[TSS Profondeur]]",
         "[[Relay Station 932]]"
       ],
-      "parent": "Crew-of-TSS-Profondeur"
+      "parent": "Crew-of-TSS-Profondeur",
+      "cover": "wiki/media/Remi-Beauchamp.png"
     },
     {
       "id": "npc-Roman-Juma",
@@ -3386,6 +4488,15 @@
         "session-6"
       ],
       "links": [
+        "character-Cass-Pien-Kolb",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "location-Mercier-Penthouse",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "character-Cass-Pien-Kolb",
+        "item-Mercier-Evidence-Cache",
+        "lore-Psychic-Clone-Conspiracy"
+      ],
+      "playerLinks": [
         "character-Cass-Pien-Kolb",
         "game-Session-6-Ghosts-in-the-Bloodline",
         "location-Mercier-Penthouse",
@@ -3421,6 +4532,11 @@
         "clue-Jardinian-Naval-SOS",
         "location-Undersea-Base-Elyon"
       ],
+      "playerLinks": [
+        "vehicle-TSS-Profondeur",
+        "clue-Jardinian-Naval-SOS",
+        "location-Undersea-Base-Elyon"
+      ],
       "aliases": [
         "Sabine"
       ],
@@ -3431,7 +4547,8 @@
         "[[TSS Profondeur]]",
         "[[Undersea Suits]]"
       ],
-      "parent": "Crew-of-TSS-Profondeur"
+      "parent": "Crew-of-TSS-Profondeur",
+      "cover": "wiki/media/Sabine-Caron.png"
     },
     {
       "id": "npc-Sarah-Chen",
@@ -3444,6 +4561,12 @@
         "intelligence"
       ],
       "links": [
+        "organization-Transstar",
+        "organization-SolSec",
+        "organization-Transstar",
+        "organization-SolSec"
+      ],
+      "playerLinks": [
         "organization-Transstar",
         "organization-SolSec",
         "organization-Transstar",
@@ -3474,6 +4597,9 @@
       "links": [
         "game-Session-2-Masks-and-Markers"
       ],
+      "playerLinks": [
+        "game-Session-2-Masks-and-Markers"
+      ],
       "aliases": [
         "Modified Burner Phones",
         "Burner Comms"
@@ -3497,6 +4623,12 @@
         "session-5"
       ],
       "links": [
+        "character-Emma-Colbert-Laura",
+        "game-Session-5-The-Oduya",
+        "npc-Alain-Mercier",
+        "item-Sunken-Ship-Boat"
+      ],
+      "playerLinks": [
         "character-Emma-Colbert-Laura",
         "game-Session-5-The-Oduya",
         "npc-Alain-Mercier",
@@ -3561,6 +4693,48 @@
         "character-Victor-Mendes-Steinbach",
         "character-Zoy-Damon"
       ],
+      "playerLinks": [
+        "event-Mercier-Assassination",
+        "event-Mercier-Frame-Up",
+        "npc-Marcel-Delphine",
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Alain-Mercier",
+        "organization-Social-Solidarity",
+        "organization-Home-Guard",
+        "character-Emma-Colbert-Laura",
+        "character-0-31-Saichi-Maru-Annette",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "item-Identity-Veils",
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Alain-Mercier",
+        "character-Ciernan-Seanislav-Peter",
+        "npc-Elena-Verona",
+        "character-Emma-Colbert-Laura",
+        "character-0-31-Saichi-Maru-Annette",
+        "npc-Marcel-Delphine",
+        "organization-Jardin-Syndicate",
+        "character-Zoy-Damon",
+        "item-Identity-Veils",
+        "location-Transstar-Sector-Exchange",
+        "event-Mercier-Assassination",
+        "event-Mercier-Frame-Up",
+        "event-False-News-Broadcast",
+        "item-Identity-Veils",
+        "item-Merciers-Locked-Pad",
+        "event-Friday-Party-Congress-Hearing",
+        "item-Sunken-Ship-Boat",
+        "npc-Nico-Gay",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -3578,6 +4752,67 @@
         "session-2"
       ],
       "links": [
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Identity-Veils",
+        "location-Hall-des-Futurs-Choisis",
+        "organization-Social-Solidarity",
+        "organization-SolSec",
+        "npc-Inspector-Marc-Valois",
+        "item-Mobile-Data-Tube",
+        "npc-Dr-Luc-Moreau",
+        "npc-Lucin",
+        "location-Les-Jardins-Ferm-s",
+        "npc-Chief-Helene-Marchand",
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Identity-Veils",
+        "location-Hall-des-Futurs-Choisis",
+        "organization-Social-Solidarity",
+        "organization-SolSec",
+        "character-Emma-Colbert-Laura",
+        "npc-Inspector-Marc-Valois",
+        "npc-Dr-Luc-Moreau",
+        "item-Mobile-Data-Tube",
+        "character-Zoy-Damon",
+        "character-Cass-Pien-Kolb",
+        "character-Varian-Svazz-Allen",
+        "location-Quartier-Sainte-Libert",
+        "npc-Lucin",
+        "location-Les-Jardins-Ferm-s",
+        "npc-Chief-Helene-Marchand",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "npc-Dr-Luc-Moreau",
+        "item-Mobile-Data-Tube",
+        "character-Ciernan-Seanislav-Peter",
+        "item-Secure-Burner-Comms",
+        "character-Dan-Araujo-Josh",
+        "npc-Lucin",
+        "character-Emma-Colbert-Laura",
+        "npc-Inspector-Marc-Valois",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "organization-SolSec",
+        "character-Zoy-Damon",
+        "event-Mercier-Genetic-Findings",
+        "item-Mobile-Data-Tube",
+        "npc-Dr-Luc-Moreau",
+        "npc-Inspector-Marc-Valois",
+        "npc-Lucin",
+        "npc-Chief-Helene-Marchand",
+        "item-Identity-Veils",
+        "location-Transstar-Sector-Exchange",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon"
+      ],
+      "playerLinks": [
         "character-0-31-Saichi-Maru-Annette",
         "item-Identity-Veils",
         "location-Hall-des-Futurs-Choisis",
@@ -3704,6 +4939,48 @@
         "event-Aquatic-Salvage-Project",
         "organization-Undersea-Extremists"
       ],
+      "playerLinks": [
+        "item-Identity-Veils",
+        "npc-Inspector-Marc-Valois",
+        "npc-Lucin",
+        "location-Transstar-Sector-Exchange",
+        "item-Mobile-Data-Tube",
+        "location-La-Porte-Fiel",
+        "item-Merciers-Locked-Pad",
+        "npc-Reena-Kessler",
+        "npc-Claire-Bouchard",
+        "event-Aquatic-Salvage-Project",
+        "item-Identity-Veils",
+        "npc-Marcel-Delphine",
+        "npc-Dr-Luc-Moreau",
+        "npc-Inspector-Marc-Valois",
+        "location-Transstar-Sector-Exchange",
+        "location-La-Porte-Fiel",
+        "item-Merciers-Locked-Pad",
+        "npc-Reena-Kessler",
+        "organization-Transstar-Peacekeepers",
+        "npc-Claire-Bouchard",
+        "event-Aquatic-Salvage-Project",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon",
+        "npc-Lucin",
+        "location-La-Porte-Fiel",
+        "npc-Inspector-Marc-Valois",
+        "item-Merciers-Locked-Pad",
+        "location-Transstar-Sector-Exchange",
+        "npc-Reena-Kessler",
+        "npc-Claire-Bouchard",
+        "lore-Transstar-Employment-Contract",
+        "event-Aquatic-Salvage-Project",
+        "organization-Undersea-Extremists"
+      ],
       "aliases": [
         "Game 3",
         "Chapter 1 Game 3"
@@ -3781,6 +5058,56 @@
         "character-Victor-Mendes-Steinbach",
         "character-Zoy-Damon"
       ],
+      "playerLinks": [
+        "event-Aquatic-Salvage-Project",
+        "vehicle-TSS-Profondeur",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "location-Hadal-Research-Site",
+        "clue-Jardinian-Naval-SOS",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "organization-SolSec",
+        "event-Aquatic-Salvage-Project",
+        "vehicle-TSS-Profondeur",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "clue-Jardinian-Naval-SOS",
+        "location-Hadal-Research-Site",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "organization-SolSec",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-SolSec-Operative-at-Elyon",
+        "location-Transstar-Sector-Exchange",
+        "location-Fort-Robespierre-Naval-Annex",
+        "vehicle-TSS-Profondeur",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "location-Relay-Station-932",
+        "organization-Transstar",
+        "organization-Jardin-Navy",
+        "organization-SolSec",
+        "organization-Undersea-Extremists",
+        "npc-Alain-Mercier",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "character-Judith-Dumont-Carla",
+        "character-Varian-Svazz-Allen",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon"
+      ],
       "aliases": [
         "Game 4",
         "Chapter 1 Game 4",
@@ -3809,6 +5136,66 @@
         "oduya"
       ],
       "links": [
+        "location-Undersea-Base-Elyon",
+        "npc-SolSec-Operative-at-Elyon",
+        "character-Zoy-Damon",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Emma-Colbert-Laura",
+        "character-Victor-Mendes-Steinbach",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "location-Hadal-Research-Site",
+        "item-Sunken-Ship-Boat",
+        "npc-Etienne-Valcourt",
+        "vehicle-TSS-Profondeur",
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Sunken-Ship-Boat",
+        "organization-Jardin-Syndicate",
+        "item-Transponder-Swap-Box",
+        "npc-Anita-Singh",
+        "npc-Sergey-Sun",
+        "npc-Inspector-Marc-Valois",
+        "npc-Alain-Mercier",
+        "event-Prime-Minister-Bombing",
+        "npc-Etienne-Valcourt",
+        "organization-Jardin-Syndicate",
+        "item-Transponder-Swap-Box",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Emma-Colbert-Laura",
+        "character-Victor-Mendes-Steinbach",
+        "character-Ciernan-Seanislav-Peter",
+        "character-Zoy-Damon",
+        "character-Dan-Araujo-Josh",
+        "character-Cass-Pien-Kolb",
+        "character-Varian-Svazz-Allen",
+        "character-Judith-Dumont-Carla",
+        "location-Undersea-Base-Elyon",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box",
+        "npc-Alain-Mercier",
+        "npc-Etienne-Valcourt",
+        "npc-Anita-Singh",
+        "npc-Sergey-Sun",
+        "npc-SolSec-Operative-at-Elyon",
+        "location-Undersea-Base-Elyon",
+        "vehicle-TSS-Profondeur",
+        "location-Hadal-Research-Site",
+        "item-Sunken-Ship-Boat",
+        "organization-Transstar",
+        "organization-Jardin-Navy",
+        "organization-SolSec",
+        "organization-Jardin-Syndicate",
+        "organization-Undersea-Extremists",
+        "npc-Alain-Mercier",
+        "event-Prime-Minister-Bombing",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box"
+      ],
+      "playerLinks": [
         "location-Undersea-Base-Elyon",
         "npc-SolSec-Operative-at-Elyon",
         "character-Zoy-Damon",
@@ -3963,6 +5350,71 @@
         "npc-Director-General-Camille-Fournier",
         "npc-Camille-Dufour"
       ],
+      "playerLinks": [
+        "organization-Transstar",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "character-Emma-Colbert-Laura",
+        "character-Varian-Svazz-Allen",
+        "item-Merciers-Locked-Pad",
+        "npc-Alain-Mercier",
+        "location-Providence",
+        "npc-Mark-Duncan",
+        "npc-Camille-Dufour",
+        "organization-Social-Solidarity",
+        "lore-Psychic-Clone-Conspiracy",
+        "event-Mercier-Assassination",
+        "character-Cass-Pien-Kolb",
+        "npc-Roman-Juma",
+        "location-Mercier-Penthouse",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Dan-Araujo-Josh",
+        "character-Victor-Mendes-Steinbach",
+        "organization-Home-Guard",
+        "item-Mercier-Evidence-Cache",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "vehicle-TSS-Profondeur",
+        "location-Providence",
+        "event-Mercier-Assassination",
+        "location-Providence",
+        "npc-Mark-Duncan",
+        "npc-Camille-Dufour",
+        "npc-Roman-Juma",
+        "vehicle-TSS-Profondeur",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "npc-Roman-Juma",
+        "character-Dan-Araujo-Josh",
+        "character-Emma-Colbert-Laura",
+        "npc-Mark-Duncan",
+        "npc-Camille-Dufour",
+        "character-Victor-Mendes-Steinbach",
+        "character-Zoy-Damon",
+        "character-Varian-Svazz-Allen",
+        "character-Judith-Dumont-Carla",
+        "character-Ciernan-Seanislav-Peter",
+        "npc-Alain-Mercier",
+        "npc-Camille-Dufour",
+        "npc-Mark-Duncan",
+        "npc-Roman-Juma",
+        "npc-Director-General-Camille-Fournier",
+        "npc-Etienne-Valcourt",
+        "item-Sunken-Ship-Boat",
+        "location-Transstar-Sector-Exchange",
+        "location-Mercier-Penthouse",
+        "location-Undersea-Base-Elyon",
+        "vehicle-TSS-Profondeur",
+        "location-Providence",
+        "organization-Transstar",
+        "organization-Social-Solidarity",
+        "organization-SolSec",
+        "organization-Home-Guard",
+        "organization-Jardin-Navy",
+        "npc-Director-General-Camille-Fournier",
+        "npc-Camille-Dufour"
+      ],
       "aliases": [
         "Game 6",
         "Chapter 1 Game 6",
@@ -4040,6 +5492,53 @@
         "item-Mercier-Evidence-Cache",
         "npc-Camille-Dufour"
       ],
+      "playerLinks": [
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "location-Mercier-Penthouse",
+        "vehicle-TSS-Profondeur",
+        "character-Victor-Mendes-Steinbach",
+        "npc-Etienne-Valcourt",
+        "organization-Transstar",
+        "location-Crushed-Trench",
+        "vehicle-Deep-Trench-Minisub",
+        "character-Dan-Araujo-Josh",
+        "character-Cass-Pien-Kolb",
+        "character-Emma-Colbert-Laura",
+        "character-Varian-Svazz-Allen",
+        "character-Zoy-Damon",
+        "character-Judith-Dumont-Carla",
+        "npc-Francis-Adams",
+        "location-Krypton",
+        "item-Sunken-Ship-Boat",
+        "organization-Social-Solidarity",
+        "character-Emma-Colbert-Laura",
+        "character-Dan-Araujo-Josh",
+        "character-Cass-Pien-Kolb",
+        "character-Victor-Mendes-Steinbach",
+        "character-Varian-Svazz-Allen",
+        "character-Zoy-Damon",
+        "character-Judith-Dumont-Carla",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Ciernan-Seanislav-Peter",
+        "npc-Etienne-Valcourt",
+        "npc-Francis-Adams",
+        "character-Judith-Dumont-Carla",
+        "npc-Alain-Mercier",
+        "vehicle-TSS-Profondeur",
+        "location-Crushed-Trench",
+        "location-Hidden-Clone-Community",
+        "location-Krypton",
+        "location-Providence",
+        "organization-Transstar",
+        "organization-SolSec",
+        "organization-Social-Solidarity",
+        "organization-Undersea-Extremists",
+        "organization-Undersea-Extremists",
+        "lore-Psychic-Clone-Conspiracy",
+        "lore-Clone-Rebirth-Program",
+        "item-Mercier-Evidence-Cache",
+        "npc-Camille-Dufour"
+      ],
       "aliases": [
         "Game 7",
         "Chapter 1 Game 7",
@@ -4069,6 +5568,9 @@
       "links": [
         "location-Arcosphere-Rousseau"
       ],
+      "playerLinks": [
+        "location-Arcosphere-Rousseau"
+      ],
       "aliases": [
         "Celeste Moreau"
       ],
@@ -4088,6 +5590,26 @@
         "organization"
       ],
       "links": [
+        "game-Session-1-Official-Business",
+        "npc-Elena-Verona",
+        "event-Mercier-Assassination",
+        "organization-SolSec",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Inspector-Marc-Valois",
+        "organization-SolSec",
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Alain-Mercier",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "item-Merciers-Locked-Pad",
+        "item-Mercier-Evidence-Cache",
+        "lore-Psychic-Clone-Conspiracy",
+        "npc-Camille-Dufour",
+        "location-Providence",
+        "npc-Leo-Duprey",
+        "npc-Director-General-Camille-Fournier",
+        "npc-Inspector-General-Marc-Villeneuve"
+      ],
+      "playerLinks": [
         "game-Session-1-Official-Business",
         "npc-Elena-Verona",
         "event-Mercier-Assassination",
@@ -4144,6 +5666,28 @@
         "location-Providence",
         "lore-Psychic-Clone-Conspiracy"
       ],
+      "playerLinks": [
+        "organization-Social-Solidarity",
+        "character-Emma-Colbert-Laura",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Inspector-Marc-Valois",
+        "event-Mercier-Assassination",
+        "location-Hall-des-Futurs-Choisis",
+        "organization-Social-Solidarity",
+        "game-Session-1-Official-Business",
+        "game-Session-2-Masks-and-Markers",
+        "location-Undersea-Base-Elyon",
+        "npc-SolSec-Operative-at-Elyon",
+        "npc-Mercier-Lookalike-Survivor",
+        "character-Emma-Colbert-Laura",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "character-Emma-Colbert-Laura",
+        "npc-Mark-Duncan",
+        "npc-Alain-Mercier",
+        "npc-Camille-Dufour",
+        "location-Providence",
+        "lore-Psychic-Clone-Conspiracy"
+      ],
       "aliases": [
         "Solomani Security"
       ],
@@ -4168,6 +5712,15 @@
         "session-5"
       ],
       "links": [
+        "location-Undersea-Base-Elyon",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-Alain-Mercier",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "npc-Inspector-Marc-Valois"
+      ],
+      "playerLinks": [
         "location-Undersea-Base-Elyon",
         "game-Session-4-Into-the-Hadal-Deep",
         "npc-Mercier-Lookalike-Survivor",
@@ -4233,6 +5786,35 @@
         "game-Session-1-Official-Business",
         "game-Session-5-The-Oduya"
       ],
+      "playerLinks": [
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "game-Session-5-The-Oduya",
+        "character-Cass-Pien-Kolb",
+        "location-Port-Sainte-Jeanne-Downport",
+        "game-Session-5-The-Oduya",
+        "event-Aquatic-Salvage-Project",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "npc-Keith-Morris",
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Transponder-Swap-Box",
+        "npc-Alain-Mercier",
+        "vehicle-TSS-Profondeur",
+        "npc-Anita-Singh",
+        "organization-Jardin-Syndicate",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box",
+        "npc-Alain-Mercier",
+        "character-Cass-Pien-Kolb",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box",
+        "location-Port-Sainte-Jeanne-Downport",
+        "npc-Keith-Morris",
+        "location-Miasma",
+        "game-Session-1-Official-Business",
+        "game-Session-5-The-Oduya"
+      ],
       "aliases": [
         "Broken Ship-Boat",
         "Submerged Ship-Boat",
@@ -4287,6 +5869,29 @@
         "character-Emma-Colbert-Laura",
         "npc-Etienne-Valcourt"
       ],
+      "playerLinks": [
+        "event-Aquatic-Salvage-Project",
+        "organization-Transstar",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "location-Undersea-Base-Elyon",
+        "npc-Etienne-Valcourt",
+        "item-Sunken-Ship-Boat",
+        "npc-Alain-Mercier",
+        "item-Sunken-Ship-Boat",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "event-Aquatic-Salvage-Project",
+        "item-Merciers-Locked-Pad",
+        "item-Mercier-Evidence-Cache",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "character-Emma-Colbert-Laura",
+        "npc-Etienne-Valcourt"
+      ],
       "aliases": [
         "Profondeur",
         "The Profondeur"
@@ -4299,7 +5904,8 @@
         "[[Étienne Valcourt]]",
         "[[Hadal Research Site]]",
         "[[Oduya]]"
-      ]
+      ],
+      "cover": "wiki/media/TSS-Profondeur-Logo.png"
     },
     {
       "id": "event-Timeline",
@@ -4311,6 +5917,78 @@
         "event"
       ],
       "links": [
+        "location-Hall-des-Futurs-Choisis",
+        "npc-Alain-Mercier",
+        "npc-Elena-Verona",
+        "organization-Home-Guard",
+        "character-0-31-Saichi-Maru-Annette",
+        "location-Arcosphere-Rousseau",
+        "npc-Marcel-Delphine",
+        "item-Identity-Veils",
+        "organization-Jardin-Syndicate",
+        "event-Mercier-Frame-Up",
+        "character-Zoy-Damon",
+        "item-Merciers-Locked-Pad",
+        "location-Transstar-Sector-Exchange",
+        "item-Sunken-Ship-Boat",
+        "location-Miasma",
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Identity-Veils",
+        "location-Hall-des-Futurs-Choisis",
+        "organization-Social-Solidarity",
+        "organization-SolSec",
+        "character-Emma-Colbert-Laura",
+        "npc-Inspector-Marc-Valois",
+        "npc-Dr-Luc-Moreau",
+        "item-Mobile-Data-Tube",
+        "event-Mercier-Genetic-Findings",
+        "item-Secure-Burner-Comms",
+        "npc-Lucin",
+        "location-Transstar-Sector-Exchange",
+        "location-Les-Jardins-Ferm-s",
+        "npc-Chief-Helene-Marchand",
+        "npc-Marcel-Delphine",
+        "item-Identity-Veils",
+        "organization-SolSec",
+        "location-Transstar-Sector-Exchange",
+        "item-Merciers-Locked-Pad",
+        "location-Transstar-Sector-Exchange",
+        "item-Identity-Veils",
+        "character-Emma-Colbert-Laura",
+        "npc-Claire-Bouchard",
+        "event-Aquatic-Salvage-Project",
+        "vehicle-TSS-Profondeur",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "location-Hadal-Research-Site",
+        "npc-Alain-Mercier",
+        "vehicle-TSS-Profondeur",
+        "location-Undersea-Base-Elyon",
+        "npc-SolSec-Operative-at-Elyon",
+        "npc-Mercier-Lookalike-Survivor",
+        "clue-Jardinian-Naval-SOS",
+        "event-Aquatic-Salvage-Project",
+        "event-Mercier-Frame-Up",
+        "location-Undersea-Base-Elyon",
+        "character-Emma-Colbert-Laura",
+        "character-Victor-Mendes-Steinbach",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "location-Hadal-Research-Site",
+        "event-Prime-Minister-Bombing",
+        "vehicle-TSS-Profondeur",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "item-Transponder-Swap-Box",
+        "npc-Anita-Singh",
+        "npc-Sergey-Sun",
+        "item-Sunken-Ship-Boat",
+        "npc-Alain-Mercier",
+        "event-Prime-Minister-Bombing"
+      ],
+      "playerLinks": [
         "location-Hall-des-Futurs-Choisis",
         "npc-Alain-Mercier",
         "npc-Elena-Verona",
@@ -4410,6 +6088,12 @@
         "game-Session-5-The-Oduya",
         "game-Session-6-Ghosts-in-the-Bloodline"
       ],
+      "playerLinks": [
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Sunken-Ship-Boat",
+        "game-Session-5-The-Oduya",
+        "game-Session-6-Ghosts-in-the-Bloodline"
+      ],
       "aliases": [
         "Ship Transponder Box",
         "Oduya Transponders"
@@ -4460,11 +6144,42 @@
         "character-0-31-Saichi-Maru-Annette",
         "item-Sunken-Ship-Boat"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "npc-Etienne-Valcourt",
+        "location-Crushed-Trench",
+        "location-Hidden-Clone-Community",
+        "npc-Etienne-Moreau",
+        "npc-Claire-Bouchard",
+        "npc-Captain-Victor-Mendes",
+        "npc-Nadine-Pelletier",
+        "npc-Luc-Girard",
+        "npc-Sarah-Chen",
+        "npc-Armand-Rousselet",
+        "npc-Elena-Kovacs",
+        "npc-Philippe-Laurent",
+        "npc-Amelia-Torres",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "vehicle-TSS-Profondeur",
+        "event-Aquatic-Salvage-Project",
+        "location-Hadal-Research-Site",
+        "npc-Mercier-Lookalike-Survivor",
+        "location-Undersea-Base-Elyon",
+        "organization-SolSec",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "item-Merciers-Locked-Pad",
+        "character-Emma-Colbert-Laura",
+        "npc-Alain-Mercier",
+        "vehicle-TSS-Profondeur",
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Sunken-Ship-Boat"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Transstar-Logo.png"
     },
     {
       "id": "lore-Transstar-Employment-Contract",
@@ -4477,6 +6192,16 @@
         "session-3"
       ],
       "links": [
+        "game-Session-3-Transstar-Day",
+        "location-Transstar-Sector-Exchange",
+        "item-Identity-Veils",
+        "npc-Claire-Bouchard",
+        "npc-Reena-Kessler",
+        "organization-Transstar-Peacekeepers",
+        "event-Aquatic-Salvage-Project",
+        "game-Session-3-Transstar-Day"
+      ],
+      "playerLinks": [
         "game-Session-3-Transstar-Day",
         "location-Transstar-Sector-Exchange",
         "item-Identity-Veils",
@@ -4519,6 +6244,15 @@
         "lore-Transstar-Employment-Contract",
         "game-Session-3-Transstar-Day"
       ],
+      "playerLinks": [
+        "location-Transstar-Sector-Exchange",
+        "game-Session-3-Transstar-Day",
+        "item-Identity-Veils",
+        "organization-Transstar",
+        "location-Transstar-Sector-Exchange",
+        "lore-Transstar-Employment-Contract",
+        "game-Session-3-Transstar-Day"
+      ],
       "aliases": [
         "Peacekeepers"
       ],
@@ -4539,6 +6273,16 @@
         "location"
       ],
       "links": [
+        "npc-Antoine-Mercier",
+        "npc-Commissioner-Isabelle-Fournier",
+        "npc-Lucien-Voss",
+        "npc-Mara-Kovalenko",
+        "event-Mercier-Frame-Up",
+        "item-Identity-Veils",
+        "game-Session-2-Masks-and-Markers",
+        "npc-Lucin"
+      ],
+      "playerLinks": [
         "npc-Antoine-Mercier",
         "npc-Commissioner-Isabelle-Fournier",
         "npc-Lucien-Voss",
@@ -4583,6 +6327,21 @@
         "npc-SolSec-Operative-at-Elyon",
         "vehicle-TSS-Profondeur"
       ],
+      "playerLinks": [
+        "location-Hadal-Research-Site",
+        "organization-SolSec",
+        "vehicle-TSS-Profondeur",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-SolSec-Operative-at-Elyon",
+        "character-Emma-Colbert-Laura",
+        "character-Victor-Mendes-Steinbach",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "npc-Alain-Mercier",
+        "npc-SolSec-Operative-at-Elyon",
+        "vehicle-TSS-Profondeur"
+      ],
       "aliases": [
         "Elyon",
         "Undersea Base Allion"
@@ -4596,7 +6355,8 @@
         "[[Alain Mercier]]",
         "[[Clone Rebirth Program]]",
         "[[SolSec Operative at Elyon]]"
-      ]
+      ],
+      "cover": "wiki/media/Hadal-Undersea-Map.png"
     },
     {
       "id": "organization-Undersea-Extremists",
@@ -4611,6 +6371,14 @@
         "session-4"
       ],
       "links": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "organization-Transstar",
+        "location-Hidden-Clone-Community",
+        "organization-Undersea-Extremists",
+        "location-Hadal-Research-Site",
+        "item-Sunken-Ship-Boat"
+      ],
+      "playerLinks": [
         "game-Session-7-Echoes-Beneath-the-Sea",
         "organization-Transstar",
         "location-Hidden-Clone-Community",
@@ -4647,6 +6415,10 @@
         "npc-Sabine-Caron",
         "vehicle-TSS-Profondeur"
       ],
+      "playerLinks": [
+        "npc-Sabine-Caron",
+        "vehicle-TSS-Profondeur"
+      ],
       "aliases": [
         "Transstar Undersea Suits",
         "Diving Suits"
@@ -4669,6 +6441,22 @@
         "character"
       ],
       "links": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "vehicle-Deep-Trench-Minisub",
+        "location-Transstar-Sector-Exchange",
+        "vehicle-TSS-Profondeur",
+        "location-Hadal-Research-Site",
+        "npc-Alain-Mercier",
+        "npc-Alain-Mercier",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "location-Mercier-Penthouse",
+        "character-Victor-Mendes-Steinbach",
+        "organization-Transstar",
+        "npc-Alain-Mercier",
+        "character-0-31-Saichi-Maru-Annette"
+      ],
+      "playerLinks": [
         "game-Session-7-Echoes-Beneath-the-Sea",
         "vehicle-Deep-Trench-Minisub",
         "location-Transstar-Sector-Exchange",
@@ -4722,6 +6510,30 @@
         "location-Arcosphere-Rousseau",
         "organization-SolSec"
       ],
+      "playerLinks": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "location-Hidden-Clone-Community",
+        "location-Transstar-Sector-Exchange",
+        "vehicle-TSS-Profondeur",
+        "location-Hadal-Research-Site",
+        "character-Emma-Colbert-Laura",
+        "location-Undersea-Base-Elyon",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "item-Sunken-Ship-Boat",
+        "character-0-31-Saichi-Maru-Annette",
+        "character-Cass-Pien-Kolb",
+        "character-Dan-Araujo-Josh",
+        "location-Mercier-Penthouse",
+        "organization-Home-Guard",
+        "item-Mercier-Evidence-Cache",
+        "character-Varian-Svazz-Allen",
+        "npc-Elena-Verona",
+        "location-Arcosphere-Rousseau",
+        "organization-SolSec"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -4737,6 +6549,28 @@
         "character"
       ],
       "links": [
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "location-Hidden-Clone-Community",
+        "event-Mercier-Assassination",
+        "event-False-News-Broadcast",
+        "npc-Alain-Mercier",
+        "organization-Jardin-Syndicate",
+        "location-Hall-des-Futurs-Choisis",
+        "item-Mobile-Data-Tube",
+        "character-Emma-Colbert-Laura",
+        "location-Transstar-Sector-Exchange",
+        "vehicle-TSS-Profondeur",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-SolSec-Operative-at-Elyon",
+        "npc-SolSec-Operative-at-Elyon",
+        "item-Sunken-Ship-Boat",
+        "item-Merciers-Locked-Pad",
+        "item-Sunken-Ship-Boat",
+        "character-Varian-Svazz-Allen",
+        "npc-Alain-Mercier",
+        "location-Providence"
+      ],
+      "playerLinks": [
         "game-Session-7-Echoes-Beneath-the-Sea",
         "location-Hidden-Clone-Community",
         "event-Mercier-Assassination",

@@ -43,6 +43,31 @@
       "Psychic Clone Conspiracy",
       "Dan Araujo (Josh)"
     ],
+    "playerLinks": [
+      "Session 2 - Masks and Markers",
+      "Hall des Futurs Choisis",
+      "Mercier Assassination",
+      "Dan Araujo (Josh)",
+      "Marcel Delphine",
+      "Identity Veils",
+      "Varian Svazz (Allen)",
+      "Transstar Sector Exchange",
+      "TSS Profondeur",
+      "Mercier Lookalike Survivor",
+      "Undersea Base Elyon",
+      "SolSec Operative at Elyon",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "Sunken Ship-Boat",
+      "TSS Profondeur",
+      "Transponder Swap Box",
+      "Oduya",
+      "Mercier Penthouse",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Psychic Clone Conspiracy",
+      "Dan Araujo (Josh)"
+    ],
     "backlinks": [
       "Campaign",
       "Dan-Araujo-Josh",
@@ -100,6 +125,10 @@
       "Fort Robespierre Naval Annex",
       "Fort Robespierre Naval Annex"
     ],
+    "playerLinks": [
+      "Fort Robespierre Naval Annex",
+      "Fort Robespierre Naval Annex"
+    ],
     "backlinks": [
       "Campaign",
       "Fort-Robespierre-Naval-Annex"
@@ -130,6 +159,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Arcosphere Rousseau"
+    ],
+    "playerLinks": [
       "Arcosphere Rousseau"
     ],
     "backlinks": [
@@ -169,6 +201,14 @@
       "SolSec",
       "Social Solidarity"
     ],
+    "playerLinks": [
+      "SolSec",
+      "Customs & Immigration Checkpoint Harmony",
+      "Social Solidarity",
+      "Customs & Immigration Checkpoint Harmony",
+      "SolSec",
+      "Social Solidarity"
+    ],
     "backlinks": [
       "Campaign",
       "Customs-Immigration-Checkpoint-Harmony"
@@ -197,6 +237,35 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 1 - Official Business",
+      "Hall des Futurs Choisis",
+      "Mercier's Locked Pad",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Session 2 - Masks and Markers",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings",
+      "Session 4 - Into the Hadal Deep",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "SolSec Operative at Elyon",
+      "Session 5 - The Oduya",
+      "Clone Rebirth Program",
+      "Hadal Research Site",
+      "Prime Minister Bombing",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Mercier Genetic Findings",
+      "Psychic Clone Conspiracy",
+      "Providence",
+      "Camille Dufour",
+      "Mercier Penthouse",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Undersea Base Elyon",
+      "TSS Profondeur"
+    ],
+    "playerLinks": [
       "Session 1 - Official Business",
       "Hall des Futurs Choisis",
       "Mercier's Locked Pad",
@@ -340,6 +409,12 @@
       "Transstar",
       "SolSec"
     ],
+    "playerLinks": [
+      "Transstar",
+      "SolSec",
+      "Transstar",
+      "SolSec"
+    ],
     "backlinks": [
       "Campaign",
       "Transstar"
@@ -370,6 +445,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Emma Colbert (Laura)",
+      "Session 5 - The Oduya",
+      "Oduya"
+    ],
+    "playerLinks": [
       "Emma Colbert (Laura)",
       "Session 5 - The Oduya",
       "Oduya"
@@ -409,6 +489,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "Transstar Sector Exchange",
+      "Transstar"
+    ],
+    "playerLinks": [
       "Transstar",
       "Transstar Sector Exchange",
       "Transstar"
@@ -467,6 +552,27 @@
       "Oduya",
       "Alain Mercier"
     ],
+    "playerLinks": [
+      "Session 3 - Transstar Day",
+      "Claire Bouchard",
+      "Session 4 - Into the Hadal Deep",
+      "TSS Profondeur",
+      "TSS Profondeur",
+      "Hadal Research Site",
+      "Dolphin Extremists",
+      "Undersea Extremists",
+      "Mercier Lookalike Survivor",
+      "TSS Profondeur",
+      "Sunken Ship-Boat",
+      "Etienne Valcourt",
+      "Oduya",
+      "Transponder Swap Box",
+      "Mercier Frame-Up",
+      "Sunken Ship-Boat",
+      "Mercier Assassination",
+      "Oduya",
+      "Alain Mercier"
+    ],
     "backlinks": [
       "Campaign",
       "Campaign",
@@ -495,6 +601,7 @@
       "[[Oduya]]",
       "[[Undersea Extremists]]"
     ],
+    "cover": "wiki/media/Hadal-Undersea-Map.png",
     "excerpt": "# Aquatic Salvage Project ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview The Aquatic Salvage Project is the party's first Transstar assignment after [[Session 3 - Transstar Day]]. [[Claire Bouchard]] assigns the group to the project during onboarding, and [[Session "
   },
   {
@@ -517,6 +624,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Adrien Pelletier",
+      "Nadia Giroux",
+      "Sister Celeste Moreau",
+      "Jacques Martin",
+      "Mercier Assassination",
+      "Victor Mendes (Steinbach)"
+    ],
+    "playerLinks": [
       "Adrien Pelletier",
       "Nadia Giroux",
       "Sister Celeste Moreau",
@@ -564,6 +679,10 @@
       "Transstar",
       "Transstar"
     ],
+    "playerLinks": [
+      "Transstar",
+      "Transstar"
+    ],
     "backlinks": [
       "Campaign",
       "Transstar"
@@ -594,6 +713,20 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercier's Locked Pad",
+      "Session 6 - Ghosts in the Bloodline",
+      "Providence",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Alain Mercier",
+      "Providence",
+      "Session 6 - Ghosts in the Bloodline",
+      "Providence",
+      "Alain Mercier",
+      "SolSec",
+      "Social Solidarity"
+    ],
+    "playerLinks": [
       "Mercier's Locked Pad",
       "Session 6 - Ghosts in the Bloodline",
       "Providence",
@@ -794,6 +927,148 @@
       "Sergey Sun",
       "Table Rules"
     ],
+    "playerLinks": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Session 7 - Echoes Beneath the Sea",
+      "Crushed Trench",
+      "Hidden Clone Community",
+      "Francis Adams",
+      "Krypton",
+      "TSS Profondeur",
+      "Deep-Trench Minisub",
+      "Providence",
+      "Alain Mercier",
+      "Hall des Futurs Choisis",
+      "Transstar",
+      "Mercier Frame-Up",
+      "Aquatic Salvage Project",
+      "TSS Profondeur",
+      "Session 5 - The Oduya",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Psychic Clone Conspiracy",
+      "Mercier Evidence Cache",
+      "Mercier Penthouse",
+      "Sunken Ship-Boat",
+      "Oduya",
+      "Transponder Swap Box",
+      "TSS Profondeur",
+      "Camille Dufour",
+      "Providence",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)",
+      "TSS Profondeur",
+      "Etienne Valcourt",
+      "Maelle Fournier",
+      "Remi Beauchamp",
+      "Sabine Caron",
+      "Crew of TSS Profondeur",
+      "TSS Profondeur",
+      "Crew of TSS Profondeur",
+      "Aquatic Salvage Project",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Relay Station 932",
+      "Jardinian Naval SOS",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Mercier Penthouse",
+      "Psychic Clone Conspiracy",
+      "Providence",
+      "Camille Dufour",
+      "Oduya",
+      "Sunken Ship-Boat",
+      "Transponder Swap Box",
+      "Prime Minister Bombing",
+      "Undersea Extremists",
+      "Undersea Suits",
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers",
+      "Session 3 - Transstar Day",
+      "Session 4 - Into the Hadal Deep",
+      "Session 5 - The Oduya",
+      "Session 6 - Ghosts in the Bloodline",
+      "Admiral Henri Duval",
+      "Adrien Pelletier",
+      "Agent Luc Deschamps",
+      "Alain Mercier",
+      "Anita Singh",
+      "Amelia Torres",
+      "Antoine Mercier",
+      "Armand Rousselet",
+      "Captain Victor Mendes",
+      "Carlos",
+      "Chief Helene Marchand",
+      "Claire Bouchard",
+      "Colette Moreau",
+      "Colonel Victor Almeida",
+      "Commander Lucien Marchand",
+      "Commander Sophie Durand",
+      "Commissioner Elise Martin",
+      "Commissioner Isabelle Fournier",
+      "Crew of TSS Profondeur",
+      "Camille Dufour",
+      "Director Elise Fournier",
+      "Director Luc Beaumont",
+      "Director Simone Laurent",
+      "Director-General Camille Fournier",
+      "Dr. Amelie Rousseau",
+      "Dr. Gabriel Laurent",
+      "Dr. Isabelle Fournier",
+      "Dr. Luc Moreau",
+      "Dr. Sophie Delacroix",
+      "Elena Kovacs",
+      "Elena Verona",
+      "Étienne Marchand",
+      "Étienne Moreau",
+      "Étienne Valcourt",
+      "General Claire Moreau",
+      "Inspector Adrien Martin",
+      "Inspector Gabriel Rousseau",
+      "Inspector Marc Valois",
+      "Inspector-General Marc Villeneuve",
+      "Jacques Martin",
+      "Juliette Mercier",
+      "Keith Morris",
+      "Leo Duprey",
+      "Luc Girard",
+      "Lucien Roche",
+      "Lucien Voss",
+      "Lucin",
+      "Mark Duncan",
+      "Maëlle Fournier",
+      "Mara Kovalenko",
+      "Marcel Delphine",
+      "Mentor Jean Mercier",
+      "Mercier Lookalike Survivor",
+      "Nadia Giroux",
+      "Nadine Pelletier",
+      "Nico Gay",
+      "Philippe Laurent",
+      "Pierre Gauthier",
+      "Professor Émile Laurent",
+      "Professor Lucien Morel",
+      "Reena Kessler",
+      "Rémi Beauchamp",
+      "Roman Juma",
+      "Sabine Caron",
+      "Sarah Chen",
+      "Sister Celeste Moreau",
+      "SolSec Operative at Elyon",
+      "Sergey Sun",
+      "Table Rules"
+    ],
     "backlinks": [],
     "keyLinks": [
       "[[Session 6 - Ghosts in the Bloodline]]",
@@ -841,6 +1116,12 @@
       "Port Sainte-Jeanne Downport",
       "Transstar"
     ],
+    "playerLinks": [
+      "Port Sainte-Jeanne Downport",
+      "Transstar",
+      "Port Sainte-Jeanne Downport",
+      "Transstar"
+    ],
     "backlinks": [
       "Campaign",
       "Port-Sainte-Jeanne-Downport",
@@ -876,6 +1157,10 @@
       "Cass Pien (Kolb)",
       "Session 1 - Official Business"
     ],
+    "playerLinks": [
+      "Cass Pien (Kolb)",
+      "Session 1 - Official Business"
+    ],
     "backlinks": [
       "Campaign"
     ],
@@ -901,6 +1186,30 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Judith Dumont (Carla)",
+      "Hidden Clone Community",
+      "Mercier Assassination",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Lucin",
+      "Mercier Frame-Up",
+      "Identity Veils",
+      "TSS Profondeur",
+      "Étienne Valcourt",
+      "Hadal Research Site",
+      "Friday Party Congress Hearing",
+      "Sunken Ship-Boat",
+      "Oduya",
+      "Sunken Ship-Boat",
+      "Roman Juma",
+      "Mercier Penthouse",
+      "Home Guard",
+      "Dr. Luc Moreau",
+      "Zoy (Damon)",
+      "Mobile Data Tube"
+    ],
+    "playerLinks": [
       "Session 7 - Echoes Beneath the Sea",
       "Judith Dumont (Carla)",
       "Hidden Clone Community",
@@ -979,6 +1288,10 @@
       "Session 2 - Masks and Markers",
       "Identity Veils"
     ],
+    "playerLinks": [
+      "Session 2 - Masks and Markers",
+      "Identity Veils"
+    ],
     "backlinks": [
       "Campaign",
       "Dan-Araujo-Josh",
@@ -1016,6 +1329,22 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Judith Dumont (Carla)",
+      "Secure Burner Comms",
+      "Lucin",
+      "Mercier Genetic Findings",
+      "La Porte Fiel",
+      "Mercier's Locked Pad",
+      "TSS Profondeur",
+      "Sabine Caron",
+      "Mercier Lookalike Survivor",
+      "SolSec Operative at Elyon",
+      "Oduya",
+      "Oduya",
+      "Alain Mercier",
+      "Providence"
+    ],
+    "playerLinks": [
       "Judith Dumont (Carla)",
       "Secure Burner Comms",
       "Lucin",
@@ -1072,6 +1401,18 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "Session 3 - Transstar Day",
+      "Transstar",
+      "Transstar Sector Exchange",
+      "Aquatic Salvage Project",
+      "Transstar Employment Contract",
+      "Transstar",
+      "Transstar Employment Contract",
+      "Aquatic Salvage Project",
+      "Session 3 - Transstar Day"
+    ],
+    "playerLinks": [
       "Transstar",
       "Session 3 - Transstar Day",
       "Transstar",
@@ -1140,6 +1481,23 @@
       "Social Solidarity",
       "Clone Rebirth Program"
     ],
+    "playerLinks": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Hidden Clone Community",
+      "Francis Adams",
+      "Krypton",
+      "Psychic Clone Conspiracy",
+      "Alain Mercier",
+      "Session 5 - The Oduya",
+      "Hadal Research Site",
+      "Hadal Research Site",
+      "SolSec",
+      "SolSec Operative at Elyon",
+      "Prime Minister Bombing",
+      "Session 6 - Ghosts in the Bloodline",
+      "Social Solidarity",
+      "Clone Rebirth Program"
+    ],
     "backlinks": [
       "Alain-Mercier",
       "Campaign",
@@ -1192,6 +1550,12 @@
       "Quartier Sainte-Liberté",
       "Jardin Syndicate"
     ],
+    "playerLinks": [
+      "Quartier Sainte-Liberté",
+      "Jardin Syndicate",
+      "Quartier Sainte-Liberté",
+      "Jardin Syndicate"
+    ],
     "backlinks": [
       "Campaign",
       "Quartier-Sainte-Libert"
@@ -1223,6 +1587,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Fort Robespierre Naval Annex",
+      "Fort Robespierre Naval Annex"
+    ],
+    "playerLinks": [
       "Fort Robespierre Naval Annex",
       "Fort Robespierre Naval Annex"
     ],
@@ -1259,6 +1627,10 @@
       "Fort Robespierre Naval Annex",
       "Fort Robespierre Naval Annex"
     ],
+    "playerLinks": [
+      "Fort Robespierre Naval Annex",
+      "Fort Robespierre Naval Annex"
+    ],
     "backlinks": [
       "Campaign",
       "Fort-Robespierre-Naval-Annex"
@@ -1289,6 +1661,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Port Sainte-Jeanne Downport",
+      "Jardin Syndicate",
+      "Port Sainte-Jeanne Downport",
+      "Jardin Syndicate"
+    ],
+    "playerLinks": [
       "Port Sainte-Jeanne Downport",
       "Jardin Syndicate",
       "Port Sainte-Jeanne Downport",
@@ -1330,6 +1708,12 @@
       "Customs & Immigration Checkpoint Harmony",
       "Social Solidarity"
     ],
+    "playerLinks": [
+      "Social Solidarity",
+      "Customs & Immigration Checkpoint Harmony",
+      "Customs & Immigration Checkpoint Harmony",
+      "Social Solidarity"
+    ],
     "backlinks": [
       "Campaign",
       "Customs-Immigration-Checkpoint-Harmony"
@@ -1364,6 +1748,10 @@
       "Transstar Sector Exchange",
       "Transstar Sector Exchange"
     ],
+    "playerLinks": [
+      "Transstar Sector Exchange",
+      "Transstar Sector Exchange"
+    ],
     "backlinks": [
       "Campaign",
       "Transstar-Sector-Exchange"
@@ -1390,6 +1778,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Director Elise Fournier",
+      "Mentor Jean Mercier",
+      "Dr. Amelie Rousseau"
+    ],
+    "playerLinks": [
       "Director Elise Fournier",
       "Mentor Jean Mercier",
       "Dr. Amelie Rousseau"
@@ -1425,6 +1818,19 @@
     "text": "",
     "playerText": "",
     "links": [
+      "TSS Profondeur",
+      "Aquatic Salvage Project",
+      "Etienne Valcourt",
+      "Maelle Fournier",
+      "Remi Beauchamp",
+      "Sabine Caron",
+      "Hadal Research Site",
+      "Session 5 - The Oduya",
+      "Sunken Ship-Boat",
+      "Alain Mercier",
+      "Oduya"
+    ],
+    "playerLinks": [
       "TSS Profondeur",
       "Aquatic Salvage Project",
       "Etienne Valcourt",
@@ -1479,6 +1885,14 @@
       "Undersea Extremists",
       "Relay Station 932"
     ],
+    "playerLinks": [
+      "Session 7 - Echoes Beneath the Sea",
+      "TSS Profondeur",
+      "Deep-Trench Minisub",
+      "Hidden Clone Community",
+      "Undersea Extremists",
+      "Relay Station 932"
+    ],
     "backlinks": [
       "Campaign",
       "Etienne-Valcourt",
@@ -1507,6 +1921,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Director Simone Laurent",
+      "Inspector Gabriel Rousseau",
+      "Commissioner Elise Martin",
+      "Agent Luc Deschamps"
+    ],
+    "playerLinks": [
       "Director Simone Laurent",
       "Inspector Gabriel Rousseau",
       "Commissioner Elise Martin",
@@ -1543,6 +1963,25 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Deep-Trench Minisub",
+      "Hidden Clone Community",
+      "Mercier Assassination",
+      "0-31 Saichi Maru (Annette)",
+      "Lucin",
+      "Les Jardins Fermés",
+      "Chief Helene Marchand",
+      "Transstar Sector Exchange",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Oduya",
+      "Mercier's Locked Pad",
+      "Mercier Penthouse",
+      "Victor Mendes (Steinbach)",
+      "Cass Pien (Kolb)",
+      "0-31 Saichi Maru (Annette)"
+    ],
+    "playerLinks": [
       "Session 7 - Echoes Beneath the Sea",
       "Deep-Trench Minisub",
       "Hidden Clone Community",
@@ -1613,6 +2052,16 @@
       "Cass Pien (Kolb)",
       "Varian Svazz (Allen)"
     ],
+    "playerLinks": [
+      "Transstar",
+      "TSS Profondeur",
+      "Session 7 - Echoes Beneath the Sea",
+      "Dan Araujo (Josh)",
+      "Victor Mendes (Steinbach)",
+      "Emma Colbert (Laura)",
+      "Cass Pien (Kolb)",
+      "Varian Svazz (Allen)"
+    ],
     "backlinks": [
       "Campaign",
       "Crushed-Trench",
@@ -1649,6 +2098,10 @@
       "Crèche District 14",
       "Crèche District 14"
     ],
+    "playerLinks": [
+      "Crèche District 14",
+      "Crèche District 14"
+    ],
     "backlinks": [
       "Campaign",
       "Cr-che-District-14"
@@ -1679,6 +2132,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Social Solidarity",
+      "Leo Duprey",
+      "Social Solidarity",
+      "Leo Duprey"
+    ],
+    "playerLinks": [
       "Social Solidarity",
       "Leo Duprey",
       "Social Solidarity",
@@ -1721,6 +2180,11 @@
       "Social Solidarity",
       "Port Sainte-Jeanne Downport"
     ],
+    "playerLinks": [
+      "Port Sainte-Jeanne Downport",
+      "Social Solidarity",
+      "Port Sainte-Jeanne Downport"
+    ],
     "backlinks": [
       "Campaign",
       "Port-Sainte-Jeanne-Downport"
@@ -1751,6 +2215,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Customs & Immigration Checkpoint Harmony",
+      "Customs & Immigration Checkpoint Harmony"
+    ],
+    "playerLinks": [
       "Customs & Immigration Checkpoint Harmony",
       "Customs & Immigration Checkpoint Harmony"
     ],
@@ -1793,6 +2261,14 @@
       "Hadal Research Site",
       "Sunken Ship-Boat"
     ],
+    "playerLinks": [
+      "Aquatic Salvage Project",
+      "Session 4 - Into the Hadal Deep",
+      "Undersea Extremists",
+      "Claire Bouchard",
+      "Hadal Research Site",
+      "Sunken Ship-Boat"
+    ],
     "backlinks": [],
     "keyLinks": [
       "[[Aquatic Salvage Project]]",
@@ -1822,6 +2298,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Crèche District 14",
+      "Crèche District 14"
+    ],
+    "playerLinks": [
       "Crèche District 14",
       "Crèche District 14"
     ],
@@ -1858,6 +2338,10 @@
       "Les Jardins Fermés",
       "Les Jardins Fermés"
     ],
+    "playerLinks": [
+      "Les Jardins Fermés",
+      "Les Jardins Fermés"
+    ],
     "backlinks": [
       "Campaign",
       "Les-Jardins-Ferm-s"
@@ -1888,6 +2372,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Les Jardins Fermés",
+      "Les Jardins Fermés"
+    ],
+    "playerLinks": [
       "Les Jardins Fermés",
       "Les Jardins Fermés"
     ],
@@ -1922,6 +2410,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Hall des Futurs Choisis",
+      "Session 2 - Masks and Markers",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings"
+    ],
+    "playerLinks": [
       "Hall des Futurs Choisis",
       "Session 2 - Masks and Markers",
       "Mobile Data Tube",
@@ -1974,6 +2468,14 @@
       "Leo Duprey",
       "Alain Mercier"
     ],
+    "playerLinks": [
+      "Les Jardins Fermés",
+      "Leo Duprey",
+      "Alain Mercier",
+      "Les Jardins Fermés",
+      "Leo Duprey",
+      "Alain Mercier"
+    ],
     "backlinks": [
       "Campaign",
       "Les-Jardins-Ferm-s"
@@ -2006,6 +2508,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "Transstar"
+    ],
+    "playerLinks": [
       "Transstar",
       "Transstar"
     ],
@@ -2048,6 +2554,14 @@
       "Session 1 - Official Business",
       "Mercier Frame-Up"
     ],
+    "playerLinks": [
+      "Social Solidarity",
+      "Hall des Futurs Choisis",
+      "Mercier Assassination",
+      "Victor Mendes (Steinbach)",
+      "Session 1 - Official Business",
+      "Mercier Frame-Up"
+    ],
     "backlinks": [
       "Campaign",
       "False-News-Broadcast",
@@ -2081,6 +2595,50 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 7 - Echoes Beneath the Sea",
+      "TSS Profondeur",
+      "Francis Adams",
+      "Krypton",
+      "Hidden Clone Community",
+      "Mercier Assassination",
+      "Marcel Delphine",
+      "Lucin",
+      "Inspector Marc Valois",
+      "Transstar Sector Exchange",
+      "Aquatic Salvage Project",
+      "TSS Profondeur",
+      "Jardinian Naval SOS",
+      "Sabine Caron",
+      "SolSec Operative at Elyon",
+      "Victor Mendes (Steinbach)",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "Clone Rebirth Program",
+      "Etienne Valcourt",
+      "TSS Profondeur",
+      "Sunken Ship-Boat",
+      "Oduya",
+      "Anita Singh",
+      "Sergey Sun",
+      "Oduya",
+      "Mercier's Locked Pad",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Providence",
+      "TSS Profondeur",
+      "Nico Gay",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Transstar Sector Exchange",
+      "Hall des Futurs Choisis",
+      "Identity Veils",
+      "Inspector Marc Valois",
+      "Social Solidarity",
+      "SolSec",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings"
+    ],
+    "playerLinks": [
       "Session 7 - Echoes Beneath the Sea",
       "TSS Profondeur",
       "Francis Adams",
@@ -2196,6 +2754,11 @@
       "Chief Helene Marchand",
       "Port Sainte-Jeanne Downport"
     ],
+    "playerLinks": [
+      "Port Sainte-Jeanne Downport",
+      "Chief Helene Marchand",
+      "Port Sainte-Jeanne Downport"
+    ],
     "backlinks": [
       "Campaign",
       "Port-Sainte-Jeanne-Downport"
@@ -2226,6 +2789,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "SolSec",
+      "Transstar",
+      "SolSec"
+    ],
+    "playerLinks": [
       "Transstar",
       "SolSec",
       "Transstar",
@@ -2282,6 +2851,22 @@
       "Oduya",
       "Oduya"
     ],
+    "playerLinks": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Deep-Trench Minisub",
+      "Crushed Trench",
+      "Hidden Clone Community",
+      "TSS Profondeur",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "TSS Profondeur",
+      "Undersea Base Elyon",
+      "Emma Colbert (Laura)",
+      "Alain Mercier",
+      "Sunken Ship-Boat",
+      "Oduya",
+      "Oduya"
+    ],
     "backlinks": [
       "Aquatic-Salvage-Project",
       "Campaign",
@@ -2310,6 +2895,7 @@
       "[[Aquatic Salvage Project]]"
     ],
     "parent": "Crew-of-TSS-Profondeur",
+    "cover": "wiki/media/Etienne-Valcourt.png",
     "excerpt": "# Étienne Valcourt ## Session 7 - Echoes Beneath the Sea [[Session 7 - Echoes Beneath the Sea]] Privately confronted the crew in Profondeur's mess about their rescued political clone, salvaged ship, and Home Guard fight. He sought a way to preserve their corporate cover by proving their value, assig"
   },
   {
@@ -2333,6 +2919,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercier Assassination",
+      "Alain Mercier",
+      "Zoy (Damon)",
+      "Elena Verona",
+      "Jardin Syndicate"
+    ],
+    "playerLinks": [
       "Mercier Assassination",
       "Alain Mercier",
       "Zoy (Damon)",
@@ -2366,6 +2959,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Admiral Henri Duval",
+      "General Claire Moreau",
+      "Colonel Victor Almeida",
+      "Commander Lucien Marchand"
+    ],
+    "playerLinks": [
       "Admiral Henri Duval",
       "General Claire Moreau",
       "Colonel Victor Almeida",
@@ -2415,6 +3014,14 @@
       "Krypton",
       "Social Solidarity"
     ],
+    "playerLinks": [
+      "Emma Colbert (Laura)",
+      "SolSec",
+      "Session 7 - Echoes Beneath the Sea",
+      "Hidden Clone Community",
+      "Krypton",
+      "Social Solidarity"
+    ],
     "backlinks": [
       "Campaign",
       "Clone-Rebirth-Program",
@@ -2456,6 +3063,13 @@
       "Mercier Frame-Up",
       "Jardin Syndicate"
     ],
+    "playerLinks": [
+      "Mercier Assassination",
+      "Alain Mercier",
+      "Cass Pien (Kolb)",
+      "Mercier Frame-Up",
+      "Jardin Syndicate"
+    ],
     "backlinks": [
       "Cass-Pien-Kolb",
       "Merciers-Locked-Pad",
@@ -2491,6 +3105,10 @@
       "Fort Robespierre Naval Annex",
       "Fort Robespierre Naval Annex"
     ],
+    "playerLinks": [
+      "Fort Robespierre Naval Annex",
+      "Fort Robespierre Naval Annex"
+    ],
     "backlinks": [
       "Campaign",
       "Fort-Robespierre-Naval-Annex"
@@ -2523,6 +3141,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "TSS Profondeur",
+      "Undersea Extremists",
+      "Session 4 - Into the Hadal Deep",
+      "Mercier Lookalike Survivor",
+      "Jardinian Naval SOS"
+    ],
+    "playerLinks": [
       "TSS Profondeur",
       "Undersea Extremists",
       "Session 4 - Into the Hadal Deep",
@@ -2565,6 +3190,7 @@
       "[[TSS Profondeur]]",
       "[[Mercier Lookalike Survivor]]"
     ],
+    "cover": "wiki/media/Hadal-Undersea-Map.png",
     "excerpt": "# Hadal Research Site ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Hadal Research Site is a damaged Transstar undersea research facility assigned as the party's first salvage target aboard the [[TSS Profondeur]]. It was abandoned after an attack by [[Undersea Extr"
   },
   {
@@ -2584,6 +3210,19 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Alain Mercier",
+      "Mercier Assassination",
+      "Home Guard",
+      "Social Solidarity",
+      "Identity Veils",
+      "Social Solidarity",
+      "Inspector Marc Valois",
+      "SolSec",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings"
+    ],
+    "playerLinks": [
       "Alain Mercier",
       "Mercier Assassination",
       "Home Guard",
@@ -2653,6 +3292,15 @@
       "Transstar",
       "Social Solidarity"
     ],
+    "playerLinks": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Crushed Trench",
+      "Clone Rebirth Program",
+      "Francis Adams",
+      "Judith Dumont (Carla)",
+      "Transstar",
+      "Social Solidarity"
+    ],
     "backlinks": [
       "Campaign",
       "Cass-Pien-Kolb",
@@ -2691,6 +3339,17 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercier Assassination",
+      "Social Solidarity",
+      "Social Solidarity",
+      "Fort Robespierre Naval Annex",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Penthouse",
+      "Victor Mendes (Steinbach)",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)"
+    ],
+    "playerLinks": [
       "Mercier Assassination",
       "Social Solidarity",
       "Social Solidarity",
@@ -2744,6 +3403,16 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Marcel Delphine",
+      "Mercier Assassination",
+      "0-31 Saichi Maru (Annette)",
+      "Session 2 - Masks and Markers",
+      "Chief Helene Marchand",
+      "Mercier Frame-Up",
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers"
+    ],
+    "playerLinks": [
       "Marcel Delphine",
       "Mercier Assassination",
       "0-31 Saichi Maru (Annette)",
@@ -2813,6 +3482,14 @@
       "Social Solidarity",
       "Jardin Syndicate"
     ],
+    "playerLinks": [
+      "Social Solidarity",
+      "Quartier Sainte-Liberté",
+      "Jardin Syndicate",
+      "Quartier Sainte-Liberté",
+      "Social Solidarity",
+      "Jardin Syndicate"
+    ],
     "backlinks": [
       "Campaign",
       "Quartier-Sainte-Libert"
@@ -2845,6 +3522,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Customs & Immigration Checkpoint Harmony",
+      "Identity Veils",
+      "Customs & Immigration Checkpoint Harmony"
+    ],
+    "playerLinks": [
       "Customs & Immigration Checkpoint Harmony",
       "Identity Veils",
       "Customs & Immigration Checkpoint Harmony"
@@ -2882,6 +3564,10 @@
       "Social Solidarity",
       "Social Solidarity"
     ],
+    "playerLinks": [
+      "Social Solidarity",
+      "Social Solidarity"
+    ],
     "backlinks": [
       "Campaign",
       "Social-Solidarity"
@@ -2913,6 +3599,18 @@
     "text": "",
     "playerText": "",
     "links": [
+      "SolSec",
+      "Hall des Futurs Choisis",
+      "Session 2 - Masks and Markers",
+      "Emma Colbert (Laura)",
+      "Alain Mercier",
+      "Social Solidarity",
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Mercier Genetic Findings",
+      "Mobile Data Tube"
+    ],
+    "playerLinks": [
       "SolSec",
       "Hall des Futurs Choisis",
       "Session 2 - Masks and Markers",
@@ -2978,6 +3676,11 @@
       "Arcosphere Rousseau",
       "Jardin Syndicate"
     ],
+    "playerLinks": [
+      "Jardin Syndicate",
+      "Arcosphere Rousseau",
+      "Jardin Syndicate"
+    ],
     "backlinks": [
       "Arcosphere-Rousseau",
       "Campaign"
@@ -3006,6 +3709,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Le Palais de Continuité",
+      "Fort Robespierre Naval Annex",
+      "Transstar Sector Exchange",
+      "Arcosphere Rousseau",
+      "Home Guard",
+      "Mercier Frame-Up",
+      "Keith Morris"
+    ],
+    "playerLinks": [
       "Le Palais de Continuité",
       "Fort Robespierre Naval Annex",
       "Transstar Sector Exchange",
@@ -3052,6 +3764,14 @@
       "Mercier Lookalike Survivor",
       "Étienne Valcourt"
     ],
+    "playerLinks": [
+      "Fort Robespierre Naval Annex",
+      "Session 4 - Into the Hadal Deep",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Mercier Lookalike Survivor",
+      "Étienne Valcourt"
+    ],
     "backlinks": [
       "Session-4-Into-the-Hadal-Deep",
       "Session-5-The-Oduya",
@@ -3083,6 +3803,19 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 1 - Official Business",
+      "Marcel Delphine",
+      "Alain Mercier",
+      "Mercier Frame-Up",
+      "Arcosphere Rousseau",
+      "Identity Veils",
+      "Session 2 - Masks and Markers",
+      "Lucin",
+      "Marcel Delphine",
+      "Transstar Sector Exchange",
+      "Marcel Delphine"
+    ],
+    "playerLinks": [
       "Session 1 - Official Business",
       "Marcel Delphine",
       "Alain Mercier",
@@ -3160,6 +3893,12 @@
       "Sabine Caron",
       "Hadal Research Site"
     ],
+    "playerLinks": [
+      "Emma Colbert (Laura)",
+      "TSS Profondeur",
+      "Sabine Caron",
+      "Hadal Research Site"
+    ],
     "backlinks": [
       "Campaign",
       "Emma-Colbert-Laura",
@@ -3193,6 +3932,25 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Hidden Clone Community",
+      "Francis Adams",
+      "Alain Mercier",
+      "Marcel Delphine",
+      "Identity Veils",
+      "Alain Mercier",
+      "Oduya",
+      "Transstar",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Alain Mercier",
+      "Keith Morris",
+      "Keith Morris",
+      "Miasma",
+      "Les Jardins Fermés",
+      "Lucin"
+    ],
+    "playerLinks": [
       "Session 7 - Echoes Beneath the Sea",
       "Hidden Clone Community",
       "Francis Adams",
@@ -3256,6 +4014,10 @@
       "Quartier Danton",
       "Quartier Danton"
     ],
+    "playerLinks": [
+      "Quartier Danton",
+      "Quartier Danton"
+    ],
     "backlinks": [
       "Campaign",
       "Quartier-Danton"
@@ -3284,6 +4046,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Judith Dumont (Carla)",
+      "Miasma",
+      "Session 1 - Official Business"
+    ],
+    "playerLinks": [
       "Judith Dumont (Carla)",
       "Miasma",
       "Session 1 - Official Business"
@@ -3321,6 +4088,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Francis Adams",
+      "Clone Rebirth Program"
+    ],
+    "playerLinks": [
       "Session 7 - Echoes Beneath the Sea",
       "Francis Adams",
       "Clone Rebirth Program"
@@ -3367,6 +4139,17 @@
       "Inspector Marc Valois",
       "Session 3 - Transstar Day"
     ],
+    "playerLinks": [
+      "Quartier-Sainte-Liberte",
+      "Lucin",
+      "Session 3 - Transstar Day",
+      "Inspector Marc Valois",
+      "Mercier's Locked Pad",
+      "Lucin",
+      "Mercier's Locked Pad",
+      "Inspector Marc Valois",
+      "Session 3 - Transstar Day"
+    ],
     "backlinks": [
       "Ciernan-Seanislav-Peter",
       "Session-3-Transstar-Day",
@@ -3397,6 +4180,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Hall des Futurs Choisis",
+      "Leo Duprey",
+      "Chief Helene Marchand",
+      "Alain Mercier"
+    ],
+    "playerLinks": [
       "Hall des Futurs Choisis",
       "Leo Duprey",
       "Chief Helene Marchand",
@@ -3434,6 +4223,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Le Palais de Continuité",
+      "Alain Mercier",
+      "Le Palais de Continuité",
+      "Alain Mercier",
+      "Social Solidarity"
+    ],
+    "playerLinks": [
       "Le Palais de Continuité",
       "Alain Mercier",
       "Le Palais de Continuité",
@@ -3483,6 +4279,12 @@
       "Lucin",
       "Chief Helene Marchand"
     ],
+    "playerLinks": [
+      "Dr. Sophie Delacroix",
+      "Professor Lucien Morel",
+      "Dr. Isabelle Fournier",
+      "Dr. Gabriel Laurent"
+    ],
     "backlinks": [
       "Dan-Araujo-Josh",
       "Dr-Gabriel-Laurent",
@@ -3527,6 +4329,10 @@
       "Transstar",
       "Transstar"
     ],
+    "playerLinks": [
+      "Transstar",
+      "Transstar"
+    ],
     "backlinks": [
       "Campaign",
       "Transstar"
@@ -3558,6 +4364,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Quartier Sainte-Liberté",
+      "Quartier Sainte-Liberté"
+    ],
+    "playerLinks": [
       "Quartier Sainte-Liberté",
       "Quartier Sainte-Liberté"
     ],
@@ -3594,6 +4404,10 @@
       "Transstar Sector Exchange",
       "Transstar Sector Exchange"
     ],
+    "playerLinks": [
+      "Transstar Sector Exchange",
+      "Transstar Sector Exchange"
+    ],
     "backlinks": [
       "Campaign",
       "Transstar-Sector-Exchange"
@@ -3626,6 +4440,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Quartier Sainte-Liberté",
+      "Session 2 - Masks and Markers",
+      "Transstar Sector Exchange",
+      "Les Jardins Fermés",
+      "Chief Helene Marchand",
+      "Marcel Delphine",
+      "Jardin Syndicate"
+    ],
+    "playerLinks": [
       "Quartier Sainte-Liberté",
       "Session 2 - Masks and Markers",
       "Transstar Sector Exchange",
@@ -3688,6 +4511,9 @@
     "links": [
       "TSS Profondeur"
     ],
+    "playerLinks": [
+      "TSS Profondeur"
+    ],
     "backlinks": [
       "Campaign",
       "Campaign",
@@ -3702,6 +4528,7 @@
       "[[TSS Profondeur]]"
     ],
     "parent": "Crew-of-TSS-Profondeur",
+    "cover": "wiki/media/Maelle-Fournier.png",
     "excerpt": "# Maëlle Fournier ![Maëlle Fournier portrait](/wiki/media/Maelle-Fournier.png) *Engineer / Damage Control* ## Overview Maëlle Fournier is the engineer and damage-control specialist aboard the [[TSS Profondeur]]. She is former Jardin Navy, experienced with the vessel's pipes, repairs, sensors, and co"
   },
   {
@@ -3725,6 +4552,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar Sector Exchange",
+      "Transstar Sector Exchange"
+    ],
+    "playerLinks": [
       "Transstar Sector Exchange",
       "Transstar Sector Exchange"
     ],
@@ -3754,6 +4585,23 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercier Assassination",
+      "Hall des Futurs Choisis",
+      "Arcosphere Rousseau",
+      "Jardin Syndicate",
+      "Alain Mercier",
+      "Identity Veils",
+      "Jardin Syndicate",
+      "Leo Duprey",
+      "Alain Mercier",
+      "Jardin Syndicate",
+      "Hall des Futurs Choisis",
+      "SolSec",
+      "Rousseau Arcology",
+      "Citizens Aid Cooperative",
+      "The Floating Court"
+    ],
+    "playerLinks": [
       "Mercier Assassination",
       "Hall des Futurs Choisis",
       "Arcosphere Rousseau",
@@ -3829,6 +4677,17 @@
       "Camille Dufour",
       "Providence"
     ],
+    "playerLinks": [
+      "Emma Colbert (Laura)",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Mercier's Locked Pad",
+      "Camille Dufour",
+      "Session 6 - Ghosts in the Bloodline",
+      "Emma Colbert (Laura)",
+      "Camille Dufour",
+      "Providence"
+    ],
     "backlinks": [
       "Camille-Dufour",
       "Campaign",
@@ -3872,6 +4731,10 @@
       "Crèche District 14",
       "Crèche District 14"
     ],
+    "playerLinks": [
+      "Crèche District 14",
+      "Crèche District 14"
+    ],
     "backlinks": [
       "Campaign",
       "Cr-che-District-14"
@@ -3903,6 +4766,22 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Alain Mercier",
+      "Hall des Futurs Choisis",
+      "Ciernan Seanislav (Peter)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Session 2 - Masks and Markers",
+      "Mercier Frame-Up",
+      "Alain Mercier",
+      "Elena Verona",
+      "Social Solidarity",
+      "Home Guard",
+      "Jardin Syndicate",
+      "Mercier Genetic Findings",
+      "Mobile Data Tube"
+    ],
+    "playerLinks": [
       "Alain Mercier",
       "Hall des Futurs Choisis",
       "Ciernan Seanislav (Peter)",
@@ -3987,6 +4866,18 @@
       "Psychic Clone Conspiracy",
       "Roman Juma"
     ],
+    "playerLinks": [
+      "Mercier Penthouse",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Cass Pien (Kolb)",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Penthouse",
+      "Alain Mercier",
+      "Mercier's Locked Pad",
+      "Psychic Clone Conspiracy",
+      "Roman Juma"
+    ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Alain-Mercier",
@@ -4037,6 +4928,18 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Alain Mercier",
+      "Zoy (Damon)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Emma Colbert (Laura)",
+      "Mobile Data Tube",
+      "Session 2 - Masks and Markers",
+      "Inspector Marc Valois",
+      "Elena Verona",
+      "Mercier Genetic Findings"
+    ],
+    "playerLinks": [
       "Alain Mercier",
       "Zoy (Damon)",
       "Marcel Delphine",
@@ -4108,6 +5011,15 @@
       "Mercier's Locked Pad",
       "Mercier Evidence Cache"
     ],
+    "playerLinks": [
+      "Mobile Data Tube",
+      "Session 2 - Masks and Markers",
+      "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "Psychic Clone Conspiracy",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache"
+    ],
     "backlinks": [
       "Alain-Mercier",
       "Alain-Mercier",
@@ -4171,6 +5083,19 @@
       "Emma Colbert (Laura)",
       "Alain Mercier"
     ],
+    "playerLinks": [
+      "Session 5 - The Oduya",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Hadal Research Site",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "Varian Svazz (Allen)",
+      "SolSec Operative at Elyon",
+      "Victor Mendes (Steinbach)",
+      "Emma Colbert (Laura)",
+      "Alain Mercier"
+    ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Aquatic-Salvage-Project",
@@ -4217,6 +5142,21 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dan Araujo (Josh)",
+      "Victor Mendes (Steinbach)",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Mercier Evidence Cache",
+      "Home Guard",
+      "Psychic Clone Conspiracy"
+    ],
+    "playerLinks": [
       "Alain Mercier",
       "Session 6 - Ghosts in the Bloodline",
       "0-31 Saichi Maru (Annette)",
@@ -4311,6 +5251,32 @@
       "Mercier Evidence Cache",
       "Psychic Clone Conspiracy"
     ],
+    "playerLinks": [
+      "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Genetic Findings",
+      "Clone Rebirth Program",
+      "Psychic Clone Conspiracy",
+      "Session 6 - Ghosts in the Bloodline",
+      "Friday Party Congress Hearing",
+      "Social Solidarity",
+      "Providence",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Social Solidarity",
+      "Mercier Evidence Cache",
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Alain Mercier",
+      "Mercier Genetic Findings",
+      "Social Solidarity",
+      "Session 6 - Ghosts in the Bloodline",
+      "Camille Dufour",
+      "Providence",
+      "Mercier Evidence Cache",
+      "Psychic Clone Conspiracy"
+    ],
     "backlinks": [
       "Alain-Mercier",
       "Alain-Mercier",
@@ -4375,6 +5341,11 @@
       "Judith Dumont (Carla)",
       "Keith Morris"
     ],
+    "playerLinks": [
+      "Jardin",
+      "Judith Dumont (Carla)",
+      "Keith Morris"
+    ],
     "backlinks": [
       "Judith-Dumont-Carla",
       "Keith-Morris",
@@ -4411,6 +5382,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Hall des Futurs Choisis",
+      "Session 2 - Masks and Markers",
+      "Dr. Luc Moreau",
+      "Mercier Genetic Findings"
+    ],
+    "playerLinks": [
       "Hall des Futurs Choisis",
       "Session 2 - Masks and Markers",
       "Dr. Luc Moreau",
@@ -4466,6 +5443,10 @@
       "Social Solidarity",
       "Arcosphere Rousseau"
     ],
+    "playerLinks": [
+      "Social Solidarity",
+      "Arcosphere Rousseau"
+    ],
     "backlinks": [
       "Arcosphere-Rousseau",
       "Campaign"
@@ -4496,6 +5477,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "Transstar"
+    ],
+    "playerLinks": [
       "Transstar",
       "Transstar"
     ],
@@ -4532,6 +5517,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Emma Colbert (Laura)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Session 1 - Official Business",
+      "Transstar Sector Exchange"
+    ],
+    "playerLinks": [
       "Emma Colbert (Laura)",
       "Marcel Delphine",
       "Jardin Syndicate",
@@ -4588,6 +5580,20 @@
       "Emma Colbert (Laura)",
       "Victor Mendes (Steinbach)"
     ],
+    "playerLinks": [
+      "Sunken Ship-Boat",
+      "Session 5 - The Oduya",
+      "Session 6 - Ghosts in the Bloodline",
+      "0-31 Saichi Maru (Annette)",
+      "TSS Profondeur",
+      "Jardin Syndicate",
+      "Transponder Swap Box",
+      "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "Varian Svazz (Allen)",
+      "Emma Colbert (Laura)",
+      "Victor Mendes (Steinbach)"
+    ],
     "backlinks": [],
     "keyLinks": [
       "[[Sunken Ship-Boat]]",
@@ -4617,6 +5623,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "Transstar"
+    ],
+    "playerLinks": [
       "Transstar",
       "Transstar"
     ],
@@ -4656,6 +5666,12 @@
       "Quartier Danton",
       "Social Solidarity"
     ],
+    "playerLinks": [
+      "Quartier Danton",
+      "Social Solidarity",
+      "Quartier Danton",
+      "Social Solidarity"
+    ],
     "backlinks": [
       "Campaign",
       "Quartier-Danton"
@@ -4683,6 +5699,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Director Luc Beaumont",
+      "Commander Sophie Durand",
+      "Étienne Marchand",
+      "Captain Victor Mendes"
+    ],
+    "playerLinks": [
       "Director Luc Beaumont",
       "Commander Sophie Durand",
       "Étienne Marchand",
@@ -4731,6 +5753,13 @@
       "Hadal Research Site",
       "Mercier Frame-Up"
     ],
+    "playerLinks": [
+      "Session 5 - The Oduya",
+      "Chief Helene Marchand",
+      "Alain Mercier",
+      "Hadal Research Site",
+      "Mercier Frame-Up"
+    ],
     "backlinks": [
       "Alain-Mercier",
       "Campaign",
@@ -4771,6 +5800,10 @@
       "Quartier Danton",
       "Quartier Danton"
     ],
+    "playerLinks": [
+      "Quartier Danton",
+      "Quartier Danton"
+    ],
     "backlinks": [
       "Campaign",
       "Quartier-Danton"
@@ -4801,6 +5834,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Les Jardins Fermés",
+      "Les Jardins Fermés"
+    ],
+    "playerLinks": [
       "Les Jardins Fermés",
       "Les Jardins Fermés"
     ],
@@ -4835,6 +5872,20 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Mercier's Locked Pad",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Social Solidarity",
+      "Session 6 - Ghosts in the Bloodline",
+      "Camille Dufour",
+      "Mercier's Locked Pad",
+      "Psychic Clone Conspiracy",
+      "Social Solidarity"
+    ],
+    "playerLinks": [
       "Session 6 - Ghosts in the Bloodline",
       "Alain Mercier",
       "Mercier's Locked Pad",
@@ -4925,6 +5976,27 @@
       "Clone Rebirth Program",
       "Providence"
     ],
+    "playerLinks": [
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Mercier Genetic Findings",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "Social Solidarity",
+      "Mercier Assassination",
+      "Mercier Genetic Findings",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Providence",
+      "Camille Dufour",
+      "Prime Minister Bombing",
+      "Session 6 - Ghosts in the Bloodline",
+      "Social Solidarity",
+      "Alain Mercier",
+      "Mercier Evidence Cache",
+      "Clone Rebirth Program",
+      "Providence"
+    ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Alain-Mercier",
@@ -4973,6 +6045,12 @@
       "Alain Mercier",
       "Pierre Gauthier"
     ],
+    "playerLinks": [
+      "Professor Émile Laurent",
+      "Juliette Mercier",
+      "Alain Mercier",
+      "Pierre Gauthier"
+    ],
     "backlinks": [
       "Juliette-Mercier",
       "Juliette-Mercier",
@@ -5002,6 +6080,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Marcel Delphine",
+      "Colette Moreau",
+      "Lucien Roche",
+      "Inspector Adrien Martin"
+    ],
+    "playerLinks": [
       "Marcel Delphine",
       "Colette Moreau",
       "Lucien Roche",
@@ -5048,6 +6132,13 @@
       "Transstar Employment Contract",
       "Session 3 - Transstar Day"
     ],
+    "playerLinks": [
+      "Transstar Sector Exchange",
+      "Session 3 - Transstar Day",
+      "Transstar Sector Exchange",
+      "Transstar Employment Contract",
+      "Session 3 - Transstar Day"
+    ],
     "backlinks": [
       "Campaign",
       "Session-3-Transstar-Day",
@@ -5086,6 +6177,10 @@
       "TSS Profondeur",
       "Mercier Lookalike Survivor"
     ],
+    "playerLinks": [
+      "TSS Profondeur",
+      "Mercier Lookalike Survivor"
+    ],
     "backlinks": [
       "Campaign",
       "Crushed-Trench",
@@ -5095,6 +6190,7 @@
       "[[TSS Profondeur]]",
       "[[Undersea Base Elyon]]"
     ],
+    "cover": "wiki/media/Hadal-Undersea-Map.png",
     "excerpt": "# Relay Station 932 ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Relay Station 932 is the undersea communications relay described during the [[TSS Profondeur]] briefing. It serves as a major communications hub, passing traffic between undersea ships, bases, and or"
   },
   {
@@ -5125,6 +6221,11 @@
       "Hadal Research Site",
       "Undersea Base Elyon"
     ],
+    "playerLinks": [
+      "TSS Profondeur",
+      "Hadal Research Site",
+      "Undersea Base Elyon"
+    ],
     "backlinks": [
       "Campaign",
       "Campaign",
@@ -5140,6 +6241,7 @@
       "[[Relay Station 932]]"
     ],
     "parent": "Crew-of-TSS-Profondeur",
+    "cover": "wiki/media/Remi-Beauchamp.png",
     "excerpt": "# Rémi Beauchamp ![Rémi Beauchamp portrait](/wiki/media/Remi-Beauchamp.png) *Sonar / Sensors / Comms* ## Overview Rémi Beauchamp handles electrics, sonar, sensors, and communications aboard the [[TSS Profondeur]]. He is a former Jardin Navy naval-intelligence signals specialist. His job during the p"
   },
   {
@@ -5162,6 +6264,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Cass Pien (Kolb)",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Penthouse",
+      "Session 6 - Ghosts in the Bloodline",
+      "Cass Pien (Kolb)",
+      "Mercier Evidence Cache",
+      "Psychic Clone Conspiracy"
+    ],
+    "playerLinks": [
       "Cass Pien (Kolb)",
       "Session 6 - Ghosts in the Bloodline",
       "Mercier Penthouse",
@@ -5213,6 +6324,11 @@
       "Jardinian Naval SOS",
       "Undersea Base Elyon"
     ],
+    "playerLinks": [
+      "TSS Profondeur",
+      "Jardinian Naval SOS",
+      "Undersea Base Elyon"
+    ],
     "backlinks": [
       "Campaign",
       "Campaign",
@@ -5232,6 +6348,7 @@
       "[[Undersea Suits]]"
     ],
     "parent": "Crew-of-TSS-Profondeur",
+    "cover": "wiki/media/Sabine-Caron.png",
     "excerpt": "# Sabine Caron ![Sabine Caron portrait](/wiki/media/Sabine-Caron.png) *Security / Diving Operations* ## Overview Sabine Caron is the security and diving-operations lead aboard the [[TSS Profondeur]]. A former Jardin Navy marine and underwater security specialist, she carries paired sawed-off shotgun"
   },
   {
@@ -5255,6 +6372,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "SolSec",
+      "Transstar",
+      "SolSec"
+    ],
+    "playerLinks": [
       "Transstar",
       "SolSec",
       "Transstar",
@@ -5295,6 +6418,9 @@
     "links": [
       "Session 2 - Masks and Markers"
     ],
+    "playerLinks": [
+      "Session 2 - Masks and Markers"
+    ],
     "backlinks": [
       "Ciernan-Seanislav-Peter",
       "Session-2-Masks-and-Markers",
@@ -5332,6 +6458,12 @@
       "Alain Mercier",
       "Oduya"
     ],
+    "playerLinks": [
+      "Emma Colbert (Laura)",
+      "Session 5 - The Oduya",
+      "Alain Mercier",
+      "Oduya"
+    ],
     "backlinks": [
       "Campaign",
       "Emma-Colbert-Laura",
@@ -5360,6 +6492,48 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "Marcel Delphine",
+      "Hall des Futurs Choisis",
+      "Alain Mercier",
+      "Social Solidarity",
+      "Home Guard",
+      "Emma Colbert (Laura)",
+      "0-31 Saichi Maru (Annette)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Alain Mercier",
+      "Ciernan Seanislav (Peter)",
+      "Elena Verona",
+      "Emma Colbert (Laura)",
+      "0-31 Saichi Maru (Annette)",
+      "Marcel Delphine",
+      "Jardin Syndicate",
+      "Zoy (Damon)",
+      "Identity Veils",
+      "Transstar Sector Exchange",
+      "Mercier Assassination",
+      "Mercier Frame-Up",
+      "False News Broadcast",
+      "Identity Veils",
+      "Mercier's Locked Pad",
+      "Friday Party Congress Hearing",
+      "Sunken Ship-Boat",
+      "Nico Gay",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)"
+    ],
+    "playerLinks": [
       "Mercier Assassination",
       "Mercier Frame-Up",
       "Marcel Delphine",
@@ -5439,6 +6613,67 @@
     "text": "",
     "playerText": "",
     "links": [
+      "0-31 Saichi Maru (Annette)",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "SolSec",
+      "Inspector Marc Valois",
+      "Mobile Data Tube",
+      "Dr. Luc Moreau",
+      "Lucin",
+      "Les Jardins Fermés",
+      "Chief Helene Marchand",
+      "0-31 Saichi Maru (Annette)",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "SolSec",
+      "Emma Colbert (Laura)",
+      "Inspector Marc Valois",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
+      "Zoy (Damon)",
+      "Cass Pien (Kolb)",
+      "Varian Svazz (Allen)",
+      "Quartier Sainte-Liberté",
+      "Lucin",
+      "Les Jardins Fermés",
+      "Chief Helene Marchand",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
+      "Ciernan Seanislav (Peter)",
+      "Secure Burner Comms",
+      "Dan Araujo (Josh)",
+      "Lucin",
+      "Emma Colbert (Laura)",
+      "Inspector Marc Valois",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "SolSec",
+      "Zoy (Damon)",
+      "Mercier Genetic Findings",
+      "Mobile Data Tube",
+      "Dr. Luc Moreau",
+      "Inspector Marc Valois",
+      "Lucin",
+      "Chief Helene Marchand",
+      "Identity Veils",
+      "Transstar Sector Exchange",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)"
+    ],
+    "playerLinks": [
       "0-31 Saichi Maru (Annette)",
       "Identity Veils",
       "Hall des Futurs Choisis",
@@ -5592,6 +6827,48 @@
       "Aquatic Salvage Project",
       "Dolphin Extremists"
     ],
+    "playerLinks": [
+      "Identity Veils",
+      "Inspector Marc Valois",
+      "Lucin",
+      "Transstar Sector Exchange",
+      "Mobile Data Tube",
+      "La Porte Fiel",
+      "Mercier's Locked Pad",
+      "Reena Kessler",
+      "Claire Bouchard",
+      "Aquatic Salvage Project",
+      "Identity Veils",
+      "Marcel Delphine",
+      "Dr. Luc Moreau",
+      "Inspector Marc Valois",
+      "Transstar Sector Exchange",
+      "La Porte Fiel",
+      "Mercier's Locked Pad",
+      "Reena Kessler",
+      "Transstar Peacekeepers",
+      "Claire Bouchard",
+      "Aquatic Salvage Project",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)",
+      "Lucin",
+      "La Porte Fiel",
+      "Inspector Marc Valois",
+      "Mercier's Locked Pad",
+      "Transstar Sector Exchange",
+      "Reena Kessler",
+      "Claire Bouchard",
+      "Transstar Employment Contract",
+      "Aquatic Salvage Project",
+      "Dolphin Extremists"
+    ],
     "backlinks": [
       "Aquatic-Salvage-Project",
       "Campaign",
@@ -5640,6 +6917,56 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Aquatic Salvage Project",
+      "TSS Profondeur",
+      "Étienne Valcourt",
+      "Maëlle Fournier",
+      "Rémi Beauchamp",
+      "Sabine Caron",
+      "Hadal Research Site",
+      "Jardinian Naval SOS",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "SolSec",
+      "Aquatic Salvage Project",
+      "TSS Profondeur",
+      "Étienne Valcourt",
+      "Maëlle Fournier",
+      "Rémi Beauchamp",
+      "Sabine Caron",
+      "Jardinian Naval SOS",
+      "Hadal Research Site",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "SolSec",
+      "Étienne Valcourt",
+      "Maëlle Fournier",
+      "Rémi Beauchamp",
+      "Sabine Caron",
+      "Mercier Lookalike Survivor",
+      "SolSec Operative at Elyon",
+      "Transstar Sector Exchange",
+      "Fort Robespierre Naval Annex",
+      "TSS Profondeur",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Relay Station 932",
+      "Transstar",
+      "Jardin Navy",
+      "SolSec",
+      "Undersea Extremists",
+      "Alain Mercier",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)"
+    ],
+    "playerLinks": [
       "Aquatic Salvage Project",
       "TSS Profondeur",
       "Étienne Valcourt",
@@ -5791,6 +7118,66 @@
       "Oduya",
       "Transponder Swap Box"
     ],
+    "playerLinks": [
+      "Undersea Base Elyon",
+      "SolSec Operative at Elyon",
+      "Zoy (Damon)",
+      "Ciernan Seanislav (Peter)",
+      "Emma Colbert (Laura)",
+      "Victor Mendes (Steinbach)",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Hadal Research Site",
+      "Sunken Ship-Boat",
+      "Etienne Valcourt",
+      "TSS Profondeur",
+      "0-31 Saichi Maru (Annette)",
+      "Oduya",
+      "Jardin Syndicate",
+      "Transponder Swap Box",
+      "Anita Singh",
+      "Sergey Sun",
+      "Inspector Marc Valois",
+      "Alain Mercier",
+      "Prime Minister Bombing",
+      "Etienne Valcourt",
+      "Jardin Syndicate",
+      "Transponder Swap Box",
+      "0-31 Saichi Maru (Annette)",
+      "Emma Colbert (Laura)",
+      "Victor Mendes (Steinbach)",
+      "Ciernan Seanislav (Peter)",
+      "Zoy (Damon)",
+      "Dan Araujo (Josh)",
+      "Cass Pien (Kolb)",
+      "Varian Svazz (Allen)",
+      "Judith Dumont (Carla)",
+      "Undersea Base Elyon",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Oduya",
+      "Transponder Swap Box",
+      "Alain Mercier",
+      "Etienne Valcourt",
+      "Anita Singh",
+      "Sergey Sun",
+      "SolSec Operative at Elyon",
+      "Undersea Base Elyon",
+      "TSS Profondeur",
+      "Hadal Research Site",
+      "Oduya",
+      "Transstar",
+      "Jardin Navy",
+      "SolSec",
+      "Jardin Syndicate",
+      "Undersea Extremists",
+      "Alain Mercier",
+      "Prime Minister Bombing",
+      "Oduya",
+      "Transponder Swap Box",
+      "Oduya",
+      "Transponder Swap Box"
+    ],
     "backlinks": [
       "Alain-Mercier",
       "Anita-Singh",
@@ -5843,6 +7230,71 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Transstar",
+      "Oduya",
+      "Oduya",
+      "Emma Colbert (Laura)",
+      "Varian Svazz (Allen)",
+      "Mercier's Locked Pad",
+      "Alain Mercier",
+      "Providence",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Social Solidarity",
+      "Psychic Clone Conspiracy",
+      "Mercier Assassination",
+      "Cass Pien (Kolb)",
+      "Roman Juma",
+      "Mercier Penthouse",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dan Araujo (Josh)",
+      "Victor Mendes (Steinbach)",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "TSS Profondeur",
+      "Providence",
+      "Mercier Assassination",
+      "Providence",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Roman Juma",
+      "TSS Profondeur",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Roman Juma",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Camille Dufour",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)",
+      "Varian Svazz (Allen)",
+      "Judith Dumont (Carla)",
+      "Ciernan Seanislav (Peter)",
+      "Alain Mercier",
+      "Camille Dufour",
+      "Mark Duncan",
+      "Roman Juma",
+      "Director-General Camille Fournier",
+      "Etienne Valcourt",
+      "Oduya",
+      "Transstar Sector Exchange",
+      "Mercier Penthouse",
+      "Undersea Base Elyon",
+      "TSS Profondeur",
+      "Providence",
+      "Transstar",
+      "Social Solidarity",
+      "SolSec",
+      "Home Guard",
+      "Jardin Navy",
+      "Director-General Camille Fournier",
+      "Camille Dufour"
+    ],
+    "playerLinks": [
       "Transstar",
       "Oduya",
       "Oduya",
@@ -6023,6 +7475,53 @@
       "Mercier Evidence Cache",
       "Camille Dufour"
     ],
+    "playerLinks": [
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier Penthouse",
+      "TSS Profondeur",
+      "Victor Mendes (Steinbach)",
+      "Etienne Valcourt",
+      "Transstar",
+      "Crushed Trench",
+      "Deep-Trench Minisub",
+      "Dan Araujo (Josh)",
+      "Cass Pien (Kolb)",
+      "Emma Colbert (Laura)",
+      "Varian Svazz (Allen)",
+      "Zoy (Damon)",
+      "Judith Dumont (Carla)",
+      "Francis Adams",
+      "Krypton",
+      "Oduya",
+      "Social Solidarity",
+      "Emma Colbert (Laura)",
+      "Dan Araujo (Josh)",
+      "Cass Pien (Kolb)",
+      "Victor Mendes (Steinbach)",
+      "Varian Svazz (Allen)",
+      "Zoy (Damon)",
+      "Judith Dumont (Carla)",
+      "0-31 Saichi Maru (Annette)",
+      "Ciernan Seanislav (Peter)",
+      "Etienne Valcourt",
+      "Francis Adams",
+      "Judith Dumont (Carla)",
+      "Alain Mercier",
+      "TSS Profondeur",
+      "Crushed Trench",
+      "Hidden Clone Community",
+      "Krypton",
+      "Providence",
+      "Transstar",
+      "SolSec",
+      "Social Solidarity",
+      "Dolphin Extremists",
+      "Undersea Extremists",
+      "Psychic Clone Conspiracy",
+      "Clone Rebirth Program",
+      "Mercier Evidence Cache",
+      "Camille Dufour"
+    ],
     "backlinks": [
       "Campaign",
       "Campaign",
@@ -6075,6 +7574,9 @@
     "links": [
       "Arcosphere Rousseau"
     ],
+    "playerLinks": [
+      "Arcosphere Rousseau"
+    ],
     "backlinks": [
       "Arcosphere-Rousseau",
       "Campaign"
@@ -6101,6 +7603,26 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 1 - Official Business",
+      "Elena Verona",
+      "Mercier Assassination",
+      "SolSec",
+      "Session 2 - Masks and Markers",
+      "Inspector Marc Valois",
+      "SolSec",
+      "Hall des Futurs Choisis",
+      "Alain Mercier",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Psychic Clone Conspiracy",
+      "Camille Dufour",
+      "Providence",
+      "Leo Duprey",
+      "Director-General Camille Fournier",
+      "Inspector-General Marc Villeneuve"
+    ],
+    "playerLinks": [
       "Session 1 - Official Business",
       "Elena Verona",
       "Mercier Assassination",
@@ -6211,6 +7733,28 @@
       "Providence",
       "Psychic Clone Conspiracy"
     ],
+    "playerLinks": [
+      "Social Solidarity",
+      "Emma Colbert (Laura)",
+      "Session 2 - Masks and Markers",
+      "Inspector Marc Valois",
+      "Mercier Assassination",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers",
+      "Undersea Base Elyon",
+      "SolSec Operative at Elyon",
+      "Mercier Lookalike Survivor",
+      "Emma Colbert (Laura)",
+      "Session 6 - Ghosts in the Bloodline",
+      "Emma Colbert (Laura)",
+      "Mark Duncan",
+      "Alain Mercier",
+      "Camille Dufour",
+      "Providence",
+      "Psychic Clone Conspiracy"
+    ],
     "backlinks": [
       "Agent-Luc-Deschamps",
       "Agent-Luc-Deschamps",
@@ -6273,6 +7817,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Undersea Base Elyon",
+      "Session 4 - Into the Hadal Deep",
+      "Mercier Lookalike Survivor",
+      "Alain Mercier",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Inspector Marc Valois"
+    ],
+    "playerLinks": [
       "Undersea Base Elyon",
       "Session 4 - Into the Hadal Deep",
       "Mercier Lookalike Survivor",
@@ -6355,6 +7908,35 @@
       "Oduya",
       "Transponder Swap Box",
       "Transponder Swap Box",
+      "Cass Pien (Kolb)",
+      "Oduya",
+      "Transponder Swap Box",
+      "Port Sainte-Jeanne Downport",
+      "Keith Morris",
+      "Miasma",
+      "Session 1 - Official Business",
+      "Session 5 - The Oduya"
+    ],
+    "playerLinks": [
+      "Oduya",
+      "Oduya",
+      "Session 5 - The Oduya",
+      "Cass Pien (Kolb)",
+      "Port Sainte-Jeanne Downport",
+      "Session 5 - The Oduya",
+      "Aquatic Salvage Project",
+      "Oduya",
+      "Oduya",
+      "Keith Morris",
+      "0-31 Saichi Maru (Annette)",
+      "Transponder Swap Box",
+      "Alain Mercier",
+      "TSS Profondeur",
+      "Anita Singh",
+      "Jardin Syndicate",
+      "Oduya",
+      "Transponder Swap Box",
+      "Alain Mercier",
       "Cass Pien (Kolb)",
       "Oduya",
       "Transponder Swap Box",
@@ -6486,6 +8068,29 @@
       "Emma Colbert (Laura)",
       "Etienne Valcourt"
     ],
+    "playerLinks": [
+      "Aquatic Salvage Project",
+      "Transstar",
+      "Étienne Valcourt",
+      "Maëlle Fournier",
+      "Rémi Beauchamp",
+      "Sabine Caron",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Undersea Base Elyon",
+      "Etienne Valcourt",
+      "Sunken Ship-Boat",
+      "Alain Mercier",
+      "Oduya",
+      "Session 6 - Ghosts in the Bloodline",
+      "Aquatic Salvage Project",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "Emma Colbert (Laura)",
+      "Etienne Valcourt"
+    ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "0-31-Saichi-Maru-Annette",
@@ -6545,6 +8150,7 @@
       "[[Hadal Research Site]]",
       "[[Oduya]]"
     ],
+    "cover": "wiki/media/TSS-Profondeur-Logo.png",
     "excerpt": "# TSS Profondeur ![TSS Profondeur logo](/wiki/media/TSS-Profondeur-Logo.png) ## Overview The TSS Profondeur is a Transstar salvage submersible assigned to the [[Aquatic Salvage Project]]. It was formerly a Jardin Navy vessel, damaged during prior service and later purchased or transferred to [[Trans"
   },
   {
@@ -6567,6 +8173,78 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Hall des Futurs Choisis",
+      "Alain Mercier",
+      "Elena Verona",
+      "Home Guard",
+      "0-31 Saichi Maru (Annette)",
+      "Arcosphere Rousseau",
+      "Marcel Delphine",
+      "Identity Veils",
+      "Jardin Syndicate",
+      "Mercier Frame-Up",
+      "Zoy (Damon)",
+      "Mercier's Locked Pad",
+      "Transstar Sector Exchange",
+      "Sunken Ship-Boat",
+      "Miasma",
+      "0-31 Saichi Maru (Annette)",
+      "Identity Veils",
+      "Hall des Futurs Choisis",
+      "Social Solidarity",
+      "SolSec",
+      "Emma Colbert (Laura)",
+      "Inspector Marc Valois",
+      "Dr. Luc Moreau",
+      "Mobile Data Tube",
+      "Mercier Genetic Findings",
+      "Secure Burner Comms",
+      "Lucin",
+      "Transstar Sector Exchange",
+      "Les Jardins Fermés",
+      "Chief Helene Marchand",
+      "Marcel Delphine",
+      "Identity Veils",
+      "SolSec",
+      "Transstar Sector Exchange",
+      "Mercier's Locked Pad",
+      "Transstar Sector Exchange",
+      "Identity Veils",
+      "Emma Colbert (Laura)",
+      "Claire Bouchard",
+      "Aquatic Salvage Project",
+      "TSS Profondeur",
+      "Étienne Valcourt",
+      "Maëlle Fournier",
+      "Rémi Beauchamp",
+      "Sabine Caron",
+      "Hadal Research Site",
+      "Alain Mercier",
+      "TSS Profondeur",
+      "Undersea Base Elyon",
+      "SolSec Operative at Elyon",
+      "Mercier Lookalike Survivor",
+      "Jardinian Naval SOS",
+      "Aquatic Salvage Project",
+      "Mercier Frame-Up",
+      "Undersea Base Elyon",
+      "Emma Colbert (Laura)",
+      "Victor Mendes (Steinbach)",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Hadal Research Site",
+      "Prime Minister Bombing",
+      "TSS Profondeur",
+      "Sunken Ship-Boat",
+      "Oduya",
+      "Transponder Swap Box",
+      "Anita Singh",
+      "Sergey Sun",
+      "Oduya",
+      "Alain Mercier",
+      "Prime Minister Bombing"
+    ],
+    "playerLinks": [
       "Hall des Futurs Choisis",
       "Alain Mercier",
       "Elena Verona",
@@ -6673,6 +8351,12 @@
       "Session 5 - The Oduya",
       "Session 6 - Ghosts in the Bloodline"
     ],
+    "playerLinks": [
+      "0-31 Saichi Maru (Annette)",
+      "Oduya",
+      "Session 5 - The Oduya",
+      "Session 6 - Ghosts in the Bloodline"
+    ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "Aquatic-Salvage-Project",
@@ -6743,6 +8427,36 @@
       "0-31 Saichi Maru (Annette)",
       "Oduya"
     ],
+    "playerLinks": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Etienne Valcourt",
+      "Crushed Trench",
+      "Hidden Clone Community",
+      "Étienne Moreau",
+      "Claire Bouchard",
+      "Captain Victor Mendes",
+      "Nadine Pelletier",
+      "Luc Girard",
+      "Sarah Chen",
+      "Armand Rousselet",
+      "Elena Kovacs",
+      "Philippe Laurent",
+      "Amelia Torres",
+      "Session 4 - Into the Hadal Deep",
+      "TSS Profondeur",
+      "Aquatic Salvage Project",
+      "Hadal Research Site",
+      "Mercier Lookalike Survivor",
+      "Undersea Base Elyon",
+      "SolSec",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Emma Colbert (Laura)",
+      "Alain Mercier",
+      "TSS Profondeur",
+      "0-31 Saichi Maru (Annette)",
+      "Oduya"
+    ],
     "backlinks": [
       "Amelia-Torres",
       "Amelia-Torres",
@@ -6783,6 +8497,7 @@
       "Varian-Svazz-Allen"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Transstar-Logo.png",
     "excerpt": "# Transstar ## Session 7 - Echoes Beneath the Sea [[Session 7 - Echoes Beneath the Sea]] Transstar knows enough of the party's weekend activity to demand a demonstration of value. [[Etienne Valcourt]] assigns investigation of the [[Crushed Trench]] to protect undersea laboratory and transport revenu"
   },
   {
@@ -6807,6 +8522,16 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 3 - Transstar Day",
+      "Transstar Sector Exchange",
+      "Identity Veils",
+      "Claire Bouchard",
+      "Reena Kessler",
+      "Transstar Peacekeepers",
+      "Aquatic Salvage Project",
+      "Session 3 - Transstar Day"
+    ],
+    "playerLinks": [
       "Session 3 - Transstar Day",
       "Transstar Sector Exchange",
       "Identity Veils",
@@ -6860,6 +8585,15 @@
       "Transstar Employment Contract",
       "Session 3 - Transstar Day"
     ],
+    "playerLinks": [
+      "Transstar Sector Exchange",
+      "Session 3 - Transstar Day",
+      "Identity Veils",
+      "Transstar",
+      "Transstar Sector Exchange",
+      "Transstar Employment Contract",
+      "Session 3 - Transstar Day"
+    ],
     "backlinks": [
       "Session-3-Transstar-Day",
       "Transstar-Employment-Contract"
@@ -6887,6 +8621,16 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Antoine Mercier",
+      "Commissioner Isabelle Fournier",
+      "Lucien Voss",
+      "Mara Kovalenko",
+      "Mercier Frame-Up",
+      "Identity Veils",
+      "Session 2 - Masks and Markers",
+      "Lucin"
+    ],
+    "playerLinks": [
       "Antoine Mercier",
       "Commissioner Isabelle Fournier",
       "Lucien Voss",
@@ -6976,6 +8720,21 @@
       "SolSec Operative at Elyon",
       "TSS Profondeur"
     ],
+    "playerLinks": [
+      "Hadal Research Site",
+      "SolSec",
+      "TSS Profondeur",
+      "Mercier Lookalike Survivor",
+      "SolSec Operative at Elyon",
+      "Emma Colbert (Laura)",
+      "Victor Mendes (Steinbach)",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Session 6 - Ghosts in the Bloodline",
+      "Alain Mercier",
+      "SolSec Operative at Elyon",
+      "TSS Profondeur"
+    ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
       "0-31-Saichi-Maru-Annette",
@@ -7015,6 +8774,7 @@
       "[[Clone Rebirth Program]]",
       "[[SolSec Operative at Elyon]]"
     ],
+    "cover": "wiki/media/Hadal-Undersea-Map.png",
     "excerpt": "# Undersea Base Elyon ![Hadal undersea operations map](/wiki/media/Hadal-Undersea-Map.png) ## Overview Undersea Base Elyon is a Transstar-owned underwater base near [[Hadal Research Site]]. It functions like a compact undersea industrial platform, with real meals, a bar, a full-size ship airlock, an"
   },
   {
@@ -7042,6 +8802,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Transstar",
+      "Hidden Clone Community",
+      "Dolphin Extremists",
+      "Hadal Research Site",
+      "Sunken Ship-Boat"
+    ],
+    "playerLinks": [
       "Session 7 - Echoes Beneath the Sea",
       "Transstar",
       "Hidden Clone Community",
@@ -7096,6 +8864,10 @@
       "Sabine Caron",
       "TSS Profondeur"
     ],
+    "playerLinks": [
+      "Sabine Caron",
+      "TSS Profondeur"
+    ],
     "backlinks": [
       "Campaign"
     ],
@@ -7123,6 +8895,22 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Deep-Trench Minisub",
+      "Transstar Sector Exchange",
+      "TSS Profondeur",
+      "Hadal Research Site",
+      "Alain Mercier",
+      "Alain Mercier",
+      "Oduya",
+      "Oduya",
+      "Mercier Penthouse",
+      "Victor Mendes (Steinbach)",
+      "Transstar",
+      "Alain Mercier",
+      "0-31 Saichi Maru (Annette)"
+    ],
+    "playerLinks": [
       "Session 7 - Echoes Beneath the Sea",
       "Deep-Trench Minisub",
       "Transstar Sector Exchange",
@@ -7201,6 +8989,30 @@
       "Arcosphere Rousseau",
       "SolSec"
     ],
+    "playerLinks": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Hidden Clone Community",
+      "Transstar Sector Exchange",
+      "TSS Profondeur",
+      "Hadal Research Site",
+      "Emma Colbert (Laura)",
+      "Undersea Base Elyon",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Sunken Ship-Boat",
+      "Oduya",
+      "Oduya",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Dan Araujo (Josh)",
+      "Mercier Penthouse",
+      "Home Guard",
+      "Mercier Evidence Cache",
+      "Varian Svazz (Allen)",
+      "Elena Verona",
+      "Arcosphere Rousseau",
+      "SolSec"
+    ],
     "backlinks": [
       "Arcosphere-Rousseau",
       "Campaign",
@@ -7247,6 +9059,28 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Session 7 - Echoes Beneath the Sea",
+      "Hidden Clone Community",
+      "Mercier Assassination",
+      "False News Broadcast",
+      "Alain Mercier",
+      "Jardin Syndicate",
+      "Hall des Futurs Choisis",
+      "Mobile Data Tube",
+      "Emma Colbert (Laura)",
+      "Transstar Sector Exchange",
+      "TSS Profondeur",
+      "Mercier Lookalike Survivor",
+      "SolSec Operative at Elyon",
+      "SolSec Operative at Elyon",
+      "Oduya",
+      "Mercier's Locked Pad",
+      "Oduya",
+      "Varian Svazz (Allen)",
+      "Alain Mercier",
+      "Providence"
+    ],
+    "playerLinks": [
       "Session 7 - Echoes Beneath the Sea",
       "Hidden Clone Community",
       "Mercier Assassination",
