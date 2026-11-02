@@ -2,14 +2,30 @@
 category: game
 type: game
 name: Session 8 - The Price of Clearing Your Name
-summary: The crew flies to Providence, learns of a psychic faction inside Social Solidarity and SolSec, survives an assassination attempt, and enters North Meridian's vault under military cover to recover dangerous intelligence.
-tags: [game, session-8, providence, solsec, north-meridian]
+summary: The crew flies to Providence, learns of a psychic faction inside Social
+  Solidarity and SolSec, survives an assassination attempt, and enters North
+  Meridian's vault under military cover to recover dangerous intelligence.
+tags:
+  - game
+  - session-8
+  - providence
+  - solsec
+  - north-meridian
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
-aliases: [Game 8, Chapter 1 Game 8, The Price of Clearing Your Name]
-keyLinks: ["[[Director Adrian Beaumont]]", "[[Providence]]", "[[North Meridian]]", "[[North Meridian Intelligence Vault]]", "[[Domirina]]", "[[Oduya]]"]
-lastEditedBy: Codex
+keyLinks:
+  - "[[Director Adrian Beaumont]]"
+  - "[[Providence]]"
+  - "[[North Meridian]]"
+  - "[[North Meridian Intelligence Vault]]"
+  - "[[Domirina]]"
+  - "[[Oduya]]"
+aliases:
+  - Game 8
+  - Chapter 1 Game 8
+  - The Price of Clearing Your Name
+lastEditedBy: AI via MCP
 ---
 
 # Session 8 - The Price of Clearing Your Name
