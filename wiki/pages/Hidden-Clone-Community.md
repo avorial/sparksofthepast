@@ -13,6 +13,12 @@ lastEditedBy: Codex
 
 # Hidden Clone Community
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Emma's administrative check finds another living version for about ten percent of copied identities. No return or evacuation occurs. The opening recap estimates 300-500 residents and a 25-30-year adult-clone lifespan, differing from Game 7's estimates; this does not establish a new settlement. Beaumont later clarifies adult force-aging as a key lifespan factor and says normally grown cloned children may live normal lives.
+
 ## Overview
 
 Discovered in [[Session 7 - Echoes Beneath the Sea]], this unnamed settlement lies beyond the middle of three cave entrances in the [[Crushed Trench]]. About 250-300 residents live here. Continuous databases suggest roughly 25-30 years of occupation. The inhabitants are discarded backups and restored clones from the [[Clone Rebirth Program]], not collectively a military terrorist cell.

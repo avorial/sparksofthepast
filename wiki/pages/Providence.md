@@ -22,6 +22,12 @@ lastEditedBy: Codex
 
 # Providence
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+The party visits this garden world of retreats, scientific institutions, and SolSec training facilities. A routine gunship escort and tight manual landing precede an armed interception by [[Lieutenant Baxter]]. [[Director Adrian Beaumont]] receives the party, discloses the faction he is investigating, gives it a vault mission and funds, and survives the immediate rocket attack stopped by Saichi. The crew escapes to [[North Meridian]]. Emma's implanted comms fall silent for an unknown reason.
+
 ## Overview
 
 Providence is a planet in the Jardin system, described in [[Session 6 - Ghosts in the Bloodline]] as one world closer to the sun than Jardin. [[Alain Mercier]] bought an off-world ticket there shortly before his assassination, but the ticket was used by someone else.

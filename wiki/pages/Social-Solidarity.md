@@ -15,6 +15,12 @@ lastEditedBy: patricthomas
 
 # Ministère de la Solidarité Sociale
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Beaumont estimates 35-40 percent of the organization belongs to a psychic-led splinter faction, supported by compromised SolSec operatives. This is his estimate, not an established census. The crew receives an emergency ship identity and personnel records that may help investigate. The entire ministry must not be equated with the faction.
+
 *Ministry of Social Solidarity*
 
 *"Harmony Through Responsibility"*

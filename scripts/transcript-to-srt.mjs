@@ -3,14 +3,28 @@ import fs from "node:fs";
 import path from "node:path";
 
 function usage() {
-  console.error("Usage: node scripts/transcript-to-srt.mjs <transcript.json> <output.srt>");
+  console.error("Usage: node scripts/transcript-to-srt.mjs <transcript.json|transcript.txt> <output.srt>");
   process.exit(1);
 }
 
 const [inputPath, outputPath] = process.argv.slice(2);
 if (!inputPath || !outputPath) usage();
 
-const segments = JSON.parse(fs.readFileSync(inputPath, "utf8"));
+const source = fs.readFileSync(inputPath, "utf8").replace(/^\uFEFF/, "");
+function parseTimestampedText(text) {
+  const markers = [...text.matchAll(/^\((\d{2}):(\d{2}):(\d{2})(?:\.(\d{1,3}))?\):[^\S\r\n]*\r?\n/gm)];
+  if (!markers.length) throw new Error("No timestamped transcript entries found.");
+  const entries = markers.map((m, i) => ({
+    start: Number(m[1]) * 3600 + Number(m[2]) * 60 + Number(m[3]) + Number((m[4] || '').padEnd(3, '0')) / 1000,
+    text: text.slice(m.index + m[0].length, markers[i + 1]?.index ?? text.length).trim()
+  }));
+  return entries.map((entry, i) => {
+    const end = entries[i + 1]?.start ?? entry.start + 3;
+    if (end <= entry.start) throw new Error(`Non-increasing timestamp at entry ${i + 1}`);
+    return {...entry, end};
+  });
+}
+const segments = path.extname(inputPath).toLowerCase() === '.txt' ? parseTimestampedText(source) : JSON.parse(source);
 if (!Array.isArray(segments)) throw new Error("Transcript must be an array of segments.");
 
 function timestamp(seconds) {
@@ -87,7 +101,8 @@ function cuesForSegment(segment) {
 const cues = segments.flatMap(cuesForSegment).filter((cue) => cue.text.trim());
 const body = cues.map((cue, index) => {
   const lines = wrap(cue.text);
-  return `${index + 1}\n${timestamp(cue.start)} --> ${timestamp(Math.max(cue.end, cue.start + 0.5))}\n${lines.join("\n")}`;
+  const minimumDuration = path.extname(inputPath).toLowerCase() === '.txt' ? 0.001 : 0.5;
+  return `${index + 1}\n${timestamp(cue.start)} --> ${timestamp(Math.max(cue.end, cue.start + minimumDuration))}\n${lines.join("\n")}`;
 }).join("\n\n");
 
 fs.mkdirSync(path.dirname(outputPath), { recursive: true });

@@ -15,6 +15,12 @@ lastEditedBy: patricthomas
 
 # Cass Pien (Kolb)
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Used Belter knowledge to suggest a mining detour; scanning identified possible targets but extraction was deferred. Asked about psychic involvement during Beaumont's briefing. Provided leadership and mutual suit-check assistance and encouraged Zoy's vault-terminal work. No new minerals or completed mining payment were acquired.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]

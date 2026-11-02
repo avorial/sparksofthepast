@@ -22,6 +22,12 @@ lastEditedBy: Codex
 
 # Transponder Swap Box
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Beaumont knows the ship's identity-changing capability, attributing the information to an interrogated crash survivor who is not securely named. He supplies a short-lived emergency Social Solidarity identity for high-level government cover; it is not used in the played escape. Temporary personal military credentials are a separate asset.
+
 ## Overview
 
 The Transponder Swap Box is a metallic case recovered by [[0-31 Saichi Maru (Annette)]] from the dead captain of [[Oduya]] during [[Session 5 - The Oduya]]. The case contains multiple cylindrical transponder modules, each built from subtly different marked metals.

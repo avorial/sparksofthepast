@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Zoy (Damon)
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Operated the [[North Meridian Intelligence Vault]] terminal with leadership support and copied the required personnel records. Chose the dolphin-network dossier and then all offered additional categories, including political-leadership records, despite Emma's objections. The party left with multiple briefcase-sized storage units; analysis is scheduled for the next game. Beaumont's proposed psychic-potential story is a cover fabrication, not confirmation of an ability.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]

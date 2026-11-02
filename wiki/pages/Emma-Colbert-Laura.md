@@ -15,6 +15,12 @@ lastEditedBy: patricthomas
 
 # Emma Colbert (Laura)
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Brokered travel expenses covering about a week's fuel and maintenance. Cross-referenced copied clone identities and found about ten percent have another living version. Handled comms, noticed her implant's silence and the SolSec encirclement, and acted as lead speaker with [[Director Adrian Beaumont]]. Maintained military-inspection cover on North Meridian; teammates corrected her suit checks. Strongly opposed taking extra political and criminal dossiers, which Zoy copied despite her objections.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]

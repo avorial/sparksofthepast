@@ -17,6 +17,12 @@ lastEditedBy: patricthomas
 
 # 0-31 Saichi Maru (Annette)
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Entered protective mode after the courtyard warning shot, then lowered her aim when Baxter holstered his pistol. Spotted a targeting light during Beaumont's briefing, loudly warned everyone to take cover, and fired toward its source. Her successful shot detonated the attacker's rocket launcher in the neighboring building. Shielded the party and helped obtain drone guidance during escape. No new chassis damage is recorded.
+
 *Security Walker Robot*
 
 **Designation:** 0-31 Saichi Maru | **Type:** Size 5 walker robot | **TL:** 12+ | **Status:** Active | **Owner:** Annette

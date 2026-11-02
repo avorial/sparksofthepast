@@ -20,6 +20,12 @@ lastEditedBy: Codex
 
 # SolSec
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+[[Director Adrian Beaumont]] alleges a small but prominent SolSec faction has joined the psychic Social Solidarity group. His own network is compromised and he faces loss of rank. [[Lieutenant Baxter]] serves in his security detail. The party retrieves personnel and undercover-network records from the [[North Meridian Intelligence Vault]], but has not analyzed every name or verified all the allegations.
+
 ## Overview
 
 SolSec is distinguished in the transcript from [[Social Solidarity]]. On Jardin, Social Solidarity functions as the local secret police and internal security arm, while SolSec handles terrorism and external threats.

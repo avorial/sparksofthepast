@@ -27,6 +27,12 @@ lastEditedBy: Codex
 
 # Psychic Clone Conspiracy
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Beaumont supplies a model of a Social Solidarity splinter faction, compromised SolSec operatives, psychic replacements, deliberate genetic alteration, and political blackmail. He identifies Mercier's retesting proposal as the assassination motive and Camille as a defector. Personnel continuity, the Heredity Register, and laboratory evidence are the three investigative objectives. Only the personnel dataset is acquired this session; the briefing does not independently prove every allegation.
+
 ## Overview
 
 The Psychic Clone Conspiracy is the party's current model for the hidden force behind the [[Mercier Assassination]], the [[Mercier Frame-Up]], and the genetic anomalies in [[Mercier Genetic Findings]]. In [[Session 6 - Ghosts in the Bloodline]], [[Alain Mercier]]'s pad and research connect the mystery to a hidden subset of [[Social Solidarity]] capable of creating or exploiting psykers.

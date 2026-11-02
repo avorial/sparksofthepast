@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Victor Mendes (Steinbach)
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Advocated Providence as the path to exoneration. Plotted a seven-hour transfer from Jardin and a two-hour course from Providence to North Meridian. Used sensors to mark future comet/rock mining targets; no mining occurred. Declined Beaumont's food. Applied Naval Tactics to estimate eight to sixteen hours before the base reports the visit, and took a guard position in the vault to reinforce the inspection routine.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]

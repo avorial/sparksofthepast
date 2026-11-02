@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Varian Svazz (Allen)
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Piloted ascent, manual landing among Providence's ships and trees, and the evasive departure after the rocket attack. Used another ship-boat to draw the patrol's attention before breaking away. Made a successful voluntary wild landing near North Meridian's base. The asymmetric drive still required active watch at the controls. No new ship damage is recorded.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]

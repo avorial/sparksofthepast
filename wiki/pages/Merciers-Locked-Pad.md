@@ -28,6 +28,12 @@ lastEditedBy: Codex
 
 # Mercier's Locked Pad
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+The still-unlocked pad provides the Providence meeting location. Beaumont has tracked its signal to follow the party and arrange an interception. It remains aboard after the escape despite Dan's concerns. No disposal or completed tracking countermeasure occurs; it is both an investigative asset and an exposure risk.
+
 *The minister's last secret, one bad guess from ash*
 
 ## Overview

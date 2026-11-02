@@ -23,6 +23,12 @@ lastEditedBy: Codex
 
 # Clone Rebirth Program
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Beaumont describes the official replacement system as roughly seventy years old and distinct from the faction's unauthorized psychic experiments. Adult force-aging and dwindling stabilizing material limit lifespan; normally grown cloned children can live normal lives. This qualifies the earlier blanket twenty-five-year inference. Emma's records check finds living counterparts for about ten percent of copied community identities. A7 rank terminology is preserved without assuming it exactly replaces earlier Platinum terminology.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]

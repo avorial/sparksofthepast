@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Dan Araujo (Josh)
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Nursed the power system rather than pushing it and earned a boon on his next power-system check. Participated in mechanical inspection and North Meridian Recon, spotting armed Marines. Supported the Providence escape with a successful maneuver-drive check. Asked about computer capability and the traceable pad; it remained aboard, with no completed tracking countermeasure.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]

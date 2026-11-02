@@ -21,6 +21,12 @@ lastEditedBy: Codex
 
 # Camille Dufour
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+[[Director Adrian Beaumont]] alleges Camille was a SolSec defector helping distort Mercier's investigation and arrange a controlled replacement. He says he removed her A7 eligibility and ordered her killed as she left Providence. The GM clarifies her backup was destroyed at the facility associated with Mercier's rescue and is not in the hidden community. The party does not meet her alive or independently examine her death; earlier assumptions of her loyal mission are superseded by this attributed account.
+
 ## Overview
 
 Camille Dufour is a SolSec agent identified from the flight record tied to [[Mercier's Locked Pad]] in [[Session 6 - Ghosts in the Bloodline]]. Her ID is encrypted, and the recovered record includes a photo of a woman in a black uniform.

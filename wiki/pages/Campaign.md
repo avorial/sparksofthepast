@@ -30,6 +30,12 @@ lastEditedBy: Codex
 
 # Sparks From the Past
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+Latest: the crew takes three days' leave in Volante, visits [[Providence]], meets [[Director Adrian Beaumont]], survives a rocket attack, and enters the [[North Meridian Intelligence Vault]] under inspection cover. They receive Cr1,000,000, recover the personnel dataset and additional dossiers, and depart toward [[Domirina]] on a moon of [[Free Arden]]. Their names remain uncleared; analysis and the biological-research lead are next.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]
@@ -115,6 +121,8 @@ The party's first Transstar assignment places them aboard the [[TSS Profondeur]]
 
 ## Session Index
 
+* [[Session 8 - The Price of Clearing Your Name]]
+* [[Session 7 - Echoes Beneath the Sea]]
 * [[Session 1 - Official Business]]
 * [[Session 2 - Masks and Markers]]
 * [[Session 3 - Transstar Day]]

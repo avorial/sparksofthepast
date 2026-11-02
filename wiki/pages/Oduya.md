@@ -25,6 +25,12 @@ lastEditedBy: Codex
 
 # Oduya
 
+## Session 8 - The Price of Clearing Your Name
+
+[[Session 8 - The Price of Clearing Your Name]]
+
+The craft, called Volante in play, carries the crew from Jardin to Providence and North Meridian. It is fueled and orbit-worthy but unpleasant, unarmed as a ship, and without jump capability. The asymmetric drive requires active piloting. Dan nurses its unusual power arrangement and earns a future power-check boon. Emma brokers operating expenses. No jump refit, new gun, or mining occurs. The next destination is [[Domirina]], not yet reached.
+
 ## Overview
 
 Oduya is the true name of the [[Sunken Ship-Boat]] raised by the party during [[Session 5 - The Oduya]]. The two names refer to the same craft: "Sunken Ship-Boat" was the old lead, and Oduya is the identified vessel.
