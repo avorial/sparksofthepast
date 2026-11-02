@@ -12,7 +12,7 @@ tags:
   - solsec
   - north-meridian
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[Director Adrian Beaumont]]"
@@ -25,7 +25,7 @@ aliases:
   - Game 8
   - Chapter 1 Game 8
   - The Price of Clearing Your Name
-lastEditedBy: AI via MCP
+lastEditedBy: GM review via MCP
 ---
 
 # Session 8 - The Price of Clearing Your Name
