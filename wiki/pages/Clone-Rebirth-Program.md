@@ -23,6 +23,12 @@ lastEditedBy: Codex
 
 # Clone Rebirth Program
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Facility records reveal rushed researcher self-copies used as disposable deadline labor and incinerated when they fail. Bellinger identifies the scarce Krypton substance as [[GL15]], necessary for stable cloning and clean implementation of genetic alterations. This experimental abuse is separate from assuming every state replacement has the same process. Multiple species and dangerous creations are present, and anti-psychic containment is documented.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Dan Araujo (Josh)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Helped correct suit problems, modified the loader so Zoy could hide inside, and supplied the strong Robotics-based contribution that made the coordinated scientist disguise convincing. Located the sequencing room through Medic and asked Bellinger about sampling, genetic history, and predictive medicine. His work boots helped her recognize the deception. He did not receive a successful inserted identity. His final research suggestion clarified that prediction does not solve safe delivery without GL15.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

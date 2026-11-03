@@ -16,6 +16,12 @@ cover: wiki/media/Transstar-Logo.png
 
 # Transstar
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Emma sends a tactful resignation on behalf of the departing crew during the initial thirty-day open-employment period, prioritizing the investigation. The party hopes to preserve relations; no acceptance, new subcontracting agreement, hostile response, or final equipment settlement is confirmed. Saichi still has Transstar repair components.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]

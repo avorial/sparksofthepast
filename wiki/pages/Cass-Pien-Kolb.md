@@ -15,6 +15,12 @@ lastEditedBy: patricthomas
 
 # Cass Pien (Kolb)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Provided strong leadership for sensor/comms work. Scouted inside and, after being seen, successfully posed as new Dr. Penn to Professor Moreau. Obtained directions to the staff quarters and helped pursue the incinerator clue. Supported Emma's identity insertion with leadership, received a staff cover, and joined the team during extraction. The party's amnesty promise remained provisional.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

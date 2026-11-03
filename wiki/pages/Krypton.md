@@ -13,6 +13,12 @@ lastEditedBy: Codex
 
 # Krypton
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+The material previously discussed is named [[GL15]] by Bellinger. She explains that substitute delivery methods damage RNA pathways and cause new failures even when prediction identifies the original problem. The crew neither visits Krypton nor acquires a physical GL15 sample in this session. The Imperial pleasure-cruiser lead remains unresolved.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

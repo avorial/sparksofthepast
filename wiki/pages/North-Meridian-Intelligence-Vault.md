@@ -13,6 +13,12 @@ lastEditedBy: Codex
 
 # North Meridian Intelligence Vault
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+The crew still holds the Game 8 personnel and additional dossiers. Game 9 uses another source to investigate research personnel; no full on-screen decoding of every vault case or confirmed acquisition of the separate Heredity Register occurs. Bellinger's testimony/research is the new laboratory-evidence lead.
+
 ## Access
 
 During [[Session 8 - The Price of Clearing Your Name]], the Travellers enter the military base on [[North Meridian]] using temporary credentials and inspection cover. [[Lieutenant Colonel Pablo Garcia]] provides escorts. At the vault, [[Director Adrian Beaumont]]'s access key answers an optical challenge; automated defenses power down and the escorts remain outside.

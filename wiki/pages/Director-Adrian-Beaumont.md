@@ -13,6 +13,12 @@ lastEditedBy: Codex
 
 # Director Adrian Beaumont
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+The crew follows his investigation toward Free Arden, extracts Bellinger, and plans to bring evidence to Jardin's president. Their claim to Bellinger that they directly serve a presidential operation goes beyond the authority actually granted by Beaumont. His own survival after Game 8 and current rank remain unconfirmed.
+
 ## Role
 
 In [[Session 8 - The Price of Clearing Your Name]], Beaumont meets the party on [[Providence]] after tracking [[Mercier's Locked Pad]]. He describes [[Alain Mercier]] as his agent, and says a major faction of [[Social Solidarity]] and a smaller group inside [[SolSec]] are exploiting replication and psychic abilities for political control. He is a separate NPC from [[Director Luc Beaumont]], the Port Authority director on Jardin.

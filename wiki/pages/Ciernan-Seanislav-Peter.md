@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Ciernan Seanislav (Peter)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+No individual action is confidently attributable in this recording. No separate mission, new injury, or transfer of his equipment is established.
+
 ![Ciernan Seanislav portrait](/wiki/media/Ciernan-Seanislav.png)
 
 *Solomani Racial • Merchant: Merchant Marine*

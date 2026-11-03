@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Varian Svazz (Allen)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+No individual action is confidently attributable in this recording; Zoy makes the played covert landing. The shared end state is flight back to Jardin with Bellinger and the research. No death, resignation from the party, or new personal injury should be inferred from the lack of spotlight.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

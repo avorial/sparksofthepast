@@ -15,6 +15,12 @@ lastEditedBy: patricthomas
 
 # Emma Colbert (Laura)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Sent the diplomatic resignation from Transstar. Decoded Snowball's call and supported the infiltration cover. Used Bellinger's active room terminal to investigate staff, confirmed psychic research, and inserted cover records for herself, Cass, and Victor with leadership assistance; Dan's attempted addition failed. Read Bellinger's willingness to defect and negotiated extraction plus provisional amnesty under a claimed presidential mandate. No actual presidential pardon was authorized. Her connection failed, but she remained active by phone and some rolls were made for her.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

@@ -25,6 +25,12 @@ lastEditedBy: Codex
 
 # Oduya
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Volante uses SolSec identity S42 for a genuine rescue relay and bluff near Free Arden. Zoy makes a covert crater landing with approximately half fuel remaining. The crew keeps its identity stable while Hank Aaron is still nearby. At extraction the GM confirms fuel sufficient to return to Jardin, but insufficient for the additional Terra Nova leg. No jump drive, ship guns, refueling, or recovered loader installation is added. Bellinger is taken aboard with her locked research.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

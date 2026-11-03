@@ -22,6 +22,12 @@ lastEditedBy: Codex
 
 # Transstar Employment Contract
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+The party chooses to resign during the initial thirty-day open-employment period rather than ghost the employer or commit to longer service. Emma's successful social roll supports a diplomatic message. Future freelancing is discussed but not negotiated. No formal corporate reply, final account settlement, or complete legal discharge is played.
+
 ## Overview
 
 The Transstar employment contract is the legal shield the party accepts in [[Session 3 - Transstar Day]]. As employees, they are protected from ordinary Jardin prosecution while inside the [[Transstar Sector Exchange]] or aboard a Transstar ship.

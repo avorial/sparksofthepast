@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Victor Mendes (Steinbach)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Located the distress probe, devised and performed the false SolSec advance-scout broadcast while sending a genuine naval alert, and helped secure Snowball's rescue. A later sensor check found no extra enemy data. Shot the second technician after the surface encounter escalated, recovered and shared the active comm frequency, and gained one of the inserted staff identities. Returned with the crew toward Jardin.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

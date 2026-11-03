@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Zoy (Damon)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Piloted the undetected crater landing. Found technician RFID keys and concealed himself inside a loader modified by Dan, passing as a supply robot and using keys from the machine. A further computer attempt locked Bellinger's terminal, causing the group to leave. Provided a strong final suit check that compensated for others' failures. No new psychic power is confirmed and loading the borrowed mech aboard Volante is not established.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

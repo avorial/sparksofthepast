@@ -27,6 +27,12 @@ lastEditedBy: Codex
 
 # Psychic Clone Conspiracy
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Staff records explicitly identify Sabine Delaroy as a developed psychic trainer, and Bellinger admits providing memorized genetic models that psychic agents read to alter political families. She claims a recording of Social Solidarity delivering target instructions. Her extraction and locked research improve the evidence case, but full authentication, presidential review, and a pardon remain ahead.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

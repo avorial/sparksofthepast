@@ -22,6 +22,12 @@ lastEditedBy: Codex
 
 # Transponder Swap Box
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+The crew broadcasts as SolSec ship S42 while forwarding Snowball's genuine distress call. Victor's deception convinces Hank Aaron and supports the naval rescue. The team refrains from immediately changing identity under the carrier's observation. No exact later switch time, permanent immunity, or verification by naval intelligence is established.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

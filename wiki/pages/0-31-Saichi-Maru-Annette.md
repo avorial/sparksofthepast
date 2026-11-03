@@ -17,6 +17,12 @@ lastEditedBy: patricthomas
 
 # 0-31 Saichi Maru (Annette)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+Scouted the solar arrays and service elevator at high speed. Used Electronics to trigger a non-biological lost-pass workflow, then deceived two technicians into accompanying her to the surface. Killed the technician drawing a gun; missed the fleeing second technician. Maintained apparent robot cover. During escape, incapacitated the armed defender with twenty damage from her heavy rifle and carried Bellinger to Volante before the emergency suit's short air supply expired. No new chassis damage is recorded.
+
 ## Session 8 - The Price of Clearing Your Name
 
 [[Session 8 - The Price of Clearing Your Name]]

@@ -15,6 +15,12 @@ lastEditedBy: patricthomas via GM review
 
 # Judith Dumont (Carla)
 
+## Session 9 - The Doctor's Bargain
+
+[[Session 9 - The Doctor's Bargain]]
+
+No individual action is confidently attributable in this recording. The crew extracts Bellinger and returns toward Jardin; no new event involving Judith's younger counterpart is played.
+
 ## Session 7 - Echoes Beneath the Sea
 
 [[Session 7 - Echoes Beneath the Sea]]
