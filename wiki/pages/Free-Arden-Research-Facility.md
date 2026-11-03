@@ -8,13 +8,13 @@ tags:
   - location
   - session-9
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases:
   - Free Arden Research Facility
   - Domirina Research Facility
-lastEditedBy: AI via MCP
+lastEditedBy: GM review via MCP
 ---
 
 # Institut de Continuité Biologique
