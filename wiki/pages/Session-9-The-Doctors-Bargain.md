@@ -17,7 +17,7 @@ knownToPlayers: true
 keyLinks:
   - "[[Domirina]]"
   - "[[Free Arden Research Facility]]"
-  - "[[Dr. Annalis Bellinger]]"
+  - "[[Dr. Anaïs Bellanger]]"
   - "[[GL15]]"
   - "[[HMS Hank Aaron]]"
   - "[[Snowball]]"
@@ -48,9 +48,9 @@ The research moon has solar panels covering roughly a quarter of its surface. [[
 
 The deception collapses when a technician sees Zoy and reaches for a weapon. Saichi kills him with her laser pistol; Victor shoots the second technician after Saichi's follow-up misses. The crew uses the dead technicians' biometric access to enter the facility. Zoy finds RFID keys, and Victor recovers an active communicator. The team sends a reassuring text from the dead technician Alex's own pad, buying a fifteen-minute interval before another check-in. Inside the oxygenated facility, Dan modifies a small loader so Zoy can hide inside and pass as a service robot.
 
-Cass scouts ahead, fails to remain unseen, and meets [[Professor Moreau]]. Posing as newly arrived Dr. Penn, he persuades Moreau that administrative failures explain the group's missing uniforms and credentials. Moreau complains to [[Clary Montfort]] and directs them to the medical staff quarters. The Travellers take scrubs and lab coats. In a still-warm incinerator they find titanium spectacle frames matching Moreau's glasses. Later records explain the unsettling clue: researchers rapidly clone themselves to meet deadlines, work alongside their short-lived copies, and burn the bodies when the copies fail.
+Cass scouts ahead, fails to remain unseen, and meets [[Professor Lucien Moreau]]. Posing as newly arrived Dr. Penn, he persuades Moreau that administrative failures explain the group's missing uniforms and credentials. Moreau complains to [[Claire Montfort]] and directs them to the medical staff quarters. The Travellers take scrubs and lab coats. In a still-warm incinerator they find titanium spectacle frames matching Moreau's glasses. Later records explain the unsettling clue: researchers rapidly clone themselves to meet deadlines, work alongside their short-lived copies, and burn the bodies when the copies fail.
 
-The crew enters [[Dr. Annalis Bellinger]]'s room using the stolen keys and finds an active terminal. Emma studies the staff records and emails, learning about security commandant [[Remy Luc]], research chief [[Dr. Vassar]], administrator Montfort, caretaker [[Mariel Fonter]], engineer [[Nicholas Perrin]], and confirmed psychic trainer [[Sabine Delaroy]]. Records also identify clones held behind anti-psychic security. With Cass's leadership, Emma inserts staff identities for herself, Cass, and Victor; an attempt to add Dan does not succeed. Zoy's further computer attempt locks the terminal, prompting the group to move.
+The crew enters [[Dr. Anaïs Bellanger]]'s room using the stolen keys and finds an active terminal. Emma studies the staff records and emails, learning about security commandant [[Remy Luc]], research chief [[Dr. Élodie Vasseur]], administrator Montfort, caretaker [[Mireille Fournier]], engineer [[Nicolas Perrin]], and confirmed psychic trainer [[Sabine Delacroix]]. Records also identify clones held behind anti-psychic security. With Cass's leadership, Emma inserts staff identities for herself, Cass, and Victor; an attempt to add Dan does not succeed. Zoy's further computer attempt locks the terminal, prompting the group to move.
 
 Dan locates a sequencing room, where Bellinger welcomes them as the new team she has been awaiting. She demonstrates a method for modeling a person's genetic history and likely development, then explains the shortage of [[GL15]], the Krypton-derived substance that permits stable cloning and relatively clean genetic alteration. Substitute methods damage genetic pathways and create new failures even when the researchers can predict the original problem. Much of the useful knowledge is secured in Bellinger's eidetic memory instead of openly accessible files.
 
@@ -122,13 +122,13 @@ The terminal in Bellinger's messy room is active under her account. Her cold cof
 
 | Person | Information learned |
 | --- | --- |
-| [[Dr. Annalis Bellinger]] | Molecular biologist recruited into military research at sixteen, with exceptional chemical-bond understanding and eidetic memory. Sensitive knowledge can remain in her head rather than stored as accessible documentation. |
-| [[Commandant Remy Luc]] | Former SolSec black-site security specialist and current facility security commander. Email threads show staff trying to work around him; his actual awareness of the infiltration is unknown. |
-| [[Dr. Vassar]] | Research chief, likely involved in the original advanced-clone work. Her academic research explored altering living hosts without ordinary direct intervention. |
-| [[Clary Montfort]] | Administrative director controlling access, assignments, research allocations, and supplies. Moreau calls her about the visitors. |
-| [[Mariel Fonter]] | Resident caretaker/nurse tending subjects, feeding and waking clones, and accessing people not fully coherent. |
-| [[Sabine Delaroy]] | Social Solidarity psychic trainer explicitly documented as having developed powers after her original training. Video material depicts telekinetic activity. Whether she is the altered original or a replacement remains unknown. |
-| [[Nicholas Perrin]] | Environmental-systems engineer responsible for oxygenation, major repairs, and back-door/service systems. |
+| [[Dr. Anaïs Bellanger]] | Molecular biologist recruited into military research at sixteen, with exceptional chemical-bond understanding and eidetic memory. Sensitive knowledge can remain in her head rather than stored as accessible documentation. |
+| [[Commandant Rémi Leduc]] | Former SolSec black-site security specialist and current facility security commander. Email threads show staff trying to work around him; his actual awareness of the infiltration is unknown. |
+| [[Dr. Élodie Vasseur]] | Research chief, likely involved in the original advanced-clone work. Her academic research explored altering living hosts without ordinary direct intervention. |
+| [[Claire Montfort]] | Administrative director controlling access, assignments, research allocations, and supplies. Moreau calls her about the visitors. |
+| [[Mireille Fournier]] | Resident caretaker/nurse tending subjects, feeding and waking clones, and accessing people not fully coherent. |
+| [[Sabine Delacroix]] | Social Solidarity psychic trainer explicitly documented as having developed powers after her original training. Video material depicts telekinetic activity. Whether she is the altered original or a replacement remains unknown. |
+| [[Nicolas Perrin]] | Environmental-systems engineer responsible for oxygenation, major repairs, and back-door/service systems. |
 
 - Staff under deadline make accelerated copies of themselves, use them as parallel researchers, then incinerate the rapidly deteriorating bodies.
 - This explains why familiar personal objects can appear among ashes while the apparent owner still walks the halls. It does not prove that every researcher is the same clone or that all staff are duplicates.
@@ -208,7 +208,7 @@ The terminal in Bellinger's messy room is active under her account. Her cold cof
 
 ## Key NPCs
 
-[[Dr. Annalis Bellinger]], [[Professor Moreau]], [[Dr. Vassar]], [[Commandant Remy Luc]], [[Clary Montfort]], [[Mariel Fonter]], [[Sabine Delaroy]], and [[Nicholas Perrin]]. Alex is a dead technician whose terminal and communicator support the ruse; no surname is given. The two combatants at the exit remain unidentified.
+[[Dr. Anaïs Bellanger]], [[Professor Lucien Moreau]], [[Dr. Élodie Vasseur]], [[Commandant Rémi Leduc]], [[Claire Montfort]], [[Mireille Fournier]], [[Sabine Delacroix]], and [[Nicolas Perrin]]. Alex is a dead technician whose terminal and communicator support the ruse; no surname is given. The two combatants at the exit remain unidentified.
 
 ## Places and Organizations
 

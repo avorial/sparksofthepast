@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:44:42.292Z",
+  "generatedAt": "2026-11-03T14:59:03.536Z",
   "pages": [
     {
       "id": "character-0-31-Saichi-Maru-Annette",
@@ -608,7 +608,7 @@
         "game-Session-9-The-Doctors-Bargain",
         "game-Session-8-The-Price-of-Clearing-Your-Name",
         "game-Session-7-Echoes-Beneath-the-Sea",
-        "game-Session-1-Official-Business",
+        "unresolved:Session 1 - Official Business",
         "game-Session-2-Masks-and-Markers",
         "game-Session-3-Transstar-Day",
         "game-Session-4-Into-the-Hadal-Deep",
@@ -682,166 +682,7 @@
         "npc-Sister-Celeste-Moreau",
         "npc-SolSec-Operative-at-Elyon",
         "npc-Sergey-Sun",
-        "unresolved:table-rules"
-      ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "organization-Transstar",
-        "vehicle-HMS-Hank-Aaron",
-        "vehicle-Snowball",
-        "location-Free-Arden-Research-Facility",
-        "location-Domirina",
-        "npc-Dr-Annalis-Bellinger",
-        "lore-GL15",
-        "game-Session-8-The-Price-of-Clearing-Your-Name",
-        "location-Providence",
-        "npc-Director-Adrian-Beaumont",
-        "location-North-Meridian-Intelligence-Vault",
-        "location-Domirina",
-        "location-Free-Arden",
-        "game-Session-7-Echoes-Beneath-the-Sea",
-        "game-Session-7-Echoes-Beneath-the-Sea",
-        "location-Crushed-Trench",
-        "location-Hidden-Clone-Community",
-        "npc-Francis-Adams",
-        "location-Krypton",
-        "vehicle-TSS-Profondeur",
-        "vehicle-Deep-Trench-Minisub",
-        "location-Providence",
-        "npc-Alain-Mercier",
-        "location-Hall-des-Futurs-Choisis",
-        "organization-Transstar",
-        "event-Mercier-Frame-Up",
-        "event-Aquatic-Salvage-Project",
-        "vehicle-TSS-Profondeur",
-        "game-Session-5-The-Oduya",
-        "npc-Alain-Mercier",
-        "lore-Clone-Rebirth-Program",
-        "game-Session-6-Ghosts-in-the-Bloodline",
-        "item-Merciers-Locked-Pad",
-        "lore-Psychic-Clone-Conspiracy",
-        "item-Mercier-Evidence-Cache",
-        "location-Mercier-Penthouse",
-        "item-Sunken-Ship-Boat",
-        "item-Sunken-Ship-Boat",
-        "item-Transponder-Swap-Box",
-        "vehicle-TSS-Profondeur",
-        "npc-Camille-Dufour",
-        "location-Providence",
-        "character-0-31-Saichi-Maru-Annette",
-        "character-Cass-Pien-Kolb",
-        "character-Ciernan-Seanislav-Peter",
-        "character-Dan-Araujo-Josh",
-        "character-Emma-Colbert-Laura",
-        "character-Judith-Dumont-Carla",
-        "character-Varian-Svazz-Allen",
-        "character-Victor-Mendes-Steinbach",
-        "character-Zoy-Damon",
-        "vehicle-TSS-Profondeur",
-        "npc-Etienne-Valcourt",
-        "npc-Maelle-Fournier",
-        "npc-Remi-Beauchamp",
-        "npc-Sabine-Caron",
-        "npc-Crew-of-TSS-Profondeur",
-        "vehicle-TSS-Profondeur",
-        "npc-Crew-of-TSS-Profondeur",
-        "event-Aquatic-Salvage-Project",
-        "location-Hadal-Research-Site",
-        "location-Undersea-Base-Elyon",
-        "location-Relay-Station-932",
-        "clue-Jardinian-Naval-SOS",
-        "npc-Alain-Mercier",
-        "lore-Clone-Rebirth-Program",
-        "item-Merciers-Locked-Pad",
-        "item-Mercier-Evidence-Cache",
-        "location-Mercier-Penthouse",
-        "lore-Psychic-Clone-Conspiracy",
-        "location-Providence",
-        "npc-Camille-Dufour",
-        "item-Sunken-Ship-Boat",
-        "item-Sunken-Ship-Boat",
-        "item-Transponder-Swap-Box",
-        "event-Prime-Minister-Bombing",
-        "organization-Undersea-Extremists",
-        "item-Undersea-Suits",
-        "game-Session-9-The-Doctors-Bargain",
-        "game-Session-8-The-Price-of-Clearing-Your-Name",
-        "game-Session-7-Echoes-Beneath-the-Sea",
-        "game-Session-1-Official-Business",
-        "game-Session-2-Masks-and-Markers",
-        "game-Session-3-Transstar-Day",
-        "game-Session-4-Into-the-Hadal-Deep",
-        "game-Session-5-The-Oduya",
-        "game-Session-6-Ghosts-in-the-Bloodline",
-        "npc-Admiral-Henri-Duval",
-        "npc-Adrien-Pelletier",
-        "npc-Agent-Luc-Deschamps",
-        "npc-Alain-Mercier",
-        "npc-Anita-Singh",
-        "npc-Amelia-Torres",
-        "npc-Antoine-Mercier",
-        "npc-Armand-Rousselet",
-        "npc-Captain-Victor-Mendes",
-        "npc-Carlos",
-        "npc-Chief-Helene-Marchand",
-        "npc-Claire-Bouchard",
-        "npc-Colette-Moreau",
-        "npc-Colonel-Victor-Almeida",
-        "npc-Commander-Lucien-Marchand",
-        "npc-Commander-Sophie-Durand",
-        "npc-Commissioner-Elise-Martin",
-        "npc-Commissioner-Isabelle-Fournier",
-        "npc-Crew-of-TSS-Profondeur",
-        "npc-Camille-Dufour",
-        "npc-Director-Elise-Fournier",
-        "npc-Director-Luc-Beaumont",
-        "npc-Director-Simone-Laurent",
-        "npc-Director-General-Camille-Fournier",
-        "npc-Dr-Amelie-Rousseau",
-        "npc-Dr-Gabriel-Laurent",
-        "npc-Dr-Isabelle-Fournier",
-        "npc-Dr-Luc-Moreau",
-        "npc-Dr-Sophie-Delacroix",
-        "npc-Elena-Kovacs",
-        "npc-Elena-Verona",
-        "npc-Etienne-Marchand",
-        "npc-Etienne-Moreau",
-        "npc-Etienne-Valcourt",
-        "npc-General-Claire-Moreau",
-        "npc-Inspector-Adrien-Martin",
-        "npc-Inspector-Gabriel-Rousseau",
-        "npc-Inspector-Marc-Valois",
-        "npc-Inspector-General-Marc-Villeneuve",
-        "npc-Jacques-Martin",
-        "npc-Juliette-Mercier",
-        "npc-Keith-Morris",
-        "npc-Leo-Duprey",
-        "npc-Luc-Girard",
-        "npc-Lucien-Roche",
-        "npc-Lucien-Voss",
-        "npc-Lucin",
-        "npc-Mark-Duncan",
-        "npc-Maelle-Fournier",
-        "npc-Mara-Kovalenko",
-        "npc-Marcel-Delphine",
-        "npc-Mentor-Jean-Mercier",
-        "npc-Mercier-Lookalike-Survivor",
-        "npc-Nadia-Giroux",
-        "npc-Nadine-Pelletier",
-        "npc-Nico-Gay",
-        "npc-Philippe-Laurent",
-        "npc-Pierre-Gauthier",
-        "npc-Professor-Emile-Laurent",
-        "npc-Professor-Lucien-Morel",
-        "npc-Reena-Kessler",
-        "npc-Remi-Beauchamp",
-        "npc-Roman-Juma",
-        "npc-Sabine-Caron",
-        "npc-Sarah-Chen",
-        "npc-Sister-Celeste-Moreau",
-        "npc-SolSec-Operative-at-Elyon",
-        "npc-Sergey-Sun",
-        "unresolved:table-rules"
+        "unresolved:Table Rules"
       ],
       "aliases": [],
       "summary": "Main campaign hub and directory for Sparks From the Past.",
@@ -1122,7 +963,7 @@
     },
     {
       "id": "npc-Clary-Montfort",
-      "title": "Clary Montfort",
+      "title": "Claire Montfort",
       "path": "wiki/pages/Clary-Montfort.md",
       "type": "npc",
       "tags": [
@@ -1134,16 +975,15 @@
         "location-Free-Arden-Research-Facility",
         "npc-Professor-Moreau"
       ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden-Research-Facility",
-        "npc-Professor-Moreau"
+      "aliases": [
+        "Clary Montfort",
+        "Claire Montfort"
       ],
-      "aliases": [],
       "summary": "Administrative director controlling staffing, access, funding, and supplies at the research facility.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Claire-Montfort.jpg"
     },
     {
       "id": "lore-Clone-Rebirth-Program",
@@ -1272,7 +1112,7 @@
     },
     {
       "id": "npc-Commandant-Remy-Luc",
-      "title": "Commandant Remy Luc",
+      "title": "Commandant Rémi Leduc",
       "path": "wiki/pages/Commandant-Remy-Luc.md",
       "type": "npc",
       "tags": [
@@ -1283,19 +1123,18 @@
         "game-Session-9-The-Doctors-Bargain",
         "location-Free-Arden-Research-Facility"
       ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden-Research-Facility"
-      ],
       "aliases": [
         "Remy Luc",
         "Remy Luke",
-        "Remiluk"
+        "Remiluk",
+        "Commandant Remy Luc",
+        "Rémi Leduc"
       ],
       "summary": "Former SolSec black-site specialist overseeing security at the Free Arden research installation.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Remi-Leduc.jpg"
     },
     {
       "id": "npc-Commander-Lucien-Marchand",
@@ -1873,15 +1712,6 @@
         "location-Jardin",
         "location-North-Meridian"
       ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden-Research-Facility",
-        "npc-Dr-Annalis-Bellinger",
-        "game-Session-8-The-Price-of-Clearing-Your-Name",
-        "location-Free-Arden",
-        "location-Jardin",
-        "location-North-Meridian"
-      ],
       "aliases": [
         "Dorma",
         "Dorina",
@@ -1924,7 +1754,7 @@
     },
     {
       "id": "npc-Dr-Annalis-Bellinger",
-      "title": "Dr. Annalis Bellinger",
+      "title": "Dr. Anaïs Bellanger",
       "path": "wiki/pages/Dr-Annalis-Bellinger.md",
       "type": "npc",
       "tags": [
@@ -1936,20 +1766,19 @@
         "game-Session-9-The-Doctors-Bargain",
         "organization-Social-Solidarity"
       ],
-      "playerLinks": [
-        "location-Free-Arden-Research-Facility",
-        "game-Session-9-The-Doctors-Bargain",
-        "organization-Social-Solidarity"
-      ],
       "aliases": [
         "Dr. Annalis Bollinger",
+        "Dr. Annalis Bellinger",
         "Dr. Ballinger",
-        "Dr. Bellinger"
+        "Dr. Bellinger",
+        "Annalis Bellinger",
+        "Anais Bellanger"
       ],
       "summary": "Molecular biologist extracted from Free Arden with research and alleged direct evidence of the genetic-manipulation conspiracy.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Anais-Bellanger.jpg"
     },
     {
       "id": "npc-Dr-Gabriel-Laurent",
@@ -2082,7 +1911,7 @@
     },
     {
       "id": "npc-Dr-Vassar",
-      "title": "Dr. Vassar",
+      "title": "Dr. Élodie Vasseur",
       "path": "wiki/pages/Dr-Vassar.md",
       "type": "npc",
       "tags": [
@@ -2094,16 +1923,15 @@
         "location-Free-Arden-Research-Facility",
         "lore-Psychic-Clone-Conspiracy"
       ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden-Research-Facility",
-        "lore-Psychic-Clone-Conspiracy"
+      "aliases": [
+        "Dr. Vassar",
+        "Dr. Élodie Vasseur"
       ],
-      "aliases": [],
       "summary": "Research chief associated with advanced cloning and remote alteration of living hosts.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Elodie-Vasseur.jpg"
     },
     {
       "id": "npc-Elena-Kovacs",
@@ -2345,6 +2173,29 @@
       ]
     },
     {
+      "id": "npc-Etienne-Roussel",
+      "title": "Étienne Roussel",
+      "path": "wiki/pages/Etienne-Roussel.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "domirina",
+        "gm-preparation"
+      ],
+      "links": [
+        "location-Free-Arden-Research-Facility",
+        "game-Session-9-The-Doctors-Bargain"
+      ],
+      "aliases": [
+        "Etienne Roussel"
+      ],
+      "summary": "Logistics Supervisor in the original Domirina research-facility preparation; not encountered in Game 9.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "wiki/media/Etienne-Roussel.jpg"
+    },
+    {
       "id": "npc-Etienne-Valcourt",
       "title": "Étienne Valcourt",
       "path": "wiki/pages/Etienne-Valcourt.md",
@@ -2498,6 +2349,46 @@
       "keyLinks": []
     },
     {
+      "id": "location-Free-Arden-Research-Facility",
+      "title": "Institut de Continuité Biologique",
+      "path": "wiki/pages/Free-Arden-Research-Facility.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "session-9"
+      ],
+      "links": [
+        "location-Domirina",
+        "location-Free-Arden",
+        "game-Session-9-The-Doctors-Bargain",
+        "npc-Dr-Vassar",
+        "npc-Commandant-Remy-Luc",
+        "npc-Clary-Montfort",
+        "npc-Dr-Annalis-Bellinger",
+        "npc-Sabine-Delaroy",
+        "npc-Mariel-Fonter",
+        "npc-Nicholas-Perrin",
+        "npc-Dr-Vassar",
+        "npc-Commandant-Remy-Luc",
+        "npc-Dr-Annalis-Bellinger",
+        "npc-Professor-Moreau",
+        "npc-Clary-Montfort",
+        "npc-Julien-Arnaud",
+        "npc-Mariel-Fonter",
+        "npc-Etienne-Roussel",
+        "npc-Sabine-Delaroy",
+        "npc-Nicholas-Perrin"
+      ],
+      "aliases": [
+        "Free Arden Research Facility",
+        "Domirina Research Facility"
+      ],
+      "summary": "Subsurface experimental cloning and psychic-research installation infiltrated during Game 9.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
       "id": "location-Free-Arden",
       "title": "Free Arden",
       "path": "wiki/pages/Free-Arden.md",
@@ -2526,45 +2417,6 @@
         "Free Ardan"
       ],
       "summary": "Jardin-system gas giant whose moon hosts the biological-research lead selected after the North Meridian vault mission.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-Free-Arden-Research-Facility",
-      "title": "Free Arden Research Facility",
-      "path": "wiki/pages/Free-Arden-Research-Facility.md",
-      "type": "location",
-      "tags": [
-        "location",
-        "session-9"
-      ],
-      "links": [
-        "location-Domirina",
-        "location-Free-Arden",
-        "game-Session-9-The-Doctors-Bargain",
-        "npc-Dr-Vassar",
-        "npc-Commandant-Remy-Luc",
-        "npc-Clary-Montfort",
-        "npc-Dr-Annalis-Bellinger",
-        "npc-Sabine-Delaroy",
-        "npc-Mariel-Fonter",
-        "npc-Nicholas-Perrin"
-      ],
-      "playerLinks": [
-        "location-Domirina",
-        "location-Free-Arden",
-        "game-Session-9-The-Doctors-Bargain",
-        "npc-Dr-Vassar",
-        "npc-Commandant-Remy-Luc",
-        "npc-Clary-Montfort",
-        "npc-Dr-Annalis-Bellinger",
-        "npc-Sabine-Delaroy",
-        "npc-Mariel-Fonter",
-        "npc-Nicholas-Perrin"
-      ],
-      "aliases": [],
-      "summary": "Subsurface experimental cloning and psychic-research installation infiltrated during Game 9.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -2606,31 +2458,6 @@
       ]
     },
     {
-      "id": "lore-GL15",
-      "title": "GL15",
-      "path": "wiki/pages/GL15.md",
-      "type": "lore",
-      "tags": [
-        "lore",
-        "session-9"
-      ],
-      "links": [
-        "game-Session-9-The-Doctors-Bargain",
-        "npc-Dr-Annalis-Bellinger",
-        "location-Krypton"
-      ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "npc-Dr-Annalis-Bellinger",
-        "location-Krypton"
-      ],
-      "aliases": [],
-      "summary": "Krypton-derived material enabling stable cloning and implementation of precise genetic alterations.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-General-Claire-Moreau",
       "title": "General Claire Moreau",
       "path": "wiki/pages/General-Claire-Moreau.md",
@@ -2659,26 +2486,21 @@
       ]
     },
     {
-      "id": "vehicle-HMS-Hank-Aaron",
-      "title": "HMS Hank Aaron",
-      "path": "wiki/pages/HMS-Hank-Aaron.md",
-      "type": "vehicle",
+      "id": "lore-GL15",
+      "title": "GL15",
+      "path": "wiki/pages/GL15.md",
+      "type": "lore",
       "tags": [
-        "vehicle",
+        "lore",
         "session-9"
       ],
       "links": [
         "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden",
-        "vehicle-Snowball"
-      ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden",
-        "vehicle-Snowball"
+        "npc-Dr-Annalis-Bellinger",
+        "location-Krypton"
       ],
       "aliases": [],
-      "summary": "Jardinian naval carrier that destroys pirates after responding to the crew's disguised distress relay.",
+      "summary": "Krypton-derived material enabling stable cloning and implementation of precise genetic alterations.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -2798,6 +2620,31 @@
         "Undersea Clone Settlement"
       ],
       "summary": "A concealed Crushed Trench settlement of discarded and rescued clones, discovered during Game 7.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "vehicle-HMS-Hank-Aaron",
+      "title": "HMS Hank Aaron",
+      "path": "wiki/pages/HMS-Hank-Aaron.md",
+      "type": "vehicle",
+      "tags": [
+        "vehicle",
+        "session-9"
+      ],
+      "links": [
+        "game-Session-9-The-Doctors-Bargain",
+        "location-Free-Arden",
+        "vehicle-Snowball"
+      ],
+      "playerLinks": [
+        "game-Session-9-The-Doctors-Bargain",
+        "location-Free-Arden",
+        "vehicle-Snowball"
+      ],
+      "aliases": [],
+      "summary": "Jardinian naval carrier that destroys pirates after responding to the crew's disguised distress relay.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -3060,41 +2907,6 @@
       ]
     },
     {
-      "id": "location-Jardin",
-      "title": "Jardin",
-      "path": "wiki/pages/Jardin.md",
-      "type": "location",
-      "tags": [
-        "location",
-        "world"
-      ],
-      "links": [
-        "location-Le-Palais-de-Continuit",
-        "location-Fort-Robespierre-Naval-Annex",
-        "location-Transstar-Sector-Exchange",
-        "location-Arcosphere-Rousseau",
-        "organization-Home-Guard",
-        "event-Mercier-Frame-Up",
-        "npc-Keith-Morris"
-      ],
-      "playerLinks": [
-        "location-Le-Palais-de-Continuit",
-        "location-Fort-Robespierre-Naval-Annex",
-        "location-Transstar-Sector-Exchange",
-        "location-Arcosphere-Rousseau",
-        "organization-Home-Guard",
-        "event-Mercier-Frame-Up",
-        "npc-Keith-Morris"
-      ],
-      "aliases": [],
-      "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [
-        "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
-      ]
-    },
-    {
       "id": "organization-Jardin-Navy",
       "title": "Jardin Navy",
       "path": "wiki/pages/Jardin-Navy.md",
@@ -3176,6 +2988,41 @@
       "approvalStatus": "approved",
       "keyLinks": [
         "[[Marcel Delphine]]"
+      ]
+    },
+    {
+      "id": "location-Jardin",
+      "title": "Jardin",
+      "path": "wiki/pages/Jardin.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "world"
+      ],
+      "links": [
+        "location-Le-Palais-de-Continuit",
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Transstar-Sector-Exchange",
+        "location-Arcosphere-Rousseau",
+        "organization-Home-Guard",
+        "event-Mercier-Frame-Up",
+        "npc-Keith-Morris"
+      ],
+      "playerLinks": [
+        "location-Le-Palais-de-Continuit",
+        "location-Fort-Robespierre-Naval-Annex",
+        "location-Transstar-Sector-Exchange",
+        "location-Arcosphere-Rousseau",
+        "organization-Home-Guard",
+        "event-Mercier-Frame-Up",
+        "npc-Keith-Morris"
+      ],
+      "aliases": [],
+      "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
       ]
     },
     {
@@ -3267,6 +3114,29 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Julien-Arnaud",
+      "title": "Julien Arnaud, Subject D-114",
+      "path": "wiki/pages/Julien-Arnaud.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "domirina",
+        "gm-preparation"
+      ],
+      "links": [
+        "location-Free-Arden-Research-Facility",
+        "game-Session-9-The-Doctors-Bargain"
+      ],
+      "aliases": [
+        "Julien Arnaud"
+      ],
+      "summary": "Continuity Subject in the original Domirina research-facility preparation; not encountered in Game 9.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "wiki/media/Julien-Arnaud-D114.jpg"
     },
     {
       "id": "npc-Juliette-Mercier",
@@ -3785,7 +3655,7 @@
     },
     {
       "id": "npc-Mariel-Fonter",
-      "title": "Mariel Fonter",
+      "title": "Mireille Fournier",
       "path": "wiki/pages/Mariel-Fonter.md",
       "type": "npc",
       "tags": [
@@ -3796,15 +3666,15 @@
         "game-Session-9-The-Doctors-Bargain",
         "location-Free-Arden-Research-Facility"
       ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden-Research-Facility"
+      "aliases": [
+        "Mariel Fonter",
+        "Mireille Fournier"
       ],
-      "aliases": [],
       "summary": "Caretaker responsible for feeding, waking, and tending research subjects and clones.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Mireille-Fournier.jpg"
     },
     {
       "id": "npc-Mark-Duncan",
@@ -4396,7 +4266,7 @@
     },
     {
       "id": "npc-Nicholas-Perrin",
-      "title": "Nicholas Perrin",
+      "title": "Nicolas Perrin",
       "path": "wiki/pages/Nicholas-Perrin.md",
       "type": "npc",
       "tags": [
@@ -4407,15 +4277,15 @@
         "game-Session-9-The-Doctors-Bargain",
         "location-Free-Arden-Research-Facility"
       ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden-Research-Facility"
+      "aliases": [
+        "Nicholas Perrin",
+        "Nicolas Perrin"
       ],
-      "aliases": [],
       "summary": "Environmental engineer responsible for the facility's atmosphere and major service systems.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Nicolas-Perrin.jpg"
     },
     {
       "id": "npc-Nico-Gay",
@@ -4456,38 +4326,6 @@
       ]
     },
     {
-      "id": "location-North-Meridian",
-      "title": "North Meridian",
-      "path": "wiki/pages/North-Meridian.md",
-      "type": "location",
-      "tags": [
-        "location",
-        "session-8",
-        "military"
-      ],
-      "links": [
-        "game-Session-8-The-Price-of-Clearing-Your-Name",
-        "location-Providence",
-        "npc-Lieutenant-Colonel-Pablo-Garcia",
-        "location-North-Meridian-Intelligence-Vault",
-        "npc-Director-Adrian-Beaumont",
-        "location-Jardin"
-      ],
-      "playerLinks": [
-        "game-Session-8-The-Price-of-Clearing-Your-Name",
-        "location-Providence",
-        "npc-Lieutenant-Colonel-Pablo-Garcia",
-        "location-North-Meridian-Intelligence-Vault",
-        "npc-Director-Adrian-Beaumont",
-        "location-Jardin"
-      ],
-      "aliases": [],
-      "summary": "Volcanically active Jardin-system world with an unbreathable atmosphere and a guarded military intelligence vault.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-North-Meridian-Intelligence-Vault",
       "title": "North Meridian Intelligence Vault",
       "path": "wiki/pages/North-Meridian-Intelligence-Vault.md",
@@ -4515,6 +4353,38 @@
         "North Meridian Vault"
       ],
       "summary": "Guarded archive where the crew copies personnel-continuity records and additional sensitive dossiers under inspection cover.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-North-Meridian",
+      "title": "North Meridian",
+      "path": "wiki/pages/North-Meridian.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "session-8",
+        "military"
+      ],
+      "links": [
+        "game-Session-8-The-Price-of-Clearing-Your-Name",
+        "location-Providence",
+        "npc-Lieutenant-Colonel-Pablo-Garcia",
+        "location-North-Meridian-Intelligence-Vault",
+        "npc-Director-Adrian-Beaumont",
+        "location-Jardin"
+      ],
+      "playerLinks": [
+        "game-Session-8-The-Price-of-Clearing-Your-Name",
+        "location-Providence",
+        "npc-Lieutenant-Colonel-Pablo-Garcia",
+        "location-North-Meridian-Intelligence-Vault",
+        "npc-Director-Adrian-Beaumont",
+        "location-Jardin"
+      ],
+      "aliases": [],
+      "summary": "Volcanically active Jardin-system world with an unbreathable atmosphere and a guarded military intelligence vault.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -4761,7 +4631,7 @@
     },
     {
       "id": "npc-Professor-Moreau",
-      "title": "Professor Moreau",
+      "title": "Professor Lucien Moreau",
       "path": "wiki/pages/Professor-Moreau.md",
       "type": "npc",
       "tags": [
@@ -4774,17 +4644,15 @@
         "npc-Clary-Montfort",
         "npc-Dr-Luc-Moreau"
       ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden-Research-Facility",
-        "npc-Clary-Montfort",
-        "npc-Dr-Luc-Moreau"
+      "aliases": [
+        "Professor Moreau",
+        "Lucien Moreau"
       ],
-      "aliases": [],
       "summary": "Research-facility scientist deceived by Cass's new-arrival cover and linked to an incinerator clue.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Lucien-Moreau.jpg"
     },
     {
       "id": "location-Providence",
@@ -5151,7 +5019,7 @@
     },
     {
       "id": "npc-Sabine-Delaroy",
-      "title": "Sabine Delaroy",
+      "title": "Sabine Delacroix",
       "path": "wiki/pages/Sabine-Delaroy.md",
       "type": "npc",
       "tags": [
@@ -5164,17 +5032,14 @@
         "organization-Social-Solidarity",
         "npc-Sabine-Caron"
       ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "location-Free-Arden-Research-Facility",
-        "organization-Social-Solidarity",
-        "npc-Sabine-Caron"
+      "aliases": [
+        "Sabine Delaroy"
       ],
-      "aliases": [],
       "summary": "Social Solidarity psychic trainer explicitly documented in the research-facility records.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "wiki/media/Sabine-Delacroix.jpg"
     },
     {
       "id": "npc-Sarah-Chen",
@@ -6393,65 +6258,6 @@
         "vehicle-Snowball",
         "vehicle-HMS-Hank-Aaron"
       ],
-      "playerLinks": [
-        "game-Session-8-The-Price-of-Clearing-Your-Name",
-        "location-Domirina",
-        "location-North-Meridian-Intelligence-Vault",
-        "location-Free-Arden",
-        "character-Emma-Colbert-Laura",
-        "character-Victor-Mendes-Steinbach",
-        "vehicle-Snowball",
-        "item-Transponder-Swap-Box",
-        "character-Cass-Pien-Kolb",
-        "vehicle-HMS-Hank-Aaron",
-        "character-Zoy-Damon",
-        "character-0-31-Saichi-Maru-Annette",
-        "npc-Professor-Moreau",
-        "npc-Clary-Montfort",
-        "npc-Dr-Annalis-Bellinger",
-        "npc-Commandant-Remy-Luc",
-        "npc-Dr-Vassar",
-        "npc-Mariel-Fonter",
-        "npc-Nicholas-Perrin",
-        "npc-Sabine-Delaroy",
-        "lore-GL15",
-        "lore-Transstar-Employment-Contract",
-        "npc-Dr-Annalis-Bellinger",
-        "npc-Commandant-Remy-Luc",
-        "npc-Dr-Vassar",
-        "npc-Clary-Montfort",
-        "npc-Mariel-Fonter",
-        "npc-Sabine-Delaroy",
-        "npc-Nicholas-Perrin",
-        "character-Emma-Colbert-Laura",
-        "character-Victor-Mendes-Steinbach",
-        "character-Cass-Pien-Kolb",
-        "character-Dan-Araujo-Josh",
-        "character-0-31-Saichi-Maru-Annette",
-        "character-Zoy-Damon",
-        "character-Varian-Svazz-Allen",
-        "character-Judith-Dumont-Carla",
-        "character-Ciernan-Seanislav-Peter",
-        "npc-Dr-Annalis-Bellinger",
-        "npc-Professor-Moreau",
-        "npc-Dr-Vassar",
-        "npc-Commandant-Remy-Luc",
-        "npc-Clary-Montfort",
-        "npc-Mariel-Fonter",
-        "npc-Sabine-Delaroy",
-        "npc-Nicholas-Perrin",
-        "location-Free-Arden",
-        "location-Domirina",
-        "location-Free-Arden-Research-Facility",
-        "location-Jardin",
-        "location-Krypton",
-        "organization-Transstar",
-        "organization-SolSec",
-        "organization-Social-Solidarity",
-        "item-Sunken-Ship-Boat",
-        "vehicle-Snowball",
-        "vehicle-HMS-Hank-Aaron"
-      ],
       "aliases": [
         "Game 9",
         "Chapter 1 Game 9",
@@ -6463,7 +6269,7 @@
       "keyLinks": [
         "[[Domirina]]",
         "[[Free Arden Research Facility]]",
-        "[[Dr. Annalis Bellinger]]",
+        "[[Dr. Anaïs Bellanger]]",
         "[[GL15]]",
         "[[HMS Hank Aaron]]",
         "[[Snowball]]"
@@ -6577,6 +6383,48 @@
       "keyLinks": []
     },
     {
+      "id": "npc-SolSec-Operative-at-Elyon",
+      "title": "SolSec Operative at Elyon",
+      "path": "wiki/pages/SolSec-Operative-at-Elyon.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "solsec",
+        "session-4",
+        "session-5"
+      ],
+      "links": [
+        "location-Undersea-Base-Elyon",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-Alain-Mercier",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "npc-Inspector-Marc-Valois"
+      ],
+      "playerLinks": [
+        "location-Undersea-Base-Elyon",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "npc-Mercier-Lookalike-Survivor",
+        "npc-Alain-Mercier",
+        "npc-Alain-Mercier",
+        "lore-Clone-Rebirth-Program",
+        "npc-Inspector-Marc-Valois"
+      ],
+      "aliases": [
+        "Elyon SolSec Agent"
+      ],
+      "summary": "Unidentified SolSec agent who scans the Mercier lookalike survivor at Undersea Base Elyon.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[SolSec]]",
+        "[[Undersea Base Elyon]]",
+        "[[Mercier Lookalike Survivor]]",
+        "[[Clone Rebirth Program]]"
+      ]
+    },
+    {
       "id": "organization-SolSec",
       "title": "SolSec",
       "path": "wiki/pages/SolSec.md",
@@ -6647,48 +6495,6 @@
         "[[Emma Colbert (Laura)]]",
         "[[Social Solidarity]]",
         "[[Inspector Marc Valois]]"
-      ]
-    },
-    {
-      "id": "npc-SolSec-Operative-at-Elyon",
-      "title": "SolSec Operative at Elyon",
-      "path": "wiki/pages/SolSec-Operative-at-Elyon.md",
-      "type": "npc",
-      "tags": [
-        "npc",
-        "solsec",
-        "session-4",
-        "session-5"
-      ],
-      "links": [
-        "location-Undersea-Base-Elyon",
-        "game-Session-4-Into-the-Hadal-Deep",
-        "npc-Mercier-Lookalike-Survivor",
-        "npc-Alain-Mercier",
-        "npc-Alain-Mercier",
-        "lore-Clone-Rebirth-Program",
-        "npc-Inspector-Marc-Valois"
-      ],
-      "playerLinks": [
-        "location-Undersea-Base-Elyon",
-        "game-Session-4-Into-the-Hadal-Deep",
-        "npc-Mercier-Lookalike-Survivor",
-        "npc-Alain-Mercier",
-        "npc-Alain-Mercier",
-        "lore-Clone-Rebirth-Program",
-        "npc-Inspector-Marc-Valois"
-      ],
-      "aliases": [
-        "Elyon SolSec Agent"
-      ],
-      "summary": "Unidentified SolSec agent who scans the Mercier lookalike survivor at Undersea Base Elyon.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [
-        "[[SolSec]]",
-        "[[Undersea Base Elyon]]",
-        "[[Mercier Lookalike Survivor]]",
-        "[[Clone Rebirth Program]]"
       ]
     },
     {
@@ -6780,81 +6586,6 @@
         "[[Port Sainte-Jeanne Downport]]",
         "[[Miasma]]"
       ]
-    },
-    {
-      "id": "vehicle-TSS-Profondeur",
-      "title": "TSS Profondeur",
-      "path": "wiki/pages/TSS-Profondeur.md",
-      "type": "vehicle",
-      "tags": [
-        "vehicle",
-        "ship",
-        "transstar",
-        "undersea",
-        "session-4",
-        "session-5",
-        "session-6"
-      ],
-      "links": [
-        "event-Aquatic-Salvage-Project",
-        "organization-Transstar",
-        "npc-Etienne-Valcourt",
-        "npc-Maelle-Fournier",
-        "npc-Remi-Beauchamp",
-        "npc-Sabine-Caron",
-        "location-Hadal-Research-Site",
-        "location-Undersea-Base-Elyon",
-        "location-Undersea-Base-Elyon",
-        "npc-Etienne-Valcourt",
-        "item-Sunken-Ship-Boat",
-        "npc-Alain-Mercier",
-        "item-Sunken-Ship-Boat",
-        "game-Session-6-Ghosts-in-the-Bloodline",
-        "event-Aquatic-Salvage-Project",
-        "item-Merciers-Locked-Pad",
-        "item-Mercier-Evidence-Cache",
-        "npc-Alain-Mercier",
-        "location-Undersea-Base-Elyon",
-        "character-Emma-Colbert-Laura",
-        "npc-Etienne-Valcourt"
-      ],
-      "playerLinks": [
-        "event-Aquatic-Salvage-Project",
-        "organization-Transstar",
-        "npc-Etienne-Valcourt",
-        "npc-Maelle-Fournier",
-        "npc-Remi-Beauchamp",
-        "npc-Sabine-Caron",
-        "location-Hadal-Research-Site",
-        "location-Undersea-Base-Elyon",
-        "location-Undersea-Base-Elyon",
-        "npc-Etienne-Valcourt",
-        "item-Sunken-Ship-Boat",
-        "npc-Alain-Mercier",
-        "item-Sunken-Ship-Boat",
-        "game-Session-6-Ghosts-in-the-Bloodline",
-        "event-Aquatic-Salvage-Project",
-        "item-Merciers-Locked-Pad",
-        "item-Mercier-Evidence-Cache",
-        "npc-Alain-Mercier",
-        "location-Undersea-Base-Elyon",
-        "character-Emma-Colbert-Laura",
-        "npc-Etienne-Valcourt"
-      ],
-      "aliases": [
-        "Profondeur",
-        "The Profondeur"
-      ],
-      "summary": "Refitted former Jardin Navy submersible used by Transstar for the Aquatic Salvage Project.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [
-        "[[Aquatic Salvage Project]]",
-        "[[Étienne Valcourt]]",
-        "[[Hadal Research Site]]",
-        "[[Oduya]]"
-      ],
-      "cover": "wiki/media/TSS-Profondeur-Logo.png"
     },
     {
       "id": "event-Timeline",
@@ -7060,83 +6791,6 @@
       ]
     },
     {
-      "id": "organization-Transstar",
-      "title": "Transstar",
-      "path": "wiki/pages/Transstar.md",
-      "type": "organization",
-      "tags": [
-        "organization"
-      ],
-      "links": [
-        "game-Session-9-The-Doctors-Bargain",
-        "game-Session-7-Echoes-Beneath-the-Sea",
-        "npc-Etienne-Valcourt",
-        "location-Crushed-Trench",
-        "location-Hidden-Clone-Community",
-        "npc-Etienne-Moreau",
-        "npc-Claire-Bouchard",
-        "npc-Captain-Victor-Mendes",
-        "npc-Nadine-Pelletier",
-        "npc-Luc-Girard",
-        "npc-Sarah-Chen",
-        "npc-Armand-Rousselet",
-        "npc-Elena-Kovacs",
-        "npc-Philippe-Laurent",
-        "npc-Amelia-Torres",
-        "game-Session-4-Into-the-Hadal-Deep",
-        "vehicle-TSS-Profondeur",
-        "event-Aquatic-Salvage-Project",
-        "location-Hadal-Research-Site",
-        "npc-Mercier-Lookalike-Survivor",
-        "location-Undersea-Base-Elyon",
-        "organization-SolSec",
-        "game-Session-6-Ghosts-in-the-Bloodline",
-        "item-Merciers-Locked-Pad",
-        "character-Emma-Colbert-Laura",
-        "npc-Alain-Mercier",
-        "vehicle-TSS-Profondeur",
-        "character-0-31-Saichi-Maru-Annette",
-        "item-Sunken-Ship-Boat"
-      ],
-      "playerLinks": [
-        "game-Session-9-The-Doctors-Bargain",
-        "game-Session-7-Echoes-Beneath-the-Sea",
-        "npc-Etienne-Valcourt",
-        "location-Crushed-Trench",
-        "location-Hidden-Clone-Community",
-        "npc-Etienne-Moreau",
-        "npc-Claire-Bouchard",
-        "npc-Captain-Victor-Mendes",
-        "npc-Nadine-Pelletier",
-        "npc-Luc-Girard",
-        "npc-Sarah-Chen",
-        "npc-Armand-Rousselet",
-        "npc-Elena-Kovacs",
-        "npc-Philippe-Laurent",
-        "npc-Amelia-Torres",
-        "game-Session-4-Into-the-Hadal-Deep",
-        "vehicle-TSS-Profondeur",
-        "event-Aquatic-Salvage-Project",
-        "location-Hadal-Research-Site",
-        "npc-Mercier-Lookalike-Survivor",
-        "location-Undersea-Base-Elyon",
-        "organization-SolSec",
-        "game-Session-6-Ghosts-in-the-Bloodline",
-        "item-Merciers-Locked-Pad",
-        "character-Emma-Colbert-Laura",
-        "npc-Alain-Mercier",
-        "vehicle-TSS-Profondeur",
-        "character-0-31-Saichi-Maru-Annette",
-        "item-Sunken-Ship-Boat"
-      ],
-      "aliases": [],
-      "summary": "",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [],
-      "cover": "wiki/media/Transstar-Logo.png"
-    },
-    {
       "id": "lore-Transstar-Employment-Contract",
       "title": "Transstar Employment Contract",
       "path": "wiki/pages/Transstar-Employment-Contract.md",
@@ -7255,6 +6909,158 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Jardin"
+    },
+    {
+      "id": "organization-Transstar",
+      "title": "Transstar",
+      "path": "wiki/pages/Transstar.md",
+      "type": "organization",
+      "tags": [
+        "organization"
+      ],
+      "links": [
+        "game-Session-9-The-Doctors-Bargain",
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "npc-Etienne-Valcourt",
+        "location-Crushed-Trench",
+        "location-Hidden-Clone-Community",
+        "npc-Etienne-Moreau",
+        "npc-Claire-Bouchard",
+        "npc-Captain-Victor-Mendes",
+        "npc-Nadine-Pelletier",
+        "npc-Luc-Girard",
+        "npc-Sarah-Chen",
+        "npc-Armand-Rousselet",
+        "npc-Elena-Kovacs",
+        "npc-Philippe-Laurent",
+        "npc-Amelia-Torres",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "vehicle-TSS-Profondeur",
+        "event-Aquatic-Salvage-Project",
+        "location-Hadal-Research-Site",
+        "npc-Mercier-Lookalike-Survivor",
+        "location-Undersea-Base-Elyon",
+        "organization-SolSec",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "item-Merciers-Locked-Pad",
+        "character-Emma-Colbert-Laura",
+        "npc-Alain-Mercier",
+        "vehicle-TSS-Profondeur",
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Sunken-Ship-Boat"
+      ],
+      "playerLinks": [
+        "game-Session-9-The-Doctors-Bargain",
+        "game-Session-7-Echoes-Beneath-the-Sea",
+        "npc-Etienne-Valcourt",
+        "location-Crushed-Trench",
+        "location-Hidden-Clone-Community",
+        "npc-Etienne-Moreau",
+        "npc-Claire-Bouchard",
+        "npc-Captain-Victor-Mendes",
+        "npc-Nadine-Pelletier",
+        "npc-Luc-Girard",
+        "npc-Sarah-Chen",
+        "npc-Armand-Rousselet",
+        "npc-Elena-Kovacs",
+        "npc-Philippe-Laurent",
+        "npc-Amelia-Torres",
+        "game-Session-4-Into-the-Hadal-Deep",
+        "vehicle-TSS-Profondeur",
+        "event-Aquatic-Salvage-Project",
+        "location-Hadal-Research-Site",
+        "npc-Mercier-Lookalike-Survivor",
+        "location-Undersea-Base-Elyon",
+        "organization-SolSec",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "item-Merciers-Locked-Pad",
+        "character-Emma-Colbert-Laura",
+        "npc-Alain-Mercier",
+        "vehicle-TSS-Profondeur",
+        "character-0-31-Saichi-Maru-Annette",
+        "item-Sunken-Ship-Boat"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "wiki/media/Transstar-Logo.png"
+    },
+    {
+      "id": "vehicle-TSS-Profondeur",
+      "title": "TSS Profondeur",
+      "path": "wiki/pages/TSS-Profondeur.md",
+      "type": "vehicle",
+      "tags": [
+        "vehicle",
+        "ship",
+        "transstar",
+        "undersea",
+        "session-4",
+        "session-5",
+        "session-6"
+      ],
+      "links": [
+        "event-Aquatic-Salvage-Project",
+        "organization-Transstar",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "location-Undersea-Base-Elyon",
+        "npc-Etienne-Valcourt",
+        "item-Sunken-Ship-Boat",
+        "npc-Alain-Mercier",
+        "item-Sunken-Ship-Boat",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "event-Aquatic-Salvage-Project",
+        "item-Merciers-Locked-Pad",
+        "item-Mercier-Evidence-Cache",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "character-Emma-Colbert-Laura",
+        "npc-Etienne-Valcourt"
+      ],
+      "playerLinks": [
+        "event-Aquatic-Salvage-Project",
+        "organization-Transstar",
+        "npc-Etienne-Valcourt",
+        "npc-Maelle-Fournier",
+        "npc-Remi-Beauchamp",
+        "npc-Sabine-Caron",
+        "location-Hadal-Research-Site",
+        "location-Undersea-Base-Elyon",
+        "location-Undersea-Base-Elyon",
+        "npc-Etienne-Valcourt",
+        "item-Sunken-Ship-Boat",
+        "npc-Alain-Mercier",
+        "item-Sunken-Ship-Boat",
+        "game-Session-6-Ghosts-in-the-Bloodline",
+        "event-Aquatic-Salvage-Project",
+        "item-Merciers-Locked-Pad",
+        "item-Mercier-Evidence-Cache",
+        "npc-Alain-Mercier",
+        "location-Undersea-Base-Elyon",
+        "character-Emma-Colbert-Laura",
+        "npc-Etienne-Valcourt"
+      ],
+      "aliases": [
+        "Profondeur",
+        "The Profondeur"
+      ],
+      "summary": "Refitted former Jardin Navy submersible used by Transstar for the Aquatic Salvage Project.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Aquatic Salvage Project]]",
+        "[[Étienne Valcourt]]",
+        "[[Hadal Research Site]]",
+        "[[Oduya]]"
+      ],
+      "cover": "wiki/media/TSS-Profondeur-Logo.png"
     },
     {
       "id": "location-Undersea-Base-Elyon",

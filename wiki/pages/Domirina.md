@@ -17,7 +17,7 @@ lastEditedBy: Codex
 
 [[Session 9 - The Doctor's Bargain]]
 
-The crew reaches the second research moon of Free Arden and infiltrates the [[Free Arden Research Facility]]. The spoken/spelled name varies between Dorina, Dorria, Dorriria, and similar forms. These remain provisional aliases for this existing destination pending a firm map/name confirmation. They are not evidence of several different moons. A quarter-surface solar array powers the installation. The party extracts [[Dr. Annalis Bellinger]], triggers a containment crisis during escape, and departs toward Jardin with locked research; the final facility status is unknown.
+The crew reaches the second research moon of Free Arden and infiltrates the [[Free Arden Research Facility]]. The spoken/spelled name varies between Dorina, Dorria, Dorriria, and similar forms. These remain provisional aliases for this existing destination pending a firm map/name confirmation. They are not evidence of several different moons. A quarter-surface solar array powers the installation. The party extracts [[Dr. Anaïs Bellanger]], triggers a containment crisis during escape, and departs toward Jardin with locked research; the final facility status is unknown.
 
 At the end of [[Session 8 - The Price of Clearing Your Name]], the party chooses to travel to a biological research center on a moon of [[Free Arden]]. The transcript renders the destination as **Dorma**; the existing system preparation in [[Jardin]] uses **Domirina**, so this page retains Domirina as the working name with Dorma as an alias pending confirmation.
 

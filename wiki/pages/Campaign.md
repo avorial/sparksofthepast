@@ -34,7 +34,7 @@ lastEditedBy: Codex
 
 [[Session 9 - The Doctor's Bargain]]
 
-Latest: the crew resigns from [[Transstar]], uses SolSec identity S42 to summon [[HMS Hank Aaron]] to rescue [[Snowball]], and infiltrates the [[Free Arden Research Facility]] on [[Domirina]]. They extract [[Dr. Annalis Bellinger]], who admits supplying genetic models to psychic agents and carries locked research plus a claimed recording of target instructions. [[GL15]] is identified as the scarce Krypton-derived stabilizer. The crew is returning to Jardin to seek a presidential audience; no pardon or completed exposure has occurred.
+Latest: the crew resigns from [[Transstar]], uses SolSec identity S42 to summon [[HMS Hank Aaron]] to rescue [[Snowball]], and infiltrates the [[Free Arden Research Facility]] on [[Domirina]]. They extract [[Dr. Anaïs Bellanger]], who admits supplying genetic models to psychic agents and carries locked research plus a claimed recording of target instructions. [[GL15]] is identified as the scarce Krypton-derived stabilizer. The crew is returning to Jardin to seek a presidential audience; no pardon or completed exposure has occurred.
 
 ## Session 8 - The Price of Clearing Your Name
 

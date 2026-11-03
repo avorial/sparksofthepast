@@ -124,5 +124,105 @@
       "map",
       "handout"
     ]
+  },
+  "wiki/media/Elodie-Vasseur.jpg": {
+    "alt": "Dr. Élodie Vasseur portrait",
+    "caption": "Director of Research",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Remi-Leduc.jpg": {
+    "alt": "Commandant Rémi Leduc portrait",
+    "caption": "Security Chief",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Anais-Bellanger.jpg": {
+    "alt": "Dr. Anaïs Bellanger portrait",
+    "caption": "Molecular Biologist",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Lucien-Moreau.jpg": {
+    "alt": "Professor Lucien Moreau portrait",
+    "caption": "Director of Special Projects",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Claire-Montfort.jpg": {
+    "alt": "Claire Montfort portrait",
+    "caption": "Administrative Director",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Julien-Arnaud-D114.jpg": {
+    "alt": "Julien Arnaud, Subject D-114 portrait",
+    "caption": "Continuity Subject",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Mireille-Fournier.jpg": {
+    "alt": "Mireille Fournier portrait",
+    "caption": "Senior Medical Technician",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Etienne-Roussel.jpg": {
+    "alt": "Étienne Roussel portrait",
+    "caption": "Logistics Supervisor",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Sabine-Delacroix.jpg": {
+    "alt": "Sabine Delacroix portrait",
+    "caption": "Special Assessment Officer",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
+  },
+  "wiki/media/Nicolas-Perrin.jpg": {
+    "alt": "Nicolas Perrin portrait",
+    "caption": "Environmental Systems Engineer",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "source": "https://chatgpt.com/share/6ae9618b-db80-83e9-81a0-52db2a7563d4"
   }
 }
