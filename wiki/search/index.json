@@ -962,6 +962,165 @@
       "Sergey Sun",
       "Table Rules"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Transstar",
+      "HMS Hank Aaron",
+      "Snowball",
+      "Free Arden Research Facility",
+      "Domirina",
+      "Dr. Anaïs Bellanger",
+      "GL15",
+      "Session 8 - The Price of Clearing Your Name",
+      "Providence",
+      "Director Adrian Beaumont",
+      "North Meridian Intelligence Vault",
+      "Domirina",
+      "Free Arden",
+      "Session 7 - Echoes Beneath the Sea",
+      "Session 7 - Echoes Beneath the Sea",
+      "Crushed Trench",
+      "Hidden Clone Community",
+      "Francis Adams",
+      "Krypton",
+      "TSS Profondeur",
+      "Deep-Trench Minisub",
+      "Providence",
+      "Alain Mercier",
+      "Hall des Futurs Choisis",
+      "Transstar",
+      "Mercier Frame-Up",
+      "Aquatic Salvage Project",
+      "TSS Profondeur",
+      "Session 5 - The Oduya",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Psychic Clone Conspiracy",
+      "Mercier Evidence Cache",
+      "Mercier Penthouse",
+      "Sunken Ship-Boat",
+      "Oduya",
+      "Transponder Swap Box",
+      "TSS Profondeur",
+      "Camille Dufour",
+      "Providence",
+      "0-31 Saichi Maru (Annette)",
+      "Cass Pien (Kolb)",
+      "Ciernan Seanislav (Peter)",
+      "Dan Araujo (Josh)",
+      "Emma Colbert (Laura)",
+      "Judith Dumont (Carla)",
+      "Varian Svazz (Allen)",
+      "Victor Mendes (Steinbach)",
+      "Zoy (Damon)",
+      "TSS Profondeur",
+      "Etienne Valcourt",
+      "Maelle Fournier",
+      "Remi Beauchamp",
+      "Sabine Caron",
+      "Crew of TSS Profondeur",
+      "TSS Profondeur",
+      "Crew of TSS Profondeur",
+      "Aquatic Salvage Project",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Relay Station 932",
+      "Jardinian Naval SOS",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Mercier Penthouse",
+      "Psychic Clone Conspiracy",
+      "Providence",
+      "Camille Dufour",
+      "Oduya",
+      "Sunken Ship-Boat",
+      "Transponder Swap Box",
+      "Prime Minister Bombing",
+      "Undersea Extremists",
+      "Undersea Suits",
+      "Session 9 - The Doctor's Bargain",
+      "Session 8 - The Price of Clearing Your Name",
+      "Session 7 - Echoes Beneath the Sea",
+      "Session 1 - Official Business",
+      "Session 2 - Masks and Markers",
+      "Session 3 - Transstar Day",
+      "Session 4 - Into the Hadal Deep",
+      "Session 5 - The Oduya",
+      "Session 6 - Ghosts in the Bloodline",
+      "Admiral Henri Duval",
+      "Adrien Pelletier",
+      "Agent Luc Deschamps",
+      "Alain Mercier",
+      "Anita Singh",
+      "Amelia Torres",
+      "Antoine Mercier",
+      "Armand Rousselet",
+      "Captain Victor Mendes",
+      "Carlos",
+      "Chief Helene Marchand",
+      "Claire Bouchard",
+      "Colette Moreau",
+      "Colonel Victor Almeida",
+      "Commander Lucien Marchand",
+      "Commander Sophie Durand",
+      "Commissioner Elise Martin",
+      "Commissioner Isabelle Fournier",
+      "Crew of TSS Profondeur",
+      "Camille Dufour",
+      "Director Elise Fournier",
+      "Director Luc Beaumont",
+      "Director Simone Laurent",
+      "Director-General Camille Fournier",
+      "Dr. Amelie Rousseau",
+      "Dr. Gabriel Laurent",
+      "Dr. Isabelle Fournier",
+      "Dr. Luc Moreau",
+      "Dr. Sophie Delacroix",
+      "Elena Kovacs",
+      "Elena Verona",
+      "Étienne Marchand",
+      "Étienne Moreau",
+      "Étienne Valcourt",
+      "General Claire Moreau",
+      "Inspector Adrien Martin",
+      "Inspector Gabriel Rousseau",
+      "Inspector Marc Valois",
+      "Inspector-General Marc Villeneuve",
+      "Jacques Martin",
+      "Juliette Mercier",
+      "Keith Morris",
+      "Leo Duprey",
+      "Luc Girard",
+      "Lucien Roche",
+      "Lucien Voss",
+      "Lucin",
+      "Mark Duncan",
+      "Maëlle Fournier",
+      "Mara Kovalenko",
+      "Marcel Delphine",
+      "Mentor Jean Mercier",
+      "Mercier Lookalike Survivor",
+      "Nadia Giroux",
+      "Nadine Pelletier",
+      "Nico Gay",
+      "Philippe Laurent",
+      "Pierre Gauthier",
+      "Professor Émile Laurent",
+      "Professor Lucien Morel",
+      "Reena Kessler",
+      "Rémi Beauchamp",
+      "Roman Juma",
+      "Sabine Caron",
+      "Sarah Chen",
+      "Sister Celeste Moreau",
+      "SolSec Operative at Elyon",
+      "Sergey Sun",
+      "Table Rules"
+    ],
     "backlinks": [],
     "keyLinks": [
       "[[Session 6 - Ghosts in the Bloodline]]",
@@ -980,7 +1139,7 @@
       "[[Remi Beauchamp]]",
       "[[Sabine Caron]]"
     ],
-    "excerpt": ""
+    "excerpt": "# Sparks From the Past ## Session 9 - The Doctor's Bargain [[Session 9 - The Doctor's Bargain]] Latest: the crew resigns from [[Transstar]], uses SolSec identity S42 to summon [[HMS Hank Aaron]] to rescue [[Snowball]], and infiltrates the [[Free Arden Research Facility]] on [[Domirina]]. They extrac"
   },
   {
     "id": "3:Captain-Victor-Mendes",
@@ -1372,12 +1531,21 @@
       "Free Arden Research Facility",
       "Professor Lucien Moreau"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden Research Facility",
+      "Professor Lucien Moreau"
+    ],
     "backlinks": [
       "Free-Arden-Research-Facility",
+      "Free-Arden-Research-Facility",
       "Professor-Moreau",
+      "Session-9-The-Doctors-Bargain",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Claire-Montfort.jpg",
     "excerpt": "# Claire Montfort ![Claire Montfort portrait](/wiki/media/Claire-Montfort.jpg) *Administrative Director* [[Session 9 - The Doctor's Bargain]] identifies Montfort as administrative director at the [[Free Arden Research Facility]]. She controls access, staff assignments, research support, and allocati"
   },
   {
@@ -1574,11 +1742,19 @@
       "Session 9 - The Doctor's Bargain",
       "Free Arden Research Facility"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden Research Facility"
+    ],
     "backlinks": [
       "Free-Arden-Research-Facility",
+      "Free-Arden-Research-Facility",
+      "Session-9-The-Doctors-Bargain",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Remi-Leduc.jpg",
     "excerpt": "# Commandant Rémi Leduc ![Commandant Rémi Leduc portrait](/wiki/media/Remi-Leduc.jpg) *Security Chief* Staff records examined in [[Session 9 - The Doctor's Bargain]] identify the commander of the [[Free Arden Research Facility]] as a former SolSec security specialist who spent roughly ten years prot"
   },
   {
@@ -2360,12 +2536,24 @@
       "Jardin",
       "North Meridian"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden Research Facility",
+      "Dr. Anaïs Bellanger",
+      "Session 8 - The Price of Clearing Your Name",
+      "Free Arden",
+      "Jardin",
+      "North Meridian"
+    ],
     "backlinks": [
       "Campaign",
-      "Free-Arden-Research-Facility",
+      "Campaign",
       "Free-Arden",
+      "Free-Arden-Research-Facility",
       "Oduya",
       "Session-8-The-Price-of-Clearing-Your-Name",
+      "Session-8-The-Price-of-Clearing-Your-Name",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
@@ -2437,14 +2625,23 @@
       "Session 9 - The Doctor's Bargain",
       "Social Solidarity"
     ],
+    "playerLinks": [
+      "Free Arden Research Facility",
+      "Session 9 - The Doctor's Bargain",
+      "Social Solidarity"
+    ],
     "backlinks": [
       "Campaign",
       "Domirina",
       "Free-Arden-Research-Facility",
+      "Free-Arden-Research-Facility",
       "GL15",
+      "Session-9-The-Doctors-Bargain",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Anais-Bellanger.jpg",
     "excerpt": "# Dr. Anaïs Bellanger ![Dr. Anaïs Bellanger portrait](/wiki/media/Anais-Bellanger.jpg) *Molecular Biologist* ## Identity and Expertise Bellanger is a molecular biologist at the [[Free Arden Research Facility]], encountered in [[Session 9 - The Doctor's Bargain]]. The original NPC roster confirms her"
   },
   {
@@ -2646,11 +2843,20 @@
       "Free Arden Research Facility",
       "Psychic Clone Conspiracy"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden Research Facility",
+      "Psychic Clone Conspiracy"
+    ],
     "backlinks": [
       "Free-Arden-Research-Facility",
+      "Free-Arden-Research-Facility",
+      "Session-9-The-Doctors-Bargain",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Elodie-Vasseur.jpg",
     "excerpt": "# Dr. Élodie Vasseur ![Dr. Élodie Vasseur portrait](/wiki/media/Elodie-Vasseur.jpg) *Director of Research* In [[Session 9 - The Doctor's Bargain]], staff records identify Vassar as research chief of the [[Free Arden Research Facility]]. Her age and CV suggest involvement in the original advanced-clo"
   },
   {
@@ -3011,11 +3217,16 @@
       "Free Arden Research Facility",
       "Session 9 - The Doctor's Bargain"
     ],
+    "playerLinks": [
+      "Free Arden Research Facility",
+      "Session 9 - The Doctor's Bargain"
+    ],
     "backlinks": [
       "Free-Arden-Research-Facility"
     ],
     "keyLinks": [],
-    "excerpt": ""
+    "cover": "wiki/media/Etienne-Roussel.jpg",
+    "excerpt": "# Étienne Roussel ![Étienne Roussel portrait](/wiki/media/Etienne-Roussel.jpg) *Logistics Supervisor* This character belongs to the original [[Free Arden Research Facility]] cast. The crew has not identified or encountered this individual in [[Session 9 - The Doctor's Bargain]]."
   },
   {
     "id": "3:Etienne-Valcourt",
@@ -3242,66 +3453,6 @@
     "excerpt": "# Francis Adams ## Identity [[Emma Colbert (Laura)]] remembers Francis as the man who recruited her into [[SolSec]] and later died in a car explosion. In [[Session 7 - Echoes Beneath the Sea]], she meets a counterpart in the [[Hidden Clone Community]]. He recognizes Emma and assumes she is a rescued"
   },
   {
-    "id": "3:Free-Arden-Research-Facility",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Free-Arden-Research-Facility",
-    "title": "Institut de Continuité Biologique",
-    "category": "location",
-    "summary": "Subsurface experimental cloning and psychic-research installation infiltrated during Game 9.",
-    "tags": [
-      "location",
-      "session-9"
-    ],
-    "aliases": [
-      "Free Arden Research Facility",
-      "Domirina Research Facility"
-    ],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Domirina",
-      "Free Arden",
-      "Session 9 - The Doctor's Bargain",
-      "Dr. Élodie Vasseur",
-      "Commandant Rémi Leduc",
-      "Claire Montfort",
-      "Dr. Anaïs Bellanger",
-      "Sabine Delacroix",
-      "Mireille Fournier",
-      "Nicolas Perrin",
-      "Dr. Élodie Vasseur",
-      "Commandant Rémi Leduc",
-      "Dr. Anaïs Bellanger",
-      "Professor Lucien Moreau",
-      "Claire Montfort",
-      "Julien Arnaud, Subject D-114",
-      "Mireille Fournier",
-      "Étienne Roussel",
-      "Sabine Delacroix",
-      "Nicolas Perrin"
-    ],
-    "backlinks": [
-      "Campaign",
-      "Clary-Montfort",
-      "Commandant-Remy-Luc",
-      "Domirina",
-      "Dr-Annalis-Bellinger",
-      "Dr-Vassar",
-      "Etienne-Roussel",
-      "Julien-Arnaud",
-      "Mariel-Fonter",
-      "Nicholas-Perrin",
-      "Professor-Moreau",
-      "Sabine-Delaroy",
-      "Session-9-The-Doctors-Bargain"
-    ],
-    "keyLinks": [],
-    "excerpt": "# Institut de Continuité Biologique The crew infiltrates this installation on [[Domirina]], the second research moon of [[Free Arden]], in [[Session 9 - The Doctor's Bargain]]. The original NPC reference names it Institut de Continuité Biologique. Free Arden Research Facility remains an alias and th"
-  },
-  {
     "id": "3:Free-Arden",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -3351,6 +3502,78 @@
     "excerpt": "# Free Arden ## Session 9 - The Doctor's Bargain [[Session 9 - The Doctor's Bargain]] A distressed merchant, [[Snowball]], hides inside the gas giant for twenty-two hours. The crew relays its call under a SolSec disguise; [[HMS Hank Aaron]] destroys the pirate pursuer. The party then covertly lands "
   },
   {
+    "id": "3:Free-Arden-Research-Facility",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Free-Arden-Research-Facility",
+    "title": "Institut de Continuité Biologique",
+    "category": "location",
+    "summary": "Subsurface experimental cloning and psychic-research installation infiltrated during Game 9.",
+    "tags": [
+      "location",
+      "session-9"
+    ],
+    "aliases": [
+      "Free Arden Research Facility",
+      "Domirina Research Facility"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Domirina",
+      "Free Arden",
+      "Session 9 - The Doctor's Bargain",
+      "Dr. Élodie Vasseur",
+      "Commandant Rémi Leduc",
+      "Claire Montfort",
+      "Dr. Anaïs Bellanger",
+      "Sabine Delacroix",
+      "Mireille Fournier",
+      "Nicolas Perrin",
+      "Dr. Élodie Vasseur",
+      "Commandant Rémi Leduc",
+      "Dr. Anaïs Bellanger",
+      "Professor Lucien Moreau",
+      "Claire Montfort",
+      "Julien Arnaud, Subject D-114",
+      "Mireille Fournier",
+      "Étienne Roussel",
+      "Sabine Delacroix",
+      "Nicolas Perrin"
+    ],
+    "playerLinks": [
+      "Domirina",
+      "Free Arden",
+      "Session 9 - The Doctor's Bargain",
+      "Dr. Élodie Vasseur",
+      "Commandant Rémi Leduc",
+      "Claire Montfort",
+      "Dr. Anaïs Bellanger",
+      "Sabine Delacroix",
+      "Mireille Fournier",
+      "Nicolas Perrin"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Clary-Montfort",
+      "Commandant-Remy-Luc",
+      "Domirina",
+      "Dr-Annalis-Bellinger",
+      "Dr-Vassar",
+      "Etienne-Roussel",
+      "Julien-Arnaud",
+      "Mariel-Fonter",
+      "Nicholas-Perrin",
+      "Professor-Moreau",
+      "Sabine-Delaroy",
+      "Session-9-The-Doctors-Bargain"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Institut de Continuité Biologique The crew infiltrates this installation on [[Domirina]], the second research moon of [[Free Arden]], in [[Session 9 - The Doctor's Bargain]]. The original NPC reference names it Institut de Continuité Biologique. Free Arden Research Facility remains an alias and th"
+  },
+  {
     "id": "3:Friday-Party-Congress-Hearing",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -3397,6 +3620,42 @@
     "excerpt": "# Friday Party Congress Hearing ## Overview The Friday Party Congress hearing is expected two days after the [[Mercier Assassination]]. [[Alain Mercier]] had planned to reveal his findings there before he was killed. [[Cass Pien (Kolb)]] contacted a trusted ally to listen from inside the hearing and"
   },
   {
+    "id": "3:GL15",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "GL15",
+    "title": "GL15",
+    "category": "lore",
+    "summary": "Krypton-derived material enabling stable cloning and implementation of precise genetic alterations.",
+    "tags": [
+      "lore",
+      "session-9"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 9 - The Doctor's Bargain",
+      "Dr. Anaïs Bellanger",
+      "Krypton"
+    ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Dr. Anaïs Bellanger",
+      "Krypton"
+    ],
+    "backlinks": [
+      "Campaign",
+      "Clone-Rebirth-Program",
+      "Krypton",
+      "Session-9-The-Doctors-Bargain"
+    ],
+    "keyLinks": [],
+    "excerpt": "# GL15 ## Identification In [[Session 9 - The Doctor's Bargain]], [[Dr. Anaïs Bellanger]] names the scarce substance discussed since the [[Krypton]] discovery as GL15. It is associated with stable/perfect cloning and clean delivery of engineered genetic changes. It is not identified as a simple drug"
+  },
+  {
     "id": "3:General-Claire-Moreau",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -3434,15 +3693,15 @@
     "excerpt": "# General Claire Moreau *Commander, Marine Forces Jardin* ## Overview General Claire Moreau commands Marine Forces Jardin, responsible for all marine training and deployment operations run out of the [[Fort Robespierre Naval Annex]]. Widely respected by frontline personnel, she leads the ground and "
   },
   {
-    "id": "3:GL15",
+    "id": "3:HMS-Hank-Aaron",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
-    "slug": "GL15",
-    "title": "GL15",
-    "category": "lore",
-    "summary": "Krypton-derived material enabling stable cloning and implementation of precise genetic alterations.",
+    "slug": "HMS-Hank-Aaron",
+    "title": "HMS Hank Aaron",
+    "category": "vehicle",
+    "summary": "Jardinian naval carrier that destroys pirates after responding to the crew's disguised distress relay.",
     "tags": [
-      "lore",
+      "vehicle",
       "session-9"
     ],
     "aliases": [],
@@ -3452,17 +3711,23 @@
     "playerText": "",
     "links": [
       "Session 9 - The Doctor's Bargain",
-      "Dr. Anaïs Bellanger",
-      "Krypton"
+      "Free Arden",
+      "Snowball"
+    ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden",
+      "Snowball"
     ],
     "backlinks": [
       "Campaign",
-      "Clone-Rebirth-Program",
-      "Krypton",
-      "Session-9-The-Doctors-Bargain"
+      "Free-Arden",
+      "Session-9-The-Doctors-Bargain",
+      "Session-9-The-Doctors-Bargain",
+      "Snowball"
     ],
     "keyLinks": [],
-    "excerpt": "# GL15 ## Identification In [[Session 9 - The Doctor's Bargain]], [[Dr. Anaïs Bellanger]] names the scarce substance discussed since the [[Krypton]] discovery as GL15. It is associated with stable/perfect cloning and clean delivery of engineered genetic changes. It is not identified as a simple drug"
+    "excerpt": "# HMS Hank Aaron In [[Session 9 - The Doctor's Bargain]], this small Jardinian carrier responds to a real distress call forwarded by the crew under the false SolSec identity S42. It acknowledges the request in about forty-five seconds and approaches at an 8G burn. The ship is described as having thr"
   },
   {
     "id": "3:Hadal-Research-Site",
@@ -3668,43 +3933,6 @@
     ],
     "keyLinks": [],
     "excerpt": "# Hidden Clone Community ## Session 8 - The Price of Clearing Your Name [[Session 8 - The Price of Clearing Your Name]] Emma's administrative check finds another living version for about ten percent of copied identities. No return or evacuation occurs. The opening recap estimates 300-500 residents a"
-  },
-  {
-    "id": "3:HMS-Hank-Aaron",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "HMS-Hank-Aaron",
-    "title": "HMS Hank Aaron",
-    "category": "vehicle",
-    "summary": "Jardinian naval carrier that destroys pirates after responding to the crew's disguised distress relay.",
-    "tags": [
-      "vehicle",
-      "session-9"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Session 9 - The Doctor's Bargain",
-      "Free Arden",
-      "Snowball"
-    ],
-    "playerLinks": [
-      "Session 9 - The Doctor's Bargain",
-      "Free Arden",
-      "Snowball"
-    ],
-    "backlinks": [
-      "Campaign",
-      "Free-Arden",
-      "Session-9-The-Doctors-Bargain",
-      "Session-9-The-Doctors-Bargain",
-      "Snowball"
-    ],
-    "keyLinks": [],
-    "excerpt": "# HMS Hank Aaron In [[Session 9 - The Doctor's Bargain]], this small Jardinian carrier responds to a real distress call forwarded by the crew under the false SolSec identity S42. It acknowledges the request in about forty-five seconds and approaches at an 8G burn. The ship is described as having thr"
   },
   {
     "id": "3:Home-Guard",
@@ -4079,6 +4307,54 @@
     "excerpt": "# Jacques Martin *Business Executive* ## Overview Jacques Martin officially owns several logistics companies operating out of the Rousseau Arcology. Unofficially, he is widely rumored to maintain extensive connections within the [[Jardin Syndicate]], the kind of ties that turn a shipping firm into a"
   },
   {
+    "id": "3:Jardin",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Jardin",
+    "title": "Jardin",
+    "category": "location",
+    "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
+    "tags": [
+      "location",
+      "world"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Le Palais de Continuité",
+      "Fort Robespierre Naval Annex",
+      "Transstar Sector Exchange",
+      "Arcosphere Rousseau",
+      "Home Guard",
+      "Mercier Frame-Up",
+      "Keith Morris"
+    ],
+    "playerLinks": [
+      "Le Palais de Continuité",
+      "Fort Robespierre Naval Annex",
+      "Transstar Sector Exchange",
+      "Arcosphere Rousseau",
+      "Home Guard",
+      "Mercier Frame-Up",
+      "Keith Morris"
+    ],
+    "backlinks": [
+      "Domirina",
+      "Free-Arden",
+      "Miasma",
+      "North-Meridian",
+      "Session-8-The-Price-of-Clearing-Your-Name",
+      "Session-9-The-Doctors-Bargain"
+    ],
+    "keyLinks": [
+      "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
+    ],
+    "excerpt": "# Jardin ![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png) *Capital World of the Jardin Subsector* **UWP:** A5679BC-D **Allegiance:** SoCf (Solomani Confederation) **Trade Codes:** Hi, Cp, Pr, Pz, Ht **Subsector:** Jardin **Tech Level:** 13 ## Contents - [Overview](#overview) - [Major Cities](#major"
+  },
+  {
     "id": "3:Jardin-Navy",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -4208,54 +4484,6 @@
       "[[Marcel Delphine]]"
     ],
     "excerpt": "# Syndicat Jardin *Jardin Syndicate* **Type:** Interstellar Criminal Organization **Area of Operations:** Jardin Subsector and neighboring regions on both sides of the Solomani-Imperial border **Primary Activities:** * Human trafficking * Refugee exploitation * Identity fraud * Smuggling * Money lau"
-  },
-  {
-    "id": "3:Jardin",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Jardin",
-    "title": "Jardin",
-    "category": "location",
-    "summary": "Jardin is the capital and dominant world of the Jardin Subsector, serving as one of the most influential political, military, and economic centers in the Solomani Front.\n",
-    "tags": [
-      "location",
-      "world"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Le Palais de Continuité",
-      "Fort Robespierre Naval Annex",
-      "Transstar Sector Exchange",
-      "Arcosphere Rousseau",
-      "Home Guard",
-      "Mercier Frame-Up",
-      "Keith Morris"
-    ],
-    "playerLinks": [
-      "Le Palais de Continuité",
-      "Fort Robespierre Naval Annex",
-      "Transstar Sector Exchange",
-      "Arcosphere Rousseau",
-      "Home Guard",
-      "Mercier Frame-Up",
-      "Keith Morris"
-    ],
-    "backlinks": [
-      "Domirina",
-      "Free-Arden",
-      "Miasma",
-      "North-Meridian",
-      "Session-8-The-Price-of-Clearing-Your-Name",
-      "Session-9-The-Doctors-Bargain"
-    ],
-    "keyLinks": [
-      "https://travellermap.com/?p=0.433%21-113%217&options=58175&ew=milieu&qz=1&as=milieu&mains=1"
-    ],
-    "excerpt": "# Jardin ![Jarin Jump Map](/wiki/media/Jarin-Jump-Map.png) *Capital World of the Jardin Subsector* **UWP:** A5679BC-D **Allegiance:** SoCf (Solomani Confederation) **Trade Codes:** Hi, Cp, Pr, Pz, Ht **Subsector:** Jardin **Tech Level:** 13 ## Contents - [Overview](#overview) - [Major Cities](#major"
   },
   {
     "id": "3:Jardinian-Naval-SOS",
@@ -4410,11 +4638,16 @@
       "Free Arden Research Facility",
       "Session 9 - The Doctor's Bargain"
     ],
+    "playerLinks": [
+      "Free Arden Research Facility",
+      "Session 9 - The Doctor's Bargain"
+    ],
     "backlinks": [
       "Free-Arden-Research-Facility"
     ],
     "keyLinks": [],
-    "excerpt": ""
+    "cover": "wiki/media/Julien-Arnaud-D114.jpg",
+    "excerpt": "# Julien Arnaud, Subject D-114 ![Julien Arnaud, Subject D-114 portrait](/wiki/media/Julien-Arnaud-D114.jpg) *Continuity Subject* This character belongs to the original [[Free Arden Research Facility]] cast. The crew has not identified or encountered this individual in [[Session 9 - The Doctor's Barg"
   },
   {
     "id": "3:Juliette-Mercier",
@@ -5184,11 +5417,19 @@
       "Session 9 - The Doctor's Bargain",
       "Free Arden Research Facility"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden Research Facility"
+    ],
     "backlinks": [
       "Free-Arden-Research-Facility",
+      "Free-Arden-Research-Facility",
+      "Session-9-The-Doctors-Bargain",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Mireille-Fournier.jpg",
     "excerpt": "# Mireille Fournier ![Mireille Fournier portrait](/wiki/media/Mireille-Fournier.jpg) *Senior Medical Technician* Staff information in [[Session 9 - The Doctor's Bargain]] identifies Fournier as the resident caretaker/nurse at the [[Free Arden Research Facility]]. She feeds subjects, oversees waking "
   },
   {
@@ -6068,11 +6309,19 @@
       "Session 9 - The Doctor's Bargain",
       "Free Arden Research Facility"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden Research Facility"
+    ],
     "backlinks": [
       "Free-Arden-Research-Facility",
+      "Free-Arden-Research-Facility",
+      "Session-9-The-Doctors-Bargain",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Nicolas-Perrin.jpg",
     "excerpt": "# Nicolas Perrin ![Nicolas Perrin portrait](/wiki/media/Nicolas-Perrin.jpg) *Environmental Systems Engineer* [[Session 9 - The Doctor's Bargain]] identifies Perrin through staff records at the [[Free Arden Research Facility]]. He maintains oxygenation, environmental systems, major repairs, and back-"
   },
   {
@@ -6124,6 +6373,51 @@
     "excerpt": "# Nico Gay ## Overview Nico Gay is the son of Sarah Gay and a mid-tier smuggler contact of [[Emma Colbert (Laura)]]. The transcript describes him as oddly loyal to Emma, provided she does not ask him to betray family or front crew. He gave Emma background on [[Marcel Delphine]] and the [[Jardin Synd"
   },
   {
+    "id": "3:North-Meridian",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "North-Meridian",
+    "title": "North Meridian",
+    "category": "location",
+    "summary": "Volcanically active Jardin-system world with an unbreathable atmosphere and a guarded military intelligence vault.",
+    "tags": [
+      "location",
+      "session-8",
+      "military"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 8 - The Price of Clearing Your Name",
+      "Providence",
+      "Lieutenant Colonel Pablo Garcia",
+      "North Meridian Intelligence Vault",
+      "Director Adrian Beaumont",
+      "Jardin"
+    ],
+    "playerLinks": [
+      "Session 8 - The Price of Clearing Your Name",
+      "Providence",
+      "Lieutenant Colonel Pablo Garcia",
+      "North Meridian Intelligence Vault",
+      "Director Adrian Beaumont",
+      "Jardin"
+    ],
+    "backlinks": [
+      "Domirina",
+      "Lieutenant-Colonel-Pablo-Garcia",
+      "North-Meridian-Intelligence-Vault",
+      "Providence",
+      "Session-8-The-Price-of-Clearing-Your-Name",
+      "Session-8-The-Price-of-Clearing-Your-Name"
+    ],
+    "keyLinks": [],
+    "excerpt": "# North Meridian ## Played Events In [[Session 8 - The Price of Clearing Your Name]], the party reaches North Meridian after leaving [[Providence]]. Victor's course reduces the stated flight time from about seven hours to two. Around two-thirds of the world is intensely tectonically active; a more s"
+  },
+  {
     "id": "3:North-Meridian-Intelligence-Vault",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -6169,51 +6463,6 @@
     ],
     "keyLinks": [],
     "excerpt": "# North Meridian Intelligence Vault ## Session 9 - The Doctor's Bargain [[Session 9 - The Doctor's Bargain]] The crew still holds the Game 8 personnel and additional dossiers. Game 9 uses another source to investigate research personnel; no full on-screen decoding of every vault case or confirmed ac"
-  },
-  {
-    "id": "3:North-Meridian",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "North-Meridian",
-    "title": "North Meridian",
-    "category": "location",
-    "summary": "Volcanically active Jardin-system world with an unbreathable atmosphere and a guarded military intelligence vault.",
-    "tags": [
-      "location",
-      "session-8",
-      "military"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Session 8 - The Price of Clearing Your Name",
-      "Providence",
-      "Lieutenant Colonel Pablo Garcia",
-      "North Meridian Intelligence Vault",
-      "Director Adrian Beaumont",
-      "Jardin"
-    ],
-    "playerLinks": [
-      "Session 8 - The Price of Clearing Your Name",
-      "Providence",
-      "Lieutenant Colonel Pablo Garcia",
-      "North Meridian Intelligence Vault",
-      "Director Adrian Beaumont",
-      "Jardin"
-    ],
-    "backlinks": [
-      "Domirina",
-      "Lieutenant-Colonel-Pablo-Garcia",
-      "North-Meridian-Intelligence-Vault",
-      "Providence",
-      "Session-8-The-Price-of-Clearing-Your-Name",
-      "Session-8-The-Price-of-Clearing-Your-Name"
-    ],
-    "keyLinks": [],
-    "excerpt": "# North Meridian ## Played Events In [[Session 8 - The Price of Clearing Your Name]], the party reaches North Meridian after leaving [[Providence]]. Victor's course reduces the stated flight time from about seven hours to two. Around two-thirds of the world is intensely tectonically active; a more s"
   },
   {
     "id": "3:Oduya",
@@ -6555,12 +6804,20 @@
       "Claire Montfort",
       "Dr. Luc Moreau"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden Research Facility",
+      "Claire Montfort",
+      "Dr. Luc Moreau"
+    ],
     "backlinks": [
       "Clary-Montfort",
       "Free-Arden-Research-Facility",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Lucien-Moreau.jpg",
     "excerpt": "# Professor Lucien Moreau ![Professor Lucien Moreau portrait](/wiki/media/Lucien-Moreau.jpg) *Director of Special Projects* In [[Session 9 - The Doctor's Bargain]], Cass encounters this silver-haired scientist after a failed Stealth approach in the [[Free Arden Research Facility]]. Cass claims to be"
   },
   {
@@ -7109,11 +7366,21 @@
       "Social Solidarity",
       "Sabine Caron"
     ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Free Arden Research Facility",
+      "Social Solidarity",
+      "Sabine Caron"
+    ],
     "backlinks": [
       "Free-Arden-Research-Facility",
+      "Free-Arden-Research-Facility",
+      "Session-9-The-Doctors-Bargain",
+      "Session-9-The-Doctors-Bargain",
       "Session-9-The-Doctors-Bargain"
     ],
     "keyLinks": [],
+    "cover": "wiki/media/Sabine-Delacroix.jpg",
     "excerpt": "# Sabine Delacroix ![Sabine Delacroix portrait](/wiki/media/Sabine-Delacroix.jpg) *Special Assessment Officer* In [[Session 9 - The Doctor's Bargain]], the crew finds explicit documentation that Delacroix has psychic abilities and trains other subjects at the [[Free Arden Research Facility]]. Record"
   },
   {
@@ -8577,8 +8844,68 @@
       "Snowball",
       "HMS Hank Aaron"
     ],
+    "playerLinks": [
+      "Session 8 - The Price of Clearing Your Name",
+      "Domirina",
+      "North Meridian Intelligence Vault",
+      "Free Arden",
+      "Emma Colbert (Laura)",
+      "Victor Mendes (Steinbach)",
+      "Snowball",
+      "Transponder Swap Box",
+      "Cass Pien (Kolb)",
+      "HMS Hank Aaron",
+      "Zoy (Damon)",
+      "0-31 Saichi Maru (Annette)",
+      "Professor Lucien Moreau",
+      "Claire Montfort",
+      "Dr. Anaïs Bellanger",
+      "Remy Luc",
+      "Dr. Élodie Vasseur",
+      "Mireille Fournier",
+      "Nicolas Perrin",
+      "Sabine Delacroix",
+      "GL15",
+      "Transstar Employment Contract",
+      "Dr. Anaïs Bellanger",
+      "Commandant Rémi Leduc",
+      "Dr. Élodie Vasseur",
+      "Claire Montfort",
+      "Mireille Fournier",
+      "Sabine Delacroix",
+      "Nicolas Perrin",
+      "Emma Colbert (Laura)",
+      "Victor Mendes (Steinbach)",
+      "Cass Pien (Kolb)",
+      "Dan Araujo (Josh)",
+      "0-31 Saichi Maru (Annette)",
+      "Zoy (Damon)",
+      "Varian Svazz (Allen)",
+      "Judith Dumont (Carla)",
+      "Ciernan Seanislav (Peter)",
+      "Dr. Anaïs Bellanger",
+      "Professor Lucien Moreau",
+      "Dr. Élodie Vasseur",
+      "Commandant Rémi Leduc",
+      "Claire Montfort",
+      "Mireille Fournier",
+      "Sabine Delacroix",
+      "Nicolas Perrin",
+      "Free Arden",
+      "Domirina",
+      "Free Arden Research Facility",
+      "Jardin",
+      "Krypton",
+      "Transstar",
+      "SolSec",
+      "Social Solidarity",
+      "Oduya",
+      "Snowball",
+      "HMS Hank Aaron"
+    ],
     "backlinks": [
       "0-31-Saichi-Maru-Annette",
+      "Campaign",
       "Campaign",
       "Cass-Pien-Kolb",
       "Ciernan-Seanislav-Peter",
@@ -8592,8 +8919,8 @@
       "Dr-Vassar",
       "Emma-Colbert-Laura",
       "Etienne-Roussel",
-      "Free-Arden-Research-Facility",
       "Free-Arden",
+      "Free-Arden-Research-Facility",
       "GL15",
       "HMS-Hank-Aaron",
       "Judith-Dumont-Carla",
@@ -8608,8 +8935,8 @@
       "Sabine-Delaroy",
       "Snowball",
       "Transponder-Swap-Box",
-      "Transstar-Employment-Contract",
       "Transstar",
+      "Transstar-Employment-Contract",
       "Varian-Svazz-Allen",
       "Victor-Mendes-Steinbach",
       "Zoy-Damon"
@@ -8811,71 +9138,6 @@
     "excerpt": "# Ministère de la Solidarité Sociale ## Session 8 - The Price of Clearing Your Name [[Session 8 - The Price of Clearing Your Name]] Beaumont estimates 35-40 percent of the organization belongs to a psychic-led splinter faction, supported by compromised SolSec operatives. This is his estimate, not an"
   },
   {
-    "id": "3:SolSec-Operative-at-Elyon",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "SolSec-Operative-at-Elyon",
-    "title": "SolSec Operative at Elyon",
-    "category": "npc",
-    "summary": "Unidentified SolSec agent who scans the Mercier lookalike survivor at Undersea Base Elyon.",
-    "tags": [
-      "npc",
-      "solsec",
-      "session-4",
-      "session-5"
-    ],
-    "aliases": [
-      "Elyon SolSec Agent"
-    ],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Undersea Base Elyon",
-      "Session 4 - Into the Hadal Deep",
-      "Mercier Lookalike Survivor",
-      "Alain Mercier",
-      "Alain Mercier",
-      "Clone Rebirth Program",
-      "Inspector Marc Valois"
-    ],
-    "playerLinks": [
-      "Undersea Base Elyon",
-      "Session 4 - Into the Hadal Deep",
-      "Mercier Lookalike Survivor",
-      "Alain Mercier",
-      "Alain Mercier",
-      "Clone Rebirth Program",
-      "Inspector Marc Valois"
-    ],
-    "backlinks": [
-      "0-31-Saichi-Maru-Annette",
-      "Alain-Mercier",
-      "Campaign",
-      "Ciernan-Seanislav-Peter",
-      "Clone-Rebirth-Program",
-      "Emma-Colbert-Laura",
-      "Mercier-Lookalike-Survivor",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "SolSec",
-      "Timeline",
-      "Undersea-Base-Elyon",
-      "Undersea-Base-Elyon",
-      "Zoy-Damon",
-      "Zoy-Damon"
-    ],
-    "keyLinks": [
-      "[[SolSec]]",
-      "[[Undersea Base Elyon]]",
-      "[[Mercier Lookalike Survivor]]",
-      "[[Clone Rebirth Program]]"
-    ],
-    "excerpt": "# SolSec Operative at Elyon ## Overview The SolSec Operative at Elyon is an unidentified agent seen inside [[Undersea Base Elyon]] during [[Session 4 - Into the Hadal Deep]]. Saichi spots him entering the [[Mercier Lookalike Survivor]]'s room late at night. ## Session 4 The operative scans the survi"
-  },
-  {
     "id": "3:SolSec",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -8989,6 +9251,71 @@
       "[[Inspector Marc Valois]]"
     ],
     "excerpt": "# SolSec ## Session 8 - The Price of Clearing Your Name [[Session 8 - The Price of Clearing Your Name]] [[Director Adrian Beaumont]] alleges a small but prominent SolSec faction has joined the psychic Social Solidarity group. His own network is compromised and he faces loss of rank. [[Lieutenant Bax"
+  },
+  {
+    "id": "3:SolSec-Operative-at-Elyon",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "SolSec-Operative-at-Elyon",
+    "title": "SolSec Operative at Elyon",
+    "category": "npc",
+    "summary": "Unidentified SolSec agent who scans the Mercier lookalike survivor at Undersea Base Elyon.",
+    "tags": [
+      "npc",
+      "solsec",
+      "session-4",
+      "session-5"
+    ],
+    "aliases": [
+      "Elyon SolSec Agent"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Undersea Base Elyon",
+      "Session 4 - Into the Hadal Deep",
+      "Mercier Lookalike Survivor",
+      "Alain Mercier",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Inspector Marc Valois"
+    ],
+    "playerLinks": [
+      "Undersea Base Elyon",
+      "Session 4 - Into the Hadal Deep",
+      "Mercier Lookalike Survivor",
+      "Alain Mercier",
+      "Alain Mercier",
+      "Clone Rebirth Program",
+      "Inspector Marc Valois"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Campaign",
+      "Ciernan-Seanislav-Peter",
+      "Clone-Rebirth-Program",
+      "Emma-Colbert-Laura",
+      "Mercier-Lookalike-Survivor",
+      "Session-4-Into-the-Hadal-Deep",
+      "Session-5-The-Oduya",
+      "Session-5-The-Oduya",
+      "SolSec",
+      "Timeline",
+      "Undersea-Base-Elyon",
+      "Undersea-Base-Elyon",
+      "Zoy-Damon",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[SolSec]]",
+      "[[Undersea Base Elyon]]",
+      "[[Mercier Lookalike Survivor]]",
+      "[[Clone Rebirth Program]]"
+    ],
+    "excerpt": "# SolSec Operative at Elyon ## Overview The SolSec Operative at Elyon is an unidentified agent seen inside [[Undersea Base Elyon]] during [[Session 4 - Into the Hadal Deep]]. Saichi spots him entering the [[Mercier Lookalike Survivor]]'s room late at night. ## Session 4 The operative scans the survi"
   },
   {
     "id": "3:Sunken-Ship-Boat",
@@ -9151,6 +9478,139 @@
       "[[Miasma]]"
     ],
     "excerpt": "# Sunken Ship-Boat *The old lead name for [[Oduya]].* ## Overview The Sunken Ship-Boat is the same craft as [[Oduya]]. \"Sunken Ship-Boat\" was the party's earlier description before [[Session 5 - The Oduya]] identified the wreck by name. One of [[Cass Pien (Kolb)]]'s smuggling contacts reported a bro"
+  },
+  {
+    "id": "3:TSS-Profondeur",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "TSS-Profondeur",
+    "title": "TSS Profondeur",
+    "category": "vehicle",
+    "summary": "Refitted former Jardin Navy submersible used by Transstar for the Aquatic Salvage Project.",
+    "tags": [
+      "vehicle",
+      "ship",
+      "transstar",
+      "undersea",
+      "session-4",
+      "session-5",
+      "session-6"
+    ],
+    "aliases": [
+      "Profondeur",
+      "The Profondeur"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Aquatic Salvage Project",
+      "Transstar",
+      "Étienne Valcourt",
+      "Maëlle Fournier",
+      "Rémi Beauchamp",
+      "Sabine Caron",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Undersea Base Elyon",
+      "Etienne Valcourt",
+      "Sunken Ship-Boat",
+      "Alain Mercier",
+      "Oduya",
+      "Session 6 - Ghosts in the Bloodline",
+      "Aquatic Salvage Project",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "Emma Colbert (Laura)",
+      "Etienne Valcourt"
+    ],
+    "playerLinks": [
+      "Aquatic Salvage Project",
+      "Transstar",
+      "Étienne Valcourt",
+      "Maëlle Fournier",
+      "Rémi Beauchamp",
+      "Sabine Caron",
+      "Hadal Research Site",
+      "Undersea Base Elyon",
+      "Undersea Base Elyon",
+      "Etienne Valcourt",
+      "Sunken Ship-Boat",
+      "Alain Mercier",
+      "Oduya",
+      "Session 6 - Ghosts in the Bloodline",
+      "Aquatic Salvage Project",
+      "Mercier's Locked Pad",
+      "Mercier Evidence Cache",
+      "Alain Mercier",
+      "Undersea Base Elyon",
+      "Emma Colbert (Laura)",
+      "Etienne Valcourt"
+    ],
+    "backlinks": [
+      "0-31-Saichi-Maru-Annette",
+      "0-31-Saichi-Maru-Annette",
+      "Alain-Mercier",
+      "Aquatic-Salvage-Project",
+      "Aquatic-Salvage-Project",
+      "Aquatic-Salvage-Project",
+      "Campaign",
+      "Campaign",
+      "Campaign",
+      "Campaign",
+      "Campaign",
+      "Cass-Pien-Kolb",
+      "Ciernan-Seanislav-Peter",
+      "Crew-of-TSS-Profondeur",
+      "Crushed-Trench",
+      "Deep-Trench-Minisub",
+      "Emma-Colbert-Laura",
+      "Emma-Colbert-Laura",
+      "Emma-Colbert-Laura",
+      "Emma-Colbert-Laura",
+      "Etienne-Valcourt",
+      "Etienne-Valcourt",
+      "Hadal-Research-Site",
+      "Jardinian-Naval-SOS",
+      "Maelle-Fournier",
+      "Oduya",
+      "Relay-Station-932",
+      "Remi-Beauchamp",
+      "Sabine-Caron",
+      "Session-4-Into-the-Hadal-Deep",
+      "Session-4-Into-the-Hadal-Deep",
+      "Session-4-Into-the-Hadal-Deep",
+      "Session-5-The-Oduya",
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Session-7-Echoes-Beneath-the-Sea",
+      "Session-7-Echoes-Beneath-the-Sea",
+      "Sunken-Ship-Boat",
+      "Timeline",
+      "Timeline",
+      "Timeline",
+      "Transstar",
+      "Transstar",
+      "Undersea-Base-Elyon",
+      "Undersea-Base-Elyon",
+      "Undersea-Suits",
+      "Varian-Svazz-Allen",
+      "Victor-Mendes-Steinbach",
+      "Zoy-Damon"
+    ],
+    "keyLinks": [
+      "[[Aquatic Salvage Project]]",
+      "[[Étienne Valcourt]]",
+      "[[Hadal Research Site]]",
+      "[[Oduya]]"
+    ],
+    "cover": "wiki/media/TSS-Profondeur-Logo.png",
+    "excerpt": "# TSS Profondeur ![TSS Profondeur logo](/wiki/media/TSS-Profondeur-Logo.png) ## Overview The TSS Profondeur is a Transstar salvage submersible assigned to the [[Aquatic Salvage Project]]. It was formerly a Jardin Navy vessel, damaged during prior service and later purchased or transferred to [[Trans"
   },
   {
     "id": "3:Timeline",
@@ -9388,6 +9848,131 @@
     "excerpt": "# Transponder Swap Box ## Session 9 - The Doctor's Bargain [[Session 9 - The Doctor's Bargain]] The crew broadcasts as SolSec ship S42 while forwarding Snowball's genuine distress call. Victor's deception convinces Hank Aaron and supports the naval rescue. The team refrains from immediately changing"
   },
   {
+    "id": "3:Transstar",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "Transstar",
+    "title": "Transstar",
+    "category": "organization",
+    "summary": "",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Session 9 - The Doctor's Bargain",
+      "Session 7 - Echoes Beneath the Sea",
+      "Etienne Valcourt",
+      "Crushed Trench",
+      "Hidden Clone Community",
+      "Étienne Moreau",
+      "Claire Bouchard",
+      "Captain Victor Mendes",
+      "Nadine Pelletier",
+      "Luc Girard",
+      "Sarah Chen",
+      "Armand Rousselet",
+      "Elena Kovacs",
+      "Philippe Laurent",
+      "Amelia Torres",
+      "Session 4 - Into the Hadal Deep",
+      "TSS Profondeur",
+      "Aquatic Salvage Project",
+      "Hadal Research Site",
+      "Mercier Lookalike Survivor",
+      "Undersea Base Elyon",
+      "SolSec",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Emma Colbert (Laura)",
+      "Alain Mercier",
+      "TSS Profondeur",
+      "0-31 Saichi Maru (Annette)",
+      "Oduya"
+    ],
+    "playerLinks": [
+      "Session 9 - The Doctor's Bargain",
+      "Session 7 - Echoes Beneath the Sea",
+      "Etienne Valcourt",
+      "Crushed Trench",
+      "Hidden Clone Community",
+      "Étienne Moreau",
+      "Claire Bouchard",
+      "Captain Victor Mendes",
+      "Nadine Pelletier",
+      "Luc Girard",
+      "Sarah Chen",
+      "Armand Rousselet",
+      "Elena Kovacs",
+      "Philippe Laurent",
+      "Amelia Torres",
+      "Session 4 - Into the Hadal Deep",
+      "TSS Profondeur",
+      "Aquatic Salvage Project",
+      "Hadal Research Site",
+      "Mercier Lookalike Survivor",
+      "Undersea Base Elyon",
+      "SolSec",
+      "Session 6 - Ghosts in the Bloodline",
+      "Mercier's Locked Pad",
+      "Emma Colbert (Laura)",
+      "Alain Mercier",
+      "TSS Profondeur",
+      "0-31 Saichi Maru (Annette)",
+      "Oduya"
+    ],
+    "backlinks": [
+      "Amelia-Torres",
+      "Amelia-Torres",
+      "Antoine-Mercier",
+      "Antoine-Mercier",
+      "Armand-Rousselet",
+      "Armand-Rousselet",
+      "Campaign",
+      "Campaign",
+      "Captain-Victor-Mendes",
+      "Captain-Victor-Mendes",
+      "Claire-Bouchard",
+      "Claire-Bouchard",
+      "Claire-Bouchard",
+      "Deep-Trench-Minisub",
+      "Elena-Kovacs",
+      "Elena-Kovacs",
+      "Etienne-Moreau",
+      "Etienne-Moreau",
+      "Hidden-Clone-Community",
+      "Judith-Dumont-Carla",
+      "Luc-Girard",
+      "Luc-Girard",
+      "Nadine-Pelletier",
+      "Nadine-Pelletier",
+      "Philippe-Laurent",
+      "Philippe-Laurent",
+      "Sarah-Chen",
+      "Sarah-Chen",
+      "Session-4-Into-the-Hadal-Deep",
+      "Session-5-The-Oduya",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Session-6-Ghosts-in-the-Bloodline",
+      "Session-7-Echoes-Beneath-the-Sea",
+      "Session-7-Echoes-Beneath-the-Sea",
+      "Session-8-The-Price-of-Clearing-Your-Name",
+      "Session-8-The-Price-of-Clearing-Your-Name",
+      "Session-9-The-Doctors-Bargain",
+      "TSS-Profondeur",
+      "Transstar-Peacekeepers",
+      "Undersea-Extremists",
+      "Varian-Svazz-Allen"
+    ],
+    "keyLinks": [],
+    "cover": "wiki/media/Transstar-Logo.png",
+    "excerpt": "# Transstar ## Session 9 - The Doctor's Bargain [[Session 9 - The Doctor's Bargain]] Emma sends a tactful resignation on behalf of the departing crew during the initial thirty-day open-employment period, prioritizing the investigation. The party hopes to preserve relations; no acceptance, new subcon"
+  },
+  {
     "id": "3:Transstar-Employment-Contract",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -9570,264 +10155,6 @@
     "keyLinks": [],
     "parent": "Jardin",
     "excerpt": "# Transstar Sector Exchange *Secteur d'Échange Transstar* *\"The Market Never Sleeps.\"* **Location:** Grand Axis District, Nouvelle Sainte-Jeanne, Jardin **Type:** Special Economic Zone **Administrative Authority:** Transstar Economic Directorate **Status:** Semi-Autonomous Economic District **Popula"
-  },
-  {
-    "id": "3:Transstar",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "Transstar",
-    "title": "Transstar",
-    "category": "organization",
-    "summary": "",
-    "tags": [
-      "organization"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Session 9 - The Doctor's Bargain",
-      "Session 7 - Echoes Beneath the Sea",
-      "Etienne Valcourt",
-      "Crushed Trench",
-      "Hidden Clone Community",
-      "Étienne Moreau",
-      "Claire Bouchard",
-      "Captain Victor Mendes",
-      "Nadine Pelletier",
-      "Luc Girard",
-      "Sarah Chen",
-      "Armand Rousselet",
-      "Elena Kovacs",
-      "Philippe Laurent",
-      "Amelia Torres",
-      "Session 4 - Into the Hadal Deep",
-      "TSS Profondeur",
-      "Aquatic Salvage Project",
-      "Hadal Research Site",
-      "Mercier Lookalike Survivor",
-      "Undersea Base Elyon",
-      "SolSec",
-      "Session 6 - Ghosts in the Bloodline",
-      "Mercier's Locked Pad",
-      "Emma Colbert (Laura)",
-      "Alain Mercier",
-      "TSS Profondeur",
-      "0-31 Saichi Maru (Annette)",
-      "Oduya"
-    ],
-    "playerLinks": [
-      "Session 9 - The Doctor's Bargain",
-      "Session 7 - Echoes Beneath the Sea",
-      "Etienne Valcourt",
-      "Crushed Trench",
-      "Hidden Clone Community",
-      "Étienne Moreau",
-      "Claire Bouchard",
-      "Captain Victor Mendes",
-      "Nadine Pelletier",
-      "Luc Girard",
-      "Sarah Chen",
-      "Armand Rousselet",
-      "Elena Kovacs",
-      "Philippe Laurent",
-      "Amelia Torres",
-      "Session 4 - Into the Hadal Deep",
-      "TSS Profondeur",
-      "Aquatic Salvage Project",
-      "Hadal Research Site",
-      "Mercier Lookalike Survivor",
-      "Undersea Base Elyon",
-      "SolSec",
-      "Session 6 - Ghosts in the Bloodline",
-      "Mercier's Locked Pad",
-      "Emma Colbert (Laura)",
-      "Alain Mercier",
-      "TSS Profondeur",
-      "0-31 Saichi Maru (Annette)",
-      "Oduya"
-    ],
-    "backlinks": [
-      "Amelia-Torres",
-      "Amelia-Torres",
-      "Antoine-Mercier",
-      "Antoine-Mercier",
-      "Armand-Rousselet",
-      "Armand-Rousselet",
-      "Campaign",
-      "Campaign",
-      "Captain-Victor-Mendes",
-      "Captain-Victor-Mendes",
-      "Claire-Bouchard",
-      "Claire-Bouchard",
-      "Claire-Bouchard",
-      "Deep-Trench-Minisub",
-      "Elena-Kovacs",
-      "Elena-Kovacs",
-      "Etienne-Moreau",
-      "Etienne-Moreau",
-      "Hidden-Clone-Community",
-      "Judith-Dumont-Carla",
-      "Luc-Girard",
-      "Luc-Girard",
-      "Nadine-Pelletier",
-      "Nadine-Pelletier",
-      "Philippe-Laurent",
-      "Philippe-Laurent",
-      "Sarah-Chen",
-      "Sarah-Chen",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya",
-      "Session-6-Ghosts-in-the-Bloodline",
-      "Session-6-Ghosts-in-the-Bloodline",
-      "Session-7-Echoes-Beneath-the-Sea",
-      "Session-7-Echoes-Beneath-the-Sea",
-      "Session-8-The-Price-of-Clearing-Your-Name",
-      "Session-8-The-Price-of-Clearing-Your-Name",
-      "Session-9-The-Doctors-Bargain",
-      "TSS-Profondeur",
-      "Transstar-Peacekeepers",
-      "Undersea-Extremists",
-      "Varian-Svazz-Allen"
-    ],
-    "keyLinks": [],
-    "cover": "wiki/media/Transstar-Logo.png",
-    "excerpt": "# Transstar ## Session 9 - The Doctor's Bargain [[Session 9 - The Doctor's Bargain]] Emma sends a tactful resignation on behalf of the departing crew during the initial thirty-day open-employment period, prioritizing the investigation. The party hopes to preserve relations; no acceptance, new subcon"
-  },
-  {
-    "id": "3:TSS-Profondeur",
-    "campaignId": 3,
-    "campaignName": "Sparks of the Past",
-    "slug": "TSS-Profondeur",
-    "title": "TSS Profondeur",
-    "category": "vehicle",
-    "summary": "Refitted former Jardin Navy submersible used by Transstar for the Aquatic Salvage Project.",
-    "tags": [
-      "vehicle",
-      "ship",
-      "transstar",
-      "undersea",
-      "session-4",
-      "session-5",
-      "session-6"
-    ],
-    "aliases": [
-      "Profondeur",
-      "The Profondeur"
-    ],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Aquatic Salvage Project",
-      "Transstar",
-      "Étienne Valcourt",
-      "Maëlle Fournier",
-      "Rémi Beauchamp",
-      "Sabine Caron",
-      "Hadal Research Site",
-      "Undersea Base Elyon",
-      "Undersea Base Elyon",
-      "Etienne Valcourt",
-      "Sunken Ship-Boat",
-      "Alain Mercier",
-      "Oduya",
-      "Session 6 - Ghosts in the Bloodline",
-      "Aquatic Salvage Project",
-      "Mercier's Locked Pad",
-      "Mercier Evidence Cache",
-      "Alain Mercier",
-      "Undersea Base Elyon",
-      "Emma Colbert (Laura)",
-      "Etienne Valcourt"
-    ],
-    "playerLinks": [
-      "Aquatic Salvage Project",
-      "Transstar",
-      "Étienne Valcourt",
-      "Maëlle Fournier",
-      "Rémi Beauchamp",
-      "Sabine Caron",
-      "Hadal Research Site",
-      "Undersea Base Elyon",
-      "Undersea Base Elyon",
-      "Etienne Valcourt",
-      "Sunken Ship-Boat",
-      "Alain Mercier",
-      "Oduya",
-      "Session 6 - Ghosts in the Bloodline",
-      "Aquatic Salvage Project",
-      "Mercier's Locked Pad",
-      "Mercier Evidence Cache",
-      "Alain Mercier",
-      "Undersea Base Elyon",
-      "Emma Colbert (Laura)",
-      "Etienne Valcourt"
-    ],
-    "backlinks": [
-      "0-31-Saichi-Maru-Annette",
-      "0-31-Saichi-Maru-Annette",
-      "Alain-Mercier",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Aquatic-Salvage-Project",
-      "Campaign",
-      "Campaign",
-      "Campaign",
-      "Campaign",
-      "Campaign",
-      "Cass-Pien-Kolb",
-      "Ciernan-Seanislav-Peter",
-      "Crew-of-TSS-Profondeur",
-      "Crushed-Trench",
-      "Deep-Trench-Minisub",
-      "Emma-Colbert-Laura",
-      "Emma-Colbert-Laura",
-      "Emma-Colbert-Laura",
-      "Emma-Colbert-Laura",
-      "Etienne-Valcourt",
-      "Etienne-Valcourt",
-      "Hadal-Research-Site",
-      "Jardinian-Naval-SOS",
-      "Maelle-Fournier",
-      "Oduya",
-      "Relay-Station-932",
-      "Remi-Beauchamp",
-      "Sabine-Caron",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-4-Into-the-Hadal-Deep",
-      "Session-5-The-Oduya",
-      "Session-5-The-Oduya",
-      "Session-6-Ghosts-in-the-Bloodline",
-      "Session-6-Ghosts-in-the-Bloodline",
-      "Session-6-Ghosts-in-the-Bloodline",
-      "Session-7-Echoes-Beneath-the-Sea",
-      "Session-7-Echoes-Beneath-the-Sea",
-      "Sunken-Ship-Boat",
-      "Timeline",
-      "Timeline",
-      "Timeline",
-      "Transstar",
-      "Transstar",
-      "Undersea-Base-Elyon",
-      "Undersea-Base-Elyon",
-      "Undersea-Suits",
-      "Varian-Svazz-Allen",
-      "Victor-Mendes-Steinbach",
-      "Zoy-Damon"
-    ],
-    "keyLinks": [
-      "[[Aquatic Salvage Project]]",
-      "[[Étienne Valcourt]]",
-      "[[Hadal Research Site]]",
-      "[[Oduya]]"
-    ],
-    "cover": "wiki/media/TSS-Profondeur-Logo.png",
-    "excerpt": "# TSS Profondeur ![TSS Profondeur logo](/wiki/media/TSS-Profondeur-Logo.png) ## Overview The TSS Profondeur is a Transstar salvage submersible assigned to the [[Aquatic Salvage Project]]. It was formerly a Jardin Navy vessel, damaged during prior service and later purchased or transferred to [[Trans"
   },
   {
     "id": "3:Undersea-Base-Elyon",
@@ -10349,6 +10676,31 @@
     "excerpt": ""
   },
   {
+    "id": "3:media:wiki/media/Anais-Bellanger.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Anais-Bellanger.jpg",
+    "title": "Dr. Anaïs Bellanger portrait",
+    "category": "media",
+    "summary": "Molecular Biologist",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Anais-Bellanger.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "3:media:wiki/media/Cass-Pien.png",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -10391,6 +10743,31 @@
     "excerpt": ""
   },
   {
+    "id": "3:media:wiki/media/Claire-Montfort.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Claire-Montfort.jpg",
+    "title": "Claire Montfort portrait",
+    "category": "media",
+    "summary": "Administrative Director",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Claire-Montfort.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "3:media:wiki/media/Dan-Araujo.png",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -10401,6 +10778,31 @@
     "tags": [],
     "aliases": [
       "Dan-Araujo.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Elodie-Vasseur.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Elodie-Vasseur.jpg",
+    "title": "Dr. Élodie Vasseur portrait",
+    "category": "media",
+    "summary": "Director of Research",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Elodie-Vasseur.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -10443,6 +10845,31 @@
     "tags": [],
     "aliases": [
       "Emma-Colbert.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Etienne-Roussel.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Etienne-Roussel.jpg",
+    "title": "Étienne Roussel portrait",
+    "category": "media",
+    "summary": "Logistics Supervisor",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Etienne-Roussel.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -10549,6 +10976,31 @@
     "excerpt": ""
   },
   {
+    "id": "3:media:wiki/media/Julien-Arnaud-D114.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Julien-Arnaud-D114.jpg",
+    "title": "Julien Arnaud, Subject D-114 portrait",
+    "category": "media",
+    "summary": "Continuity Subject",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Julien-Arnaud-D114.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "3:media:wiki/media/Le-Palais-de-Continuite.png",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -10559,6 +11011,31 @@
     "tags": [],
     "aliases": [
       "Le-Palais-de-Continuite.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Lucien-Moreau.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Lucien-Moreau.jpg",
+    "title": "Professor Lucien Moreau portrait",
+    "category": "media",
+    "summary": "Director of Special Projects",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Lucien-Moreau.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -10606,6 +11083,56 @@
     "tags": [],
     "aliases": [
       "Ministry-of-Social-Solidarity.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Mireille-Fournier.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Mireille-Fournier.jpg",
+    "title": "Mireille Fournier portrait",
+    "category": "media",
+    "summary": "Senior Medical Technician",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Mireille-Fournier.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Nicolas-Perrin.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Nicolas-Perrin.jpg",
+    "title": "Nicolas Perrin portrait",
+    "category": "media",
+    "summary": "Environmental Systems Engineer",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Nicolas-Perrin.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -10666,6 +11193,31 @@
     "excerpt": ""
   },
   {
+    "id": "3:media:wiki/media/Remi-Leduc.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Remi-Leduc.jpg",
+    "title": "Commandant Rémi Leduc portrait",
+    "category": "media",
+    "summary": "Security Chief",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Remi-Leduc.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "3:media:wiki/media/Sabine-Caron.png",
     "campaignId": 3,
     "campaignName": "Sparks of the Past",
@@ -10681,6 +11233,31 @@
     ],
     "aliases": [
       "Sabine-Caron.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "3:media:wiki/media/Sabine-Delacroix.jpg",
+    "campaignId": 3,
+    "campaignName": "Sparks of the Past",
+    "slug": "media/Sabine-Delacroix.jpg",
+    "title": "Sabine Delacroix portrait",
+    "category": "media",
+    "summary": "Special Assessment Officer",
+    "tags": [
+      "npc",
+      "domirina",
+      "portrait"
+    ],
+    "aliases": [
+      "Sabine-Delacroix.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
