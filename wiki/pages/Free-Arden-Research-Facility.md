@@ -1,14 +1,20 @@
 ---
 category: location
 type: location
-name: "Institut de Continuité Biologique"
-summary: "Subsurface experimental cloning and psychic-research installation infiltrated during Game 9."
-tags: [location, session-9]
+name: Institut de Continuité Biologique
+summary: Subsurface experimental cloning and psychic-research installation
+  infiltrated during Game 9.
+tags:
+  - location
+  - session-9
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
-aliases: [Free Arden Research Facility, Domirina Research Facility]
-lastEditedBy: Codex
+keyLinks: []
+aliases:
+  - Free Arden Research Facility
+  - Domirina Research Facility
+lastEditedBy: AI via MCP
 ---
 
 # Institut de Continuité Biologique
