@@ -12,7 +12,7 @@ tags:
   - cloning
   - evidence
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - "[[Domirina]]"
@@ -25,7 +25,7 @@ aliases:
   - Game 9
   - Chapter 1 Game 9
   - The Doctor's Bargain
-lastEditedBy: AI via MCP
+lastEditedBy: GM review via MCP
 ---
 
 # Session 9 - The Doctor's Bargain
