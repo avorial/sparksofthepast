@@ -2,14 +2,30 @@
 category: game
 type: game
 name: Session 9 - The Doctor's Bargain
-summary: The crew leaves Transstar, bluffs naval help to rescue the Snowball, infiltrates the Free Arden cloning laboratory, and extracts Dr. Bellinger with evidence linking psychic agents to genetic manipulation.
-tags: [game, session-9, free-arden, cloning, evidence]
+summary: The crew leaves Transstar, bluffs naval help to rescue the Snowball,
+  infiltrates the Free Arden cloning laboratory, and extracts Dr. Bellinger with
+  evidence linking psychic agents to genetic manipulation.
+tags:
+  - game
+  - session-9
+  - free-arden
+  - cloning
+  - evidence
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
-aliases: [Game 9, Chapter 1 Game 9, The Doctor's Bargain]
-keyLinks: ["[[Domirina]]", "[[Free Arden Research Facility]]", "[[Dr. Annalis Bellinger]]", "[[GL15]]", "[[HMS Hank Aaron]]", "[[Snowball]]"]
-lastEditedBy: Codex
+keyLinks:
+  - "[[Domirina]]"
+  - "[[Free Arden Research Facility]]"
+  - "[[Dr. Annalis Bellinger]]"
+  - "[[GL15]]"
+  - "[[HMS Hank Aaron]]"
+  - "[[Snowball]]"
+aliases:
+  - Game 9
+  - Chapter 1 Game 9
+  - The Doctor's Bargain
+lastEditedBy: AI via MCP
 ---
 
 # Session 9 - The Doctor's Bargain
